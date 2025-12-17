@@ -1,43 +1,5 @@
 [
   {
-    "id": "live-event_seiya-tsutsumi-vs-nonito-donaire-live-stream",
-    "title": "Seiya Tsutsumi vs Nonito Donaire",
-    "sport": "fight",
-    "kickOff": "2025-12-17T07:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
-  },
-  {
-    "id": "18493",
-    "title": "Tszyu - Velazquez",
-    "sport": "fight",
-    "kickOff": "2025-12-17T08:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/golf/18493/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "snooker-scottish-open-billar",
     "title": "Snooker Scottish Open \ud83c\udfb1",
     "sport": "other",
@@ -233,6 +195,28 @@
     "links": []
   },
   {
+    "id": "perugia-vs-osaka-bluteon-1629472270",
+    "title": "FIVB Club World Championships: Perugia vs Osaka Bluteon",
+    "sport": "other",
+    "kickOff": "2025-12-17T16:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Perugia",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Osaka Bluteon",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/perugia-vs-osaka-bluteon-1629472270/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "live_copa-del-rey_r-racing-club-villarreal-live-streaming-483035616",
     "title": "Real Racing Club vs Villarreal",
     "sport": "football",
@@ -268,13 +252,7 @@
       "name": "Vilnius Rytas",
       "logo": ""
     },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/promitheas-vs-vilnius-rytas-1629472265/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
+    "links": []
   },
   {
     "id": "paris-sg-vs-flamengo-2395803",
@@ -291,6 +269,16 @@
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhgUsaHzAgQ3EBBB8QiEsZ0gYh-QQpM+KLmDKr680Q6a0wTsaIhA.webp"
     },
     "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-paris-saint-germain-vs-cr-flamengo/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-paris-saint-germain-vs-cr-flamengo/2",
+        "language": "English",
+        "hd": false
+      },
       {
         "url": "https://embedsports.top/embed/charlie/paris-saint-germain-vs-flamengo-1629472267/1",
         "language": "English",
@@ -385,35 +373,7 @@
       "name": "USC Heidelberg",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzQssSCAghuIACYhEOEvpAoQMEHx0EKTPii5gy8IvNGOmtMM7GiIQA.webp"
     },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/legia-warszawa-vs-mlp-academics-heidelberg-1629472266/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "perugia-vs-osaka-bluteon-1629472270",
-    "title": "FIVB Club World Championships: Perugia vs Osaka Bluteon",
-    "sport": "other",
-    "kickOff": "2025-12-17T17:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Perugia",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Osaka Bluteon",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/perugia-vs-osaka-bluteon-1629472270/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
+    "links": []
   },
   {
     "id": "panionios-bc-vs-ulm-2288381",
@@ -623,6 +583,11 @@
         "url": "https://embedsports.top/embed/echo/albacete-vs-celta-vigo-football-1490970/1",
         "language": "",
         "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/albacete-vs-celta-vigo-football-1490970/2",
+        "language": "",
+        "hd": true
       }
     ]
   },
@@ -644,6 +609,11 @@
       {
         "url": "https://embedsports.top/embed/charlie/huesca-vs-osasuna-1629472528/1",
         "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/huesca-vs-osasuna-football-1490972/1",
+        "language": "",
         "hd": true
       }
     ]
@@ -1142,34 +1112,18 @@
     ]
   },
   {
-    "id": "oh-leuven-w-vs-arsenal-w-football-1472420",
-    "title": "OH Leuven W vs Arsenal W",
+    "id": "twente-w-vs-real-madrid-w-football-1472421",
+    "title": "Twente W vs Real Madrid W",
     "sport": "football",
     "kickOff": "2025-12-17T20:00:00",
     "isLive": false,
     "team1": {
-      "name": "OH Leuven W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIAMYgUIGPXINlzcT3giq3Al1ZgwufFaA.webp"
+      "name": "Twente W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZShAp65BgGNm4nvBFVuBLqzBhc+S0A.webp"
     },
     "team2": {
-      "name": "Arsenal W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZdhAx65BgGNm4nvBFVuBLqzBhc+S0A.webp"
-    },
-    "links": []
-  },
-  {
-    "id": "roma-w-vs-st-polten-w-football-1472423",
-    "title": "Roma W vs St. P\u00f6lten W",
-    "sport": "football",
-    "kickOff": "2025-12-17T20:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Roma W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZShBM65BgGNm4nvBFVuBLqzBhc+S0A.webp"
-    },
-    "team2": {
-      "name": "St. P\u00f6lten W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGCCqqQAY3rkGWrOJ7wRVbgS6swYXPmtA.webp"
+      "name": "Real Madrid W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIbCCqqQEeuQYBjZuJ7wRVbgS6swYXPmtA.webp"
     },
     "links": []
   },
@@ -1190,92 +1144,81 @@
     "links": []
   },
   {
-    "id": "paris-fc-w-vs-barcelona-w-football-1472425",
-    "title": "Paris FC W vs Barcelona W",
+    "id": "roma-w-vs-st-polten-w-football-1472423",
+    "title": "Roma W vs St. P\u00f6lten W",
     "sport": "football",
     "kickOff": "2025-12-17T20:00:00",
     "isLive": false,
     "team1": {
-      "name": "Paris FC W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiADGy+uQarm4nvBFVuBLqzBhc+S0A.webp"
+      "name": "Roma W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZShBM65BgGNm4nvBFVuBLqzBhc+S0A.webp"
     },
     "team2": {
-      "name": "Barcelona W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIFIpDK65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+      "name": "St. P\u00f6lten W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGCCqqQAY3rkGWrOJ7wRVbgS6swYXPmtA.webp"
     },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/echo/paris-fc-w-vs-barcelona-w-football-1472425/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/paris-fc-w-vs-barcelona-w-football-1472425/2",
-        "language": "",
-        "hd": true
-      }
-    ]
+    "links": []
   },
   {
-    "id": "lyon-w-vs-atletico-madrid-w-football-1479462",
-    "title": "Lyon W vs Atletico Madrid W",
+    "id": "oh-leuven-w-vs-arsenal-w-football-1472420",
+    "title": "OH Leuven W vs Arsenal W",
+    "sport": "football",
+    "kickOff": "2025-12-17T20:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "OH Leuven W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIAMYgUIGPXINlzcT3giq3Al1ZgwufFaA.webp"
+    },
+    "team2": {
+      "name": "Arsenal W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZdhAx65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "lyon-w-vs-atletico-madrid-w-1479462",
+    "title": "UEFA Champions League Women: Lyon W vs Atletico Madrid W",
     "sport": "football",
     "kickOff": "2025-12-17T20:00:00",
     "isLive": false,
     "team1": {
       "name": "Lyon W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiADGICPXINVzcT3giq3Al1ZgwufFaA.webp"
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIeSEIgI-GMDxNaVMCwQ6uQ2jfJgHwFUIhA.webp"
     },
     "team2": {
       "name": "Atletico Madrid W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIFIpAx65BgGNm4nvBFVuBLqzBhc+S0A.webp"
-    },
-    "links": []
-  },
-  {
-    "id": "dundee-utd-vs-celtic-1382726",
-    "title": "Premiership: Dundee Utd vs Celtic",
-    "sport": "football",
-    "kickOff": "2025-12-17T20:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Dundee Utd",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIRCBDz+MYHia0qYFgh1chta+TD3gKoRCA.webp"
-    },
-    "team2": {
-      "name": "Celtic",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHEBBCF+MYHia0qYFgh1chta+TD3gKoRCA.webp"
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIbPRz8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/charlie/dundee-utd-vs-celtic-1382726/1",
+        "url": "https://embedsports.top/embed/charlie/lyon-w-vs-atletico-madrid-w-1479462/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/charlie/dundee-utd-vs-celtic-1382726/2",
+        "url": "https://embedsports.top/embed/charlie/lyon-w-vs-atletico-madrid-w-1479462/2",
         "language": "English",
         "hd": true
       }
     ]
   },
   {
-    "id": "bayern-munich-w-vs-valerenga-w-1472946",
-    "title": "UEFA Champions League Women: Bayern Munich W vs Valerenga W",
+    "id": "juventus-w-vs-manchester-united-w-1472419",
+    "title": "UEFA Champions League Women: Juventus W vs Manchester United W",
     "sport": "football",
     "kickOff": "2025-12-17T20:00:00",
     "isLive": false,
     "team1": {
-      "name": "Bayern Munich W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIY-Jz8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+      "name": "Juventus W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIY8fn8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
     },
     "team2": {
-      "name": "Valerenga W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIFsZCI2BGMDxNaVMCwQ6uQ2jfJgHwFUIhA.webp"
+      "name": "Manchester United W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQEECewh+MYHia0qYFgh1chta+TD3gKoRCA.webp"
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/charlie/bayern-munich-w-vs-valerenga-w-1472946/1",
+        "url": "https://embedsports.top/embed/charlie/juventus-w-vs-manchester-united-w-1472419/1",
         "language": "English",
         "hd": true
       }
@@ -1309,66 +1252,76 @@
     ]
   },
   {
-    "id": "juventus-w-vs-manchester-united-w-1472419",
-    "title": "UEFA Champions League Women: Juventus W vs Manchester United W",
+    "id": "dundee-utd-vs-celtic-1382726",
+    "title": "Premiership: Dundee Utd vs Celtic",
     "sport": "football",
     "kickOff": "2025-12-17T20:00:00",
     "isLive": false,
     "team1": {
-      "name": "Juventus W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIY8fn8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+      "name": "Dundee Utd",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIRCBDz+MYHia0qYFgh1chta+TD3gKoRCA.webp"
     },
     "team2": {
-      "name": "Manchester United W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQEECewh+MYHia0qYFgh1chta+TD3gKoRCA.webp"
+      "name": "Celtic",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHEBBCF+MYHia0qYFgh1chta+TD3gKoRCA.webp"
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/charlie/juventus-w-vs-manchester-united-w-1472419/1",
+        "url": "https://embedsports.top/embed/charlie/dundee-utd-vs-celtic-1382726/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/dundee-utd-vs-celtic-1382726/2",
         "language": "English",
         "hd": true
       }
     ]
   },
   {
-    "id": "roma-w-vs-st-polten-w-1472423",
-    "title": "UEFA Champions League Women: Roma W vs St. Polten W",
+    "id": "alaves-vs-sevilla-1629472531",
+    "title": "Copa del Rey: Alaves vs Sevilla",
     "sport": "football",
     "kickOff": "2025-12-17T20:00:00",
     "isLive": false,
     "team1": {
-      "name": "Roma W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIY9g78YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+      "name": "Alaves",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLEBBAd+MYHia0qYFgh1chta+TD3gKoRCA.webp"
     },
     "team2": {
-      "name": "St. Polten W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeOEBxMhC-GMDxNaVMCwQ6uQ2jfJgHwFUIhA.webp"
+      "name": "Sevilla",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLEInn8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/charlie/roma-w-vs-st-polten-w-1472423/1",
+        "url": "https://embedsports.top/embed/charlie/alaves-vs-sevilla-1629472531/1",
         "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/alaves-vs-sevilla-football-1490974/1",
+        "language": "",
         "hd": true
       }
     ]
   },
   {
-    "id": "twente-w-vs-real-madrid-w-1472421",
-    "title": "UEFA Champions League Women: Twente W vs Real Madrid W",
+    "id": "bayern-munich-w-vs-valerenga-w-1472946",
+    "title": "UEFA Champions League Women: Bayern Munich W vs Valerenga W",
     "sport": "football",
     "kickOff": "2025-12-17T20:00:00",
     "isLive": false,
     "team1": {
-      "name": "Twente W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIY9hT8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+      "name": "Bayern Munich W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIY-Jz8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
     },
     "team2": {
-      "name": "Real Madrid W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIFiA6mQEfjGB4mtKmBYIdXIbVvkwj4CqEQgA.webp"
+      "name": "Valerenga W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIFsZCI2BGMDxNaVMCwQ6uQ2jfJgHwFUIhA.webp"
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/charlie/twente-w-vs-real-madrid-w-1472421/1",
+        "url": "https://embedsports.top/embed/charlie/bayern-munich-w-vs-valerenga-w-1472946/1",
         "language": "English",
         "hd": true
       }
@@ -1407,27 +1360,32 @@
     ]
   },
   {
-    "id": "alaves-vs-sevilla-1629472531",
-    "title": "Copa del Rey: Alaves vs Sevilla",
+    "id": "paris-fc-w-vs-barcelona-w-1472425",
+    "title": "UEFA Champions League Women: Paris FC W vs Barcelona W",
     "sport": "football",
     "kickOff": "2025-12-17T20:00:00",
     "isLive": false,
     "team1": {
-      "name": "Alaves",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLEBBAd+MYHia0qYFgh1chta+TD3gKoRCA.webp"
+      "name": "Paris FC W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIeSELH+MYHia0qYFgh1chta+TD3gKoRCA.webp"
     },
     "team2": {
-      "name": "Sevilla",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLEInn8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+      "name": "Barcelona W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIbPRDGCMYHia0qYFgh1chta+TD3gKoRCA.webp"
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/charlie/alaves-vs-sevilla-1629472531/1",
+        "url": "https://embedsports.top/embed/charlie/paris-fc-w-vs-barcelona-w-1472425/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/echo/alaves-vs-sevilla-football-1490974/1",
+        "url": "https://embedsports.top/embed/echo/paris-fc-w-vs-barcelona-w-football-1472425/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/paris-fc-w-vs-barcelona-w-football-1472425/2",
         "language": "",
         "hd": true
       }
@@ -2558,6 +2516,22 @@
     ]
   },
   {
+    "id": "sv-spakenburg-vs-twente-2377423",
+    "title": "SV Spakenburg vs Twente",
+    "sport": "football",
+    "kickOff": "2025-12-18T17:45:00",
+    "isLive": false,
+    "team1": {
+      "name": "SV Spakenburg",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhygATMANp8QMENxDacEEKp0GQF-RMIxgTPii5gy8IvNGOmtMM7GiIQA.webp"
+    },
+    "team2": {
+      "name": "Twente",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizlV4VRBDcQWviEQkDukPpAGCFJnxRcwZeEXmjbTWmHtjREIA.webp"
+    },
+    "links": []
+  },
+  {
     "id": "ourense-cf-vs-athletic-club-1629472536",
     "title": "Copa del Rey: Ourense CF vs Athletic Club",
     "sport": "football",
@@ -2580,6 +2554,22 @@
     ]
   },
   {
+    "id": "ourense-cf-vs-athletic-bilbao-2392123",
+    "title": "Ourense CF vs Athletic Bilbao",
+    "sport": "football",
+    "kickOff": "2025-12-18T18:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Ourense CF",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAV8IXvLAaQfXDpggUICDpzLCMYEz4ouYMvCLzRdprVWipdIA.webp"
+    },
+    "team2": {
+      "name": "Athletic Bilbao",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATEOD4gBq0iG5qQiFCAggYG3PvMEKTPii5gy8IvNGOmtMM7GiIQA.webp"
+    },
+    "links": []
+  },
+  {
     "id": "burgos-vs-getafe-2392122",
     "title": "Burgos vs Getafe",
     "sport": "football",
@@ -2600,6 +2590,54 @@
         "hd": true
       }
     ]
+  },
+  {
+    "id": "kolner-vs-grizzly-wolfsburg-hockey-408969",
+    "title": "Kolner vs Grizzly Wolfsburg",
+    "sport": "hockey",
+    "kickOff": "2025-12-18T18:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Kolner",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsIEnXIMAxs2Bge8SVSmEGrMDra4IQA.webp"
+    },
+    "team2": {
+      "name": "Grizzly Wolfsburg",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIcXXIMAxs2Bge8SVSmEGrMDra4IQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "ehc-red-bull-m-nchen-vs-schwenninger-wild-wings-2325830",
+    "title": "EHC Red Bull M\u00fcnchen vs Schwenninger Wild Wings",
+    "sport": "hockey",
+    "kickOff": "2025-12-18T18:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "EHC Red Bull M\u00fcnchen",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAw6YFKtIhE3EABMdIPiAgGQJIyGsEKTPii5gy8IvNGOmtMM7GiIQA.webp"
+    },
+    "team2": {
+      "name": "Schwenninger Wild Wings",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTAAJiG4gY-OppAaIIPgZCITKUyAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "erc-ingolstadt-vs-eisb-ren-berlin-2325828",
+    "title": "ERC Ingolstadt vs Eisb\u00e4ren Berlin",
+    "sport": "hockey",
+    "kickOff": "2025-12-18T18:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "ERC Ingolstadt",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhRKMKpRqQ3EABMQiPiAgGdOExMIxgTPii6by9eervNgYTWNEQgA.webp"
+    },
+    "team2": {
+      "name": "Eisb\u00e4ren Berlin",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphjswAgaxAhuIACYhEfEBH0gSuEzoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+    },
+    "links": []
   },
   {
     "id": "santa-clara-vs-sporting-cp-2386701",
@@ -2631,11 +2669,11 @@
     "isLive": false,
     "team1": {
       "name": "Napoli",
-      "logo": ""
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIFCCZ1yDAMbNxPeCKrcCXVmDC58FoA.webp"
     },
     "team2": {
       "name": "AC Milan",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQEECZT8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIZSnrkGAY2bie8EVW4EurMGFz5zQA.webp"
     },
     "links": [
       {
@@ -2644,6 +2682,118 @@
         "hd": true
       }
     ]
+  },
+  {
+    "id": "fc-volendam-vs-genemuiden-2377414",
+    "title": "FC Volendam vs Genemuiden",
+    "sport": "football",
+    "kickOff": "2025-12-18T19:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "FC Volendam",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnn0qolMxDcQAE1wgS2vSD4gUICCBgEKTPprZgy8IvI3AmtMM7GiIQA.webp"
+    },
+    "team2": {
+      "name": "Genemuiden",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC9CAEwZgk2VSHUgUIGCEQlTFnHwIUm1rmDLwi80SmBNaYR2NEQgA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "sportlust--46-vs-de-treffers-2377424",
+    "title": "Sportlust '46 vs De Treffers",
+    "sport": "football",
+    "kickOff": "2025-12-18T19:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Sportlust '46",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3lJsIbmAAmYFBpBaQRvThxHuIRBAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+    },
+    "team2": {
+      "name": "De Treffers",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3nBsdMHxAwQ3EFp16UuEABN923AQpM+KLmDLwi80faa0wjsaIhA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "hsc--21-vs-rkc-waalwijk-2377418",
+    "title": "HSC '21 vs RKC Waalwijk",
+    "sport": "football",
+    "kickOff": "2025-12-18T19:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "HSC '21",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0BobmF45uIACa59IRCFWGIIPgQpMrXMGXhF5olMCa0wDsaIhA.webp"
+    },
+    "team2": {
+      "name": "RKC Waalwijk",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDdVYACYgSIeojVadKEDBDGtIXZYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "maccabi-tel-aviv-bc-vs-valencia-basket-2345308",
+    "title": "Maccabi Tel Aviv BC vs Valencia Basket",
+    "sport": "basketball",
+    "kickOff": "2025-12-18T19:05:00",
+    "isLive": false,
+    "team1": {
+      "name": "Maccabi Tel Aviv BC",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxSUQMEL24gUmkCVx7tEEKb76QAEwIUmfVWzBl4ReaNVNaYJ2NEQgA.webp"
+    },
+    "team2": {
+      "name": "Valencia Basket",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAow3MCma4QibiBK6QAEyMoQFi6dWEYwJny1swZeEXmitTWmBdjREEA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "panathinaikos-bc-vs-hapoel-tel-aviv-bc-2345309",
+    "title": "Panathinaikos BC vs Hapoel Tel Aviv BC",
+    "sport": "basketball",
+    "kickOff": "2025-12-18T19:15:00",
+    "isLive": false,
+    "team1": {
+      "name": "Panathinaikos BC",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQh4YFOwr4Q3EHzUhVAExAkjhxMYLb+mtmDLr680Zqa0wjsaIhA.webp"
+    },
+    "team2": {
+      "name": "Hapoel Tel Aviv BC",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACwYAdxBwSILbpyGQuviAAmIRPAIUmfFFzBl4ReaIdNa60VLpA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "olimpia-milano-vs-fenerbahce-basketball-454440",
+    "title": "Olimpia Milano vs Fenerbahce",
+    "sport": "basketball",
+    "kickOff": "2025-12-18T19:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Olimpia Milano",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IAMYgqa+uQbLmknvDFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "Fenerbahce",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiCogAxiBj1yDdc0k94YqtwJdWYMLnw2gA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "real-madrid-baloncesto-vs-paris-basketball-2345311",
+    "title": "Real Madrid Baloncesto vs Paris Basketball",
+    "sport": "basketball",
+    "kickOff": "2025-12-18T19:45:00",
+    "isLive": false,
+    "team1": {
+      "name": "Real Madrid Baloncesto",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4gpYACa5mIbiBK5De1QZQgYuAhSZ8UXMGXhF5ou01pgHY0RCA.webp"
+    },
+    "team2": {
+      "name": "Paris Basketball",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAow3EDDogAJmBAgNfXLtMGNEEMZ0EKTPii5gy8IvNGOmtMM7GiIQA.webp"
+    },
+    "links": []
   },
   {
     "id": "strasbourg-vs-breidablik-1451448",
@@ -2662,72 +2812,6 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/strasbourg-vs-breidablik-1451448/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "legia-warszawa-vs-lincoln-red-imps-fc-1451449",
-    "title": "UEFA Europa Conference League: Legia Warszawa vs Lincoln Red Imps FC",
-    "sport": "football",
-    "kickOff": "2025-12-18T20:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Legia Warszawa",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQiRCn4xgeJrSpgWCHVyG1L5MLeAqhEIA.webp"
-    },
-    "team2": {
-      "name": "Lincoln Red Imps FC",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQ8oyEL8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/legia-warszawa-vs-lincoln-red-imps-fc-1451449/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "aek-larnaca-vs-shkendija-1451452",
-    "title": "UEFA Europa Conference League: AEK Larnaca vs Shkendija",
-    "sport": "football",
-    "kickOff": "2025-12-18T20:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "AEK Larnaca",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQ83iAj8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
-    },
-    "team2": {
-      "name": "Shkendija",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQ8nCBT8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/aek-larnaca-vs-shkendija-1451452/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "sparta-praha-vs-aberdeen-1451451",
-    "title": "UEFA Europa Conference League: Sparta Praha vs Aberdeen",
-    "sport": "football",
-    "kickOff": "2025-12-18T20:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Sparta Praha",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQ8kBxAh+MYHia0qYFgh1chta+TD3gKoRCA.webp"
-    },
-    "team2": {
-      "name": "Aberdeen",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHECyP8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/sparta-praha-vs-aberdeen-1451451/1",
         "language": "English",
         "hd": true
       }
@@ -2756,29 +2840,68 @@
     ]
   },
   {
-    "id": "ppv-s-bratislava-vs-h-cken",
-    "title": "S. Bratislava vs. H\u00e4cken",
+    "id": "legia-warszawa-vs-lincoln-red-imps-fc-1451449",
+    "title": "UEFA Europa Conference League: Legia Warszawa vs Lincoln Red Imps FC",
     "sport": "football",
     "kickOff": "2025-12-18T20:00:00",
     "isLive": false,
     "team1": {
-      "name": "S. Bratislava",
-      "logo": ""
+      "name": "Legia Warszawa",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQiRCn4xgeJrSpgWCHVyG1L5MLeAqhEIA.webp"
     },
     "team2": {
-      "name": "H\u00e4cken",
-      "logo": ""
+      "name": "Lincoln Red Imps FC",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQ8oyEL8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-s-bratislava-vs-h-cken/1",
+        "url": "https://embedsports.top/embed/charlie/legia-warszawa-vs-lincoln-red-imps-fc-1451449/1",
         "language": "English",
         "hd": true
-      },
+      }
+    ]
+  },
+  {
+    "id": "sparta-praha-vs-aberdeen-1451451",
+    "title": "UEFA Europa Conference League: Sparta Praha vs Aberdeen",
+    "sport": "football",
+    "kickOff": "2025-12-18T20:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Sparta Praha",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQ8kBxAh+MYHia0qYFgh1chta+TD3gKoRCA.webp"
+    },
+    "team2": {
+      "name": "Aberdeen",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHECyP8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-s-bratislava-vs-h-cken/2",
+        "url": "https://embedsports.top/embed/charlie/sparta-praha-vs-aberdeen-1451451/1",
         "language": "English",
-        "hd": false
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "aek-larnaca-vs-shkendija-1451452",
+    "title": "UEFA Europa Conference League: AEK Larnaca vs Shkendija",
+    "sport": "football",
+    "kickOff": "2025-12-18T20:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "AEK Larnaca",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQ83iAj8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "team2": {
+      "name": "Shkendija",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQ8nCBT8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/aek-larnaca-vs-shkendija-1451452/1",
+        "language": "English",
+        "hd": true
       }
     ]
   },
@@ -2804,6 +2927,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-omonoia-vs-rak-w/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-s-bratislava-vs-h-cken",
+    "title": "S. Bratislava vs. H\u00e4cken",
+    "sport": "football",
+    "kickOff": "2025-12-18T20:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "S. Bratislava",
+      "logo": ""
+    },
+    "team2": {
+      "name": "H\u00e4cken",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-s-bratislava-vs-h-cken/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-s-bratislava-vs-h-cken/2",
         "language": "English",
         "hd": false
       }
@@ -2845,6 +2995,22 @@
         "hd": true
       }
     ]
+  },
+  {
+    "id": "willem-ii-vs-sparta-rotterdam-2377425",
+    "title": "Willem II vs Sparta Rotterdam",
+    "sport": "football",
+    "kickOff": "2025-12-18T20:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Willem II",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjK0QwMMCaJuIACb7DumCD4gIh5YRhb+KLmFVF5o+9o2OxoiEA.webp"
+    },
+    "team2": {
+      "name": "Sparta Rotterdam",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIxgYMGQAmIRNxAkQRnYh05zICAQpM+KLpvL15o+01obRUukA.webp"
+    },
+    "links": []
   },
   {
     "id": "real-murcia-vs-real-betis-2392125",
@@ -2958,6 +3124,22 @@
         "hd": true
       }
     ]
+  },
+  {
+    "id": "omonia-nicosia-vs-rak-w-cz-stochowa-2328250",
+    "title": "Omonia Nicosia vs Rak\u00f3w Cz\u0119stochowa",
+    "sport": "football",
+    "kickOff": "2025-12-18T20:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Omonia Nicosia",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTMwfBMAAmIbrpA6QIRIdwg+R4wQpM+qtmDLwi80aqa0wjsaIhA.webp"
+    },
+    "team2": {
+      "name": "Rak\u00f3w Cz\u0119stochowa",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYFCHAwF3ELpIg+IDRBAHNBjccLamfFFzBl4ReaIdNaYJ2NEQgA.webp"
+    },
+    "links": []
   },
   {
     "id": "legia-warsaw-vs-lincoln-red-imps-2328245",
@@ -3719,18 +3901,18 @@
     ]
   },
   {
-    "id": "18425",
-    "title": "San Antonio Spurs - Washington Wizards",
+    "id": "san-antonio-spurs-vs-washington-wizards-basketball-469837",
+    "title": "San Antonio Spurs vs Washington Wizards",
     "sport": "basketball",
     "kickOff": "2025-12-19T01:00:00",
     "isLive": false,
     "team1": {
-      "name": "Home Team",
-      "logo": ""
+      "name": "San Antonio Spurs",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiGwgQ9cgwDGzST3hiq3Al1ZgwufFaA.webp"
     },
     "team2": {
-      "name": "Away Team",
-      "logo": ""
+      "name": "Washington Wizards",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAAmy+uQYBjZpJ7wxVbgS6swYXPitA.webp"
     },
     "links": [
       {
@@ -3741,18 +3923,18 @@
     ]
   },
   {
-    "id": "18424",
-    "title": "Oklahoma City Thunder - LA Clippers",
+    "id": "oklahoma-city-thunder-vs-los-angeles-clippers-basketball-469838",
+    "title": "Oklahoma City Thunder vs Los Angeles Clippers",
     "sport": "basketball",
     "kickOff": "2025-12-19T01:00:00",
     "isLive": false,
     "team1": {
-      "name": "Home Team",
-      "logo": ""
+      "name": "Oklahoma City Thunder",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiGwgmdcgwDGzST3hiq3Al1ZgwufFaA.webp"
     },
     "team2": {
-      "name": "Away Team",
-      "logo": ""
+      "name": "Los Angeles Clippers",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAir65BgGNmknvDFVuBLqzBhc+S0A.webp"
     },
     "links": [
       {
@@ -3867,6 +4049,16 @@
         "url": "https://embedsports.top/embed/admin/ppv-tna-impact/2",
         "language": "English",
         "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/tna-impact-tna-1/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/tna-impact-tna-1/2",
+        "language": "",
+        "hd": true
       }
     ]
   },
@@ -3935,18 +4127,18 @@
     ]
   },
   {
-    "id": "18381",
-    "title": "Arkansas State Red Wolves - Missouri State Bears",
+    "id": "arkansas-state-vs-missouri-state-american-football-21422",
+    "title": "Arkansas State vs Missouri State",
     "sport": "american-football",
     "kickOff": "2025-12-19T02:00:00",
     "isLive": false,
     "team1": {
-      "name": "Home Team",
-      "logo": ""
+      "name": "Arkansas State",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1itu1Ai34csAEwoVIjfmGBh0M3ESwJ0IIiG0R65BgGNmCnvBlVuwhqzBhc+e0A.webp"
     },
     "team2": {
-      "name": "Away Team",
-      "logo": ""
+      "name": "Missouri State",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1itu1Ai34csAEwoVIjfmGBh0M3ESwJ0IKiEQp65BgGNmCnvBlVuwhqzBhc+e0A.webp"
     },
     "links": [
       {
@@ -4207,6 +4399,22 @@
     ]
   },
   {
+    "id": "western-sydney-wanderers-vs-auckland-football-1469605",
+    "title": "Western Sydney Wanderers vs Auckland",
+    "sport": "football",
+    "kickOff": "2025-12-19T09:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Western Sydney Wanderers",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIRCnrkGAY2bie8EVW4EurMGFz5zQA.webp"
+    },
+    "team2": {
+      "name": "Auckland",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqICCH4gYIEPXIMAxs3E94IqtwJdWYMLnw2gA.webp"
+    },
+    "links": []
+  },
+  {
     "id": "day-3-match-1-1629472539",
     "title": "Next Gen ATP Finals: Day 3 Match 1",
     "sport": "tennis",
@@ -4339,6 +4547,38 @@
     ]
   },
   {
+    "id": "damac-vs-al-ahli-jeddah-football-1435997",
+    "title": "Damac vs Al-Ahli Jeddah",
+    "sport": "football",
+    "kickOff": "2025-12-19T13:45:00",
+    "isLive": false,
+    "team1": {
+      "name": "Damac",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCGwh+9cgwDGzcT3giq3Al1ZgwufFaA.webp"
+    },
+    "team2": {
+      "name": "Al-Ahli Jeddah",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFIuX1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "al-qadisiyah-fc-vs-al-ettifaq-football-1435999",
+    "title": "Al-Qadisiyah FC vs Al-Ettifaq",
+    "sport": "football",
+    "kickOff": "2025-12-19T14:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Al-Qadisiyah FC",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCETx65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "Al-Ettifaq",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCEQR65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
     "id": "warriorz-vs-capitals-1629472346",
     "title": "IL T20: Warriorz vs Capitals",
     "sport": "cricket",
@@ -4361,18 +4601,18 @@
     ]
   },
   {
-    "id": "18382",
-    "title": "Western Michigan Broncos - Kennesaw State Owls",
+    "id": "western-michigan-vs-kennesaw-state-american-football-21423",
+    "title": "Western Michigan vs Kennesaw State",
     "sport": "american-football",
     "kickOff": "2025-12-19T16:00:00",
     "isLive": false,
     "team1": {
-      "name": "Home Team",
-      "logo": ""
+      "name": "Western Michigan",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1itu1Ai34csAEwoVIjfmGBh0M3ESwJ0IFCHj1yDAMbMFPeDKrdhDVmDC58doA.webp"
     },
     "team2": {
-      "name": "Away Team",
-      "logo": ""
+      "name": "Kennesaw State",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1itu1Ai34csAEwoVIjfmGBh0M3ESwJ0IKiCIgAxvXIN9AsD3gyq3YQ1ZhTbXBCA.webp"
     },
     "links": [
       {
@@ -5313,33 +5553,6 @@
     ]
   },
   {
-    "id": "ppv-fc-augsburg-vs-werder-bremen",
-    "title": "FC Augsburg vs. Werder Bremen",
-    "sport": "football",
-    "kickOff": "2025-12-20T14:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "FC Augsburg",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Werder Bremen",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-fc-augsburg-vs-werder-bremen/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-fc-augsburg-vs-werder-bremen/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-hamburg-sv-vs-eintracht-frankfurt",
     "title": "Hamburg SV vs. Eintracht Frankfurt",
     "sport": "football",
@@ -5367,27 +5580,27 @@
     ]
   },
   {
-    "id": "ppv-vf-l-wolfsburg-vs-sc-freiburg",
-    "title": "VfL Wolfsburg vs. SC Freiburg",
+    "id": "ppv-fc-cologne-vs-1-fc-union-berlin",
+    "title": "FC Cologne vs. 1. FC Union Berlin",
     "sport": "football",
     "kickOff": "2025-12-20T14:30:00",
     "isLive": false,
     "team1": {
-      "name": "VfL Wolfsburg",
+      "name": "FC Cologne",
       "logo": ""
     },
     "team2": {
-      "name": "SC Freiburg",
+      "name": "1. FC Union Berlin",
       "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-vf-l-wolfsburg-vs-sc-freiburg/1",
+        "url": "https://embedsports.top/embed/admin/ppv-fc-cologne-vs-1-fc-union-berlin/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-vf-l-wolfsburg-vs-sc-freiburg/2",
+        "url": "https://embedsports.top/embed/admin/ppv-fc-cologne-vs-1-fc-union-berlin/2",
         "language": "English",
         "hd": false
       }
@@ -5421,27 +5634,54 @@
     ]
   },
   {
-    "id": "ppv-fc-cologne-vs-1-fc-union-berlin",
-    "title": "FC Cologne vs. 1. FC Union Berlin",
+    "id": "ppv-vf-l-wolfsburg-vs-sc-freiburg",
+    "title": "VfL Wolfsburg vs. SC Freiburg",
     "sport": "football",
     "kickOff": "2025-12-20T14:30:00",
     "isLive": false,
     "team1": {
-      "name": "FC Cologne",
+      "name": "VfL Wolfsburg",
       "logo": ""
     },
     "team2": {
-      "name": "1. FC Union Berlin",
+      "name": "SC Freiburg",
       "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-fc-cologne-vs-1-fc-union-berlin/1",
+        "url": "https://embedsports.top/embed/admin/ppv-vf-l-wolfsburg-vs-sc-freiburg/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-fc-cologne-vs-1-fc-union-berlin/2",
+        "url": "https://embedsports.top/embed/admin/ppv-vf-l-wolfsburg-vs-sc-freiburg/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-fc-augsburg-vs-werder-bremen",
+    "title": "FC Augsburg vs. Werder Bremen",
+    "sport": "football",
+    "kickOff": "2025-12-20T14:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "FC Augsburg",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Werder Bremen",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-fc-augsburg-vs-werder-bremen/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-fc-augsburg-vs-werder-bremen/2",
         "language": "English",
         "hd": false
       }
@@ -5530,6 +5770,38 @@
     ]
   },
   {
+    "id": "ppv-brighton-hove-albion-vs-sunderland",
+    "title": "Brighton & Hove Albion vs. Sunderland",
+    "sport": "football",
+    "kickOff": "2025-12-20T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Brighton & Hove Albion",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Sunderland",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-brighton-hove-albion-vs-sunderland/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-brighton-hove-albion-vs-sunderland/2",
+        "language": "English",
+        "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/golf/18485/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "ppv-wolverhampton-wanderers-vs-brentford",
     "title": "Wolverhampton Wanderers vs. Brentford",
     "sport": "football",
@@ -5562,34 +5834,29 @@
     ]
   },
   {
-    "id": "ppv-brighton-hove-albion-vs-sunderland",
-    "title": "Brighton & Hove Albion vs. Sunderland",
+    "id": "ppv-goal-rush",
+    "title": "Goal Rush",
     "sport": "football",
     "kickOff": "2025-12-20T15:00:00",
     "isLive": false,
     "team1": {
-      "name": "Brighton & Hove Albion",
+      "name": "Home Team",
       "logo": ""
     },
     "team2": {
-      "name": "Sunderland",
+      "name": "Away Team",
       "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-brighton-hove-albion-vs-sunderland/1",
+        "url": "https://embedsports.top/embed/admin/ppv-goal-rush/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-brighton-hove-albion-vs-sunderland/2",
+        "url": "https://embedsports.top/embed/admin/ppv-goal-rush/2",
         "language": "English",
         "hd": false
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/18485/1",
-        "language": "English",
-        "hd": true
       }
     ]
   },
@@ -5658,33 +5925,6 @@
     ]
   },
   {
-    "id": "ppv-goal-rush",
-    "title": "Goal Rush",
-    "sport": "football",
-    "kickOff": "2025-12-20T15:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-goal-rush/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-goal-rush/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-levante-vs-real-sociedad",
     "title": "Levante vs. Real Sociedad",
     "sport": "football",
@@ -5708,6 +5948,28 @@
         "url": "https://embedsports.top/embed/admin/ppv-levante-vs-real-sociedad/2",
         "language": "English",
         "hd": false
+      }
+    ]
+  },
+  {
+    "id": "day-4-match-1-1629472543",
+    "title": "Next Gen ATP Finals: Day 4 Match 1",
+    "sport": "tennis",
+    "kickOff": "2025-12-20T16:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/day-4-match-1-1629472543/1",
+        "language": "English",
+        "hd": true
       }
     ]
   },
@@ -5842,6 +6104,33 @@
     ]
   },
   {
+    "id": "ppv-osasuna-vs-alav-s",
+    "title": "Osasuna vs. Alav\u00e9s",
+    "sport": "football",
+    "kickOff": "2025-12-20T17:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Osasuna",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Alav\u00e9s",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-osasuna-vs-alav-s/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-osasuna-vs-alav-s/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
     "id": "ppv-tottenham-hotspur-vs-liverpool",
     "title": "Tottenham Hotspur vs. Liverpool",
     "sport": "football",
@@ -5895,33 +6184,6 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-rb-leipzig-vs-bayer-leverkusen/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-osasuna-vs-alav-s",
-    "title": "Osasuna vs. Alav\u00e9s",
-    "sport": "football",
-    "kickOff": "2025-12-20T17:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Osasuna",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Alav\u00e9s",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-osasuna-vs-alav-s/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-osasuna-vs-alav-s/2",
         "language": "English",
         "hd": false
       }
@@ -6042,6 +6304,38 @@
     ]
   },
   {
+    "id": "ppv-everton-vs-arsenal",
+    "title": "Everton vs. Arsenal",
+    "sport": "football",
+    "kickOff": "2025-12-20T20:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Everton",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Arsenal",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-everton-vs-arsenal/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-everton-vs-arsenal/2",
+        "language": "English",
+        "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/golf/18489/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "ppv-leeds-united-vs-crystal-palace",
     "title": "Leeds United vs. Crystal Palace",
     "sport": "football",
@@ -6097,38 +6391,6 @@
         "url": "https://embedsports.top/embed/admin/ppv-real-madrid-vs-sevilla/2",
         "language": "English",
         "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-everton-vs-arsenal",
-    "title": "Everton vs. Arsenal",
-    "sport": "football",
-    "kickOff": "2025-12-20T20:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Everton",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Arsenal",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-everton-vs-arsenal/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-everton-vs-arsenal/2",
-        "language": "English",
-        "hd": false
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/18489/1",
-        "language": "English",
-        "hd": true
       }
     ]
   },
@@ -6956,6 +7218,70 @@
     ]
   },
   {
+    "id": "ppv-tampa-bay-buccaneers-vs-carolina-panthers",
+    "title": "Tampa Bay Buccaneers vs. Carolina Panthers",
+    "sport": "american-football",
+    "kickOff": "2025-12-21T18:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Tampa Bay Buccaneers",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Carolina Panthers",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-tampa-bay-buccaneers-vs-carolina-panthers/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-tampa-bay-buccaneers-vs-carolina-panthers/2",
+        "language": "English",
+        "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/golf/18475/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "ppv-cincinnati-bengals-vs-miami-dolphins",
+    "title": "Cincinnati Bengals vs. Miami Dolphins",
+    "sport": "american-football",
+    "kickOff": "2025-12-21T18:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Cincinnati Bengals",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Miami Dolphins",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-cincinnati-bengals-vs-miami-dolphins/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-cincinnati-bengals-vs-miami-dolphins/2",
+        "language": "English",
+        "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/golf/18472/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "ppv-minnesota-vikings-vs-new-york-giants",
     "title": "Minnesota Vikings vs. New York Giants",
     "sport": "american-football",
@@ -6982,6 +7308,38 @@
       },
       {
         "url": "https://embedsports.top/embed/golf/18474/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "ppv-new-york-jets-vs-new-orleans-saints",
+    "title": "New York Jets vs. New Orleans Saints",
+    "sport": "american-football",
+    "kickOff": "2025-12-21T18:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "New York Jets",
+      "logo": ""
+    },
+    "team2": {
+      "name": "New Orleans Saints",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-new-york-jets-vs-new-orleans-saints/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-new-york-jets-vs-new-orleans-saints/2",
+        "language": "English",
+        "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/golf/18473/1",
         "language": "English",
         "hd": true
       }
@@ -7084,102 +7442,6 @@
     ]
   },
   {
-    "id": "ppv-cincinnati-bengals-vs-miami-dolphins",
-    "title": "Cincinnati Bengals vs. Miami Dolphins",
-    "sport": "american-football",
-    "kickOff": "2025-12-21T18:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Cincinnati Bengals",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Miami Dolphins",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-cincinnati-bengals-vs-miami-dolphins/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-cincinnati-bengals-vs-miami-dolphins/2",
-        "language": "English",
-        "hd": false
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/18472/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "ppv-new-york-jets-vs-new-orleans-saints",
-    "title": "New York Jets vs. New Orleans Saints",
-    "sport": "american-football",
-    "kickOff": "2025-12-21T18:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "New York Jets",
-      "logo": ""
-    },
-    "team2": {
-      "name": "New Orleans Saints",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-new-york-jets-vs-new-orleans-saints/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-new-york-jets-vs-new-orleans-saints/2",
-        "language": "English",
-        "hd": false
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/18473/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "ppv-tampa-bay-buccaneers-vs-carolina-panthers",
-    "title": "Tampa Bay Buccaneers vs. Carolina Panthers",
-    "sport": "american-football",
-    "kickOff": "2025-12-21T18:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Tampa Bay Buccaneers",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Carolina Panthers",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-tampa-bay-buccaneers-vs-carolina-panthers/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-tampa-bay-buccaneers-vs-carolina-panthers/2",
-        "language": "English",
-        "hd": false
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/18475/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "ppv-genoa-vs-atalanta",
     "title": "Genoa vs. Atalanta",
     "sport": "football",
@@ -7234,38 +7496,6 @@
     ]
   },
   {
-    "id": "ppv-atlanta-falcons-vs-arizona-cardinals",
-    "title": "Atlanta Falcons vs. Arizona Cardinals",
-    "sport": "american-football",
-    "kickOff": "2025-12-21T21:05:00",
-    "isLive": false,
-    "team1": {
-      "name": "Atlanta Falcons",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Arizona Cardinals",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-atlanta-falcons-vs-arizona-cardinals/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-atlanta-falcons-vs-arizona-cardinals/2",
-        "language": "English",
-        "hd": false
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/18477/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "ppv-jacksonville-jaguars-vs-denver-broncos",
     "title": "Jacksonville Jaguars vs. Denver Broncos",
     "sport": "american-football",
@@ -7292,6 +7522,38 @@
       },
       {
         "url": "https://embedsports.top/embed/golf/18476/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "ppv-atlanta-falcons-vs-arizona-cardinals",
+    "title": "Atlanta Falcons vs. Arizona Cardinals",
+    "sport": "american-football",
+    "kickOff": "2025-12-21T21:05:00",
+    "isLive": false,
+    "team1": {
+      "name": "Atlanta Falcons",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Arizona Cardinals",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-atlanta-falcons-vs-arizona-cardinals/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-atlanta-falcons-vs-arizona-cardinals/2",
+        "language": "English",
+        "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/golf/18477/1",
         "language": "English",
         "hd": true
       }
@@ -7571,6 +7833,22 @@
         "hd": true
       }
     ]
+  },
+  {
+    "id": "live-event_naoya-inoue-vs-david-picasso-live-stream",
+    "title": "Naoya Inoue vs David Picasso",
+    "sport": "fight",
+    "kickOff": "2025-12-27T16:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": []
   },
   {
     "id": "ppv-ufc-324-gaethje-vs-pimblett",
