@@ -16,22 +16,6 @@
     "links": []
   },
   {
-    "id": "perth-heat-vs-brisbane-bandits-2395131",
-    "title": "Perth Heat vs Brisbane Bandits",
-    "sport": "baseball",
-    "kickOff": "2025-12-19T11:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Perth Heat",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj6wwSbG0ghuIACYhEffSFMlDOkHwIUm1rmDLwi80SmBNaYR2NEQgA.webp"
-    },
-    "team2": {
-      "name": "Brisbane Bandits",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphIgAJiBDsQMEBBDd1IRHyObVOFCGWEYwJnxRcwZeEXminTWmBdjREEA.webp"
-    },
-    "links": []
-  },
-  {
     "id": "snooker-scottish-open-billar",
     "title": "Snooker Scottish Open \ud83c\udfb1",
     "sport": "other",
@@ -256,11 +240,6 @@
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/charlie/day-3-match-3-1629472541/1",
-        "language": "English",
-        "hd": true
-      },
-      {
         "url": "https://embedsports.top/embed/echo/atp-next-gen-finals-tn-1/1",
         "language": "",
         "hd": true
@@ -283,6 +262,28 @@
     ]
   },
   {
+    "id": "sacred-heart-vs-dartmouth-2375838",
+    "title": "Sacred Heart vs Dartmouth",
+    "sport": "basketball",
+    "kickOff": "2025-12-19T16:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Sacred Heart",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAo2YJA2IAGENxAATEBGMgzJVZYuMKTPmvVl4ReaLVNaYMKKl0gA.webp"
+    },
+    "team2": {
+      "name": "Dartmouth",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYFJRC8VIElt0hD3EDsN8Q5nIwpM+GtmDLwi80Rqa0wjsaIhA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/delta/live_ncaa_sacred-heart-dartmouth-live-streaming-459597456/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "western-michigan-vs-kennesaw-state-2392366",
     "title": "Western Michigan vs Kennesaw State",
     "sport": "american-football",
@@ -298,6 +299,11 @@
     },
     "links": [
       {
+        "url": "https://embedsports.top/embed/delta/live_cfb_western-michigan-kennesaw-st-live-streaming-481378896/1",
+        "language": "English",
+        "hd": true
+      },
+      {
         "url": "https://embedsports.top/embed/echo/western-michigan-vs-kennesaw-state-american-football-21423/1",
         "language": "",
         "hd": true
@@ -309,6 +315,28 @@
       },
       {
         "url": "https://embedsports.top/embed/golf/18382/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "live_ncaa_samford-reinhardt-eagles-live-streaming-459600912",
+    "title": "Samford Bulldogs vs Reinhardt Eagles",
+    "sport": "basketball",
+    "kickOff": "2025-12-19T17:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/delta/live_ncaa_samford-reinhardt-eagles-live-streaming-459600912/1",
         "language": "English",
         "hd": true
       }
@@ -787,6 +815,11 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/bologna-vs-inter-1629472351/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/delta/live_super-cup_bologna-inter-live-streaming-440269344/1",
         "language": "English",
         "hd": true
       },
@@ -1580,8 +1613,8 @@
     "links": []
   },
   {
-    "id": "ppv-australia-vs-england-tnt-broadcast",
-    "title": "Australia vs. England (TNT Broadcast)",
+    "id": "ppv-australia-vs-england",
+    "title": "Australia vs. England",
     "sport": "cricket",
     "kickOff": "2025-12-19T23:30:00",
     "isLive": false,
@@ -1595,12 +1628,12 @@
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-australia-vs-england-tnt-broadcast/1",
+        "url": "https://embedsports.top/embed/admin/ppv-australia-vs-england/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-australia-vs-england-tnt-broadcast/2",
+        "url": "https://embedsports.top/embed/admin/ppv-australia-vs-england/2",
         "language": "English",
         "hd": false
       },
@@ -3318,6 +3351,28 @@
     ]
   },
   {
+    "id": "qpr-vs-leicester-1386811",
+    "title": "Championship: QPR vs Leicester",
+    "sport": "football",
+    "kickOff": "2025-12-20T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "QPR",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQhEB34xgeJrSpgWCHVyG1L5MLeAqhEIA.webp"
+    },
+    "team2": {
+      "name": "Leicester",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQEEPP4xgeJrSpgWCHVyG1L5MLeAqhEIA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/qpr-vs-leicester-1386811/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "wolves-vs-brentford-1379138",
     "title": "Premier League: Wolves vs Brentford",
     "sport": "football",
@@ -3339,28 +3394,6 @@
       },
       {
         "url": "https://embedsports.top/embed/charlie/wolves-vs-brentford-1379138/2",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "qpr-vs-leicester-1386811",
-    "title": "Championship: QPR vs Leicester",
-    "sport": "football",
-    "kickOff": "2025-12-20T15:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "QPR",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQhEB34xgeJrSpgWCHVyG1L5MLeAqhEIA.webp"
-    },
-    "team2": {
-      "name": "Leicester",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQEEPP4xgeJrSpgWCHVyG1L5MLeAqhEIA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/qpr-vs-leicester-1386811/1",
         "language": "English",
         "hd": true
       }
@@ -5268,6 +5301,28 @@
     ]
   },
   {
+    "id": "curry-vs-scott-2-1629472455",
+    "title": "Salita Promotions: Curry vs. Scott 2",
+    "sport": "fight",
+    "kickOff": "2025-12-21T01:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/curry-vs-scott-2-1629472455/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "washington-wizards-vs-memphis-grizzlies-1629472454",
     "title": "NBA: Washington Wizards vs Memphis Grizzlies",
     "sport": "basketball",
@@ -5289,28 +5344,6 @@
       },
       {
         "url": "https://embedsports.top/embed/golf/18463/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "curry-vs-scott-2-1629472455",
-    "title": "Salita Promotions: Curry vs. Scott 2",
-    "sport": "fight",
-    "kickOff": "2025-12-21T01:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/curry-vs-scott-2-1629472455/1",
         "language": "English",
         "hd": true
       }
@@ -5834,7 +5867,7 @@
   {
     "id": "newcastle-falcons-vs-bath-rugby-1629472474",
     "title": "PREM Rugby: Newcastle Falcons vs Bath Rugby",
-    "sport": "american-football",
+    "sport": "rugby",
     "kickOff": "2025-12-21T15:00:00",
     "isLive": false,
     "team1": {
@@ -5903,6 +5936,33 @@
     ]
   },
   {
+    "id": "ppv-1-fc-heidenheim-1846-vs-bayern-munich",
+    "title": "1. FC Heidenheim 1846 vs. Bayern Munich",
+    "sport": "football",
+    "kickOff": "2025-12-21T16:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "1. FC Heidenheim 1846",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Bayern Munich",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-1-fc-heidenheim-1846-vs-bayern-munich/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-1-fc-heidenheim-1846-vs-bayern-munich/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
     "id": "ppv-aston-villa-vs-manchester-united",
     "title": "Aston Villa vs. Manchester United",
     "sport": "football",
@@ -5931,33 +5991,6 @@
         "url": "https://embedsports.top/embed/golf/18491/1",
         "language": "English",
         "hd": true
-      }
-    ]
-  },
-  {
-    "id": "ppv-1-fc-heidenheim-1846-vs-bayern-munich",
-    "title": "1. FC Heidenheim 1846 vs. Bayern Munich",
-    "sport": "football",
-    "kickOff": "2025-12-21T16:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "1. FC Heidenheim 1846",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Bayern Munich",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-1-fc-heidenheim-1846-vs-bayern-munich/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-1-fc-heidenheim-1846-vs-bayern-munich/2",
-        "language": "English",
-        "hd": false
       }
     ]
   },
@@ -6148,37 +6181,37 @@
     ]
   },
   {
-    "id": "ppv-kansas-city-chiefs-vs-tennessee-titans",
-    "title": "Kansas City Chiefs vs. Tennessee Titans",
+    "id": "ppv-cincinnati-bengals-vs-miami-dolphins",
+    "title": "Cincinnati Bengals vs. Miami Dolphins",
     "sport": "american-football",
     "kickOff": "2025-12-21T18:00:00",
     "isLive": false,
     "team1": {
-      "name": "Kansas City Chiefs",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SvRAsQEYABMGl+2Yg5n1kIldPXIYYjPlyFhaMfm52MGQghPzheHp0YCwKVpJCtLHkYAnAVkIQQA.webp"
+      "name": "Cincinnati Bengals",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBMQEEJKGJ6IQhbIhsMXm9tX7Y8yBDk7HH7OIKZSgS4gLJH8MMB4enRgLAoQnKxYcWJgScCpQhBAA.webp"
     },
     "team2": {
-      "name": "Tennessee Titans",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCEQQQAE15kcwxhE68Q2DiEeSWIIZOtehFpaswI7WICCedpIc-DDAeHp0YCwKHsG0CeRgySHBEEA.webp"
+      "name": "Miami Dolphins",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCGYccIIREv0Q2WhAYgbrzr2A3yjO9hhnnOxBgABNQwKtpAhhgPD06MBYFJ0khWjjyMETPVk8gA.webp"
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-kansas-city-chiefs-vs-tennessee-titans/1",
+        "url": "https://embedsports.top/embed/admin/ppv-cincinnati-bengals-vs-miami-dolphins/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-kansas-city-chiefs-vs-tennessee-titans/2",
+        "url": "https://embedsports.top/embed/admin/ppv-cincinnati-bengals-vs-miami-dolphins/2",
         "language": "English",
         "hd": false
       },
       {
-        "url": "https://embedsports.top/embed/charlie/kansas-city-chiefs-vs-tennessee-titans-1629472479/1",
+        "url": "https://embedsports.top/embed/charlie/cincinnati-bengals-vs-miami-dolphins-1629472478/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/golf/18471/1",
+        "url": "https://embedsports.top/embed/golf/18472/1",
         "language": "English",
         "hd": true
       }
@@ -6222,37 +6255,74 @@
     ]
   },
   {
-    "id": "ppv-buffalo-bills-vs-cleveland-browns",
-    "title": "Buffalo Bills vs. Cleveland Browns",
+    "id": "ppv-kansas-city-chiefs-vs-tennessee-titans",
+    "title": "Kansas City Chiefs vs. Tennessee Titans",
     "sport": "american-football",
     "kickOff": "2025-12-21T18:00:00",
     "isLive": false,
     "team1": {
-      "name": "Buffalo Bills",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCEEhEHEBBCEzIBy3tXsjcoyf0LnC75sATEEkrLxt3ECF-YAh+GGA8PTowFgUITlYseLEwZOiMiCA.webp"
+      "name": "Kansas City Chiefs",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SvRAsQEYABMGl+2Yg5n1kIldPXIYYjPlyFhaMfm52MGQghPzheHp0YCwKVpJCtLHkYAnAVkIQQA.webp"
     },
     "team2": {
-      "name": "Cleveland Browns",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NDjIgAJr15T6IDiGwhLZ8pMSIrEZ45fOYZiw2DkJCEMDeKPwwwHh6dGAsCuGSQrRx5GCJEawRQA.webp"
+      "name": "Tennessee Titans",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCEQQQAE15kcwxhE68Q2DiEeSWIIZOtehFpaswI7WICCedpIc-DDAeHp0YCwKHsG0CeRgySHBEEA.webp"
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-buffalo-bills-vs-cleveland-browns/1",
+        "url": "https://embedsports.top/embed/admin/ppv-kansas-city-chiefs-vs-tennessee-titans/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-buffalo-bills-vs-cleveland-browns/2",
+        "url": "https://embedsports.top/embed/admin/ppv-kansas-city-chiefs-vs-tennessee-titans/2",
         "language": "English",
         "hd": false
       },
       {
-        "url": "https://embedsports.top/embed/charlie/buffalo-bills-vs-cleveland-browns-1629472477/1",
+        "url": "https://embedsports.top/embed/charlie/kansas-city-chiefs-vs-tennessee-titans-1629472479/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/golf/18469/1",
+        "url": "https://embedsports.top/embed/golf/18471/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "ppv-minnesota-vikings-vs-new-york-giants",
+    "title": "Minnesota Vikings vs. New York Giants",
+    "sport": "american-football",
+    "kickOff": "2025-12-21T18:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Minnesota Vikings",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAAmwCObEdzISbYhkcvEIkE5gZkCxBWQ9gHOvt7YzPR2AeQQ-DDAeHp0YCwKTpJCtAnkYMmWrJZAA.webp"
+    },
+    "team2": {
+      "name": "New York Giants",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCEQhgAExDXsLEEPsQbvEIRAf7MTlPfuOHm4ePoxOVkEQwpb83nh6dGAsCpGSQrRx5GCJwJFCEEA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-minnesota-vikings-vs-new-york-giants/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-minnesota-vikings-vs-new-york-giants/2",
+        "language": "English",
+        "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/minnesota-vikings-vs-new-york-giants-1629472481/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/golf/18474/1",
         "language": "English",
         "hd": true
       }
@@ -6333,74 +6403,37 @@
     ]
   },
   {
-    "id": "ppv-cincinnati-bengals-vs-miami-dolphins",
-    "title": "Cincinnati Bengals vs. Miami Dolphins",
+    "id": "ppv-buffalo-bills-vs-cleveland-browns",
+    "title": "Buffalo Bills vs. Cleveland Browns",
     "sport": "american-football",
     "kickOff": "2025-12-21T18:00:00",
     "isLive": false,
     "team1": {
-      "name": "Cincinnati Bengals",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBMQEEJKGJ6IQhbIhsMXm9tX7Y8yBDk7HH7OIKZSgS4gLJH8MMB4enRgLAoQnKxYcWJgScCpQhBAA.webp"
+      "name": "Buffalo Bills",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCEEhEHEBBCEzIBy3tXsjcoyf0LnC75sATEEkrLxt3ECF-YAh+GGA8PTowFgUITlYseLEwZOiMiCA.webp"
     },
     "team2": {
-      "name": "Miami Dolphins",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCGYccIIREv0Q2WhAYgbrzr2A3yjO9hhnnOxBgABNQwKtpAhhgPD06MBYFJ0khWjjyMETPVk8gA.webp"
+      "name": "Cleveland Browns",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NDjIgAJr15T6IDiGwhLZ8pMSIrEZ45fOYZiw2DkJCEMDeKPwwwHh6dGAsCuGSQrRx5GCJEawRQA.webp"
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-cincinnati-bengals-vs-miami-dolphins/1",
+        "url": "https://embedsports.top/embed/admin/ppv-buffalo-bills-vs-cleveland-browns/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-cincinnati-bengals-vs-miami-dolphins/2",
+        "url": "https://embedsports.top/embed/admin/ppv-buffalo-bills-vs-cleveland-browns/2",
         "language": "English",
         "hd": false
       },
       {
-        "url": "https://embedsports.top/embed/charlie/cincinnati-bengals-vs-miami-dolphins-1629472478/1",
+        "url": "https://embedsports.top/embed/charlie/buffalo-bills-vs-cleveland-browns-1629472477/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/golf/18472/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "ppv-minnesota-vikings-vs-new-york-giants",
-    "title": "Minnesota Vikings vs. New York Giants",
-    "sport": "american-football",
-    "kickOff": "2025-12-21T18:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Minnesota Vikings",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAAmwCObEdzISbYhkcvEIkE5gZkCxBWQ9gHOvt7YzPR2AeQQ-DDAeHp0YCwKTpJCtAnkYMmWrJZAA.webp"
-    },
-    "team2": {
-      "name": "New York Giants",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCEQhgAExDXsLEEPsQbvEIRAf7MTlPfuOHm4ePoxOVkEQwpb83nh6dGAsCpGSQrRx5GCJwJFCEEA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-minnesota-vikings-vs-new-york-giants/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-minnesota-vikings-vs-new-york-giants/2",
-        "language": "English",
-        "hd": false
-      },
-      {
-        "url": "https://embedsports.top/embed/charlie/minnesota-vikings-vs-new-york-giants-1629472481/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/18474/1",
+        "url": "https://embedsports.top/embed/golf/18469/1",
         "language": "English",
         "hd": true
       }
