@@ -45,31 +45,6 @@
         "url": "https://embedsports.top/embed/admin/ppv-world-darts-championship/2",
         "language": "English",
         "hd": false
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/world-darts-championship-darts-1/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/world-darts-championship-darts-1/2",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/world-darts-championship-darts-1/3",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/world-darts-championship-darts-1/4",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/world-darts-championship-darts-1/5",
-        "language": "",
-        "hd": true
       }
     ]
   },
@@ -96,65 +71,6 @@
     ]
   },
   {
-    "id": "snooker-scottish-open-billar",
-    "title": "Snooker Scottish Open \ud83c\udfb1",
-    "sport": "other",
-    "kickOff": "2025-12-20T13:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/echo/snooker-scottish-open-billar/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/snooker-scottish-open-billar/2",
-        "language": "",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "live-event_wbc-boxing-grand-prix-finals-live-stream",
-    "title": "WBC Boxing Grand Prix Finals",
-    "sport": "fight",
-    "kickOff": "2025-12-20T14:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/delta/live-event_wbc-boxing-grand-prix-finals-live-stream/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/ppv-event-02-wbc-boxing-grand-prix-finals-ppv-02/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/ppv-event-02-wbc-boxing-grand-prix-finals-ppv-02/2",
-        "language": "",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "live-event_pfl-africa-4-2025-finals-live-stream",
     "title": "PFL Africa 4: 2025 Finals",
     "sport": "fight",
@@ -172,16 +88,6 @@
       {
         "url": "https://embedsports.top/embed/delta/live-event_pfl-africa-4-2025-finals-live-stream/1",
         "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/ppv-event-03-pfl-africa-4-finals-ppv-03/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/ppv-event-03-pfl-africa-4-finals-ppv-03/2",
-        "language": "",
         "hd": true
       }
     ]
@@ -312,48 +218,6 @@
     ]
   },
   {
-    "id": "live_cfb_texas-am-miami-hurricanes-live-streaming-482686992",
-    "title": "Texas A&M Aggies vs Miami Hurricanes",
-    "sport": "american-football",
-    "kickOff": "2025-12-20T16:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/delta/live_cfb_texas-am-miami-hurricanes-live-streaming-482686992/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/delta/live_cfb_texas-am-miami-hurricanes-live-streaming-482686992/2",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/delta/live_cfb_texas-am-miami-hurricanes-live-streaming-482686992/3",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/18385/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/18385/2",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "18497",
     "title": "Richards - Azeez",
     "sport": "fight",
@@ -370,6 +234,33 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/golf/18497/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "18385",
+    "title": "Texas A&M Aggies - Miami Hurricanes",
+    "sport": "american-football",
+    "kickOff": "2025-12-20T17:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/golf/18385/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/golf/18385/2",
         "language": "English",
         "hd": true
       }
@@ -446,33 +337,6 @@
     ]
   },
   {
-    "id": "ppv-10-miami-vs-7-texas-a-m-first-round",
-    "title": "#10 Miami vs. #7 Texas A&M (First Round)",
-    "sport": "american-football",
-    "kickOff": "2025-12-20T17:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "#10 Miami",
-      "logo": ""
-    },
-    "team2": {
-      "name": "#7 Texas A&M (First Round)",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-10-miami-vs-7-texas-a-m-first-round/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-10-miami-vs-7-texas-a-m-first-round/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "sion-vs-winterthur-2271398",
     "title": "Sion vs Winterthur",
     "sport": "football",
@@ -486,62 +350,7 @@
       "name": "Winterthur",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3kouEEOCQhuIEppAwQKXCAAmekBomEYwJnzVswZeEXmi1TWmBdjREEA.webp"
     },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/echo/fc-sion-vs-fc-winterthur-football-1382406/1",
-        "language": "",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "texas-a-and-m-vs-miami--fl--2392369",
-    "title": "Texas A and M vs Miami (FL)",
-    "sport": "american-football",
-    "kickOff": "2025-12-20T17:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Texas A and M",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpPIkQtMMCQhuINQBMQEdScMgQMEPoIUmfFFzBl4ReaIdMNTsaIhA.webp"
-    },
-    "team2": {
-      "name": "Miami (FL)",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxgABjC968bCG4gSIACYgIIRIlM4cxghSZ8UXMGV315o501phXY0QggA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/echo/texas-am-vs-miami-american-football-21425/1",
-        "language": "",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "osasuna-vs-alaves-1390984",
-    "title": "La Liga: Osasuna vs Alaves",
-    "sport": "football",
-    "kickOff": "2025-12-20T17:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Osasuna",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQhEByP8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
-    },
-    "team2": {
-      "name": "Alaves",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLEBBAd+MYHia0qYFgh1chta+TD3gKoRCA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/osasuna-vs-alaves-1390984/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/charlie/osasuna-vs-alaves-1390984/2",
-        "language": "English",
-        "hd": true
-      }
-    ]
+    "links": []
   },
   {
     "id": "tottenham-hotspur-vs-liverpool-2267241",
@@ -559,49 +368,7 @@
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/charlie/tottenham-vs-liverpool-1379137/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/charlie/tottenham-vs-liverpool-1379137/2",
-        "language": "English",
-        "hd": true
-      },
-      {
         "url": "https://embedsports.top/embed/golf/18488/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "rb-leipzig-vs-bayer-leverkusen-2276770",
-    "title": "RB Leipzig vs Bayer Leverkusen",
-    "sport": "football",
-    "kickOff": "2025-12-20T17:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "RB Leipzig",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTBVA7hTQhuIEiBQgIuI6cP6JhGMCZ8UXMGXhF5o+01phHY0RCA.webp"
-    },
-    "team2": {
-      "name": "Bayer Leverkusen",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwIECmAAGDSBIhuIPrhAATY+ZAxDt+AQpM+WtmDJr680Vqa0wbsVEIIA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/rb-leipzig-vs-bayer-leverkusen-1388440/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/charlie/rb-leipzig-vs-bayer-leverkusen-1388440/2",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/charlie/rb-leipzig-vs-bayer-leverkusen-1388440/3",
         "language": "English",
         "hd": true
       }
@@ -622,36 +389,6 @@
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC9EOelT6qQJEBBAATXftMwQFmAQpM+KLmDLwi80faa0wjsaIhA.webp"
     },
     "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-detroit-red-wings-vs-washington-capitals/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-detroit-red-wings-vs-washington-capitals/2",
-        "language": "English",
-        "hd": false
-      },
-      {
-        "url": "https://embedsports.top/embed/charlie/detroit-red-wings-vs-washington-capitals-1629472429/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/delta/live_nhl_capitals-red-wings-live-streaming-475316208/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/washington-capitals-vs-detroit-red-wings-hockey-416167/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/washington-capitals-vs-detroit-red-wings-hockey-416167/2",
-        "language": "",
-        "hd": true
-      },
       {
         "url": "https://embedsports.top/embed/golf/18446/1",
         "language": "English",
@@ -674,36 +411,6 @@
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm5hw4OJpDcQEXNpB8QKXcZAATEMsIxgTPii5gy8IvNGOmtMM7GiIQA.webp"
     },
     "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-philadelphia-flyers-vs-new-york-rangers/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-philadelphia-flyers-vs-new-york-rangers/2",
-        "language": "English",
-        "hd": false
-      },
-      {
-        "url": "https://embedsports.top/embed/charlie/philadelphia-flyers-vs-new-york-rangers-1629472428/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/delta/live_nhl_rangers-flyers-live-streaming-475315776/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/new-york-rangers-vs-philadelphia-flyers-hockey-416166/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/new-york-rangers-vs-philadelphia-flyers-hockey-416166/2",
-        "language": "",
-        "hd": true
-      },
       {
         "url": "https://embedsports.top/embed/golf/18445/1",
         "language": "English",
@@ -842,114 +549,6 @@
     ]
   },
   {
-    "id": "gil-vicente-vs-rio-ave-2283458",
-    "title": "Gil Vicente vs Rio Ave",
-    "sport": "football",
-    "kickOff": "2025-12-20T18:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Gil Vicente",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCqQDBPxAQQ3EABNcBozF0gSIU-AIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-    },
-    "team2": {
-      "name": "Rio Ave",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyYD5ABmBgw3ELoAmuEMeMk9RxCgIVVKLmDLwi80Xaa1toqXSA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/gil-vicente-vs-rio-ave-1396366/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/gil-vicente-vs-rio-ave-football-1396366/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/gil-vicente-vs-rio-ave-football-1396366/2",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/gil-vicente-vs-rio-ave-football-1396366/3",
-        "language": "",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "harlequins-vs-bristol-bears-2309816",
-    "title": "Harlequins vs Bristol Bears",
-    "sport": "rugby",
-    "kickOff": "2025-12-20T18:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Harlequins",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzJIQfEABMwmyiG4gSICFtMgQKEDFOMKTPii5gy8IvNGOmtMM7GiIQA.webp"
-    },
-    "team2": {
-      "name": "Bristol Bears",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzLyQ6kHD4huIACYhtGzfsM6QKAhSZ8UXMGXhF5ou01pgHY0RCA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/harlequins-vs-bristol-bears-1629472430/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "capitanes-de-ciudad-de-m-xico-vs-long-island-nets-2396808",
-    "title": "Capitanes de Ciudad de M\u00e9xico vs Long Island Nets",
-    "sport": "basketball",
-    "kickOff": "2025-12-20T18:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Capitanes de Ciudad de M\u00e9xico",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxO+XCHiwQ3EABNNKEMZCacxiYTVM+KLmDLb680faa0wjsaIhA.webp"
-    },
-    "team2": {
-      "name": "Long Island Nets",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQ9biAAmuYEhCaIIY31zaQplCESMKTPii5gy8IvNGOmtMM7GiIQA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/long-island-nets-vs-mexico-city-capitanes-1629472431/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "olympiakos-piraeus-vs-kifisia-football-1400842",
-    "title": "Olympiakos Piraeus vs Kifisia",
-    "sport": "football",
-    "kickOff": "2025-12-20T18:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Olympiakos Piraeus",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsikPHrkGAY2bie8EVW4EurMGFz5zQA.webp"
-    },
-    "team2": {
-      "name": "Kifisia",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIGIuX1yDAMbNxPeCKrcCXVmDC58FoA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/echo/olympiakos-piraeus-vs-kifisia-football-1400842/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/olympiakos-piraeus-vs-kifisia-football-1400842/2",
-        "language": "",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "pescara-vs-reggiana-2297808",
     "title": "Pescara vs Reggiana",
     "sport": "football",
@@ -1060,26 +659,6 @@
       {
         "url": "https://embedsports.top/embed/charlie/nec-nijmegen-vs-ajax-1381017/1",
         "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/nec-nijmegen-vs-ajax-football-1381017/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/nec-nijmegen-vs-ajax-football-1381017/2",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/nec-nijmegen-vs-ajax-football-1381017/3",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/nec-nijmegen-vs-ajax-football-1381017/4",
-        "language": "",
         "hd": true
       }
     ]
@@ -1282,16 +861,6 @@
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/charlie/juventus-vs-as-roma-1378019/2",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/charlie/juventus-vs-as-roma-1378019/3",
-        "language": "English",
-        "hd": true
-      },
-      {
         "url": "https://embedsports.top/embed/delta/live_serie-a_juventus-roma-live-streaming-440299584/1",
         "language": "English",
         "hd": true
@@ -1337,7 +906,13 @@
       "name": "Away Team",
       "logo": ""
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/delta/live_cfb_ferris-state-bulldogs-harding-bisons-live-streaming-482685696/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "live_ncaa_mississippi-state-memphis-live-streaming-459761184",
@@ -1375,7 +950,13 @@
       "name": "Away Team",
       "logo": ""
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/americas-day-at-the-races-1629472435/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "vend-e-fontenay-foot-vs-paris-sg-2390220",
@@ -1391,7 +972,18 @@
       "name": "Vend\u00e9e Fontenay Foot",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+YbtVXcQOiCD4hEJEDBD6QpywQpM+KLmDLwi80Q6a0wTsaIhA.webp"
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/vendee-fontenay-foot-vs-paris-saint-germain-1629472618/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/vendee-fontenay-foot-vs-paris-saint-germain-1629472618/2",
+        "language": "English",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "leeds-united-vs-crystal-palace-2267238",
@@ -1417,6 +1009,16 @@
         "url": "https://embedsports.top/embed/admin/ppv-leeds-united-vs-crystal-palace/2",
         "language": "English",
         "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/leeds-vs-crystal-palace-1379134/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/leeds-vs-crystal-palace-1379134/2",
+        "language": "English",
+        "hd": true
       },
       {
         "url": "https://embedsports.top/embed/delta/live_premier-league_leeds-crystal-palace-live-streaming-440379504/1",
@@ -1474,6 +1076,16 @@
         "url": "https://embedsports.top/embed/admin/ppv-everton-vs-arsenal/2",
         "language": "English",
         "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/everton-vs-arsenal-1379132/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/everton-vs-arsenal-1379132/2",
+        "language": "English",
+        "hd": true
       },
       {
         "url": "https://embedsports.top/embed/delta/live_premier-league_everton-arsenal-live-streaming-440379072/1",
@@ -1597,6 +1209,16 @@
         "hd": false
       },
       {
+        "url": "https://embedsports.top/embed/charlie/real-madrid-vs-sevilla-1390985/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/real-madrid-vs-sevilla-1390985/2",
+        "language": "English",
+        "hd": true
+      },
+      {
         "url": "https://embedsports.top/embed/delta/live_laliga_real-madrid-sevilla-live-streaming-440385984/1",
         "language": "English",
         "hd": true
@@ -1654,6 +1276,16 @@
         "hd": false
       },
       {
+        "url": "https://embedsports.top/embed/charlie/edmonton-oilers-vs-minnesota-wild-1629472434/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/delta/live_nhl_wild-oilers-live-streaming-475316640/1",
+        "language": "English",
+        "hd": true
+      },
+      {
         "url": "https://embedsports.top/embed/echo/minnesota-wild-vs-edmonton-oilers-hockey-416168/1",
         "language": "",
         "hd": true
@@ -1694,6 +1326,16 @@
         "url": "https://embedsports.top/embed/admin/ppv-chicago-blackhawks-vs-ottawa-senators/2",
         "language": "English",
         "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/chicago-blackhawks-vs-ottawa-senators-1629472433/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/delta/live_nhl_senators-blackhawks-live-streaming-475317072/1",
+        "language": "English",
+        "hd": true
       },
       {
         "url": "https://embedsports.top/embed/echo/ottawa-senators-vs-chicago-blackhawks-hockey-416169/1",
@@ -1749,6 +1391,28 @@
       "logo": ""
     },
     "links": []
+  },
+  {
+    "id": "dallas-trinity-w-vs-lexington-w-1446174",
+    "title": "USL Super League: Dallas Trinity W vs Lexington W",
+    "sport": "football",
+    "kickOff": "2025-12-20T20:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Dallas Trinity W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHEBBDyzOfjGB4mtKmBYIdXIbVvkwj4CqEQgA.webp"
+    },
+    "team2": {
+      "name": "Lexington W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHEBBDyzJ-jGB4mtKmBYIdXIbVvkwj4CqEQgA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/dallas-trinity-w-vs-lexington-w-1446174/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "estrela-amadora-vs-moreirense-2283457",
@@ -1970,6 +1634,11 @@
         "hd": true
       },
       {
+        "url": "https://embedsports.top/embed/delta/live_nhl_sabres-islanders-live-streaming-475317504/1",
+        "language": "English",
+        "hd": true
+      },
+      {
         "url": "https://embedsports.top/embed/echo/buffalo-sabres-vs-new-york-islanders-hockey-416170/1",
         "language": "",
         "hd": true
@@ -2110,7 +1779,13 @@
       "name": "Arkansas",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7Y6uUCG5aQJEPpx8QiPYa0EKTPii5gy8IvNE2mtMHbGiIQA.webp"
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/delta/live_ncaa_arkansas-houston-live-streaming-426684672/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "ppv-event-01-bkfc-fight-night-porter-v-garrett-ppv-001",
@@ -4042,22 +3717,6 @@
     ]
   },
   {
-    "id": "real-sociedad-ii-vs-ad-ceuta-fc-football-1391971",
-    "title": "Real Sociedad II vs AD Ceuta FC",
-    "sport": "football",
-    "kickOff": "2025-12-21T15:15:00",
-    "isLive": false,
-    "team1": {
-      "name": "Real Sociedad II",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIbCFXZ65BgGNm4nvBFVuBLqzBhc+S0A.webp"
-    },
-    "team2": {
-      "name": "AD Ceuta FC",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGIpCIU9cgwDGzcT3giq3Al1ZgwufFaA.webp"
-    },
-    "links": []
-  },
-  {
     "id": "mirandes-vs-cordoba-football-1391963",
     "title": "Mirandes vs Cordoba",
     "sport": "football",
@@ -4070,6 +3729,22 @@
     "team2": {
       "name": "Cordoba",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCIh49cg0XNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "real-sociedad-ii-vs-ad-ceuta-fc-football-1391971",
+    "title": "Real Sociedad II vs AD Ceuta FC",
+    "sport": "football",
+    "kickOff": "2025-12-21T15:15:00",
+    "isLive": false,
+    "team1": {
+      "name": "Real Sociedad II",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIbCFXZ65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "AD Ceuta FC",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGIpCIU9cgwDGzcT3giq3Al1ZgwufFaA.webp"
     },
     "links": []
   },
@@ -5409,50 +5084,6 @@
     ]
   },
   {
-    "id": "ottawa-senators-vs-boston-bruins-1629472505",
-    "title": "NHL: Ottawa Senators vs Boston Bruins",
-    "sport": "hockey",
-    "kickOff": "2025-12-22T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Ottawa Senators",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SixAQGOcyGb0QiC0IAmYxE5Av37yR3s2pENYwljAg2CARlnwEwXh6dGAsChaSQrRx5GCJwI45QA.webp"
-    },
-    "team2": {
-      "name": "Boston Bruins",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBDAAJiCuMIwCCCGT6vVpxCIYHqV-IvC1q5OZiABHCDhZrRWqgQwwHh6dGAsCnaSQrSJ5GAp9m4QQA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/ottawa-senators-vs-boston-bruins-1629472505/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "montreal-canadiens-vs-pittsburgh-penguins-1629472503",
-    "title": "NHL: Montreal Canadiens vs Pittsburgh Penguins",
-    "sport": "hockey",
-    "kickOff": "2025-12-22T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Montreal Canadiens",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShxDYQIACbXOIRFakg72bBGCObMeyElDyNoiSjvQg7iw+QmZW-DDAeHp0YCwK7n5Y8WJgycDhuUA.webp"
-    },
-    "team2": {
-      "name": "Pittsburgh Penguins",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBYgOIREIi8cnKQBMQt29kJmHl240v0XdubmiIgwwM5+wBD8YXh6dGAsChAOQrRx5GCJUaxRQA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/montreal-canadiens-vs-pittsburgh-penguins-1629472503/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "toronto-maple-leafs-vs-dallas-stars-1629472501",
     "title": "NHL: Toronto Maple Leafs vs Dallas Stars",
     "sport": "hockey",
@@ -5497,28 +5128,6 @@
     ]
   },
   {
-    "id": "winnipeg-jets-vs-utah-mammoth-1629472502",
-    "title": "NHL: Winnipeg Jets vs Utah Mammoth",
-    "sport": "hockey",
-    "kickOff": "2025-12-22T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Winnipeg Jets",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAg4zIEMAAmvEBxDYIwc4kIhEQ8ywcg71uSO5HaS5h6+MJ6cOK78MMB4enRgLAoukkK0SeRgqa6srkA.webp"
-    },
-    "team2": {
-      "name": "Utah Mammoth",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBYgLiGGIggIZEOUYcQAEzs5gt7xd-nGiOTerA7WQTjSBNZ4enRgLAr2kkK0MeRg8V4hEEA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/winnipeg-jets-vs-utah-mammoth-1629472502/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "new-york-rangers-vs-nashville-predators-1629472500",
     "title": "NHL: New York Rangers vs Nashville Predators",
     "sport": "hockey",
@@ -5541,22 +5150,66 @@
     ]
   },
   {
-    "id": "san-antonio-spurs-vs-washington-wizards-1629472498",
-    "title": "NBA: San Antonio Spurs vs Washington Wizards",
-    "sport": "basketball",
+    "id": "montreal-canadiens-vs-pittsburgh-penguins-1629472503",
+    "title": "NHL: Montreal Canadiens vs Pittsburgh Penguins",
+    "sport": "hockey",
     "kickOff": "2025-12-22T00:00:00",
     "isLive": false,
     "team1": {
-      "name": "San Antonio Spurs",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SkI4gIIACY5O1izgsNeIFk5vlLjG80vNzhK5BMJyhiMyqBCF4enRgLAoQoUK0MeRg8cBJQhBAA.webp"
+      "name": "Montreal Canadiens",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShxDYQIACbXOIRFakg72bBGCObMeyElDyNoiSjvQg7iw+QmZW-DDAeHp0YCwK7n5Y8WJgycDhuUA.webp"
     },
     "team2": {
-      "name": "Washington Wizards",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCEkQQIKdiEdewC5YAmIF4RAQxFliFouhLi4wHiC2ZryWIIhWfAQwwHh6dGAsCp6SQrSJ5GApDqwOQA.webp"
+      "name": "Pittsburgh Penguins",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBYgOIREIi8cnKQBMQt29kJmHl240v0XdubmiIgwwM5+wBD8YXh6dGAsChAOQrRx5GCJUaxRQA.webp"
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/charlie/san-antonio-spurs-vs-washington-wizards-1629472498/1",
+        "url": "https://embedsports.top/embed/charlie/montreal-canadiens-vs-pittsburgh-penguins-1629472503/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "winnipeg-jets-vs-utah-mammoth-1629472502",
+    "title": "NHL: Winnipeg Jets vs Utah Mammoth",
+    "sport": "hockey",
+    "kickOff": "2025-12-22T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Winnipeg Jets",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAg4zIEMAAmvEBxDYIwc4kIhEQ8ywcg71uSO5HaS5h6+MJ6cOK78MMB4enRgLAoukkK0SeRgqa6srkA.webp"
+    },
+    "team2": {
+      "name": "Utah Mammoth",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBYgLiGGIggIZEOUYcQAEzs5gt7xd-nGiOTerA7WQTjSBNZ4enRgLAr2kkK0MeRg8V4hEEA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/winnipeg-jets-vs-utah-mammoth-1629472502/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "ottawa-senators-vs-boston-bruins-1629472505",
+    "title": "NHL: Ottawa Senators vs Boston Bruins",
+    "sport": "hockey",
+    "kickOff": "2025-12-22T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Ottawa Senators",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SixAQGOcyGb0QiC0IAmYxE5Av37yR3s2pENYwljAg2CARlnwEwXh6dGAsChaSQrRx5GCJwI45QA.webp"
+    },
+    "team2": {
+      "name": "Boston Bruins",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBDAAJiCuMIwCCCGT6vVpxCIYHqV-IvC1q5OZiABHCDhZrRWqgQwwHh6dGAsCnaSQrSJ5GAp9m4QQA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/ottawa-senators-vs-boston-bruins-1629472505/1",
         "language": "English",
         "hd": true
       }
@@ -5579,6 +5232,28 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/milwaukee-bucks-vs-minnesota-timberwolves-1629472499/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "san-antonio-spurs-vs-washington-wizards-1629472498",
+    "title": "NBA: San Antonio Spurs vs Washington Wizards",
+    "sport": "basketball",
+    "kickOff": "2025-12-22T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "San Antonio Spurs",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SkI4gIIACY5O1izgsNeIFk5vlLjG80vNzhK5BMJyhiMyqBCF4enRgLAoQoUK0MeRg8cBJQhBAA.webp"
+    },
+    "team2": {
+      "name": "Washington Wizards",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCEkQQIKdiEdewC5YAmIF4RAQxFliFouhLi4wHiC2ZryWIIhWfAQwwHh6dGAsCp6SQrSJ5GApDqwOQA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/san-antonio-spurs-vs-washington-wizards-1629472498/1",
         "language": "English",
         "hd": true
       }
@@ -5868,6 +5543,33 @@
     ]
   },
   {
+    "id": "ppv-athletic-club-vs-espanyol",
+    "title": "Athletic Club vs. Espanyol",
+    "sport": "football",
+    "kickOff": "2025-12-22T20:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Athletic Club",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Espanyol",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-athletic-club-vs-espanyol/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-athletic-club-vs-espanyol/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
     "id": "ppv-fulham-vs-nottingham-forest",
     "title": "Fulham vs. Nottingham Forest",
     "sport": "football",
@@ -5896,33 +5598,6 @@
         "url": "https://embedsports.top/embed/golf/18492/1",
         "language": "English",
         "hd": true
-      }
-    ]
-  },
-  {
-    "id": "ppv-athletic-club-vs-espanyol",
-    "title": "Athletic Club vs. Espanyol",
-    "sport": "football",
-    "kickOff": "2025-12-22T20:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Athletic Club",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Espanyol",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-athletic-club-vs-espanyol/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-athletic-club-vs-espanyol/2",
-        "language": "English",
-        "hd": false
       }
     ]
   },
@@ -6184,28 +5859,6 @@
     ]
   },
   {
-    "id": "seattle-kraken-vs-anaheim-ducks-1629472560",
-    "title": "NHL: Seattle Kraken vs Anaheim Ducks",
-    "sport": "hockey",
-    "kickOff": "2025-12-23T03:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Seattle Kraken",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAAm5siFpnOISfRARrIcuUccnT4YZBDbnix+5t62QYxCQqoEMMB4enRgLAoQnKxYcWJgScCpQhBAA.webp"
-    },
-    "team2": {
-      "name": "Anaheim Ducks",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAAmIcmeAQQQiyxC1bMc25V3hF2xcQgbIIRu5IyIiBYcdiAQ-DDAeHp0YCwKEJysWPFiYMk2GRBAA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/seattle-kraken-vs-anaheim-ducks-1629472560/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "columbus-blue-jackets-vs-los-angeles-kings-1629472561",
     "title": "NHL: Columbus Blue Jackets vs Los Angeles Kings",
     "sport": "hockey",
@@ -6222,6 +5875,28 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/columbus-blue-jackets-vs-los-angeles-kings-1629472561/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "seattle-kraken-vs-anaheim-ducks-1629472560",
+    "title": "NHL: Seattle Kraken vs Anaheim Ducks",
+    "sport": "hockey",
+    "kickOff": "2025-12-23T03:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Seattle Kraken",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAAm5siFpnOISfRARrIcuUccnT4YZBDbnix+5t62QYxCQqoEMMB4enRgLAoQnKxYcWJgScCpQhBAA.webp"
+    },
+    "team2": {
+      "name": "Anaheim Ducks",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAAmIcmeAQQQiyxC1bMc25V3hF2xcQgbIIRu5IyIiBYcdiAQ-DDAeHp0YCwKEJysWPFiYMk2GRBAA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/seattle-kraken-vs-anaheim-ducks-1629472560/1",
         "language": "English",
         "hd": true
       }
