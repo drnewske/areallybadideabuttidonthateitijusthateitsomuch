@@ -1,37 +1,5 @@
 [
   {
-    "id": "live-event_nfl-redzone-live-stream",
-    "title": "NFL Redzone",
-    "sport": "american-football",
-    "kickOff": "2025-12-21T17:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/delta/live-event_nfl-redzone-live-stream/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/delta/live-event_nfl-redzone-live-stream/2",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/delta/live-event_nfl-redzone-live-stream/3",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "18563",
     "title": "Atlanta Hawks - Chicago Bulls",
     "sport": "basketball",
@@ -174,30 +142,20 @@
     ]
   },
   {
-    "id": "minnesota-wild-vs-colorado-avalanche-hockey-416180",
-    "title": "Minnesota Wild vs Colorado Avalanche",
+    "id": "18555",
+    "title": "Minnesota Wild - Colorado Avalanche",
     "sport": "hockey",
     "kickOff": "2025-12-21T23:00:00",
     "isLive": false,
     "team1": {
-      "name": "Minnesota Wild",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCAAmIJQGN65BqqzAwPeJKpTCDVmB1tcEIA.webp"
+      "name": "Home Team",
+      "logo": ""
     },
     "team2": {
-      "name": "Colorado Avalanche",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCAAmIAMYhxdcgyXNgYHvElUphBqzC62uCEA.webp"
+      "name": "Away Team",
+      "logo": ""
     },
     "links": [
-      {
-        "url": "https://embedsports.top/embed/echo/minnesota-wild-vs-colorado-avalanche-hockey-416180/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/minnesota-wild-vs-colorado-avalanche-hockey-416180/2",
-        "language": "",
-        "hd": true
-      },
       {
         "url": "https://embedsports.top/embed/golf/18555/1",
         "language": "English",
@@ -206,64 +164,44 @@
     ]
   },
   {
-    "id": "brooklyn-nets-vs-toronto-raptors-basketball-469867",
-    "title": "Brooklyn Nets vs Toronto Raptors",
+    "id": "18565",
+    "title": "New York Knicks - Miami Heat",
     "sport": "basketball",
     "kickOff": "2025-12-21T23:00:00",
     "isLive": false,
     "team1": {
-      "name": "Brooklyn Nets",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiEQR65BgGNmknvDFVuBLqzBhc+S0A.webp"
+      "name": "Home Team",
+      "logo": ""
     },
     "team2": {
-      "name": "Toronto Raptors",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiGwgU9cgwDGzST3hiq3Al1ZgwufFaA.webp"
+      "name": "Away Team",
+      "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/echo/brooklyn-nets-vs-toronto-raptors-basketball-469867/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/brooklyn-nets-vs-toronto-raptors-basketball-469867/2",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/18564/1",
+        "url": "https://embedsports.top/embed/golf/18565/1",
         "language": "English",
         "hd": true
       }
     ]
   },
   {
-    "id": "new-york-knicks-vs-miami-heat-basketball-469868",
-    "title": "New York Knicks vs Miami Heat",
+    "id": "18564",
+    "title": "Brooklyn Nets - Toronto Raptors",
     "sport": "basketball",
     "kickOff": "2025-12-21T23:00:00",
     "isLive": false,
     "team1": {
-      "name": "New York Knicks",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiGzL65BgGNmknvDFVuBLqzBhc+S0A.webp"
+      "name": "Home Team",
+      "logo": ""
     },
     "team2": {
-      "name": "Miami Heat",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAggAxvXINNWST3hiq3Al1ZgwufFaA.webp"
+      "name": "Away Team",
+      "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/echo/new-york-knicks-vs-miami-heat-basketball-469868/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/new-york-knicks-vs-miami-heat-basketball-469868/2",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/18565/1",
+        "url": "https://embedsports.top/embed/golf/18564/1",
         "language": "English",
         "hd": true
       }
@@ -373,6 +311,11 @@
     },
     "links": [
       {
+        "url": "https://embedsports.top/embed/charlie/buffalo-sabres-vs-traktor-chelyabinsk-1629472802/1",
+        "language": "English",
+        "hd": true
+      },
+      {
         "url": "https://embedsports.top/embed/golf/18557/1",
         "language": "English",
         "hd": true
@@ -461,36 +404,6 @@
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-vegas-golden-knights-vs-edmonton-oilers/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-vegas-golden-knights-vs-edmonton-oilers/2",
-        "language": "English",
-        "hd": false
-      },
-      {
-        "url": "https://embedsports.top/embed/charlie/vegas-golden-knights-vs-edmonton-oilers-1629472506/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/delta/live_nhl_oilers-golden-knights-live-streaming-475412112/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/edmonton-oilers-vs-vegas-golden-knights-hockey-416187/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/edmonton-oilers-vs-vegas-golden-knights-hockey-416187/2",
-        "language": "",
-        "hd": true
-      },
-      {
         "url": "https://embedsports.top/embed/golf/18562/1",
         "language": "English",
         "hd": true
@@ -521,11 +434,6 @@
         "url": "https://embedsports.top/embed/admin/ppv-new-england-patriots-vs-baltimore-ravens/2",
         "language": "English",
         "hd": false
-      },
-      {
-        "url": "https://embedsports.top/embed/charlie/new-england-patriots-vs-baltimore-ravens-1629472507/1",
-        "language": "English",
-        "hd": true
       },
       {
         "url": "https://embedsports.top/embed/delta/live_nfl_ravens-patriots-live-streaming-475402176/1",
@@ -569,28 +477,6 @@
       },
       {
         "url": "https://embedsports.top/embed/golf/18480/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "texas-legends-vs-delaware-blue-coats-2396818",
-    "title": "Texas Legends vs Delaware Blue Coats",
-    "sport": "basketball",
-    "kickOff": "2025-12-22T01:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Texas Legends",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpOxiwwfCAghuIEiD4hExkClwGQAEwIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-    },
-    "team2": {
-      "name": "Delaware Blue Coats",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiQg4STlW4htAExARcIEiH0wQiHLoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/delaware-blue-coats-vs-texas-legends-1629472508/1",
         "language": "English",
         "hd": true
       }
@@ -704,7 +590,33 @@
       "name": "Away Team",
       "logo": ""
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/echo/world-darts-championship-darts-1/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/world-darts-championship-darts-1/2",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/world-darts-championship-darts-1/3",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/world-darts-championship-darts-1/4",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/world-darts-championship-darts-1/5",
+        "language": "",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "day-twelve-1629472511",
@@ -2458,60 +2370,6 @@
     ]
   },
   {
-    "id": "new-orleans-pelicans-vs-cleveland-cavaliers-1629472584",
-    "title": "NBA: New Orleans Pelicans vs Cleveland Cavaliers",
-    "sport": "basketball",
-    "kickOff": "2025-12-24T00:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "New Orleans Pelicans",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NLwa8QHHCBuSAJteyJCIB+Qf3gD7Nghevlq7CQiwgoRCBdvwwwHh6dGAsCn6SQrRx5GCJwH5CEEA.webp"
-    },
-    "team2": {
-      "name": "Cleveland Cavaliers",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NDmERgFxABMQEECDIgWIW9cseLtwq5y+YIMwujPaIPpLkku6qBDDAeHp0YCwKFpJCtAnkYMkeQhBAA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/new-orleans-pelicans-vs-cleveland-cavaliers-1629472584/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/18529/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "milwaukee-bucks-vs-indiana-pacers-1629472585",
-    "title": "NBA: Milwaukee Bucks vs Indiana Pacers",
-    "sport": "basketball",
-    "kickOff": "2025-12-24T00:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Milwaukee Bucks",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCA5mQEYABMGOEA4eJE2bBF5jz789YuFHPg6cIP4gNhbO-DDAeHp0YCwKVpJCtLHkYAnAVkIQQA.webp"
-    },
-    "team2": {
-      "name": "Indiana Pacers",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NLxDlyAExDXGEYPZbnewxk+b0QhEBxD3EzL5CiL62IE6SIeb8MMB4enRgLAr2kkK08eRgSQ6sDkA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/milwaukee-bucks-vs-indiana-pacers-1629472585/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/18530/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "chicago-bulls-vs-atlanta-hawks-1629472583",
     "title": "NBA: Chicago Bulls vs Atlanta Hawks",
     "sport": "basketball",
@@ -2566,6 +2424,60 @@
     ]
   },
   {
+    "id": "new-orleans-pelicans-vs-cleveland-cavaliers-1629472584",
+    "title": "NBA: New Orleans Pelicans vs Cleveland Cavaliers",
+    "sport": "basketball",
+    "kickOff": "2025-12-24T00:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "New Orleans Pelicans",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NLwa8QHHCBuSAJteyJCIB+Qf3gD7Nghevlq7CQiwgoRCBdvwwwHh6dGAsCn6SQrRx5GCJwH5CEEA.webp"
+    },
+    "team2": {
+      "name": "Cleveland Cavaliers",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NDmERgFxABMQEECDIgWIW9cseLtwq5y+YIMwujPaIPpLkku6qBDDAeHp0YCwKFpJCtAnkYMkeQhBAA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/new-orleans-pelicans-vs-cleveland-cavaliers-1629472584/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/golf/18529/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "milwaukee-bucks-vs-indiana-pacers-1629472585",
+    "title": "NBA: Milwaukee Bucks vs Indiana Pacers",
+    "sport": "basketball",
+    "kickOff": "2025-12-24T00:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Milwaukee Bucks",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCA5mQEYABMGOEA4eJE2bBF5jz789YuFHPg6cIP4gNhbO-DDAeHp0YCwKVpJCtLHkYAnAVkIQQA.webp"
+    },
+    "team2": {
+      "name": "Indiana Pacers",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NLxDlyAExDXGEYPZbnewxk+b0QhEBxD3EzL5CiL62IE6SIeb8MMB4enRgLAr2kkK08eRgSQ6sDkA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/milwaukee-bucks-vs-indiana-pacers-1629472585/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/golf/18530/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "nashville-predators-vs-minnesota-wild-1629472589",
     "title": "NHL: Nashville Predators vs Minnesota Wild",
     "sport": "hockey",
@@ -2593,33 +2505,6 @@
     ]
   },
   {
-    "id": "new-york-knicks-vs-minnesota-timberwolves-1629472587",
-    "title": "NBA: New York Knicks vs Minnesota Timberwolves",
-    "sport": "basketball",
-    "kickOff": "2025-12-24T01:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "New York Knicks",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBNgpkIRCJEEEBxD3L2R9aEsHwe85CWYILT2IH68VhZekv4W-DDAeHp0YCwKEJysWPFiYMneGRBAA.webp"
-    },
-    "team2": {
-      "name": "Minnesota Timberwolves",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCEQATEFZYhm54PfohsEXsFeMIYxE5hmHZFZSrpaEtracEeTm-DDAeHp0YCwKXpJCtAnkYMnurO5AA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/new-york-knicks-vs-minnesota-timberwolves-1629472587/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/18533/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "denver-nuggets-vs-dallas-mavericks-1629472588",
     "title": "NBA: Denver Nuggets vs Dallas Mavericks",
     "sport": "basketball",
@@ -2641,6 +2526,33 @@
       },
       {
         "url": "https://embedsports.top/embed/golf/18532/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "new-york-knicks-vs-minnesota-timberwolves-1629472587",
+    "title": "NBA: New York Knicks vs Minnesota Timberwolves",
+    "sport": "basketball",
+    "kickOff": "2025-12-24T01:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "New York Knicks",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBNgpkIRCJEEEBxD3L2R9aEsHwe85CWYILT2IH68VhZekv4W-DDAeHp0YCwKEJysWPFiYMneGRBAA.webp"
+    },
+    "team2": {
+      "name": "Minnesota Timberwolves",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCEQATEFZYhm54PfohsEXsFeMIYxE5hmHZFZSrpaEtracEeTm-DDAeHp0YCwKXpJCtAnkYMnurO5AA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/new-york-knicks-vs-minnesota-timberwolves-1629472587/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/golf/18533/1",
         "language": "English",
         "hd": true
       }
