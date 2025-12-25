@@ -1,47 +1,5 @@
 [
   {
-    "id": "live-event_nfl-network-live-stream",
-    "title": "NFL Network",
-    "sport": "american-football",
-    "kickOff": "2025-12-25T08:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/delta/live-event_nfl-network-live-stream/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/nfl-network-247-nfl-2025-516518/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/nfl-network-247-nfl-2025-516518/2",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/nfl-network-247-nfl-2025-516518/3",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/nfl-network-247-nfl-2025-516518/4",
-        "language": "",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "new-york-knicks-vs-cleveland-cavaliers-2357777",
     "title": "New York Knicks vs Cleveland Cavaliers",
     "sport": "basketball",
@@ -224,6 +182,21 @@
       },
       {
         "url": "https://embedsports.top/embed/charlie/detroit-lions-vs-minnesota-vikings-1629472633/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/delta/live_nfl_vikings-lions-live-streaming-475544736/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/delta/live_nfl_vikings-lions-live-streaming-475544736/2",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/delta/live_nfl_vikings-lions-live-streaming-475544736/3",
         "language": "English",
         "hd": true
       },
@@ -1042,18 +1015,18 @@
     "links": []
   },
   {
-    "id": "portsmouth-vs-qpr-4461537",
+    "id": "portsmouth-vs-qpr-football-1386817",
     "title": "Portsmouth vs QPR",
     "sport": "football",
     "kickOff": "2025-12-26T15:00:00",
     "isLive": false,
     "team1": {
       "name": "Portsmouth",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aELmPGR01vD09S2WuzBhSO50A.webp"
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRNhDZ65BgGNm4nvBFVuBLqzBhc+S0A.webp"
     },
     "team2": {
       "name": "QPR",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aELhAgR01vD09S2WuzBhSO50A.webp"
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCZ1yDRc3E94IqtwJdWYMLnxmgA.webp"
     },
     "links": []
   },
@@ -1835,28 +1808,6 @@
     "links": []
   },
   {
-    "id": "standard-liege-vs-st-truiden-1382579",
-    "title": "Jupiler Pro League: Standard Liege vs St. Truiden",
-    "sport": "football",
-    "kickOff": "2025-12-26T17:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Standard Liege",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQhEIgMEYwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
-    },
-    "team2": {
-      "name": "St. Truiden",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQhEIjYEYwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/standard-liege-vs-st-truiden-1382579/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "wrexham-vs-sheffield-utd-1386818",
     "title": "Championship: Wrexham vs Sheffield Utd",
     "sport": "football",
@@ -1895,6 +1846,28 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/al-hilal-saudi-fc-vs-al-khaleej-saihat-1436004/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "standard-liege-vs-st-truiden-1382579",
+    "title": "Jupiler Pro League: Standard Liege vs St. Truiden",
+    "sport": "football",
+    "kickOff": "2025-12-26T17:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Standard Liege",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQhEIgMEYwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "team2": {
+      "name": "St. Truiden",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQhEIjYEYwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/standard-liege-vs-st-truiden-1382579/1",
         "language": "English",
         "hd": true
       }
@@ -2349,33 +2322,6 @@
     ]
   },
   {
-    "id": "charlotte-hornets-vs-orlando-magic-1629472655",
-    "title": "NBA: Charlotte Hornets vs Orlando Magic",
-    "sport": "basketball",
-    "kickOff": "2025-12-27T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Charlotte Hornets",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SixCIIYxIRA3mlyeQ62xZgCYhJEXiGxnszjYeMCBunCDeziDm-DDAeHp0YCwKDqxY8WJgycCWQhBAA.webp"
-    },
-    "team2": {
-      "name": "Orlando Magic",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCA4hBnMrxwgIIFiAAmnB8Bcv7IdyEJmLdhZWjsxONn7eYWEc-DDAeHp0YCwKEMFY8WJgycBpQhBAA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/charlotte-hornets-vs-orlando-magic-1629472655/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/18546/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "toronto-raptors-vs-washington-wizards-1629472656",
     "title": "NBA: Toronto Raptors vs Washington Wizards",
     "sport": "basketball",
@@ -2397,6 +2343,33 @@
       },
       {
         "url": "https://embedsports.top/embed/golf/18547/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "charlotte-hornets-vs-orlando-magic-1629472655",
+    "title": "NBA: Charlotte Hornets vs Orlando Magic",
+    "sport": "basketball",
+    "kickOff": "2025-12-27T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Charlotte Hornets",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SixCIIYxIRA3mlyeQ62xZgCYhJEXiGxnszjYeMCBunCDeziDm-DDAeHp0YCwKDqxY8WJgycCWQhBAA.webp"
+    },
+    "team2": {
+      "name": "Orlando Magic",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCA4hBnMrxwgIIFiAAmnB8Bcv7IdyEJmLdhZWjsxONn7eYWEc-DDAeHp0YCwKEMFY8WJgycBpQhBAA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/charlotte-hornets-vs-orlando-magic-1629472655/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/golf/18546/1",
         "language": "English",
         "hd": true
       }
@@ -3240,28 +3213,6 @@
     ]
   },
   {
-    "id": "venezia-vs-virtus-entella-1419763",
-    "title": "Serie B: Venezia vs Virtus Entella",
-    "sport": "football",
-    "kickOff": "2025-12-27T14:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Venezia",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLXiEL8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
-    },
-    "team2": {
-      "name": "Virtus Entella",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLEBxCF+MYHia0qYFgh1chta+TD3gKoRCA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/venezia-vs-virtus-entella-1419763/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "sampdoria-vs-reggiana-1419764",
     "title": "Serie B: Sampdoria vs Reggiana",
     "sport": "football",
@@ -3306,37 +3257,22 @@
     ]
   },
   {
-    "id": "ppv-lecce-vs-como",
-    "title": "Lecce vs. Como",
+    "id": "venezia-vs-virtus-entella-1419763",
+    "title": "Serie B: Venezia vs Virtus Entella",
     "sport": "football",
     "kickOff": "2025-12-27T14:00:00",
     "isLive": false,
     "team1": {
-      "name": "Lecce",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQR+SEL8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+      "name": "Venezia",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLXiEL8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
     },
     "team2": {
-      "name": "Como",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQR7GwIxgeJrSpgWCHVyG1L5MLeAqhEIA.webp"
+      "name": "Virtus Entella",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLEBxCF+MYHia0qYFgh1chta+TD3gKoRCA.webp"
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-lecce-vs-como/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-lecce-vs-como/2",
-        "language": "English",
-        "hd": false
-      },
-      {
-        "url": "https://embedsports.top/embed/charlie/lecce-vs-como-1378027/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/charlie/lecce-vs-como-1378027/2",
+        "url": "https://embedsports.top/embed/charlie/venezia-vs-virtus-entella-1419763/1",
         "language": "English",
         "hd": true
       }
@@ -3369,6 +3305,43 @@
       },
       {
         "url": "https://embedsports.top/embed/charlie/torino-vs-cagliari-1378032/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "ppv-lecce-vs-como",
+    "title": "Lecce vs. Como",
+    "sport": "football",
+    "kickOff": "2025-12-27T14:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Lecce",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQR+SEL8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "team2": {
+      "name": "Como",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQR7GwIxgeJrSpgWCHVyG1L5MLeAqhEIA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-lecce-vs-como/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-lecce-vs-como/2",
+        "language": "English",
+        "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/lecce-vs-como-1378027/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/lecce-vs-como-1378027/2",
         "language": "English",
         "hd": true
       }
@@ -3549,80 +3522,6 @@
     ]
   },
   {
-    "id": "ppv-brentford-vs-afc-bournemouth",
-    "title": "Brentford vs. AFC Bournemouth",
-    "sport": "football",
-    "kickOff": "2025-12-27T15:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Brentford",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLI-xjA8TWlTAsEOrkNoXyYG8BVCIQA.webp"
-    },
-    "team2": {
-      "name": "Bournemouth",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQiNgRjA8TWlTAsEOrkNoXyYG8BVCIQA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-brentford-vs-afc-bournemouth/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-brentford-vs-afc-bournemouth/2",
-        "language": "English",
-        "hd": false
-      },
-      {
-        "url": "https://embedsports.top/embed/charlie/brentford-vs-bournemouth-1379140/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/18602/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "ppv-senegal-vs-congo-dr",
-    "title": "Senegal vs. Congo DR",
-    "sport": "football",
-    "kickOff": "2025-12-27T15:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Senegal",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIAwRjA8TWlTAsEOrkNoXyYG8BVCIQA.webp"
-    },
-    "team2": {
-      "name": "Congo DR",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIFjhAh+MYHia0qYFgh1chta+TD3gKoRCA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-senegal-vs-congo-dr/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-senegal-vs-congo-dr/2",
-        "language": "English",
-        "hd": false
-      },
-      {
-        "url": "https://embedsports.top/embed/charlie/senegal-vs-congo-dr-1347257/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/18666/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "ppv-burnley-vs-everton",
     "title": "Burnley vs. Everton",
     "sport": "football",
@@ -3729,6 +3628,43 @@
     ]
   },
   {
+    "id": "ppv-senegal-vs-congo-dr",
+    "title": "Senegal vs. Congo DR",
+    "sport": "football",
+    "kickOff": "2025-12-27T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Senegal",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIAwRjA8TWlTAsEOrkNoXyYG8BVCIQA.webp"
+    },
+    "team2": {
+      "name": "Congo DR",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIFjhAh+MYHia0qYFgh1chta+TD3gKoRCA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-senegal-vs-congo-dr/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-senegal-vs-congo-dr/2",
+        "language": "English",
+        "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/senegal-vs-congo-dr-1347257/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/golf/18666/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "ppv-arsenal-vs-brighton-hove-albion",
     "title": "Arsenal vs. Brighton & Hove Albion",
     "sport": "football",
@@ -3765,6 +3701,43 @@
       },
       {
         "url": "https://embedsports.top/embed/golf/18601/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "ppv-brentford-vs-afc-bournemouth",
+    "title": "Brentford vs. AFC Bournemouth",
+    "sport": "football",
+    "kickOff": "2025-12-27T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Brentford",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLI-xjA8TWlTAsEOrkNoXyYG8BVCIQA.webp"
+    },
+    "team2": {
+      "name": "Bournemouth",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQiNgRjA8TWlTAsEOrkNoXyYG8BVCIQA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-brentford-vs-afc-bournemouth/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-brentford-vs-afc-bournemouth/2",
+        "language": "English",
+        "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/brentford-vs-bournemouth-1379140/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/golf/18602/1",
         "language": "English",
         "hd": true
       }
@@ -4302,28 +4275,6 @@
     ]
   },
   {
-    "id": "seasons-beatings-fest-1629472687",
-    "title": "IWR 41: Season's Beatings Fest",
-    "sport": "other",
-    "kickOff": "2025-12-28T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/seasons-beatings-fest-1629472687/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "brisbane-bandits-vs-sydney-blue-sox-1629472684",
     "title": "Australian Baseball League: Brisbane Bandits vs Sydney Blue Sox",
     "sport": "baseball",
@@ -4340,6 +4291,33 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/brisbane-bandits-vs-sydney-blue-sox-1629472684/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "phoenix-suns-vs-new-orleans-pelicans-1629472686",
+    "title": "NBA: Phoenix Suns vs New Orleans Pelicans",
+    "sport": "basketball",
+    "kickOff": "2025-12-28T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Phoenix Suns",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCCGGQlyQBNLZELduSIIG5YeuQEVsGsMQiIQgQYi0HGY4OMAuHPwwwHh6dGAsCt6SQrSJ5GAp0T4QQA.webp"
+    },
+    "team2": {
+      "name": "New Orleans Pelicans",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NLwa8QHHCBuSAJteyJCIB+Qf3gD7Nghevlq7CQiwgoRCBdvwwwHh6dGAsCn6SQrRx5GCJwH5CEEA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/phoenix-suns-vs-new-orleans-pelicans-1629472686/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/golf/18622/1",
         "language": "English",
         "hd": true
       }
@@ -4373,27 +4351,22 @@
     ]
   },
   {
-    "id": "phoenix-suns-vs-new-orleans-pelicans-1629472686",
-    "title": "NBA: Phoenix Suns vs New Orleans Pelicans",
-    "sport": "basketball",
+    "id": "seasons-beatings-fest-1629472687",
+    "title": "IWR 41: Season's Beatings Fest",
+    "sport": "other",
     "kickOff": "2025-12-28T00:00:00",
     "isLive": false,
     "team1": {
-      "name": "Phoenix Suns",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCCGGQlyQBNLZELduSIIG5YeuQEVsGsMQiIQgQYi0HGY4OMAuHPwwwHh6dGAsCt6SQrSJ5GAp0T4QQA.webp"
+      "name": "Home Team",
+      "logo": ""
     },
     "team2": {
-      "name": "New Orleans Pelicans",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NLwa8QHHCBuSAJteyJCIB+Qf3gD7Nghevlq7CQiwgoRCBdvwwwHh6dGAsCn6SQrRx5GCJwH5CEEA.webp"
+      "name": "Away Team",
+      "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/charlie/phoenix-suns-vs-new-orleans-pelicans-1629472686/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/18622/1",
+        "url": "https://embedsports.top/embed/charlie/seasons-beatings-fest-1629472687/1",
         "language": "English",
         "hd": true
       }
@@ -4584,81 +4557,27 @@
     ]
   },
   {
-    "id": "utah-jazz-vs-san-antonio-spurs-1629472692",
-    "title": "NBA: Utah Jazz vs San Antonio Spurs",
+    "id": "new-york-knicks-vs-atlanta-hawks-1629472693",
+    "title": "NBA: New York Knicks vs Atlanta Hawks",
     "sport": "basketball",
     "kickOff": "2025-12-28T01:00:00",
     "isLive": false,
     "team1": {
-      "name": "Utah Jazz",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NL04gAJrxAQcIco0T0zHGyGzPXMdz+8g32MySVv6ItkKG-DDAeHp0YCwKEJysWDFiYAnAyUIQQA.webp"
+      "name": "New York Knicks",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBNgpkIRCJEEEBxD3L2R9aEsHwe85CWYILT2IH68VhZekv4W-DDAeHp0YCwKEJysWPFiYMneGRBAA.webp"
     },
     "team2": {
-      "name": "San Antonio Spurs",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SkI4gIIACY5O1izgsNeIFk5vlLjG80vNzhK5BMJyhiMyqBCF4enRgLAoQoUK0MeRg8cBJQhBAA.webp"
+      "name": "Atlanta Hawks",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCEmJEAE2CWQQjiBCdeL8olq36jkOS-ZbkrYqdgw+Lg7YqgQwwHh6dGAsChCcrFixYmCJwClCEEA.webp"
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/charlie/utah-jazz-vs-san-antonio-spurs-1629472692/1",
+        "url": "https://embedsports.top/embed/charlie/new-york-knicks-vs-atlanta-hawks-1629472693/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/golf/18628/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "milwaukee-bucks-vs-chicago-bulls-1629472689",
-    "title": "NBA: Milwaukee Bucks vs Chicago Bulls",
-    "sport": "basketball",
-    "kickOff": "2025-12-28T01:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Milwaukee Bucks",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCA5mQEYABMGOEA4eJE2bBF5jz789YuFHPg6cIP4gNhbO-DDAeHp0YCwKVpJCtLHkYAnAVkIQQA.webp"
-    },
-    "team2": {
-      "name": "Chicago Bulls",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBBSYIDiFrXGjcpIggAJmKFDEb64jP0rnBauNrw4IIQgznwEMMB4enRgLAoQgUK08eRgScCpQhBAA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/milwaukee-bucks-vs-chicago-bulls-1629472689/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/18625/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "indiana-pacers-vs-miami-heat-1629472688",
-    "title": "NBA: Indiana Pacers vs Miami Heat",
-    "sport": "basketball",
-    "kickOff": "2025-12-28T01:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Indiana Pacers",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NLxDlyAExDXGEYPZbnewxk+b0QhEBxD3EzL5CiL62IE6SIeb8MMB4enRgLAr2kkK08eRgSQ6sDkA.webp"
-    },
-    "team2": {
-      "name": "Miami Heat",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NLxAQcwiyxA36IWhcIgAJmMk3sNlw844QHra2rMAQfs6CwC78MMB4enRgLAphHlhxYmBJoSEQQA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/indiana-pacers-vs-miami-heat-1629472688/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/18624/1",
+        "url": "https://embedsports.top/embed/golf/18623/1",
         "language": "English",
         "hd": true
       }
@@ -4692,27 +4611,54 @@
     ]
   },
   {
-    "id": "new-york-knicks-vs-atlanta-hawks-1629472693",
-    "title": "NBA: New York Knicks vs Atlanta Hawks",
+    "id": "indiana-pacers-vs-miami-heat-1629472688",
+    "title": "NBA: Indiana Pacers vs Miami Heat",
     "sport": "basketball",
     "kickOff": "2025-12-28T01:00:00",
     "isLive": false,
     "team1": {
-      "name": "New York Knicks",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBNgpkIRCJEEEBxD3L2R9aEsHwe85CWYILT2IH68VhZekv4W-DDAeHp0YCwKEJysWPFiYMneGRBAA.webp"
+      "name": "Indiana Pacers",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NLxDlyAExDXGEYPZbnewxk+b0QhEBxD3EzL5CiL62IE6SIeb8MMB4enRgLAr2kkK08eRgSQ6sDkA.webp"
     },
     "team2": {
-      "name": "Atlanta Hawks",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCEmJEAE2CWQQjiBCdeL8olq36jkOS-ZbkrYqdgw+Lg7YqgQwwHh6dGAsChCcrFixYmCJwClCEEA.webp"
+      "name": "Miami Heat",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NLxAQcwiyxA36IWhcIgAJmMk3sNlw844QHra2rMAQfs6CwC78MMB4enRgLAphHlhxYmBJoSEQQA.webp"
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/charlie/new-york-knicks-vs-atlanta-hawks-1629472693/1",
+        "url": "https://embedsports.top/embed/charlie/indiana-pacers-vs-miami-heat-1629472688/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/golf/18623/1",
+        "url": "https://embedsports.top/embed/golf/18624/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "utah-jazz-vs-san-antonio-spurs-1629472692",
+    "title": "NBA: Utah Jazz vs San Antonio Spurs",
+    "sport": "basketball",
+    "kickOff": "2025-12-28T01:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Utah Jazz",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NL04gAJrxAQcIco0T0zHGyGzPXMdz+8g32MySVv6ItkKG-DDAeHp0YCwKEJysWDFiYAnAyUIQQA.webp"
+    },
+    "team2": {
+      "name": "San Antonio Spurs",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SkI4gIIACY5O1izgsNeIFk5vlLjG80vNzhK5BMJyhiMyqBCF4enRgLAoQoUK0MeRg8cBJQhBAA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/utah-jazz-vs-san-antonio-spurs-1629472692/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/golf/18628/1",
         "language": "English",
         "hd": true
       }
@@ -4740,6 +4686,33 @@
       },
       {
         "url": "https://embedsports.top/embed/golf/18627/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "milwaukee-bucks-vs-chicago-bulls-1629472689",
+    "title": "NBA: Milwaukee Bucks vs Chicago Bulls",
+    "sport": "basketball",
+    "kickOff": "2025-12-28T01:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Milwaukee Bucks",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCA5mQEYABMGOEA4eJE2bBF5jz789YuFHPg6cIP4gNhbO-DDAeHp0YCwKVpJCtLHkYAnAVkIQQA.webp"
+    },
+    "team2": {
+      "name": "Chicago Bulls",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBBSYIDiFrXGjcpIggAJmKFDEb64jP0rnBauNrw4IIQgznwEMMB4enRgLAoQgUK08eRgScCpQhBAA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/milwaukee-bucks-vs-chicago-bulls-1629472689/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/golf/18625/1",
         "language": "English",
         "hd": true
       }
@@ -5126,28 +5099,6 @@
     ]
   },
   {
-    "id": "womens-elite-1629472705",
-    "title": "Dendermonde UCI Cyclo Cross World Championships: Women's Elite",
-    "sport": "other",
-    "kickOff": "2025-12-28T12:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/womens-elite-1629472705/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "day-fifteen-1629472706",
     "title": "World Championships: Day Fifteen",
     "sport": "darts",
@@ -5164,6 +5115,28 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/day-fifteen-1629472706/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "womens-elite-1629472705",
+    "title": "Dendermonde UCI Cyclo Cross World Championships: Women's Elite",
+    "sport": "other",
+    "kickOff": "2025-12-28T12:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/womens-elite-1629472705/1",
         "language": "English",
         "hd": true
       }
@@ -5219,6 +5192,33 @@
     ]
   },
   {
+    "id": "ppv-cremonese-vs-napoli",
+    "title": "Cremonese vs. Napoli",
+    "sport": "football",
+    "kickOff": "2025-12-28T14:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Cremonese",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Napoli",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-cremonese-vs-napoli/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-cremonese-vs-napoli/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
     "id": "ppv-sunderland-vs-leeds-united",
     "title": "Sunderland vs. Leeds United",
     "sport": "football",
@@ -5251,33 +5251,6 @@
     ]
   },
   {
-    "id": "ppv-cremonese-vs-napoli",
-    "title": "Cremonese vs. Napoli",
-    "sport": "football",
-    "kickOff": "2025-12-28T14:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Cremonese",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Napoli",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-cremonese-vs-napoli/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-cremonese-vs-napoli/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "gulf-giants-vs-kolkata-knight-riders-1629472416",
     "title": "IL T20: Giants vs Knight Riders",
     "sport": "cricket",
@@ -5294,28 +5267,6 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/gulf-giants-vs-kolkata-knight-riders-1629472416/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "chapter-188-unboxing-viii-in-search-of-socks-1629472866",
-    "title": "PROGRESS Wrestling: Chapter 188: Unboxing VIII - In Search of Socks",
-    "sport": "other",
-    "kickOff": "2025-12-28T15:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/chapter-188-unboxing-viii-in-search-of-socks-1629472866/1",
         "language": "English",
         "hd": true
       }
@@ -5360,6 +5311,28 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/bristol-flyers-vs-surrey-89ers-1629472709/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "chapter-188-unboxing-viii-in-search-of-socks-1629472866",
+    "title": "PROGRESS Wrestling: Chapter 188: Unboxing VIII - In Search of Socks",
+    "sport": "other",
+    "kickOff": "2025-12-28T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/chapter-188-unboxing-viii-in-search-of-socks-1629472866/1",
         "language": "English",
         "hd": true
       }
@@ -5474,28 +5447,6 @@
     ]
   },
   {
-    "id": "newcastle-eagles-vs-caledonia-gladiators-1629472712",
-    "title": "SLB: Newcastle Eagles vs Caledonia Gladiators",
-    "sport": "basketball",
-    "kickOff": "2025-12-28T17:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Newcastle Eagles",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCA44cnEIhjWQLa1IjCAJg3vAXIQiAjfHbvS+IG5+Xra2zkE+EPwwwHh6dGAsCs6SQrSJ5GApwM5CEEA.webp"
-    },
-    "team2": {
-      "name": "Caledonia Gladiators",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCESNyAExAhOwCFJhneN105bP6IQiA4ha1l6Skog2XjDA1sxCqgQReHp0YCwKDpJCtAnkYMn2rPZAA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/newcastle-eagles-vs-caledonia-gladiators-1629472712/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "cheshire-phoenix-vs-manchester-basketball-1629472711",
     "title": "SLB: Cheshire Phoenix vs Manchester Basketball",
     "sport": "basketball",
@@ -5512,6 +5463,28 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/cheshire-phoenix-vs-manchester-basketball-1629472711/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "newcastle-eagles-vs-caledonia-gladiators-1629472712",
+    "title": "SLB: Newcastle Eagles vs Caledonia Gladiators",
+    "sport": "basketball",
+    "kickOff": "2025-12-28T17:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Newcastle Eagles",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCA44cnEIhjWQLa1IjCAJg3vAXIQiAjfHbvS+IG5+Xra2zkE+EPwwwHh6dGAsCs6SQrSJ5GApwM5CEEA.webp"
+    },
+    "team2": {
+      "name": "Caledonia Gladiators",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCESNyAExAhOwCFJhneN105bP6IQiA4ha1l6Skog2XjDA1sxCqgQReHp0YCwKDpJCtAnkYMn2rPZAA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/newcastle-eagles-vs-caledonia-gladiators-1629472712/1",
         "language": "English",
         "hd": true
       }
@@ -5561,6 +5534,80 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/golf/18584/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "ppv-tampa-bay-buccaneers-vs-miami-dolphins",
+    "title": "Tampa Bay Buccaneers vs. Miami Dolphins",
+    "sport": "american-football",
+    "kickOff": "2025-12-28T18:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Tampa Bay Buccaneers",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBMQ2GL2sRgEEEPP0HIRM8RXG97CF8hTnA4MIPa25ogs1uRsBDDAeHp0YCwKtpJCtAnkYMl2rHZAA.webp"
+    },
+    "team2": {
+      "name": "Miami Dolphins",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCGYccIIREv0Q2WhAYgbrzr2A3yjO9hhnnOxBgABNQwKtpAhhgPD06MBYFJ0khWjjyMETPVk8gA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-tampa-bay-buccaneers-vs-miami-dolphins/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-tampa-bay-buccaneers-vs-miami-dolphins/2",
+        "language": "English",
+        "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/tampa-bay-buccaneers-vs-miami-dolphins-1629472719/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/golf/18578/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "ppv-jacksonville-jaguars-vs-indianapolis-colts",
+    "title": "Jacksonville Jaguars vs. Indianapolis Colts",
+    "sport": "american-football",
+    "kickOff": "2025-12-28T18:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Jacksonville Jaguars",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAghELEBxC0AJrzNkQL84kQwnd4ObfBv9CCEQazOVjAMvJyOhPwReHp0YCwKEJyhtAnkYMk+oRBAA.webp"
+    },
+    "team2": {
+      "name": "Indianapolis Colts",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBDAAJgxCEQLEBBCJHjV0+COYd4fV7fEvuaSHLycIBY4ILSSVhb8MMB4enRgLAoQnKxYiWJgqR5ZEEA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-jacksonville-jaguars-vs-indianapolis-colts/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-jacksonville-jaguars-vs-indianapolis-colts/2",
+        "language": "English",
+        "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/jacksonville-jaguars-vs-indianapolis-colts-1629472714/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/golf/18577/1",
         "language": "English",
         "hd": true
       }
@@ -5641,43 +5688,6 @@
     ]
   },
   {
-    "id": "ppv-tampa-bay-buccaneers-vs-miami-dolphins",
-    "title": "Tampa Bay Buccaneers vs. Miami Dolphins",
-    "sport": "american-football",
-    "kickOff": "2025-12-28T18:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Tampa Bay Buccaneers",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBMQ2GL2sRgEEEPP0HIRM8RXG97CF8hTnA4MIPa25ogs1uRsBDDAeHp0YCwKtpJCtAnkYMl2rHZAA.webp"
-    },
-    "team2": {
-      "name": "Miami Dolphins",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCGYccIIREv0Q2WhAYgbrzr2A3yjO9hhnnOxBgABNQwKtpAhhgPD06MBYFJ0khWjjyMETPVk8gA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-tampa-bay-buccaneers-vs-miami-dolphins/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-tampa-bay-buccaneers-vs-miami-dolphins/2",
-        "language": "English",
-        "hd": false
-      },
-      {
-        "url": "https://embedsports.top/embed/charlie/tampa-bay-buccaneers-vs-miami-dolphins-1629472719/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/18578/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "ppv-new-orleans-saints-vs-tennessee-titans",
     "title": "New Orleans Saints vs. Tennessee Titans",
     "sport": "american-football",
@@ -5746,43 +5756,6 @@
       },
       {
         "url": "https://embedsports.top/embed/golf/18580/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "ppv-jacksonville-jaguars-vs-indianapolis-colts",
-    "title": "Jacksonville Jaguars vs. Indianapolis Colts",
-    "sport": "american-football",
-    "kickOff": "2025-12-28T18:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Jacksonville Jaguars",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAghELEBxC0AJrzNkQL84kQwnd4ObfBv9CCEQazOVjAMvJyOhPwReHp0YCwKEJyhtAnkYMk+oRBAA.webp"
-    },
-    "team2": {
-      "name": "Indianapolis Colts",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBDAAJgxCEQLEBBCJHjV0+COYd4fV7fEvuaSHLycIBY4ILSSVhb8MMB4enRgLAoQnKxYiWJgqR5ZEEA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-jacksonville-jaguars-vs-indianapolis-colts/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-jacksonville-jaguars-vs-indianapolis-colts/2",
-        "language": "English",
-        "hd": false
-      },
-      {
-        "url": "https://embedsports.top/embed/charlie/jacksonville-jaguars-vs-indianapolis-colts-1629472714/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/18577/1",
         "language": "English",
         "hd": true
       }
@@ -5875,6 +5848,50 @@
     ]
   },
   {
+    "id": "new-york-golf-club-vs-atlanta-drive-gc-1629472867",
+    "title": "GOLF: New York Golf Club vs Atlanta Drive GC",
+    "sport": "golf",
+    "kickOff": "2025-12-28T20:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "New York Golf Club",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Atlanta Drive GC",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/new-york-golf-club-vs-atlanta-drive-gc-1629472867/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "long-island-nets-vs-college-park-skyhawks-1629472721",
+    "title": "NBA G League: Long Island Nets vs College Park Skyhawks",
+    "sport": "basketball",
+    "kickOff": "2025-12-28T20:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Long Island Nets",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SixDMIwSxBC3Gh3rbGShrkNhiOHAE0eJbIFL+5mJ8BDDAeHp0YCwKli5YkWJgsVasVkA.webp"
+    },
+    "team2": {
+      "name": "College Park Skyhawks",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCA4gAJq05kzU+iAh3z5hxd69bLEEKeJztFaM5O4gHtggDPwwwHh6dGAsChA2QrRx5GCJwCm+QA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/long-island-nets-vs-college-park-skyhawks-1629472721/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "ppv-ivory-coast-vs-cameroon",
     "title": "Ivory Coast vs. Cameroon",
     "sport": "football",
@@ -5902,44 +5919,54 @@
     ]
   },
   {
-    "id": "18630",
-    "title": "Oklahoma City Thunder - Philadelphia 76ers",
+    "id": "golden-state-warriors-vs-toronto-raptors-1629472722",
+    "title": "NBA: Golden State Warriors vs Toronto Raptors",
     "sport": "basketball",
     "kickOff": "2025-12-28T20:30:00",
     "isLive": false,
     "team1": {
-      "name": "Home Team",
-      "logo": ""
+      "name": "Golden State Warriors",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBMQQiFI4XgpuyHNOQV+yxA3XwCLxCIbIGKI5laWLpwgkSj8MMB4enRgLApWkkK08eRgSd6s3kA.webp"
     },
     "team2": {
-      "name": "Away Team",
-      "logo": ""
+      "name": "Toronto Raptors",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShBAATEOUtDyLECClnJHEIRD3sMBwzed-lq7e9jbA5v5mgvwwwHh6dGAsChD+QrRx5GCJwClCEEA.webp"
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/golf/18630/1",
+        "url": "https://embedsports.top/embed/charlie/golden-state-warriors-vs-toronto-raptors-1629472722/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/golf/18629/1",
         "language": "English",
         "hd": true
       }
     ]
   },
   {
-    "id": "18629",
-    "title": "Toronto Raptors - Golden State Warriors",
+    "id": "philadelphia-76ers-vs-oklahoma-city-thunder-1629472723",
+    "title": "NBA: Philadelphia 76ers vs Oklahoma City Thunder",
     "sport": "basketball",
     "kickOff": "2025-12-28T20:30:00",
     "isLive": false,
     "team1": {
-      "name": "Home Team",
-      "logo": ""
+      "name": "Philadelphia 76ers",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SokQATELUuWInYJfogWIQlefDLIBiA4hvEP4OIOSSjE5Obi6C-DDAeHp0YCwKdpJCtAnkYMnAdkIQQA.webp"
     },
     "team2": {
-      "name": "Away Team",
-      "logo": ""
+      "name": "Oklahoma City Thunder",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBMQ5xhxCT6OEIV42QLmCEQuIwCC+CXvfs4u5tYwUo6O5tgc-GF4enRgLApekkK08eRgSQFCEEA.webp"
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/golf/18629/1",
+        "url": "https://embedsports.top/embed/charlie/philadelphia-76ers-vs-oklahoma-city-thunder-1629472723/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/golf/18630/1",
         "language": "English",
         "hd": true
       }
@@ -6240,33 +6267,6 @@
     ]
   },
   {
-    "id": "ppv-angola-vs-egypt",
-    "title": "Angola vs. Egypt",
-    "sport": "football",
-    "kickOff": "2025-12-29T16:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Angola",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Egypt",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-angola-vs-egypt/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-angola-vs-egypt/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-zimbabwe-vs-south-africa",
     "title": "Zimbabwe vs. South Africa",
     "sport": "football",
@@ -6288,6 +6288,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-zimbabwe-vs-south-africa/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-angola-vs-egypt",
+    "title": "Angola vs. Egypt",
+    "sport": "football",
+    "kickOff": "2025-12-29T16:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Angola",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Egypt",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-angola-vs-egypt/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-angola-vs-egypt/2",
         "language": "English",
         "hd": false
       }
@@ -6316,33 +6343,6 @@
     ]
   },
   {
-    "id": "ppv-zambia-vs-morocco",
-    "title": "Zambia vs. Morocco",
-    "sport": "football",
-    "kickOff": "2025-12-29T19:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Zambia",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Morocco",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-zambia-vs-morocco/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-zambia-vs-morocco/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-comoros-vs-mali",
     "title": "Comoros vs. Mali",
     "sport": "football",
@@ -6364,6 +6364,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-comoros-vs-mali/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-zambia-vs-morocco",
+    "title": "Zambia vs. Morocco",
+    "sport": "football",
+    "kickOff": "2025-12-29T19:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Zambia",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Morocco",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-zambia-vs-morocco/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-zambia-vs-morocco/2",
         "language": "English",
         "hd": false
       }
