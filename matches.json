@@ -1,21 +1,5 @@
 [
   {
-    "id": "rizin-year-end-super-powerhouse-matsuri-game-173734",
-    "title": "RIZIN Year-End Super Powerhouse Matsuri \ud83d\udca5 \ud83e\udd1c \u26a1",
-    "sport": "other",
-    "kickOff": "2025-12-31T08:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
-  },
-  {
     "id": "adelaide-strikers-vs-brisbane-heat-2290596",
     "title": "Adelaide Strikers vs Brisbane Heat",
     "sport": "cricket",
@@ -45,13 +29,7 @@
       "name": "Paarl Royals",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQvbmCTAADLvUg+IRGu4hzamMZAwCFJnxRcwZeEXminTWmBdjREEA.webp"
     },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/sunrisers-eastern-cape-vs-paarl-royals-1629472426/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
+    "links": []
   },
   {
     "id": "neom-vs-al-ittihad-2311789",
@@ -1762,6 +1740,16 @@
         "url": "https://embedsports.top/embed/admin/ppv-aew-wednesday-night-dynamite/2",
         "language": "English",
         "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/aew-wednesday-night-dynamite-aew-001/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/aew-wednesday-night-dynamite-aew-001/2",
+        "language": "",
+        "hd": true
       }
     ]
   },
@@ -2025,6 +2013,16 @@
         "url": "https://embedsports.top/embed/charlie/auckland-vs-newcastle-jets-1469616/1",
         "language": "English",
         "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/auckland-vs-newcastle-jets-football-1469616/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/auckland-vs-newcastle-jets-football-1469616/2",
+        "language": "",
+        "hd": true
       }
     ]
   },
@@ -2108,7 +2106,18 @@
       "name": "Macarthur FC",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAp+2EABMt-ENxAkQfVSEQQQFxIZgEKTPmrZgy8IvNFqmtMM7GiIQA.webp"
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/echo/western-sydney-wanderers-vs-macarthur-football-1469617/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/western-sydney-wanderers-vs-macarthur-football-1469617/2",
+        "language": "",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "rangpur-riders-vs-rajshahi-warriors-1629472961",
@@ -3905,6 +3914,38 @@
     ]
   },
   {
+    "id": "ppv-toulouse-vs-lens",
+    "title": "Toulouse vs. Lens",
+    "sport": "football",
+    "kickOff": "2026-01-02T19:45:00",
+    "isLive": false,
+    "team1": {
+      "name": "Toulouse",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQ2efxjA8TWlTAsEOrkNoXyYG8BVCIQA.webp"
+    },
+    "team2": {
+      "name": "Lens",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeR+fxjA8TWlTAsEOrkNoXyYG8BVCIQA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-toulouse-vs-lens/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-toulouse-vs-lens/2",
+        "language": "English",
+        "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/toulouse-vs-lens-1387850/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "ppv-cagliari-vs-ac-milan",
     "title": "Cagliari vs. AC Milan",
     "sport": "football",
@@ -3936,38 +3977,6 @@
       },
       {
         "url": "https://embedsports.top/embed/charlie/cagliari-vs-ac-milan-1378035/2",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "ppv-toulouse-vs-lens",
-    "title": "Toulouse vs. Lens",
-    "sport": "football",
-    "kickOff": "2026-01-02T19:45:00",
-    "isLive": false,
-    "team1": {
-      "name": "Toulouse",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQ2efxjA8TWlTAsEOrkNoXyYG8BVCIQA.webp"
-    },
-    "team2": {
-      "name": "Lens",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeR+fxjA8TWlTAsEOrkNoXyYG8BVCIQA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-toulouse-vs-lens/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-toulouse-vs-lens/2",
-        "language": "English",
-        "hd": false
-      },
-      {
-        "url": "https://embedsports.top/embed/charlie/toulouse-vs-lens-1387850/1",
         "language": "English",
         "hd": true
       }
@@ -4395,33 +4404,6 @@
     ]
   },
   {
-    "id": "ppv-arizona-wildcats-vs-smu-mustangs",
-    "title": "Arizona Wildcats vs. SMU Mustangs",
-    "sport": "american-football",
-    "kickOff": "2026-01-03T01:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Arizona Wildcats",
-      "logo": ""
-    },
-    "team2": {
-      "name": "SMU Mustangs",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-arizona-wildcats-vs-smu-mustangs/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-arizona-wildcats-vs-smu-mustangs/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-wake-forest-demon-deacons-vs-mississippi-state-bulldogs",
     "title": "Wake Forest Demon Deacons vs. Mississippi State Bulldogs",
     "sport": "american-football",
@@ -4443,6 +4425,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-wake-forest-demon-deacons-vs-mississippi-state-bulldogs/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-arizona-wildcats-vs-smu-mustangs",
+    "title": "Arizona Wildcats vs. SMU Mustangs",
+    "sport": "american-football",
+    "kickOff": "2026-01-03T01:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Arizona Wildcats",
+      "logo": ""
+    },
+    "team2": {
+      "name": "SMU Mustangs",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-arizona-wildcats-vs-smu-mustangs/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-arizona-wildcats-vs-smu-mustangs/2",
         "language": "English",
         "hd": false
       }
@@ -5008,6 +5017,77 @@
     ]
   },
   {
+    "id": "bath-rugby-vs-exeter-chiefs-1629472906",
+    "title": "PREM Rugby: Bath Rugby vs Exeter Chiefs",
+    "sport": "american-football",
+    "kickOff": "2026-01-03T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Bath Rugby",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCGYATVmIghyNyfRAteUm3ZAgxziMEuNy5ji+VuSIgcyIIPwwwHh6dGAsCj6SQrRx5GCJwD5CEEA.webp"
+    },
+    "team2": {
+      "name": "Exeter Chiefs",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCEIgQwgCacQEEC14gb9HA-eIOdi2YcNndsAQtjBOgj4WiBD8MMB4enRgLArBkkK08eRgSUGsQUA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/bath-rugby-vs-exeter-chiefs-1629472906/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "wolves-vs-west-ham-1379168",
+    "title": "Premier League: Wolves vs West Ham",
+    "sport": "football",
+    "kickOff": "2026-01-03T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Wolves",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQiFPxjA8TWlTAsEOrkNoXyYG8BVCIQA.webp"
+    },
+    "team2": {
+      "name": "West Ham",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQEECH4xgeJrSpgWCHVyG1L5MLeAqhEIA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/wolves-vs-west-ham-1379168/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/wolves-vs-west-ham-1379168/2",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "dundee-utd-vs-dundee-1382787",
+    "title": "Premiership: Dundee Utd vs Dundee",
+    "sport": "football",
+    "kickOff": "2026-01-03T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Dundee Utd",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIRCBDz+MYHia0qYFgh1chta+TD3gKoRCA.webp"
+    },
+    "team2": {
+      "name": "Dundee",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHECxAGCMYHia0qYFgh1chta+TD3gKoRCA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/dundee-utd-vs-dundee-1382787/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "ppv-wolverhampton-wanderers-vs-west-ham-united",
     "title": "Wolverhampton Wanderers vs. West Ham United",
     "sport": "football",
@@ -5041,12 +5121,12 @@
     "kickOff": "2026-01-03T15:00:00",
     "isLive": false,
     "team1": {
-      "name": "Brighton & Hove Albion",
-      "logo": ""
+      "name": "Brighton",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLKQRjA8TWlTAsEOrkNoXyYG8BVCIQA.webp"
     },
     "team2": {
       "name": "Burnley",
-      "logo": ""
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQEI-xjA8TWlTAsEOrkNoXyYG8BVCIQA.webp"
     },
     "links": [
       {
@@ -5058,6 +5138,16 @@
         "url": "https://embedsports.top/embed/admin/ppv-brighton-hove-albion-vs-burnley/2",
         "language": "English",
         "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/brighton-vs-burnley-1379161/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/brighton-vs-burnley-1379161/2",
+        "language": "English",
+        "hd": true
       }
     ]
   },
@@ -5069,11 +5159,11 @@
     "isLive": false,
     "team1": {
       "name": "Osasuna",
-      "logo": ""
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQhEByP8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
     },
     "team2": {
       "name": "Athletic Club",
-      "logo": ""
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLEIj4EYwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
     },
     "links": [
       {
@@ -5085,6 +5175,60 @@
         "url": "https://embedsports.top/embed/admin/ppv-osasuna-vs-athletic-club/2",
         "language": "English",
         "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/osasuna-vs-athletic-club-1390994/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/osasuna-vs-athletic-club-1390994/2",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "pretoria-capitals-vs-durbans-super-giants-1629472907",
+    "title": "SA20: Pretoria Capitals vs Durban's Super Giants",
+    "sport": "cricket",
+    "kickOff": "2026-01-03T15:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Pretoria Capitals",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SoxYghiCGRAcQAEwtPmEECDH0Q5c40S1rdjBOnub2NpZeDPwwwHh6dGAsCgGsWLFiYInA1kIQQA.webp"
+    },
+    "team2": {
+      "name": "Durban's Super Giants",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAAmIbDBARh9EA+aT7HXiHK3GF25ItWQrti03sAWQj6h7vwwwHh6dGAsChFCtHHkYInAtuFAA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/pretoria-capitals-vs-durbans-super-giants-1629472907/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "tondela-vs-arouca-1396388",
+    "title": "Primeira Liga: Tondela vs Arouca",
+    "sport": "football",
+    "kickOff": "2026-01-03T15:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Tondela",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHXiBD8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "team2": {
+      "name": "Arouca",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHEBBz8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/tondela-vs-arouca-1396388/1",
+        "language": "English",
+        "hd": true
       }
     ]
   },
@@ -5143,33 +5287,6 @@
     ]
   },
   {
-    "id": "ppv-elche-vs-villarreal",
-    "title": "Elche vs. Villarreal",
-    "sport": "football",
-    "kickOff": "2026-01-03T17:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Elche",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Villarreal",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-elche-vs-villarreal/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-elche-vs-villarreal/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-afc-bournemouth-vs-arsenal",
     "title": "AFC Bournemouth vs. Arsenal",
     "sport": "football",
@@ -5191,6 +5308,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-afc-bournemouth-vs-arsenal/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-elche-vs-villarreal",
+    "title": "Elche vs. Villarreal",
+    "sport": "football",
+    "kickOff": "2026-01-03T17:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Elche",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Villarreal",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-elche-vs-villarreal/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-elche-vs-villarreal/2",
         "language": "English",
         "hd": false
       }
@@ -5537,27 +5681,27 @@
     ]
   },
   {
-    "id": "ppv-fulham-vs-liverpool",
-    "title": "Fulham vs. Liverpool",
+    "id": "ppv-everton-vs-brentford",
+    "title": "Everton vs. Brentford",
     "sport": "football",
     "kickOff": "2026-01-04T15:00:00",
     "isLive": false,
     "team1": {
-      "name": "Fulham",
+      "name": "Everton",
       "logo": ""
     },
     "team2": {
-      "name": "Liverpool",
+      "name": "Brentford",
       "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-fulham-vs-liverpool/1",
+        "url": "https://embedsports.top/embed/admin/ppv-everton-vs-brentford/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-fulham-vs-liverpool/2",
+        "url": "https://embedsports.top/embed/admin/ppv-everton-vs-brentford/2",
         "language": "English",
         "hd": false
       }
@@ -5618,27 +5762,27 @@
     ]
   },
   {
-    "id": "ppv-everton-vs-brentford",
-    "title": "Everton vs. Brentford",
+    "id": "ppv-fulham-vs-liverpool",
+    "title": "Fulham vs. Liverpool",
     "sport": "football",
     "kickOff": "2026-01-04T15:00:00",
     "isLive": false,
     "team1": {
-      "name": "Everton",
+      "name": "Fulham",
       "logo": ""
     },
     "team2": {
-      "name": "Brentford",
+      "name": "Liverpool",
       "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-everton-vs-brentford/1",
+        "url": "https://embedsports.top/embed/admin/ppv-fulham-vs-liverpool/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-everton-vs-brentford/2",
+        "url": "https://embedsports.top/embed/admin/ppv-fulham-vs-liverpool/2",
         "language": "English",
         "hd": false
       }
@@ -5699,33 +5843,6 @@
     ]
   },
   {
-    "id": "ppv-brest-vs-aj-auxerre",
-    "title": "Brest vs. AJ Auxerre",
-    "sport": "football",
-    "kickOff": "2026-01-04T16:15:00",
-    "isLive": false,
-    "team1": {
-      "name": "Brest",
-      "logo": ""
-    },
-    "team2": {
-      "name": "AJ Auxerre",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-brest-vs-aj-auxerre/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-brest-vs-aj-auxerre/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-lorient-vs-metz",
     "title": "Lorient vs. Metz",
     "sport": "football",
@@ -5747,6 +5864,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-lorient-vs-metz/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-brest-vs-aj-auxerre",
+    "title": "Brest vs. AJ Auxerre",
+    "sport": "football",
+    "kickOff": "2026-01-04T16:15:00",
+    "isLive": false,
+    "team1": {
+      "name": "Brest",
+      "logo": ""
+    },
+    "team2": {
+      "name": "AJ Auxerre",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-brest-vs-aj-auxerre/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-brest-vs-aj-auxerre/2",
         "language": "English",
         "hd": false
       }
@@ -5861,81 +6005,27 @@
     ]
   },
   {
-    "id": "ppv-tennessee-titans-vs-jacksonville-jaguars",
-    "title": "Tennessee Titans vs. Jacksonville Jaguars",
+    "id": "ppv-dallas-cowboys-vs-new-york-giants",
+    "title": "Dallas Cowboys vs. New York Giants",
     "sport": "american-football",
     "kickOff": "2026-01-04T18:00:00",
     "isLive": false,
     "team1": {
-      "name": "Tennessee Titans",
+      "name": "Dallas Cowboys",
       "logo": ""
     },
     "team2": {
-      "name": "Jacksonville Jaguars",
+      "name": "New York Giants",
       "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-tennessee-titans-vs-jacksonville-jaguars/1",
+        "url": "https://embedsports.top/embed/admin/ppv-dallas-cowboys-vs-new-york-giants/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-tennessee-titans-vs-jacksonville-jaguars/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-green-bay-packers-vs-minnesota-vikings",
-    "title": "Green Bay Packers vs. Minnesota Vikings",
-    "sport": "american-football",
-    "kickOff": "2026-01-04T18:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Green Bay Packers",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Minnesota Vikings",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-green-bay-packers-vs-minnesota-vikings/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-green-bay-packers-vs-minnesota-vikings/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-cleveland-browns-vs-cincinnati-bengals",
-    "title": "Cleveland Browns vs. Cincinnati Bengals",
-    "sport": "american-football",
-    "kickOff": "2026-01-04T18:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Cleveland Browns",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Cincinnati Bengals",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-cleveland-browns-vs-cincinnati-bengals/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-cleveland-browns-vs-cincinnati-bengals/2",
+        "url": "https://embedsports.top/embed/admin/ppv-dallas-cowboys-vs-new-york-giants/2",
         "language": "English",
         "hd": false
       }
@@ -5969,6 +6059,33 @@
     ]
   },
   {
+    "id": "ppv-green-bay-packers-vs-minnesota-vikings",
+    "title": "Green Bay Packers vs. Minnesota Vikings",
+    "sport": "american-football",
+    "kickOff": "2026-01-04T18:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Green Bay Packers",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Minnesota Vikings",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-green-bay-packers-vs-minnesota-vikings/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-green-bay-packers-vs-minnesota-vikings/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
     "id": "ppv-new-orleans-saints-vs-atlanta-falcons",
     "title": "New Orleans Saints vs. Atlanta Falcons",
     "sport": "american-football",
@@ -5996,27 +6113,54 @@
     ]
   },
   {
-    "id": "ppv-dallas-cowboys-vs-new-york-giants",
-    "title": "Dallas Cowboys vs. New York Giants",
+    "id": "ppv-cleveland-browns-vs-cincinnati-bengals",
+    "title": "Cleveland Browns vs. Cincinnati Bengals",
     "sport": "american-football",
     "kickOff": "2026-01-04T18:00:00",
     "isLive": false,
     "team1": {
-      "name": "Dallas Cowboys",
+      "name": "Cleveland Browns",
       "logo": ""
     },
     "team2": {
-      "name": "New York Giants",
+      "name": "Cincinnati Bengals",
       "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-dallas-cowboys-vs-new-york-giants/1",
+        "url": "https://embedsports.top/embed/admin/ppv-cleveland-browns-vs-cincinnati-bengals/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-dallas-cowboys-vs-new-york-giants/2",
+        "url": "https://embedsports.top/embed/admin/ppv-cleveland-browns-vs-cincinnati-bengals/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-tennessee-titans-vs-jacksonville-jaguars",
+    "title": "Tennessee Titans vs. Jacksonville Jaguars",
+    "sport": "american-football",
+    "kickOff": "2026-01-04T18:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Tennessee Titans",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Jacksonville Jaguars",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-tennessee-titans-vs-jacksonville-jaguars/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-tennessee-titans-vs-jacksonville-jaguars/2",
         "language": "English",
         "hd": false
       }
@@ -6104,33 +6248,6 @@
     ]
   },
   {
-    "id": "ppv-washington-commanders-vs-philadelphia-eagles",
-    "title": "Washington Commanders vs. Philadelphia Eagles",
-    "sport": "american-football",
-    "kickOff": "2026-01-04T21:25:00",
-    "isLive": false,
-    "team1": {
-      "name": "Washington Commanders",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Philadelphia Eagles",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-washington-commanders-vs-philadelphia-eagles/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-washington-commanders-vs-philadelphia-eagles/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-arizona-cardinals-vs-los-angeles-rams",
     "title": "Arizona Cardinals vs. Los Angeles Rams",
     "sport": "american-football",
@@ -6185,6 +6302,60 @@
     ]
   },
   {
+    "id": "ppv-los-angeles-chargers-vs-denver-broncos",
+    "title": "Los Angeles Chargers vs. Denver Broncos",
+    "sport": "american-football",
+    "kickOff": "2026-01-04T21:25:00",
+    "isLive": false,
+    "team1": {
+      "name": "Los Angeles Chargers",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Denver Broncos",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-los-angeles-chargers-vs-denver-broncos/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-los-angeles-chargers-vs-denver-broncos/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-washington-commanders-vs-philadelphia-eagles",
+    "title": "Washington Commanders vs. Philadelphia Eagles",
+    "sport": "american-football",
+    "kickOff": "2026-01-04T21:25:00",
+    "isLive": false,
+    "team1": {
+      "name": "Washington Commanders",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Philadelphia Eagles",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-washington-commanders-vs-philadelphia-eagles/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-washington-commanders-vs-philadelphia-eagles/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
     "id": "ppv-miami-dolphins-vs-new-england-patriots",
     "title": "Miami Dolphins vs. New England Patriots",
     "sport": "american-football",
@@ -6233,33 +6404,6 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-detroit-lions-vs-chicago-bears/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-los-angeles-chargers-vs-denver-broncos",
-    "title": "Los Angeles Chargers vs. Denver Broncos",
-    "sport": "american-football",
-    "kickOff": "2026-01-04T21:25:00",
-    "isLive": false,
-    "team1": {
-      "name": "Los Angeles Chargers",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Denver Broncos",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-los-angeles-chargers-vs-denver-broncos/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-los-angeles-chargers-vs-denver-broncos/2",
         "language": "English",
         "hd": false
       }
