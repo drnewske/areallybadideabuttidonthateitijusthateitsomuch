@@ -90,38 +90,6 @@
     "links": []
   },
   {
-    "id": "live-event_friday-night-smackdown-live-stream",
-    "title": "Friday Night Smackdown",
-    "sport": "fight",
-    "kickOff": "2026-01-03T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/delta/live-event_friday-night-smackdown-live-stream/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/wwe-friday-night-smackdown-wwe-009/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/wwe-friday-night-smackdown-wwe-009/2",
-        "language": "",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "washington-wizards-vs-brooklyn-nets-2357836",
     "title": "Washington Wizards vs Brooklyn Nets",
     "sport": "basketball",
@@ -205,6 +173,33 @@
       {
         "url": "https://embedsports.top/embed/golf/18811/1",
         "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "wwe-friday-night-smackdown-wwe-009",
+    "title": "WWE: Friday Night Smackdown \ud83d\udd25",
+    "sport": "fight",
+    "kickOff": "2026-01-03T01:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/echo/wwe-friday-night-smackdown-wwe-009/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/wwe-friday-night-smackdown-wwe-009/2",
+        "language": "",
         "hd": true
       }
     ]
@@ -379,36 +374,6 @@
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-oklahoma-city-thunder-vs-golden-state-warriors/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-oklahoma-city-thunder-vs-golden-state-warriors/2",
-        "language": "English",
-        "hd": false
-      },
-      {
-        "url": "https://embedsports.top/embed/delta/live_nba_warriors-thunder-live-streaming-427213872/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/delta/live_nba_warriors-thunder-live-streaming-427213872/2",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/golden-state-warriors-vs-oklahoma-city-thunder-basketball-469959/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/golden-state-warriors-vs-oklahoma-city-thunder-basketball-469959/2",
-        "language": "",
-        "hd": true
-      },
-      {
         "url": "https://embedsports.top/embed/golf/18816/1",
         "language": "English",
         "hd": true
@@ -535,21 +500,6 @@
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/delta/live_nhl_ducks-wild-live-streaming-484849152/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/anaheim-ducks-vs-minnesota-wild-hockey-416259/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/anaheim-ducks-vs-minnesota-wild-hockey-416259/2",
-        "language": "",
-        "hd": true
-      },
-      {
         "url": "https://embedsports.top/embed/golf/18807/1",
         "language": "English",
         "hd": true
@@ -589,26 +539,6 @@
       {
         "url": "https://embedsports.top/embed/charlie/memphis-grizzlies-vs-los-angeles-lakers-1629472899/2",
         "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/delta/live_nba_lakers-grizzlies-live-streaming-427214304/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/delta/live_nba_lakers-grizzlies-live-streaming-427214304/2",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/los-angeles-lakers-vs-memphis-grizzlies-basketball-469960/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/los-angeles-lakers-vs-memphis-grizzlies-basketball-469960/2",
-        "language": "",
         "hd": true
       },
       {
@@ -3654,18 +3584,18 @@
     ]
   },
   {
-    "id": "qpr-vs-sheffield-wednesday-football-1386852",
-    "title": "QPR vs Sheffield Wednesday",
+    "id": "qpr-vs-sheffield-wed-4461500",
+    "title": "QPR vs Sheffield Wed",
     "sport": "football",
     "kickOff": "2026-01-04T12:00:00",
     "isLive": false,
     "team1": {
       "name": "QPR",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCZ1yDRc3E94IqtwJdWYMLnxmgA.webp"
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aELhAgR01vD09S2WuzBhSO50A.webp"
     },
     "team2": {
-      "name": "Sheffield Wednesday",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiAj1yDRc3E94IqtwJdWYMLnxmgA.webp"
+      "name": "Sheffield Wed",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEFxYjpreHp6lstdmDCkdToA.webp"
     },
     "links": []
   },
@@ -3683,7 +3613,13 @@
       "name": "Coventry City",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjLgUYbmHWJuICLj0gYIRIj4gUIC4RjAmfFFzBl4ReaMdNaYZ2NEQgA.webp"
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/birmingham-vs-coventry-1386858/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "lincoln-city-vs-peterborough-united-2274926",
@@ -3848,34 +3784,34 @@
     "links": []
   },
   {
-    "id": "bremerhaven-vs-iserlohn-roosters-hockey-409017",
+    "id": "bremerhaven-vs-iserlohn-roosters-4471644",
     "title": "Bremerhaven vs Iserlohn Roosters",
     "sport": "hockey",
     "kickOff": "2026-01-04T13:00:00",
     "isLive": false,
     "team1": {
       "name": "Bremerhaven",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIbPXIMAxs2Bge8SVSmEGrMDra4IQA.webp"
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aELhAEGpliOmt4enqWy12YMKR1ugA.webp"
     },
     "team2": {
       "name": "Iserlohn Roosters",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsIGPXIMAxs2Bge8SVSmEGrMDra4IQA.webp"
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEM2IsQKnNNbw9PUtlrswYUjtdA.webp"
     },
     "links": []
   },
   {
-    "id": "sporting-gijon-vs-malaga-football-1391975",
+    "id": "sporting-gijon-vs-malaga-4468254",
     "title": "Sporting Gijon vs Malaga",
     "sport": "football",
     "kickOff": "2026-01-04T13:00:00",
     "isLive": false,
     "team1": {
       "name": "Sporting Gijon",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiEQk65Boubie8EVW4EurMGFz5zQA.webp"
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aELhYMR01vD09S2WuzBhSO50A.webp"
     },
     "team2": {
       "name": "Malaga",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIRNnrkGAY2bie8EVW4EurMGFz5zQA.webp"
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aELhYgVOaa3h6epbLXZgwpHS6A.webp"
     },
     "links": []
   },
@@ -4634,18 +4570,18 @@
     ]
   },
   {
-    "id": "al-hazm-vs-neom-football-1436024",
-    "title": "Al-Hazm vs NEOM",
+    "id": "al-hazm-vs-neom-sc-4523636",
+    "title": "Al Hazm vs NEOM SC",
     "sport": "football",
     "kickOff": "2026-01-04T15:05:00",
     "isLive": false,
     "team1": {
-      "name": "Al-Hazm",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCAghs9cgwDGzcT3giq3Al1ZgwufFaA.webp"
+      "name": "Al Hazm",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aELhAQQ5lCxHTW8PT1LZa7MGFI73QA.webp"
     },
     "team2": {
-      "name": "NEOM",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGCGyKQ8euQYBjZuJ7wRVbgS6swYXPmtA.webp"
+      "name": "NEOM SC",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aFsYIgUDEdNbw9PUtlrswYUjtdA.webp"
     },
     "links": []
   },
