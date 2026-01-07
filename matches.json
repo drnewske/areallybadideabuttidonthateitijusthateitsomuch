@@ -29,11 +29,11 @@
     "isLive": false,
     "team1": {
       "name": "Australia",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHHPxjA8TWlTAsEOrkNoXyYG8BVCIQA.webp"
+      "logo": ""
     },
     "team2": {
       "name": "England",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeOfjGB4mtKmBYIdXIbXPkw14CqEQgA.webp"
+      "logo": ""
     },
     "links": [
       {
@@ -45,36 +45,6 @@
         "url": "https://embedsports.top/embed/admin/ppv-australia-vs-england/2",
         "language": "English",
         "hd": false
-      },
-      {
-        "url": "https://embedsports.top/embed/charlie/australia-vs-england-1629473058/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/the-ashes-202526-australia-vs-england-day-4-cricket-hundred-1/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/the-ashes-202526-australia-vs-england-day-4-cricket-hundred-1/2",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/the-ashes-202526-australia-vs-england-day-4-cricket-hundred-1/3",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/the-ashes-202526-australia-vs-england-day-4-cricket-hundred-1/4",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/the-ashes-202526-australia-vs-england-day-4-cricket-hundred-1/5",
-        "language": "",
-        "hd": true
       }
     ]
   },
@@ -469,28 +439,6 @@
     ]
   },
   {
-    "id": "perth-scorchers-vs-melbourne-renegades-2290605",
-    "title": "Perth Scorchers vs Melbourne Renegades",
-    "sport": "cricket",
-    "kickOff": "2026-01-07T08:15:00",
-    "isLive": false,
-    "team1": {
-      "name": "Perth Scorchers",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxREQwMLBAkQ3bSAggAJsZBm9fEIkYUmfFFzBl4ReaIdNam0VLpA.webp"
-    },
-    "team2": {
-      "name": "Melbourne Renegades",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmYFCDgCUwAAwhuICCA04VmkHwvHlhGMCZ8dbMGXhF5onU1phXY0QggA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/perth-scorchers-vs-melbourne-renegades-1629473086/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "pat-rafter-arena-day-4-1629473570",
     "title": "Brisbane International: Pat Rafter Arena: Day 4",
     "sport": "tennis",
@@ -529,28 +477,6 @@
     "links": []
   },
   {
-    "id": "japan-u23-vs-syria-u23-1629473087",
-    "title": "AFC U23 Asian Cup: Japan U23 vs Syria U23",
-    "sport": "football",
-    "kickOff": "2026-01-07T11:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Japan U23",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeOI4RDz+MYHia0qYFgh1chta+TD3gKoRCA.webp"
-    },
-    "team2": {
-      "name": "Syria U23",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/japan-u23-vs-syria-u23-1629473087/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "korea-republic-u23-vs-iran-1629473088",
     "title": "AFC U23 Asian Cup: Korea Republic U23 vs Iran",
     "sport": "football",
@@ -567,6 +493,28 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/korea-republic-u23-vs-iran-1629473088/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "japan-u23-vs-syria-u23-1629473087",
+    "title": "AFC U23 Asian Cup: Japan U23 vs Syria U23",
+    "sport": "football",
+    "kickOff": "2026-01-07T11:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Japan U23",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeOI4RDz+MYHia0qYFgh1chta+TD3gKoRCA.webp"
+    },
+    "team2": {
+      "name": "Syria U23",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/japan-u23-vs-syria-u23-1629473087/1",
         "language": "English",
         "hd": true
       }
@@ -2511,18 +2459,18 @@
     ]
   },
   {
-    "id": "australia-u23-vs-thailand-u23-4581017",
-    "title": "Australia U23 vs Thailand U23",
+    "id": "australia-u23-vs-thailand-u23-1629473134",
+    "title": "AFC U23 Asian Cup: Australia U23 vs Thailand U23",
     "sport": "football",
     "kickOff": "2026-01-08T11:30:00",
     "isLive": false,
     "team1": {
       "name": "Australia U23",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEFxCmUxkLhHTW8PT1LZa7MGFI73QA.webp"
+      "logo": ""
     },
     "team2": {
       "name": "Thailand U23",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEFxCmUIXGZzTW8PT1LZa7MGFI73QA.webp"
+      "logo": ""
     },
     "links": [
       {
@@ -2555,28 +2503,6 @@
     ]
   },
   {
-    "id": "iraq-u23-vs-china-u23-4581015",
-    "title": "Iraq U23 vs China U23",
-    "sport": "football",
-    "kickOff": "2026-01-08T14:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Iraq U23",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEFxCmUIXAxHTW8PT1LZa7MGFI73QA.webp"
-    },
-    "team2": {
-      "name": "China U23",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEFxYgYIXGZHTW8PT1LZa7MGFI73QA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/iraq-u23-vs-china-pr-u23-1629473137/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "al-hilal-saudi-fc-vs-al-hazm-1436034",
     "title": "Pro League: Al-Hilal Saudi FC vs Al-Hazm",
     "sport": "football",
@@ -2597,22 +2523,6 @@
         "hd": true
       }
     ]
-  },
-  {
-    "id": "al-hilal-riyadh-vs-al-hazm-4523624",
-    "title": "Al Hilal Riyadh vs Al Hazm",
-    "sport": "football",
-    "kickOff": "2026-01-08T14:55:00",
-    "isLive": false,
-    "team1": {
-      "name": "Al Hilal Riyadh",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aFiAjGCI6a3h6epbLXZgwpHS6A.webp"
-    },
-    "team2": {
-      "name": "Al Hazm",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aELhAQQ5lCxHTW8PT1LZa7MGFI73QA.webp"
-    },
-    "links": []
   },
   {
     "id": "joburg-super-kings-vs-paarl-royals-2374267",
@@ -2762,18 +2672,18 @@
     ]
   },
   {
-    "id": "psg-vs-olympique-de-marseille-4617462",
-    "title": "PSG vs Olympique de Marseille",
+    "id": "paris-saint-germain-vs-marseille-1629473147",
+    "title": "Trophee des Champions: Paris Saint Germain vs Marseille",
     "sport": "football",
     "kickOff": "2026-01-08T18:00:00",
     "isLive": false,
     "team1": {
-      "name": "PSG",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEBBCmYI6a3h6epbLXZgwpHS6A.webp"
+      "name": "Paris Saint Germain",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQRtgRjA8TWlTAsEOrkNoXyYG8BVCIQA.webp"
     },
     "team2": {
-      "name": "Olympique de Marseille",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEBBDMUI6a3h6epbLXZgwpHS6A.webp"
+      "name": "Marseille",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQRvgRjA8TWlTAsEOrkNoXyYG8BVCIQA.webp"
     },
     "links": [
       {
@@ -2806,18 +2716,18 @@
     ]
   },
   {
-    "id": "cholet-vs-tofas-4635382",
-    "title": "Cholet vs Tofas",
+    "id": "cholet-vs-tofas-1629473143",
+    "title": "Basketball Champions League: Cholet vs Tofas",
     "sport": "basketball",
     "kickOff": "2026-01-08T19:00:00",
     "isLive": false,
     "team1": {
       "name": "Cholet",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aFiAggQI6a3h6epbLXZgwpHS6A.webp"
+      "logo": ""
     },
     "team2": {
       "name": "Tofas",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuC4OCGwBjYAU2HmH3JBJQFYREATEYhM4NMAThITvbQ5M2PIRqdWMYGA4VgEdGGZd0acoOlTWELJA7c+aEM0QgQCnNNbw9PUtlrswYUjtdA.webp"
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCEQwyIZoeAATK8AgMQEFy8fPJk164steAb7OMAEWjK58BBZ4enRgLApOkkK0MeRg8R5CEEA.webp"
     },
     "links": [
       {
@@ -3904,28 +3814,6 @@
     ]
   },
   {
-    "id": "prince-sultan-bin-abdulaziz-festival-race-night-2-1629473180",
-    "title": "Riyadh Season Horse Racing: Prince Sultan Bin Abdulaziz Festival Race Night 2",
-    "sport": "other",
-    "kickOff": "2026-01-09T13:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/prince-sultan-bin-abdulaziz-festival-race-night-2-1629473180/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "rajshahi-warriors-vs-sylhet-titans-1629473179",
     "title": "Bangladesh Premier League: Rajshahi Warriors vs Sylhet Titans",
     "sport": "cricket",
@@ -3942,6 +3830,28 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/rajshahi-warriors-vs-sylhet-titans-1629473179/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "prince-sultan-bin-abdulaziz-festival-race-night-2-1629473180",
+    "title": "Riyadh Season Horse Racing: Prince Sultan Bin Abdulaziz Festival Race Night 2",
+    "sport": "other",
+    "kickOff": "2026-01-09T13:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/prince-sultan-bin-abdulaziz-festival-race-night-2-1629473180/1",
         "language": "English",
         "hd": true
       }
@@ -4271,6 +4181,33 @@
     ]
   },
   {
+    "id": "wrexham-vs-nottingham-forest-1629473198",
+    "title": "FA Cup: Wrexham vs Nottingham Forest",
+    "sport": "football",
+    "kickOff": "2026-01-09T19:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Wrexham",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Nottingham Forest",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQ8kGwIxgeJrSpgWCHVyG1L5MLeAqhEIA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/wrexham-vs-nottingham-forest-1629473198/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/golf/19053/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "milton-keynes-dons-vs-oxford-united-1629473201",
     "title": "FA Cup: Milton Keynes Dons vs Oxford United",
     "sport": "football",
@@ -4314,33 +4251,6 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/cadiz-vs-sporting-gijon-1391988/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "wrexham-vs-nottingham-forest-1629473198",
-    "title": "FA Cup: Wrexham vs Nottingham Forest",
-    "sport": "football",
-    "kickOff": "2026-01-09T19:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Wrexham",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Nottingham Forest",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQ8kGwIxgeJrSpgWCHVyG1L5MLeAqhEIA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/wrexham-vs-nottingham-forest-1629473198/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/19053/1",
         "language": "English",
         "hd": true
       }
@@ -4843,6 +4753,11 @@
     },
     "links": [
       {
+        "url": "https://embedsports.top/embed/charlie/oklahoma-city-thunder-vs-memphis-grizzlies-1629473209/1",
+        "language": "English",
+        "hd": true
+      },
+      {
         "url": "https://embedsports.top/embed/golf/19028/1",
         "language": "English",
         "hd": true
@@ -5119,28 +5034,6 @@
     ]
   },
   {
-    "id": "melbourne-victory-vs-western-sydney-wanderers-1469623",
-    "title": "A-League: Melbourne Victory vs Western Sydney Wanderers",
-    "sport": "football",
-    "kickOff": "2026-01-10T06:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Melbourne Victory",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQ2CCAj8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
-    },
-    "team2": {
-      "name": "Western Sydney Wanderers",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQ2RCn4xgeJrSpgWCHVyG1L5MLeAqhEIA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/melbourne-victory-vs-western-sydney-wanderers-1469623/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "newcastle-jets-fc-w-vs-central-coast-mariners-w-1484528",
     "title": "A-League Women: Newcastle Jets FC W vs Central Coast Mariners W",
     "sport": "football",
@@ -5157,6 +5050,28 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/newcastle-jets-fc-w-vs-central-coast-mariners-w-1484528/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "melbourne-victory-vs-western-sydney-wanderers-1469623",
+    "title": "A-League: Melbourne Victory vs Western Sydney Wanderers",
+    "sport": "football",
+    "kickOff": "2026-01-10T06:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Melbourne Victory",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQ2CCAj8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "team2": {
+      "name": "Western Sydney Wanderers",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQ2RCn4xgeJrSpgWCHVyG1L5MLeAqhEIA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/melbourne-victory-vs-western-sydney-wanderers-1469623/1",
         "language": "English",
         "hd": true
       }
@@ -5271,33 +5186,6 @@
     ]
   },
   {
-    "id": "ppv-sc-freiburg-vs-hamburg-sv",
-    "title": "SC Freiburg vs. Hamburg SV",
-    "sport": "football",
-    "kickOff": "2026-01-10T14:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "SC Freiburg",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Hamburg SV",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-sc-freiburg-vs-hamburg-sv/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-sc-freiburg-vs-hamburg-sv/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-st-pauli-vs-rb-leipzig",
     "title": "St. Pauli vs. RB Leipzig",
     "sport": "football",
@@ -5319,6 +5207,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-st-pauli-vs-rb-leipzig/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-1-fc-heidenheim-1846-vs-fc-cologne",
+    "title": "1. FC Heidenheim 1846 vs. FC Cologne",
+    "sport": "football",
+    "kickOff": "2026-01-10T14:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "1. FC Heidenheim 1846",
+      "logo": ""
+    },
+    "team2": {
+      "name": "FC Cologne",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-1-fc-heidenheim-1846-vs-fc-cologne/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-1-fc-heidenheim-1846-vs-fc-cologne/2",
         "language": "English",
         "hd": false
       }
@@ -5352,27 +5267,27 @@
     ]
   },
   {
-    "id": "ppv-1-fc-heidenheim-1846-vs-fc-cologne",
-    "title": "1. FC Heidenheim 1846 vs. FC Cologne",
+    "id": "ppv-sc-freiburg-vs-hamburg-sv",
+    "title": "SC Freiburg vs. Hamburg SV",
     "sport": "football",
     "kickOff": "2026-01-10T14:30:00",
     "isLive": false,
     "team1": {
-      "name": "1. FC Heidenheim 1846",
+      "name": "SC Freiburg",
       "logo": ""
     },
     "team2": {
-      "name": "FC Cologne",
+      "name": "Hamburg SV",
       "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-1-fc-heidenheim-1846-vs-fc-cologne/1",
+        "url": "https://embedsports.top/embed/admin/ppv-sc-freiburg-vs-hamburg-sv/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-1-fc-heidenheim-1846-vs-fc-cologne/2",
+        "url": "https://embedsports.top/embed/admin/ppv-sc-freiburg-vs-hamburg-sv/2",
         "language": "English",
         "hd": false
       }
