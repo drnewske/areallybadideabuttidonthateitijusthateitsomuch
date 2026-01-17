@@ -1,27 +1,5 @@
 [
   {
-    "id": "live-event_alexis-rocha-vs-raul-curiel-1-live-stream",
-    "title": "Alexis Rocha vs Raul Curiel",
-    "sport": "fight",
-    "kickOff": "2026-01-17T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/delta/live-event_alexis-rocha-vs-raul-curiel-1-live-stream/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "ppv-event-06-cmll-international-weekend-ppv-06",
     "title": "CMLL International Weekend",
     "sport": "other",
@@ -88,28 +66,7 @@
       "name": "Melbourne Renegades",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmYFCDgCUwAAwhuICCA04VmkHwvHlhGMCZ8dbMGXhF5onU1phXY0QggA.webp"
     },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/adelaide-strikers-vs-melbourne-renegades-1629473599/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/bbl-adelaide-strikers-vs-melbourne-renegades-game-117834/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/bbl-adelaide-strikers-vs-melbourne-renegades-game-117834/2",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/bbl-adelaide-strikers-vs-melbourne-renegades-game-117834/3",
-        "language": "",
-        "hd": true
-      }
-    ]
+    "links": []
   },
   {
     "id": "central-coast-mariners-vs-macarthur-fc-2355346",
@@ -282,7 +239,13 @@
       "name": "Perth Heat",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj6wwSbG0ghuIACYhEffSFMlDOkHwIUm1rmDLwi80SmBNaYR2NEQgA.webp"
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/adelaide-giants-vs-perth-heat-1629473604/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "perth-scorchers-vs-melbourne-stars-2290618",
@@ -299,11 +262,6 @@
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAg4EEHzAATEIm6aQBkrhC6Uhk3wIUm1rmDLwi80SmBNaYR2NEQgA.webp"
     },
     "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/perth-scorchers-vs-melbourne-stars-1629473605/1",
-        "language": "English",
-        "hd": true
-      },
       {
         "url": "https://embedsports.top/embed/echo/bbl-perth-scorchers-vs-melbourne-stars-game-126262/1",
         "language": "",
@@ -512,28 +470,6 @@
     ]
   },
   {
-    "id": "uzbekistan-u23-vs-china-pr-u23-1508099",
-    "title": "AFC U23 Asian Cup: Uzbekistan U23 vs China PR U23",
-    "sport": "football",
-    "kickOff": "2026-01-17T11:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Uzbekistan U23",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeOENnkgDBGMDxNaVMCwQ6uQ2jfJgHwFUIhA.webp"
-    },
-    "team2": {
-      "name": "China PR U23",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeOENkQd+MYHia0qYFgh1chta+TD3gKoRCA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/uzbekistan-u23-vs-china-pr-u23-1508099/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "parma-w-vs-ac-milan-w-1479709",
     "title": "Serie A Women: Parma W vs AC Milan W",
     "sport": "football",
@@ -550,6 +486,28 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/parma-w-vs-ac-milan-w-1479709/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "uzbekistan-u23-vs-china-pr-u23-1508099",
+    "title": "AFC U23 Asian Cup: Uzbekistan U23 vs China PR U23",
+    "sport": "football",
+    "kickOff": "2026-01-17T11:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Uzbekistan U23",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeOENnkgDBGMDxNaVMCwQ6uQ2jfJgHwFUIhA.webp"
+    },
+    "team2": {
+      "name": "China PR U23",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeOENkQd+MYHia0qYFgh1chta+TD3gKoRCA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/uzbekistan-u23-vs-china-pr-u23-1508099/1",
         "language": "English",
         "hd": true
       }
@@ -605,28 +563,6 @@
     ]
   },
   {
-    "id": "dynamo-dresden-vs-spvgg-greuther-furth-1388775",
-    "title": "2. Bundesliga: Dynamo Dresden vs SpVgg Greuther Furth",
-    "sport": "football",
-    "kickOff": "2026-01-17T12:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Dynamo Dresden",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIYwYIxgeJrSpgWCHVyG1L5MLeAqhEIA.webp"
-    },
-    "team2": {
-      "name": "SpVgg Greuther Furth",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIQiBD8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/dynamo-dresden-vs-spvgg-greuther-furth-1388775/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "preussen-munster-vs-karlsruher-sc-1388774",
     "title": "2. Bundesliga: Preu\u00dfen Munster vs Karlsruher SC",
     "sport": "football",
@@ -643,6 +579,28 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/preussen-munster-vs-karlsruher-sc-1388774/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "dynamo-dresden-vs-spvgg-greuther-furth-1388775",
+    "title": "2. Bundesliga: Dynamo Dresden vs SpVgg Greuther Furth",
+    "sport": "football",
+    "kickOff": "2026-01-17T12:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Dynamo Dresden",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIYwYIxgeJrSpgWCHVyG1L5MLeAqhEIA.webp"
+    },
+    "team2": {
+      "name": "SpVgg Greuther Furth",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIQiBD8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/dynamo-dresden-vs-spvgg-greuther-furth-1388775/1",
         "language": "English",
         "hd": true
       }
@@ -1010,22 +968,6 @@
     ]
   },
   {
-    "id": "tsv-1860-munchen-vs-rot-weiss-essen-football-1394245",
-    "title": "TSV 1860 M\u00fcnchen vs Rot-Wei\u00df Essen",
-    "sport": "football",
-    "kickOff": "2026-01-17T13:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "TSV 1860 M\u00fcnchen",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBX965Boubie8EVW4EurMGFz5zQA.webp"
-    },
-    "team2": {
-      "name": "Rot-Wei\u00df Essen",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiCqL65BgGNm4nvBFVuBLqzBhc+S0A.webp"
-    },
-    "links": []
-  },
-  {
     "id": "ssv-ulm-1846-vs-sv-wehen-football-1394251",
     "title": "SSV Ulm 1846 vs SV Wehen",
     "sport": "football",
@@ -1038,6 +980,22 @@
     "team2": {
       "name": "SV Wehen",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIREpT1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "tsv-1860-munchen-vs-rot-weiss-essen-football-1394245",
+    "title": "TSV 1860 M\u00fcnchen vs Rot-Wei\u00df Essen",
+    "sport": "football",
+    "kickOff": "2026-01-17T13:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "TSV 1860 M\u00fcnchen",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBX965Boubie8EVW4EurMGFz5zQA.webp"
+    },
+    "team2": {
+      "name": "Rot-Wei\u00df Essen",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiCqL65BgGNm4nvBFVuBLqzBhc+S0A.webp"
     },
     "links": []
   },
@@ -1387,22 +1345,6 @@
     "links": []
   },
   {
-    "id": "goal-rush-game-1363646",
-    "title": "Goal Rush \u26bd \u2b50 \ud83d\udca5",
-    "sport": "football",
-    "kickOff": "2026-01-17T14:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
-  },
-  {
     "id": "multiview-matchweek-22-game-187788",
     "title": "Multiview: Matchweek 22  \ud83d\udd25 \ud83d\udd25 \ud83d\udd25",
     "sport": "football",
@@ -1417,28 +1359,6 @@
       "logo": ""
     },
     "links": []
-  },
-  {
-    "id": "hamburger-sv-vs-borussia-monchengladbach-1388464",
-    "title": "Bundesliga: Hamburger SV vs Borussia Monchengladbach",
-    "sport": "football",
-    "kickOff": "2026-01-17T14:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Hamburger SV",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIQiDYEYwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
-    },
-    "team2": {
-      "name": "Borussia Monchengladbach",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIeSAMEYwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/hamburger-sv-vs-borussia-monchengladbach-1388464/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
   },
   {
     "id": "1-fc-koln-vs-fsv-mainz-05-1388463",
@@ -1457,6 +1377,28 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/1-fc-koln-vs-fsv-mainz-05-1388463/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "hamburger-sv-vs-borussia-monchengladbach-1388464",
+    "title": "Bundesliga: Hamburger SV vs Borussia Monchengladbach",
+    "sport": "football",
+    "kickOff": "2026-01-17T14:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Hamburger SV",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIQiDYEYwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "team2": {
+      "name": "Borussia Monchengladbach",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIeSAMEYwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/hamburger-sv-vs-borussia-monchengladbach-1388464/1",
         "language": "English",
         "hd": true
       }
@@ -1690,6 +1632,33 @@
         "url": "https://embedsports.top/embed/charlie/charlton-vs-sheffield-utd-1386869/1",
         "language": "English",
         "hd": true
+      }
+    ]
+  },
+  {
+    "id": "ppv-goal-rush",
+    "title": "Goal Rush",
+    "sport": "football",
+    "kickOff": "2026-01-17T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-goal-rush/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-goal-rush/2",
+        "language": "English",
+        "hd": false
       }
     ]
   },
@@ -4022,6 +3991,28 @@
     ]
   },
   {
+    "id": "lane-vs-pague-1629473631",
+    "title": "BKFC: Lane vs Pague",
+    "sport": "fight",
+    "kickOff": "2026-01-18T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Lane",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Pague",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/lane-vs-pague-1629473631/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "hawaiian-open-or-day-3-1629473632",
     "title": "PGA Tour: Hawaiian Open | Day 3",
     "sport": "golf",
@@ -4214,28 +4205,6 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/kia-arena-1629473646/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "lane-vs-pague-1629473631",
-    "title": "BKFC: Lane vs Pague",
-    "sport": "fight",
-    "kickOff": "2026-01-18T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Lane",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Pague",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/lane-vs-pague-1629473631/1",
         "language": "English",
         "hd": true
       }
