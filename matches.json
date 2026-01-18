@@ -22,22 +22,6 @@
     ]
   },
   {
-    "id": "ppv-event-02-toughman-ppv-02",
-    "title": "Toughman \ud83d\udd25",
-    "sport": "other",
-    "kickOff": "2026-01-18T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
-  },
-  {
     "id": "court-6-1629473636",
     "title": "Australian Open: Court 6",
     "sport": "tennis",
@@ -2110,28 +2094,6 @@
     ]
   },
   {
-    "id": "court-8-1629473638",
-    "title": "Australian Open: Court 8",
-    "sport": "tennis",
-    "kickOff": "2026-01-18T02:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/court-8-1629473638/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "1768701600000-australian-open-court-8-mcnally-sakatsume",
     "title": "Australian Open vs Court 8 McNally - Sakatsume",
     "sport": "tennis",
@@ -2664,11 +2626,6 @@
         "url": "https://embedsports.top/embed/bravo/1768705200000-gabriel-jimenez-vs-daniel-sanchez-bivieseca/1",
         "language": "English",
         "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/delta/live-event_jimenez-vs-bivieseca-live-stream/1",
-        "language": "English",
-        "hd": true
       }
     ]
   },
@@ -2977,28 +2934,6 @@
     ]
   },
   {
-    "id": "otago-volts-vs-northern-brave-2374242",
-    "title": "Otago Volts vs Northern Brave",
-    "sport": "cricket",
-    "kickOff": "2026-01-18T03:25:00",
-    "isLive": false,
-    "team1": {
-      "name": "Otago Volts",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxkgBtErhDc1IGCE2IU2kMZ0wCFJnxRcwZeEXmjbTWmHtjREIA.webp"
-    },
-    "team2": {
-      "name": "Northern Brave",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACwwJjnp8Q3VSBggSIRCl0gzegCYEKTPii5gy8IvNGOmtMM7GiIQA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/otago-volts-vs-northern-brave-1629473662/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "1768707000000-australian-open-court-8-draxl-dzumhur",
     "title": "Australian Open vs Court 8 Draxl - Dzumhur",
     "sport": "tennis",
@@ -3188,7 +3123,13 @@
       "name": "Away Team",
       "logo": ""
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/delta/live_u20-world-championship-division-iii-group-b_south-africa-u20-mexico-u20-live-streaming-492034176/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "1768716000000-central-coast-mariners-w-perth-glory-w",
@@ -3197,21 +3138,16 @@
     "kickOff": "2026-01-18T06:00:00",
     "isLive": false,
     "team1": {
-      "name": "Central Coast Mariners W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHIyewd+MYHia0qYFgh1chta+TD3gKoRCA.webp"
+      "name": "Home Team",
+      "logo": ""
     },
     "team2": {
-      "name": "Perth Glory FC W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIbPOP8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+      "name": "Away Team",
+      "logo": ""
     },
     "links": [
       {
         "url": "https://embedsports.top/embed/bravo/1768716000000-central-coast-mariners-w-perth-glory-w/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/charlie/central-coast-mariners-w-vs-perth-glory-fc-w-1484534/1",
         "language": "English",
         "hd": true
       }
@@ -3258,21 +3194,6 @@
         "url": "https://embedsports.top/embed/bravo/1768716000000-sydney-fc-wellington-phoenix/1",
         "language": "English",
         "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/charlie/sydney-vs-wellington-phoenix-1469633/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/sydney-vs-wellington-phoenix-football-1469633/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/sydney-vs-wellington-phoenix-football-1469633/2",
-        "language": "",
-        "hd": true
       }
     ]
   },
@@ -3309,28 +3230,6 @@
     ]
   },
   {
-    "id": "new-zealand-vs-usa-1629473666",
-    "title": "ICC Under-19 Cricket World Cup: New Zealand vs USA",
-    "sport": "cricket",
-    "kickOff": "2026-01-18T07:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "New Zealand",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQEEPJCEQBgjGB4mtKmBYIdXIbVvkwj4CqEQgA.webp"
-    },
-    "team2": {
-      "name": "USA",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHEIhAgI-GMDxNaVMCwQ6uQ2jfJgHwFUIhA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/new-zealand-vs-usa-1629473666/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "west-indies-vs-afghanistan-1629473668",
     "title": "ICC Under-19 Cricket World Cup: West Indies vs Afghanistan",
     "sport": "cricket",
@@ -3353,6 +3252,28 @@
     ]
   },
   {
+    "id": "new-zealand-vs-usa-1629473666",
+    "title": "ICC Under-19 Cricket World Cup: New Zealand vs USA",
+    "sport": "cricket",
+    "kickOff": "2026-01-18T07:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "New Zealand",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQEEPJCEQBgjGB4mtKmBYIdXIbVvkwj4CqEQgA.webp"
+    },
+    "team2": {
+      "name": "USA",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHEIhAgI-GMDxNaVMCwQ6uQ2jfJgHwFUIhA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/new-zealand-vs-usa-1629473666/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "brisbane-heat-vs-sydney-sixers-2290619",
     "title": "Brisbane Heat vs Sydney Sixers",
     "sport": "cricket",
@@ -3367,11 +3288,6 @@
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyREADGxAATEDBDcQEEClzbdIPqb1aCFJnxRcwZeEXmjHTWmGdjREIA.webp"
     },
     "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/brisbane-heat-vs-sydney-sixers-1629473671/1",
-        "language": "English",
-        "hd": true
-      },
       {
         "url": "https://embedsports.top/embed/echo/bbl-brisbane-heat-vs-sydney-sixers-game-126262/1",
         "language": "",
@@ -4522,6 +4438,22 @@
     ]
   },
   {
+    "id": "live_ncaa_maryland-penn-state-live-streaming-461808432",
+    "title": "Maryland Terrapins vs Penn St Nittany Lions",
+    "sport": "basketball",
+    "kickOff": "2026-01-18T16:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": []
+  },
+  {
     "id": "final-round-1629473677",
     "title": "Latin America Amateur Championship: Final Round",
     "sport": "golf",
@@ -4839,6 +4771,22 @@
     ]
   },
   {
+    "id": "temple-vs-florida-atlantic-2376717",
+    "title": "Temple vs Florida Atlantic",
+    "sport": "basketball",
+    "kickOff": "2026-01-18T17:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Temple",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4gAJrDDcwfHSFVqQEEIhyqYICyXUEKTPii5gy8IvNGOmtMM7GiIQA.webp"
+    },
+    "team2": {
+      "name": "Florida Atlantic",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4U5dXCG4gSIPdpQ6QiPiFOMKTPii5gy8IvNE2mtMHbGiIQA.webp"
+    },
+    "links": []
+  },
+  {
     "id": "memphis-grizzlies-vs-orlando-magic-2357961",
     "title": "Memphis Grizzlies vs Orlando Magic",
     "sport": "basketball",
@@ -5097,6 +5045,38 @@
     "links": []
   },
   {
+    "id": "live_ncaa_uwgb-oakland-live-streaming-428438160",
+    "title": "Wisconsin Green Bay Phoenix vs Oakland Golden Grizzlies",
+    "sport": "basketball",
+    "kickOff": "2026-01-18T18:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": []
+  },
+  {
+    "id": "live_ncaa_ipfw-wisconsin-milwaukee-live-streaming-428437728",
+    "title": "Purdue Fort Wayne Mastodons vs Wisconsin-Milwaukee Panthers",
+    "sport": "basketball",
+    "kickOff": "2026-01-18T18:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": []
+  },
+  {
     "id": "tondela-vs-braga-2283489",
     "title": "Tondela vs Braga",
     "sport": "football",
@@ -5151,6 +5131,22 @@
     "links": []
   },
   {
+    "id": "army-vs-american-2376718",
+    "title": "Army vs American",
+    "sport": "basketball",
+    "kickOff": "2026-01-18T18:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Army",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAo6uHmAEQQ3ECRCGYqkyhDG98AhSZ81bMGXhF5otU1phHY0RCA.webp"
+    },
+    "team2": {
+      "name": "American",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQgoUJDzCruIEiAMwQKYyD4hd5lAQpM+KLmDLwi80Q6a0wTsaIhA.webp"
+    },
+    "links": []
+  },
+  {
     "id": "st-truiden-vs-oh-leuven-1382587",
     "title": "Jupiler Pro League: St. Truiden vs OH Leuven",
     "sport": "football",
@@ -5185,6 +5181,22 @@
     "team2": {
       "name": "Hoffenheim II",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMIPiFogQ0kNx3aQMPSAgntGiAQpM+KLmDLwi80faa0wjsaIhA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "live_ncaa_eastern-illinois-blackburn-beavers-live-streaming-488992464",
+    "title": "Eastern Illinois Panthers vs Blackburn Beavers",
+    "sport": "basketball",
+    "kickOff": "2026-01-18T19:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
     },
     "links": []
   },
@@ -5333,6 +5345,38 @@
     ]
   },
   {
+    "id": "south-florida-vs-wichita-state-2376720",
+    "title": "South Florida vs Wichita State",
+    "sport": "basketball",
+    "kickOff": "2026-01-18T19:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "South Florida",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQgIIFtUTcQJEPr16+ukABMQMCwQpM+KLmDLwi80faa0wjsaIhA.webp"
+    },
+    "team2": {
+      "name": "Wichita State",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmRFcCZYwJENxC6QIPnpCIVplHoIUmfFFx3l680Q6a0wOsaIhA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "east-carolina-vs-charlotte-2376719",
+    "title": "East Carolina vs Charlotte",
+    "sport": "basketball",
+    "kickOff": "2026-01-18T19:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "East Carolina",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIgYXcDFwhuIVSB0g+Bw8cQATAhSZ8UXMGXhF5ou01pgHY0RCA.webp"
+    },
+    "team2": {
+      "name": "Charlotte",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8wvWmTIATENxAkQR-bpz79KEDAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+    },
+    "links": []
+  },
+  {
     "id": "lyon-vs-brest-2278264",
     "title": "Lyon vs Brest",
     "sport": "football",
@@ -5447,8 +5491,39 @@
         "url": "https://embedsports.top/embed/admin/ppv-real-sociedad-vs-barcelona/2",
         "language": "English",
         "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/real-sociedad-vs-barcelona-1391018/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/real-sociedad-vs-barcelona-1391018/2",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/delta/live_laliga_real-sociedad-barcelona-live-streaming-441026640/1",
+        "language": "English",
+        "hd": true
       }
     ]
+  },
+  {
+    "id": "uab-vs-tulsa-2376721",
+    "title": "UAB vs Tulsa",
+    "sport": "basketball",
+    "kickOff": "2026-01-18T20:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "UAB",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnAATXJRBb13ECS0g+uELv26cEAhSZ8UXMGXhF5ou01pgHY0RCA.webp"
+    },
+    "team2": {
+      "name": "Tulsa",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxgSXJBADuIXSRCG+ekIgMoQFlAQpM+KLmDLwi80Q6a0wTsaIhA.webp"
+    },
+    "links": []
   },
   {
     "id": "new-england-patriots-vs-houston-texans-2415851",
@@ -5488,20 +5563,26 @@
     ]
   },
   {
-    "id": "guimaraes-vs-fc-porto-football-1396398",
-    "title": "Guimaraes vs FC Porto",
+    "id": "guimaraes-vs-fc-porto-1396398",
+    "title": "Primeira Liga: Guimaraes vs FC Porto",
     "sport": "football",
     "kickOff": "2026-01-18T20:30:00",
     "isLive": false,
     "team1": {
       "name": "Guimaraes",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikBHrkGAY2bie8EVW4EurMGFz5zQA.webp"
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHIyAj8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
     },
     "team2": {
       "name": "FC Porto",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIIovrkGAY2bie8EVW4EurMGFz5zQA.webp"
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHXkf4xgeJrSpgWCHVyG1L5MLeAqhEIA.webp"
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/guimaraes-vs-fc-porto-1396398/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "bolivia-vs-panama-2407705",
@@ -5568,6 +5649,22 @@
     "links": []
   },
   {
+    "id": "live_ncaa_memphis-utsa-live-streaming-461817936",
+    "title": "Memphis Tigers vs Texas San Antonio Roadrunners",
+    "sport": "basketball",
+    "kickOff": "2026-01-18T22:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": []
+  },
+  {
     "id": "detroit-red-wings-vs-ottawa-senators-2347650",
     "title": "Detroit Red Wings vs Ottawa Senators",
     "sport": "hockey",
@@ -5603,6 +5700,22 @@
         "hd": true
       }
     ]
+  },
+  {
+    "id": "tulane-vs-north-texas-2376723",
+    "title": "Tulane vs North Texas",
+    "sport": "basketball",
+    "kickOff": "2026-01-18T22:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Tulane",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMxJljApgSENxAATEBBCISIPoZDnLEwjGBM+2tmDLwi80dqa0wbsVEIIA.webp"
+    },
+    "team2": {
+      "name": "North Texas",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpOgxirEiG4hNIEBBB89IACYhE2iAQpM+KLmDLwi80faa0wjsaIhA.webp"
+    },
+    "links": []
   },
   {
     "id": "fury-fc-113-1629473686",
@@ -5671,6 +5784,22 @@
     "team2": {
       "name": "Santos",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQhwIYAAYQKfiG4gAJiD46QEcyctrDBCkz662YMvCLzRuprTAuxoiCA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "houston-vs-arizona-state-2376724",
+    "title": "Houston vs Arizona State",
+    "sport": "basketball",
+    "kickOff": "2026-01-18T23:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Houston",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7Y6uUCG5aQJEPpx8QiPYa0EKTPii5gy8IvNE2mtMHbGiIQA.webp"
+    },
+    "team2": {
+      "name": "Arizona State",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1H4QAEwQgyObtpAGYIFMZB8DZkBMIxgTPii5gy8IvNGOmtMM7GiIQA.webp"
     },
     "links": []
   },
@@ -5778,6 +5907,160 @@
     ]
   },
   {
+    "id": "court-6-1629473701",
+    "title": "Australian Open: Court 6",
+    "sport": "tennis",
+    "kickOff": "2026-01-19T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/court-6-1629473701/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "court-10-1629473698",
+    "title": "Australian Open: Court 10",
+    "sport": "tennis",
+    "kickOff": "2026-01-19T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/court-10-1629473698/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "1573-arena-1629473696",
+    "title": "Australian Open: 1573 Arena",
+    "sport": "tennis",
+    "kickOff": "2026-01-19T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/1573-arena-1629473696/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "court-15-1629473695",
+    "title": "Australian Open: Court 15",
+    "sport": "tennis",
+    "kickOff": "2026-01-19T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/court-15-1629473695/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "court-8-1629473694",
+    "title": "Australian Open: Court 8",
+    "sport": "tennis",
+    "kickOff": "2026-01-19T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/court-8-1629473694/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "court-14-1629473693",
+    "title": "Australian Open: Court 14",
+    "sport": "tennis",
+    "kickOff": "2026-01-19T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/court-14-1629473693/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "court-12-1629473700",
+    "title": "Australian Open: Court 12",
+    "sport": "tennis",
+    "kickOff": "2026-01-19T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/court-12-1629473700/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "court-5-1629473705",
     "title": "Australian Open: Court 5",
     "sport": "tennis",
@@ -5822,182 +6105,6 @@
     ]
   },
   {
-    "id": "court-13-1629473702",
-    "title": "Australian Open: Court 13",
-    "sport": "tennis",
-    "kickOff": "2026-01-19T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/court-13-1629473702/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "court-6-1629473701",
-    "title": "Australian Open: Court 6",
-    "sport": "tennis",
-    "kickOff": "2026-01-19T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/court-6-1629473701/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "court-15-1629473695",
-    "title": "Australian Open: Court 15",
-    "sport": "tennis",
-    "kickOff": "2026-01-19T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/court-15-1629473695/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "court-14-1629473693",
-    "title": "Australian Open: Court 14",
-    "sport": "tennis",
-    "kickOff": "2026-01-19T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/court-14-1629473693/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "court-8-1629473694",
-    "title": "Australian Open: Court 8",
-    "sport": "tennis",
-    "kickOff": "2026-01-19T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/court-8-1629473694/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "1573-arena-1629473696",
-    "title": "Australian Open: 1573 Arena",
-    "sport": "tennis",
-    "kickOff": "2026-01-19T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/1573-arena-1629473696/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "court-10-1629473698",
-    "title": "Australian Open: Court 10",
-    "sport": "tennis",
-    "kickOff": "2026-01-19T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/court-10-1629473698/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "court-12-1629473700",
-    "title": "Australian Open: Court 12",
-    "sport": "tennis",
-    "kickOff": "2026-01-19T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/court-12-1629473700/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "court-tbc-1629473703",
     "title": "Australian Open: Court TBC",
     "sport": "tennis",
@@ -6014,6 +6121,28 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/court-tbc-1629473703/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "court-13-1629473702",
+    "title": "Australian Open: Court 13",
+    "sport": "tennis",
+    "kickOff": "2026-01-19T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/court-13-1629473702/1",
         "language": "English",
         "hd": true
       }
@@ -6092,6 +6221,22 @@
         "hd": true
       }
     ]
+  },
+  {
+    "id": "san-francisco-vs-washington-state-2376725",
+    "title": "San Francisco vs Washington State",
+    "sport": "basketball",
+    "kickOff": "2026-01-19T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "San Francisco",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiRgkIEGLZ8Q3ECQ36QEEDBApjRlAQpM+KLmDLwi80Q6a0wTsaIhA.webp"
+    },
+    "team2": {
+      "name": "Washington State",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnn0wzMANDcQJEPpggAJvpARdF5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+    },
+    "links": []
   },
   {
     "id": "lan-s-vs-sarmiento-de-la-banda-2408904",
@@ -6492,6 +6637,28 @@
     "links": []
   },
   {
+    "id": "besiktas-vs-kayserispor-1394588",
+    "title": "S\u00fcper Lig: Besiktas vs Kayserispor",
+    "sport": "football",
+    "kickOff": "2026-01-19T17:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Besiktas",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLEBBAp+MYHia0qYFgh1chta+TD3gKoRCA.webp"
+    },
+    "team2": {
+      "name": "Kayserispor",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeOY3wIxgeJrSpgWCHVyG1L5MLeAqhEIA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/besiktas-vs-kayserispor-1394588/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "cremonese-vs-hellas-verona-2265238",
     "title": "Cremonese vs Hellas Verona",
     "sport": "football",
@@ -6515,6 +6682,60 @@
         "url": "https://embedsports.top/embed/admin/ppv-cremonese-vs-hellas-verona/2",
         "language": "English",
         "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/cremonese-vs-verona-1378066/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/cremonese-vs-verona-1378066/2",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "sporting-b-vs-torreense-2284420",
+    "title": "Sporting B vs Torreense",
+    "sport": "football",
+    "kickOff": "2026-01-19T18:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Sporting B",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC8+IKIkTruIACYhEMXPpAkTOPQQpM+KLmDLwi80faa0wjsaIhA.webp"
+    },
+    "team2": {
+      "name": "Torreense",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgUwfCAAmzXCG7aQJECkOmIJkFcYUmfdWzBl4ReaPVNaYJ2NEQgA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/sporting-cp-b-vs-torreense-1398129/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "feirense-vs-fc-porto-b-2284415",
+    "title": "Feirense vs FC Porto B",
+    "sport": "football",
+    "kickOff": "2026-01-19T18:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Feirense",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0cOPtT4huIACa4QRoyR1nEMAhSZ8UXMGXhF5ou01pgHY0RCA.webp"
+    },
+    "team2": {
+      "name": "FC Porto B",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCqAJtSxE+IbiDW5VRkiBggUIEygIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/feirense-vs-fc-porto-b-1398124/1",
+        "language": "English",
+        "hd": true
       }
     ]
   },
@@ -6557,6 +6778,28 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/buffalo-sabres-vs-carolina-hurricanes-1629473720/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "granada-vs-eibar-2280236",
+    "title": "Granada vs Eibar",
+    "sport": "football",
+    "kickOff": "2026-01-19T19:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Granada",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFO3KJuIHWr4gDEQ7hBqQ6ghSZ8NbMGXhF5ojU1pgHY0RCA.webp"
+    },
+    "team2": {
+      "name": "Eibar",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDM1KMABNSIbiE0hDMEChCJEJEyYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/granada-cf-vs-eibar-1392003/1",
         "language": "English",
         "hd": true
       }
@@ -6608,6 +6851,16 @@
         "url": "https://embedsports.top/embed/admin/ppv-lazio-vs-como/2",
         "language": "English",
         "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/lazio-vs-como-1378067/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/lazio-vs-como-1378067/2",
+        "language": "English",
+        "hd": true
       }
     ]
   },
@@ -6814,6 +7067,28 @@
     "links": []
   },
   {
+    "id": "court-15-1629473741",
+    "title": "Australian Open: Court 15",
+    "sport": "tennis",
+    "kickOff": "2026-01-20T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/court-15-1629473741/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "court-12-1629473739",
     "title": "Australian Open: Court 12",
     "sport": "tennis",
@@ -6836,72 +7111,6 @@
     ]
   },
   {
-    "id": "court-6-1629473732",
-    "title": "Australian Open: Court 6",
-    "sport": "tennis",
-    "kickOff": "2026-01-20T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/court-6-1629473732/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "court-14-1629473734",
-    "title": "Australian Open: Court 14",
-    "sport": "tennis",
-    "kickOff": "2026-01-20T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/court-14-1629473734/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "court-8-1629473733",
-    "title": "Australian Open: Court 8",
-    "sport": "tennis",
-    "kickOff": "2026-01-20T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/court-8-1629473733/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "court-tbc-1629473738",
     "title": "Australian Open: Court TBC",
     "sport": "tennis",
@@ -6918,72 +7127,6 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/court-tbc-1629473738/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "court-10-1629473729",
-    "title": "Australian Open: Court 10",
-    "sport": "tennis",
-    "kickOff": "2026-01-20T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/court-10-1629473729/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "kia-arena-1629473740",
-    "title": "Australian Open: Kia Arena",
-    "sport": "tennis",
-    "kickOff": "2026-01-20T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/kia-arena-1629473740/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "court-15-1629473741",
-    "title": "Australian Open: Court 15",
-    "sport": "tennis",
-    "kickOff": "2026-01-20T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/court-15-1629473741/1",
         "language": "English",
         "hd": true
       }
@@ -7034,6 +7177,72 @@
     ]
   },
   {
+    "id": "court-14-1629473734",
+    "title": "Australian Open: Court 14",
+    "sport": "tennis",
+    "kickOff": "2026-01-20T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/court-14-1629473734/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "court-8-1629473733",
+    "title": "Australian Open: Court 8",
+    "sport": "tennis",
+    "kickOff": "2026-01-20T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/court-8-1629473733/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "court-6-1629473732",
+    "title": "Australian Open: Court 6",
+    "sport": "tennis",
+    "kickOff": "2026-01-20T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/court-6-1629473732/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "court-7-1629473731",
     "title": "Australian Open: Court 7",
     "sport": "tennis",
@@ -7050,6 +7259,50 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/court-7-1629473731/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "1573-arena-1629473730",
+    "title": "Australian Open: 1573 Arena",
+    "sport": "tennis",
+    "kickOff": "2026-01-20T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/1573-arena-1629473730/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "court-10-1629473729",
+    "title": "Australian Open: Court 10",
+    "sport": "tennis",
+    "kickOff": "2026-01-20T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/court-10-1629473729/1",
         "language": "English",
         "hd": true
       }
@@ -7364,28 +7617,6 @@
     ]
   },
   {
-    "id": "hapoel-tel-aviv-basketball-vs-anadolu-efes-istanbul-1629473769",
-    "title": "Euroleague: Hapoel Tel Aviv Basketball vs Anadolu Efes Istanbul",
-    "sport": "basketball",
-    "kickOff": "2026-01-20T17:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Hapoel Tel Aviv Basketball",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NDmAQQHENYv0Q2FSEQtrwACadO9r3fKI3TqxSdiBkIISWwiH8MMB4enRgLAoQnkK08eRgSeZBEEA.webp"
-    },
-    "team2": {
-      "name": "Anadolu Efes Istanbul",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBDAIISQBMQzFrxCJm5S5ewczZho+zWLIA60EMC2hCCWYRE+bAQwwHh6dGAsCiGSQrSJ5GApFqwWQA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/hapoel-tel-aviv-basketball-vs-anadolu-efes-istanbul-1629473769/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "olympiacos-piraeus-basketball-vs-maccabi-tel-aviv-1629473770",
     "title": "Euroleague: Olympiacos Piraeus Basketball vs Maccabi Tel Aviv",
     "sport": "basketball",
@@ -7402,6 +7633,28 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/olympiacos-piraeus-basketball-vs-maccabi-tel-aviv-1629473770/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "hapoel-tel-aviv-basketball-vs-anadolu-efes-istanbul-1629473769",
+    "title": "Euroleague: Hapoel Tel Aviv Basketball vs Anadolu Efes Istanbul",
+    "sport": "basketball",
+    "kickOff": "2026-01-20T17:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Hapoel Tel Aviv Basketball",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NDmAQQHENYv0Q2FSEQtrwACadO9r3fKI3TqxSdiBkIISWwiH8MMB4enRgLAoQnkK08eRgSeZBEEA.webp"
+    },
+    "team2": {
+      "name": "Anadolu Efes Istanbul",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBDAIISQBMQzFrxCJm5S5ewczZho+zWLIA60EMC2hCCWYRE+bAQwwHh6dGAsCiGSQrSJ5GApFqwWQA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/hapoel-tel-aviv-basketball-vs-anadolu-efes-istanbul-1629473769/1",
         "language": "English",
         "hd": true
       }
@@ -7540,28 +7793,6 @@
     ]
   },
   {
-    "id": "court-14-1629473789",
-    "title": "Australian Open: Court 14",
-    "sport": "tennis",
-    "kickOff": "2026-01-21T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/court-14-1629473789/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "court-tbc-1629473793",
     "title": "Australian Open: Court TBC",
     "sport": "tennis",
@@ -7628,28 +7859,6 @@
     ]
   },
   {
-    "id": "anz-arena-1629473787",
-    "title": "Australian Open: ANZ Arena",
-    "sport": "tennis",
-    "kickOff": "2026-01-21T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/anz-arena-1629473787/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "court-7-1629473790",
     "title": "Australian Open: Court 7",
     "sport": "tennis",
@@ -7666,6 +7875,72 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/court-7-1629473790/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "court-14-1629473789",
+    "title": "Australian Open: Court 14",
+    "sport": "tennis",
+    "kickOff": "2026-01-21T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/court-14-1629473789/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "court-8-1629473788",
+    "title": "Australian Open: Court 8",
+    "sport": "tennis",
+    "kickOff": "2026-01-21T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/court-8-1629473788/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "anz-arena-1629473787",
+    "title": "Australian Open: ANZ Arena",
+    "sport": "tennis",
+    "kickOff": "2026-01-21T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/anz-arena-1629473787/1",
         "language": "English",
         "hd": true
       }
@@ -7694,22 +7969,22 @@
     ]
   },
   {
-    "id": "court-8-1629473788",
-    "title": "Australian Open: Court 8",
-    "sport": "tennis",
+    "id": "ottawa-senators-vs-columbus-blue-jackets-1629473784",
+    "title": "NHL: Ottawa Senators vs Columbus Blue Jackets",
+    "sport": "hockey",
     "kickOff": "2026-01-21T00:00:00",
     "isLive": false,
     "team1": {
-      "name": "Home Team",
-      "logo": ""
+      "name": "Ottawa Senators",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SixAQGOcyGb0QiC0IAmYxE5Av37yR3s2pENYwljAg2CARlnwEwXh6dGAsChaSQrRx5GCJwI45QA.webp"
     },
     "team2": {
-      "name": "Away Team",
-      "logo": ""
+      "name": "Columbus Blue Jackets",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBBSYIcvRAcQAE2AQnDKyAhXg9kCxDNEgj7uZLacfqG+zh6OHhz8MMB4enRgLArOkkK0SeRgqS5CEEA.webp"
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/charlie/court-8-1629473788/1",
+        "url": "https://embedsports.top/embed/charlie/ottawa-senators-vs-columbus-blue-jackets-1629473784/1",
         "language": "English",
         "hd": true
       }
@@ -7754,28 +8029,6 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/san-jose-sharks-vs-tampa-bay-lightning-1629473782/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "ottawa-senators-vs-columbus-blue-jackets-1629473784",
-    "title": "NHL: Ottawa Senators vs Columbus Blue Jackets",
-    "sport": "hockey",
-    "kickOff": "2026-01-21T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Ottawa Senators",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SixAQGOcyGb0QiC0IAmYxE5Av37yR3s2pENYwljAg2CARlnwEwXh6dGAsChaSQrRx5GCJwI45QA.webp"
-    },
-    "team2": {
-      "name": "Columbus Blue Jackets",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBBSYIcvRAcQAE2AQnDKyAhXg9kCxDNEgj7uZLacfqG+zh6OHhz8MMB4enRgLArOkkK0SeRgqS5CEEA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/ottawa-senators-vs-columbus-blue-jackets-1629473784/1",
         "language": "English",
         "hd": true
       }
@@ -7848,6 +8101,28 @@
     ]
   },
   {
+    "id": "buffalo-sabres-vs-nashville-predators-1629473802",
+    "title": "NHL: Buffalo Sabres vs Nashville Predators",
+    "sport": "hockey",
+    "kickOff": "2026-01-21T01:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Buffalo Sabres",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBDAInEOUQsQQyRBCW75+iFocQha5z92AEw8rcgCpOy9sLyc+AhhgPD06MBYFS0khWkTyMBSLVgsgA.webp"
+    },
+    "team2": {
+      "name": "Nashville Predators",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCDMhgEEInrWGIACa8cZy47fMhLc5O9OntjYgKmJWMFIO-OF4enRgLAoQnKxYwDHkYPGWKRBAA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/buffalo-sabres-vs-nashville-predators-1629473802/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "st-louis-blues-vs-winnipeg-jets-1629473801",
     "title": "NHL: St. Louis Blues vs Winnipeg Jets",
     "sport": "hockey",
@@ -7870,22 +8145,22 @@
     ]
   },
   {
-    "id": "buffalo-sabres-vs-nashville-predators-1629473802",
-    "title": "NHL: Buffalo Sabres vs Nashville Predators",
-    "sport": "hockey",
+    "id": "austin-spurs-vs-oklahoma-city-blue-1629473805",
+    "title": "NBA G League: Austin Spurs vs Oklahoma City Blue",
+    "sport": "basketball",
     "kickOff": "2026-01-21T01:00:00",
     "isLive": false,
     "team1": {
-      "name": "Buffalo Sabres",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBDAInEOUQsQQyRBCW75+iFocQha5z92AEw8rcgCpOy9sLyc+AhhgPD06MBYFS0khWkTyMBSLVgsgA.webp"
+      "name": "Austin Spurs",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAggAJsHPkr5+iEFmQiQ88I4x5Dr2sgfMCDMiCBiLCDhVlZ8BDDAeHp0YCwKEJysWPFiYMnWGRBAA.webp"
     },
     "team2": {
-      "name": "Nashville Predators",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCDMhgEEInrWGIACa8cZy47fMhLc5O9OntjYgKmJWMFIO-OF4enRgLAoQnKxYwDHkYPGWKRBAA.webp"
+      "name": "Oklahoma City Blue",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SvRwhyHEFauEQ2CCAAmFkBGAuXklucvCzQu7uZthOnPYgzJIc-DDAeHp0YCwK7t5Y8WJgycDugUA.webp"
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/charlie/buffalo-sabres-vs-nashville-predators-1629473802/1",
+        "url": "https://embedsports.top/embed/charlie/austin-spurs-vs-oklahoma-city-blue-1629473805/1",
         "language": "English",
         "hd": true
       }
@@ -7936,28 +8211,6 @@
     ]
   },
   {
-    "id": "austin-spurs-vs-oklahoma-city-blue-1629473805",
-    "title": "NBA G League: Austin Spurs vs Oklahoma City Blue",
-    "sport": "basketball",
-    "kickOff": "2026-01-21T01:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Austin Spurs",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAggAJsHPkr5+iEFmQiQ88I4x5Dr2sgfMCDMiCBiLCDhVlZ8BDDAeHp0YCwKEJysWPFiYMnWGRBAA.webp"
-    },
-    "team2": {
-      "name": "Oklahoma City Blue",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SvRwhyHEFauEQ2CCAAmFkBGAuXklucvCzQu7uZthOnPYgzJIc-DDAeHp0YCwK7t5Y8WJgycDugUA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/austin-spurs-vs-oklahoma-city-blue-1629473805/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "canterbury-magicians-vs-otago-sparks-1629473806",
     "title": "Women's Super Smash: Canterbury Magicians vs Otago Sparks",
     "sport": "cricket",
@@ -7974,28 +8227,6 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/canterbury-magicians-vs-otago-sparks-1629473806/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "san-diego-clippers-vs-mexico-city-capitanes-1629473807",
-    "title": "NBA G League: San Diego Clippers vs Mexico City Capitanes",
-    "sport": "basketball",
-    "kickOff": "2026-01-21T02:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "San Diego Clippers",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBYhm9XsAAmZHCA4hyN3iGzZyEEN+bnariDOthZBbjA4Ut6MEPwwwHh6dGAsChCcrFgJYmApwOlCEEA.webp"
-    },
-    "team2": {
-      "name": "Mexico City Capitanes",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBUhCIQyAg3WUjiERCXFzgxCfEjgCbA-jog+nh6SQraefAQwwHh6dGAsChDuQrRx5GCJwCnhQA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/san-diego-clippers-vs-mexico-city-capitanes-1629473807/1",
         "language": "English",
         "hd": true
       }
@@ -8024,22 +8255,22 @@
     ]
   },
   {
-    "id": "new-york-rangers-vs-los-angeles-kings-1629473812",
-    "title": "NHL: New York Rangers vs Los Angeles Kings",
-    "sport": "hockey",
-    "kickOff": "2026-01-21T03:00:00",
+    "id": "san-diego-clippers-vs-mexico-city-capitanes-1629473807",
+    "title": "NBA G League: San Diego Clippers vs Mexico City Capitanes",
+    "sport": "basketball",
+    "kickOff": "2026-01-21T02:00:00",
     "isLive": false,
     "team1": {
-      "name": "New York Rangers",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBNeOEFaFCIIcx3shyjxInog7hEN-eerwHaItBDApsJ2jCwgHPwwwHh6dGAsCqGSQrSJ5GApgayBQA.webp"
+      "name": "San Diego Clippers",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBYhm9XsAAmZHCA4hyN3iGzZyEEN+bnariDOthZBbjA4Ut6MEPwwwHh6dGAsChCcrFgJYmApwOlCEEA.webp"
     },
     "team2": {
-      "name": "Los Angeles Kings",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NDhAgGIQiGwcQdxoxZWQ5CCHd2hQgCa8ziDD2wO70riDOiJJ+jD78MMB4enRgLAoQnKxYiWJgqSFZEEA.webp"
+      "name": "Mexico City Capitanes",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBUhCIQyAg3WUjiERCXFzgxCfEjgCbA-jog+nh6SQraefAQwwHh6dGAsChDuQrRx5GCJwCnhQA.webp"
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/charlie/new-york-rangers-vs-los-angeles-kings-1629473812/1",
+        "url": "https://embedsports.top/embed/charlie/san-diego-clippers-vs-mexico-city-capitanes-1629473807/1",
         "language": "English",
         "hd": true
       }
@@ -8068,6 +8299,28 @@
     ]
   },
   {
+    "id": "new-york-rangers-vs-los-angeles-kings-1629473812",
+    "title": "NHL: New York Rangers vs Los Angeles Kings",
+    "sport": "hockey",
+    "kickOff": "2026-01-21T03:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "New York Rangers",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBNeOEFaFCIIcx3shyjxInog7hEN-eerwHaItBDApsJ2jCwgHPwwwHh6dGAsCqGSQrSJ5GApgayBQA.webp"
+    },
+    "team2": {
+      "name": "Los Angeles Kings",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NDhAgGIQiGwcQdxoxZWQ5CCHd2hQgCa8ziDD2wO70riDOiJJ+jD78MMB4enRgLAoQnKxYiWJgqSFZEEA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/new-york-rangers-vs-los-angeles-kings-1629473812/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "los-angeles-lakers-vs-denver-nuggets-1629473811",
     "title": "NBA: Los Angeles Lakers vs Denver Nuggets",
     "sport": "basketball",
@@ -8084,28 +8337,6 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/los-angeles-lakers-vs-denver-nuggets-1629473811/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "toronto-raptors-vs-golden-state-warriors-1629473809",
-    "title": "NBA: Toronto Raptors vs Golden State Warriors",
-    "sport": "basketball",
-    "kickOff": "2026-01-21T03:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Toronto Raptors",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShBAATEOUtDyLECClnJHEIRD3sMBwzed-lq7e9jbA5v5mgvwwwHh6dGAsChD+QrRx5GCJwClCEEA.webp"
-    },
-    "team2": {
-      "name": "Golden State Warriors",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBMQQiFI4XgpuyHNOQV+yxA3XwCLxCIbIGKI5laWLpwgkSj8MMB4enRgLApWkkK08eRgSd6s3kA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/toronto-raptors-vs-golden-state-warriors-1629473809/1",
         "language": "English",
         "hd": true
       }
@@ -8134,6 +8365,28 @@
     ]
   },
   {
+    "id": "toronto-raptors-vs-golden-state-warriors-1629473809",
+    "title": "NBA: Toronto Raptors vs Golden State Warriors",
+    "sport": "basketball",
+    "kickOff": "2026-01-21T03:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Toronto Raptors",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShBAATEOUtDyLECClnJHEIRD3sMBwzed-lq7e9jbA5v5mgvwwwHh6dGAsChD+QrRx5GCJwClCEEA.webp"
+    },
+    "team2": {
+      "name": "Golden State Warriors",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBMQQiFI4XgpuyHNOQV+yxA3XwCLxCIbIGKI5laWLpwgkSj8MMB4enRgLApWkkK08eRgSd6s3kA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/toronto-raptors-vs-golden-state-warriors-1629473809/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "canterbury-kings-vs-otago-volts-1629473814",
     "title": "Super Smash: Canterbury Kings vs Otago Volts",
     "sport": "cricket",
@@ -8150,6 +8403,28 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/canterbury-kings-vs-otago-volts-1629473814/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "england-u19-vs-scotland-u19-1629473815",
+    "title": "ICC Under-19 Cricket World Cup: England U19 vs Scotland U19",
+    "sport": "cricket",
+    "kickOff": "2026-01-21T07:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Afghanistan U19",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIFsZAGCMYHia0qYFgh1chta+TD3gKoRCA.webp"
+    },
+    "team2": {
+      "name": "Tanzania U19",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeICCFMp+MYHia0qYFgh1chta+TD3gKoRCA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/england-u19-vs-scotland-u19-1629473815/1",
         "language": "English",
         "hd": true
       }
