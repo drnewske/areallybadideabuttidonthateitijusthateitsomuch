@@ -1,48 +1,5 @@
 [
   {
-    "id": "ppv-event-05-toughman-ppv-05",
-    "title": "Toughman",
-    "sport": "other",
-    "kickOff": "2026-01-25T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
-  },
-  {
-    "id": "ppv-event-02-prelims-ufc-324-ppv-02",
-    "title": "Prelims UFC 324 \ud83d\udd25",
-    "sport": "other",
-    "kickOff": "2026-01-25T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/echo/ppv-event-02-prelims-ufc-324-ppv-02/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/ppv-event-02-prelims-ufc-324-ppv-02/2",
-        "language": "",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "rolex-24-at-daytona-2415564",
     "title": "Rolex 24 At DAYTONA",
     "sport": "motor-sports",
@@ -301,11 +258,6 @@
         "url": "https://embedsports.top/embed/bravo/1769315400000-australian-open-anz-arena-gibson-ebden-krunic-pavic/1",
         "language": "English",
         "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/charlie/anz-arena-1629480030/1",
-        "language": "English",
-        "hd": true
       }
     ]
   },
@@ -507,26 +459,16 @@
     "kickOff": "2026-01-25T06:00:00",
     "isLive": false,
     "team1": {
-      "name": "Melbourne Victory W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIbIRDz+MYHia0qYFgh1chta+TD3gKoRCA.webp"
+      "name": "Home Team",
+      "logo": ""
     },
     "team2": {
-      "name": "Sydney FC W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIbPJDGCMYHia0qYFgh1chta+TD3gKoRCA.webp"
+      "name": "Away Team",
+      "logo": ""
     },
     "links": [
       {
         "url": "https://embedsports.top/embed/bravo/1769320800000-melbourne-victory-w-sydney-fc-w/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/charlie/melbourne-victory-w-vs-sydney-fc-w-1484540/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/charlie/melbourne-victory-w-vs-sydney-fc-w-1484540/2",
         "language": "English",
         "hd": true
       }
@@ -592,6 +534,11 @@
     },
     "links": [
       {
+        "url": "https://embedsports.top/embed/charlie/rallye-monte-carlo-stage-14-1629480042/1",
+        "language": "English",
+        "hd": true
+      },
+      {
         "url": "https://embedsports.top/embed/echo/world-rally-championship-monte-carlo-racing-0059/1",
         "language": "",
         "hd": true
@@ -653,38 +600,6 @@
       {
         "url": "https://embedsports.top/embed/bravo/1769326200000-seoul-thunders-goyang-sono/1",
         "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "bbl-final-perth-scorchers-vs-sydney-sixers-game-126262",
-    "title": "BBL Final: Perth Scorchers vs Sydney Sixers\t \ud83c\udfcf",
-    "sport": "other",
-    "kickOff": "2026-01-25T08:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/echo/bbl-final-perth-scorchers-vs-sydney-sixers-game-126262/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/bbl-final-perth-scorchers-vs-sydney-sixers-game-126262/2",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/bbl-final-perth-scorchers-vs-sydney-sixers-game-126262/3",
-        "language": "",
         "hd": true
       }
     ]
@@ -780,6 +695,38 @@
       },
       {
         "url": "https://embedsports.top/embed/echo/hero-dubai-desert-classic-dp-world-tour-pga-526234/3",
+        "language": "",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "perth-scorchers-vs-sydney-sixers-2423476",
+    "title": "Perth Scorchers vs Sydney Sixers",
+    "sport": "cricket",
+    "kickOff": "2026-01-25T08:15:00",
+    "isLive": false,
+    "team1": {
+      "name": "Perth Scorchers",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxREQwMLBAkQ3bSAggAJsZBm9fEIkYUmfFFzBl4ReaIdNam0VLpA.webp"
+    },
+    "team2": {
+      "name": "Sydney Sixers",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyREADGxAATEDBDcQEEClzbdIPqb1aCFJnxRcwZeEXmjHTWmGdjREIA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/echo/bbl-final-perth-scorchers-vs-sydney-sixers-game-126262/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/bbl-final-perth-scorchers-vs-sydney-sixers-game-126262/2",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/bbl-final-perth-scorchers-vs-sydney-sixers-game-126262/3",
         "language": "",
         "hd": true
       }
@@ -979,28 +926,6 @@
     "links": []
   },
   {
-    "id": "liverpool-w-vs-tottenham-hotspur-w-1417271",
-    "title": "FA WSL: Liverpool W vs Tottenham Hotspur W",
-    "sport": "football",
-    "kickOff": "2026-01-25T11:55:00",
-    "isLive": false,
-    "team1": {
-      "name": "Liverpool W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIYxBCF+MYHia0qYFgh1chta+TD3gKoRCA.webp"
-    },
-    "team2": {
-      "name": "Tottenham Hotspur W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQEECewp+MYHia0qYFgh1chta+TD3gKoRCA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/liverpool-w-vs-tottenham-hotspur-w-1417271/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "aston-villa-w-vs-manchester-united-w-1417268",
     "title": "FA WSL: Aston Villa W vs Manchester United W",
     "sport": "football",
@@ -1072,6 +997,28 @@
       {
         "url": "https://embedsports.top/embed/echo/london-city-lionesses-vs-manchester-city-w-football-1417272/2",
         "language": "",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "liverpool-w-vs-tottenham-hotspur-w-1417271",
+    "title": "FA WSL: Liverpool W vs Tottenham Hotspur W",
+    "sport": "football",
+    "kickOff": "2026-01-25T11:55:00",
+    "isLive": false,
+    "team1": {
+      "name": "Liverpool W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIYxBCF+MYHia0qYFgh1chta+TD3gKoRCA.webp"
+    },
+    "team2": {
+      "name": "Tottenham Hotspur W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQEECewp+MYHia0qYFgh1chta+TD3gKoRCA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/liverpool-w-vs-tottenham-hotspur-w-1417271/1",
+        "language": "English",
         "hd": true
       }
     ]
@@ -1315,28 +1262,6 @@
     "links": []
   },
   {
-    "id": "saint-eloi-lupopo-vs-mc-alger-1485438",
-    "title": "CAF Champions League: Saint Eloi Lupopo vs MC Alger",
-    "sport": "football",
-    "kickOff": "2026-01-25T13:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Saint Eloi Lupopo",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQRliEJH+MYHia0qYFgh1chta+TD3gKoRCA.webp"
-    },
-    "team2": {
-      "name": "MC Alger",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQ2GCHn8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/saint-eloi-lupopo-vs-mc-alger-1485438/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "atletico-madrid-vs-mallorca-1391020",
     "title": "La Liga: Atletico Madrid vs Mallorca",
     "sport": "football",
@@ -1369,6 +1294,28 @@
       {
         "url": "https://embedsports.top/embed/echo/atletico-madrid-vs-mallorca-football-1391020/2",
         "language": "",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "saint-eloi-lupopo-vs-mc-alger-1485438",
+    "title": "CAF Champions League: Saint Eloi Lupopo vs MC Alger",
+    "sport": "football",
+    "kickOff": "2026-01-25T13:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Saint Eloi Lupopo",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQRliEJH+MYHia0qYFgh1chta+TD3gKoRCA.webp"
+    },
+    "team2": {
+      "name": "MC Alger",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQ2GCHn8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/saint-eloi-lupopo-vs-mc-alger-1485438/1",
+        "language": "English",
         "hd": true
       }
     ]
@@ -2288,22 +2235,6 @@
     ]
   },
   {
-    "id": "stade-malien-bamako-vs-petro-de-luanda-football-1485437",
-    "title": "Stade Malien Bamako vs Petro de Luanda",
-    "sport": "football",
-    "kickOff": "2026-01-25T16:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Stade Malien Bamako",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+ICCEQR65BgGNm4nvBFVuBLqzBhc+S0A.webp"
-    },
-    "team2": {
-      "name": "Petro de Luanda",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIFCCqr65BgGNm4nvBFVuBLqzBhc+S0A.webp"
-    },
-    "links": []
-  },
-  {
     "id": "singida-black-stars-vs-otoho-doyo-1485482",
     "title": "CAF Confederation Cup: Singida Black Stars vs Otoho d'Oyo",
     "sport": "football",
@@ -2342,6 +2273,28 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/san-pedro-vs-olympique-safi-1485481/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "stade-malien-bamako-vs-petro-de-luanda-1485437",
+    "title": "CAF Champions League: Stade Malien Bamako vs Petro de Luanda",
+    "sport": "football",
+    "kickOff": "2026-01-25T16:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Stade Malien Bamako",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQ8kBBCII-GMDxNaVMCwQ6uQ2jfJgHwFUIhA.webp"
+    },
+    "team2": {
+      "name": "Petro de Luanda",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQEENg4gO-GMDxNaVMCwQ6uQ2jfJgHwFUIhA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/stade-malien-bamako-vs-petro-de-luanda-1485437/1",
         "language": "English",
         "hd": true
       }
@@ -2409,6 +2362,11 @@
         "url": "https://embedsports.top/embed/admin/ppv-paris-fc-vs-angers/2",
         "language": "English",
         "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/paris-fc-vs-angers-1387867/1",
+        "language": "English",
+        "hd": true
       }
     ]
   },
@@ -2426,7 +2384,13 @@
       "name": "Sampdoria",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjg4AJs0q4Q3EGpAkDRlNr56QKAhSZ8UXMGXhF5ou01pgHY0RCA.webp"
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/catanzaro-vs-sampdoria-1419792/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "metz-vs-lyon-2278276",
@@ -2452,6 +2416,11 @@
         "url": "https://embedsports.top/embed/admin/ppv-metz-vs-lyon/2",
         "language": "English",
         "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/metz-vs-lyon-1387865/1",
+        "language": "English",
+        "hd": true
       }
     ]
   },
@@ -2479,6 +2448,11 @@
         "url": "https://embedsports.top/embed/admin/ppv-brest-vs-toulouse/2",
         "language": "English",
         "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/stade-brestois-29-vs-toulouse-1387861/1",
+        "language": "English",
+        "hd": true
       }
     ]
   },
@@ -2570,6 +2544,16 @@
         "url": "https://embedsports.top/embed/admin/ppv-arsenal-vs-manchester-united/2",
         "language": "English",
         "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/arsenal-vs-manchester-united-1379189/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/charlie/arsenal-vs-manchester-united-1379189/2",
+        "language": "English",
+        "hd": true
       },
       {
         "url": "https://embedsports.top/embed/golf/19356/1",
@@ -3546,28 +3530,6 @@
     ]
   },
   {
-    "id": "court-5-1629480107",
-    "title": "Australian Open: Court 5",
-    "sport": "tennis",
-    "kickOff": "2026-01-26T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/court-5-1629480107/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "court-12-1629480108",
     "title": "Australian Open: Court 12",
     "sport": "tennis",
@@ -3634,8 +3596,8 @@
     ]
   },
   {
-    "id": "anz-arena-1629480105",
-    "title": "Australian Open: ANZ Arena",
+    "id": "court-5-1629480107",
+    "title": "Australian Open: Court 5",
     "sport": "tennis",
     "kickOff": "2026-01-26T00:00:00",
     "isLive": false,
@@ -3649,7 +3611,7 @@
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/charlie/anz-arena-1629480105/1",
+        "url": "https://embedsports.top/embed/charlie/court-5-1629480107/1",
         "language": "English",
         "hd": true
       }
@@ -3694,6 +3656,28 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/court-7-1629480113/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "kia-arena-1629480104",
+    "title": "Australian Open: Kia Arena",
+    "sport": "tennis",
+    "kickOff": "2026-01-26T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/kia-arena-1629480104/1",
         "language": "English",
         "hd": true
       }
@@ -4324,8 +4308,8 @@
     ]
   },
   {
-    "id": "kia-arena-1629480137",
-    "title": "Australian Open: Kia Arena",
+    "id": "1573-arena-1629480142",
+    "title": "Australian Open: 1573 Arena",
     "sport": "tennis",
     "kickOff": "2026-01-27T00:00:00",
     "isLive": false,
@@ -4339,7 +4323,7 @@
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/charlie/kia-arena-1629480137/1",
+        "url": "https://embedsports.top/embed/charlie/1573-arena-1629480142/1",
         "language": "English",
         "hd": true
       }
@@ -4720,28 +4704,6 @@
     ]
   },
   {
-    "id": "court-7-1629480753",
-    "title": "Australian Open: Court 7",
-    "sport": "tennis",
-    "kickOff": "2026-01-28T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/court-7-1629480753/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "court-6-1629480751",
     "title": "Australian Open: Court 6",
     "sport": "tennis",
@@ -4758,6 +4720,28 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/court-6-1629480751/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "court-7-1629480753",
+    "title": "Australian Open: Court 7",
+    "sport": "tennis",
+    "kickOff": "2026-01-28T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/court-7-1629480753/1",
         "language": "English",
         "hd": true
       }
