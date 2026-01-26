@@ -1,21 +1,5 @@
 [
   {
-    "id": "memphis-grizzlies-vs-denver-nuggets-basketball-470130",
-    "title": "Memphis Grizzlies vs Denver Nuggets",
-    "sport": "basketball",
-    "kickOff": "2026-01-25T20:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Memphis Grizzlies",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAggAJvXIMAxs0k94YqtwJdWYMLnzWgA.webp"
-    },
-    "team2": {
-      "name": "Denver Nuggets",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiEQp65BgGNmknvDFVuBLqzBhc+S0A.webp"
-    },
-    "links": []
-  },
-  {
     "id": "1769382000000-pittsburgh-penguins-vs-vancouver-canucks",
     "title": "Pittsburgh Penguins vs Vancouver Canucks",
     "sport": "hockey",
@@ -44,12 +28,12 @@
     "kickOff": "2026-01-25T23:30:00",
     "isLive": false,
     "team1": {
-      "name": "Seattle Seahawks",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1itu1Ai34csAEwoVIjfmGBh0M3ESwJ0IKiHj1yDAMbMFPeDKrdhDVmDC58doA.webp"
+      "name": "Home Team",
+      "logo": ""
     },
     "team2": {
-      "name": "Los Angeles Rams",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1itu1Ai34csAEwoVIjfmGBh0M3ESwJ0IRCTrkGAY2YKe8GVW7CGrMGFz5bQA.webp"
+      "name": "Away Team",
+      "logo": ""
     },
     "links": [
       {
@@ -60,36 +44,6 @@
       {
         "url": "https://embedsports.top/embed/bravo/1769383800000-los-angeles-rams-vs-seattle-seahawks/2",
         "language": "Spanish",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/seattle-seahawks-vs-los-angeles-rams-american-football-17595/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/seattle-seahawks-vs-los-angeles-rams-american-football-17595/2",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/seattle-seahawks-vs-los-angeles-rams-american-football-17595/3",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/seattle-seahawks-vs-los-angeles-rams-american-football-17595/4",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/seattle-seahawks-vs-los-angeles-rams-american-football-17595/5",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/19347/1",
-        "language": "English",
         "hd": true
       }
     ]
@@ -277,11 +231,6 @@
         "url": "https://embedsports.top/embed/bravo/1769385600000-toronto-raptors-vs-oklahoma-city-thunder/2",
         "language": "Home Feed",
         "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/19401/1",
-        "language": "English",
-        "hd": true
       }
     ]
   },
@@ -299,13 +248,7 @@
       "name": "Dallas Mavericks",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhu1cFgQhuICLhAwQJEABMQFviBRmCFJnxRcwZeEXminTWmBdjREEA.webp"
     },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/golf/19400/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
+    "links": []
   },
   {
     "id": "san-antonio-spurs-vs-new-orleans-pelicans-2358015",
@@ -330,11 +273,6 @@
       {
         "url": "https://embedsports.top/embed/bravo/1769385600000-new-orleans-pelicans-vs-san-antonio-spurs/2",
         "language": "Home Feed",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/19402/1",
-        "language": "English",
         "hd": true
       }
     ]
@@ -441,16 +379,6 @@
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-anaheim-ducks-vs-calgary-flames/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-anaheim-ducks-vs-calgary-flames/2",
-        "language": "English",
-        "hd": false
-      },
-      {
         "url": "https://embedsports.top/embed/bravo/1769389200000-anaheim-ducks-vs-calgary-flames/1",
         "language": "Away Feed",
         "hd": true
@@ -458,21 +386,6 @@
       {
         "url": "https://embedsports.top/embed/bravo/1769389200000-anaheim-ducks-vs-calgary-flames/2",
         "language": "Home Feed",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/charlie/anaheim-ducks-vs-calgary-flames-1629480117/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/delta/live_nhl_flames-ducks-live-streaming-494278848/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/19397/1",
-        "language": "English",
         "hd": true
       }
     ]
@@ -493,16 +406,6 @@
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-miami-heat-vs-phoenix-suns/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-miami-heat-vs-phoenix-suns/2",
-        "language": "English",
-        "hd": false
-      },
-      {
         "url": "https://embedsports.top/embed/bravo/1769389200000-miami-heat-vs-phoenix-suns/1",
         "language": "Away Feed",
         "hd": true
@@ -510,11 +413,6 @@
       {
         "url": "https://embedsports.top/embed/bravo/1769389200000-miami-heat-vs-phoenix-suns/2",
         "language": "Home Feed",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/charlie/miami-heat-vs-phoenix-suns-1629480116/1",
-        "language": "English",
         "hd": true
       },
       {
@@ -606,31 +504,6 @@
       {
         "url": "https://embedsports.top/embed/charlie/brooklyn-nets-vs-los-angeles-clippers-1629480118/1",
         "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/delta/live_nba_clippers-nets-live-streaming-428876208/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/los-angeles-clippers-vs-brooklyn-nets-basketball-470135/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/los-angeles-clippers-vs-brooklyn-nets-basketball-470135/2",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/los-angeles-clippers-vs-brooklyn-nets-basketball-470135/3",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/los-angeles-clippers-vs-brooklyn-nets-basketball-470135/4",
-        "language": "",
         "hd": true
       },
       {
@@ -1313,28 +1186,6 @@
     "links": []
   },
   {
-    "id": "juventus-w-vs-parma-w-1479714",
-    "title": "Serie A Women: Juventus W vs Parma W",
-    "sport": "football",
-    "kickOff": "2026-01-26T17:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Juventus W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIY8fn8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
-    },
-    "team2": {
-      "name": "Parma W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIbIRAQQxgjGB4mtKmBYIdXIbVvkwj4CqEQgA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/juventus-w-vs-parma-w-1479714/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "eyupspor-vs-besiktas-1394596",
     "title": "S\u00fcper Lig: Eyupspor vs Besiktas",
     "sport": "football",
@@ -1351,6 +1202,28 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/eyupspor-vs-besiktas-1394596/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "juventus-w-vs-parma-w-1479714",
+    "title": "Serie A Women: Juventus W vs Parma W",
+    "sport": "football",
+    "kickOff": "2026-01-26T17:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Juventus W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIY8fn8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "team2": {
+      "name": "Parma W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIbIRAQQxgjGB4mtKmBYIdXIbVvkwj4CqEQgA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/juventus-w-vs-parma-w-1479714/1",
         "language": "English",
         "hd": true
       }
@@ -2787,6 +2660,138 @@
     ]
   },
   {
+    "id": "winnipeg-jets-vs-new-jersey-devils-1629480744",
+    "title": "NHL: Winnipeg Jets vs New Jersey Devils",
+    "sport": "hockey",
+    "kickOff": "2026-01-28T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Winnipeg Jets",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAg4zIEMAAmvEBxDYIwc4kIhEQ8ywcg71uSO5HaS5h6+MJ6cOK78MMB4enRgLAoukkK0SeRgqa6srkA.webp"
+    },
+    "team2": {
+      "name": "New Jersey Devils",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCGwATTq2sRgtiCHIszdkCBsgOIZpclPPjlaMiG4wgZbOqgQwwHh6dGAsCraSQrRx5GCJdjZAA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/winnipeg-jets-vs-new-jersey-devils-1629480744/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "nashville-predators-vs-boston-bruins-1629480745",
+    "title": "NHL: Nashville Predators vs Boston Bruins",
+    "sport": "hockey",
+    "kickOff": "2026-01-28T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Nashville Predators",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCDMhgEEInrWGIACa8cZy47fMhLc5O9OntjYgKmJWMFIO-OF4enRgLAoQnKxYwDHkYPGWKRBAA.webp"
+    },
+    "team2": {
+      "name": "Boston Bruins",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBDAAJiCuMIwCCCGT6vVpxCIYHqV-IvC1q5OZiABHCDhZrRWqgQwwHh6dGAsCnaSQrSJ5GAp9m4QQA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/nashville-predators-vs-boston-bruins-1629480745/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "buffalo-sabres-vs-toronto-maple-leafs-1629480740",
+    "title": "NHL: Buffalo Sabres vs Toronto Maple Leafs",
+    "sport": "hockey",
+    "kickOff": "2026-01-28T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Buffalo Sabres",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBDAInEOUQsQQyRBCW75+iFocQha5z92AEw8rcgCpOy9sLyc+AhhgPD06MBYFS0khWkTyMBSLVgsgA.webp"
+    },
+    "team2": {
+      "name": "Toronto Maple Leafs",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAhmQiRABNOIayA4hnjRCDK8QhHPa9jGkk42IEKSDswQwoxsBDDAeHp0YCwKkZJCtAnkYMnAkUIQQA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/buffalo-sabres-vs-toronto-maple-leafs-1629480740/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "vegas-golden-knights-vs-montreal-canadiens-1629480741",
+    "title": "NHL: Vegas Golden Knights vs Montreal Canadiens",
+    "sport": "hockey",
+    "kickOff": "2026-01-28T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Vegas Golden Knights",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCGyEQiACYgInYHfq2QLHCBswQFkC-deXYq5Ogpy89k5WZJYO-DDAeHp0YCwKdpJCtAnkYMkOrA5AA.webp"
+    },
+    "team2": {
+      "name": "Montreal Canadiens",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShxDYQIACbXOIRFakg72bBGCObMeyElDyNoiSjvQg7iw+QmZW-DDAeHp0YCwK7n5Y8WJgycDhuUA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/vegas-golden-knights-vs-montreal-canadiens-1629480741/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "utah-mammoth-vs-florida-panthers-1629480743",
+    "title": "NHL: Utah Mammoth vs Florida Panthers",
+    "sport": "hockey",
+    "kickOff": "2026-01-28T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Utah Mammoth",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBYgLiGGIggIZEOUYcQAEzs5gt7xd-nGiOTerA7WQTjSBNZ4enRgLAr2kkK0MeRg8V4hEEA.webp"
+    },
+    "team2": {
+      "name": "Florida Panthers",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBMQHEBBwhm5S+eyXEp4Neb0rNwiHPWYvpxuICGeEMEB2AEQ-DDAeHp0YCwK4ZJCtAnkYMlurG5AA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/utah-mammoth-vs-florida-panthers-1629480743/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "los-angeles-kings-vs-detroit-red-wings-1629480742",
+    "title": "NHL: Los Angeles Kings vs Detroit Red Wings",
+    "sport": "hockey",
+    "kickOff": "2026-01-28T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Los Angeles Kings",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NDhAgGIQiGwcQdxoxZWQ5CCHd2hQgCa8ziDD2wO70riDOiJJ+jD78MMB4enRgLAoQnKxYiWJgqSFZEEA.webp"
+    },
+    "team2": {
+      "name": "Detroit Red Wings",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBNeOTpxCGQdoRzvDzEBjaung5u-RCfGji5iQua+ECCqBDDAeHp0YCwKrpJCtLHkYAnArkIQQA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/los-angeles-kings-vs-detroit-red-wings-1629480742/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "court-14-1629480749",
     "title": "Australian Open: Court 14",
     "sport": "tennis",
@@ -2985,138 +2990,6 @@
     ]
   },
   {
-    "id": "winnipeg-jets-vs-new-jersey-devils-1629480744",
-    "title": "NHL: Winnipeg Jets vs New Jersey Devils",
-    "sport": "hockey",
-    "kickOff": "2026-01-28T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Winnipeg Jets",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAg4zIEMAAmvEBxDYIwc4kIhEQ8ywcg71uSO5HaS5h6+MJ6cOK78MMB4enRgLAoukkK0SeRgqa6srkA.webp"
-    },
-    "team2": {
-      "name": "New Jersey Devils",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCGwATTq2sRgtiCHIszdkCBsgOIZpclPPjlaMiG4wgZbOqgQwwHh6dGAsCraSQrRx5GCJdjZAA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/winnipeg-jets-vs-new-jersey-devils-1629480744/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "nashville-predators-vs-boston-bruins-1629480745",
-    "title": "NHL: Nashville Predators vs Boston Bruins",
-    "sport": "hockey",
-    "kickOff": "2026-01-28T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Nashville Predators",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCDMhgEEInrWGIACa8cZy47fMhLc5O9OntjYgKmJWMFIO-OF4enRgLAoQnKxYwDHkYPGWKRBAA.webp"
-    },
-    "team2": {
-      "name": "Boston Bruins",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBDAAJiCuMIwCCCGT6vVpxCIYHqV-IvC1q5OZiABHCDhZrRWqgQwwHh6dGAsCnaSQrSJ5GAp9m4QQA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/nashville-predators-vs-boston-bruins-1629480745/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "buffalo-sabres-vs-toronto-maple-leafs-1629480740",
-    "title": "NHL: Buffalo Sabres vs Toronto Maple Leafs",
-    "sport": "hockey",
-    "kickOff": "2026-01-28T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Buffalo Sabres",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBDAInEOUQsQQyRBCW75+iFocQha5z92AEw8rcgCpOy9sLyc+AhhgPD06MBYFS0khWkTyMBSLVgsgA.webp"
-    },
-    "team2": {
-      "name": "Toronto Maple Leafs",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAhmQiRABNOIayA4hnjRCDK8QhHPa9jGkk42IEKSDswQwoxsBDDAeHp0YCwKkZJCtAnkYMnAkUIQQA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/buffalo-sabres-vs-toronto-maple-leafs-1629480740/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "vegas-golden-knights-vs-montreal-canadiens-1629480741",
-    "title": "NHL: Vegas Golden Knights vs Montreal Canadiens",
-    "sport": "hockey",
-    "kickOff": "2026-01-28T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Vegas Golden Knights",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCGyEQiACYgInYHfq2QLHCBswQFkC-deXYq5Ogpy89k5WZJYO-DDAeHp0YCwKdpJCtAnkYMkOrA5AA.webp"
-    },
-    "team2": {
-      "name": "Montreal Canadiens",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShxDYQIACbXOIRFakg72bBGCObMeyElDyNoiSjvQg7iw+QmZW-DDAeHp0YCwK7n5Y8WJgycDhuUA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/vegas-golden-knights-vs-montreal-canadiens-1629480741/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "los-angeles-kings-vs-detroit-red-wings-1629480742",
-    "title": "NHL: Los Angeles Kings vs Detroit Red Wings",
-    "sport": "hockey",
-    "kickOff": "2026-01-28T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Los Angeles Kings",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NDhAgGIQiGwcQdxoxZWQ5CCHd2hQgCa8ziDD2wO70riDOiJJ+jD78MMB4enRgLAoQnKxYiWJgqSFZEEA.webp"
-    },
-    "team2": {
-      "name": "Detroit Red Wings",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBNeOTpxCGQdoRzvDzEBjaung5u-RCfGji5iQua+ECCqBDDAeHp0YCwKrpJCtLHkYAnArkIQQA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/los-angeles-kings-vs-detroit-red-wings-1629480742/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "utah-mammoth-vs-florida-panthers-1629480743",
-    "title": "NHL: Utah Mammoth vs Florida Panthers",
-    "sport": "hockey",
-    "kickOff": "2026-01-28T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Utah Mammoth",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBYgLiGGIggIZEOUYcQAEzs5gt7xd-nGiOTerA7WQTjSBNZ4enRgLAr2kkK0MeRg8V4hEEA.webp"
-    },
-    "team2": {
-      "name": "Florida Panthers",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBMQHEBBwhm5S+eyXEp4Neb0rNwiHPWYvpxuICGeEMEB2AEQ-DDAeHp0YCwK4ZJCtAnkYMlurG5AA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/utah-mammoth-vs-florida-panthers-1629480743/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "portland-trail-blazers-vs-washington-wizards-1629480739",
     "title": "NBA: Portland Trail Blazers vs Washington Wizards",
     "sport": "basketball",
@@ -3183,28 +3056,6 @@
     ]
   },
   {
-    "id": "chicago-blackhawks-vs-minnesota-wild-1629480760",
-    "title": "NHL: Chicago Blackhawks vs Minnesota Wild",
-    "sport": "hockey",
-    "kickOff": "2026-01-28T01:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Chicago Blackhawks",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NL04gIwxIwAmFkCwvAIIRJcOv7dyULsgQdjAB9pKIMFIcIBz84Xh6dGAsCpY+WMBx5GCJzqzOQA.webp"
-    },
-    "team2": {
-      "name": "Minnesota Wild",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShxC1JZxonohELXiAfZCdkABMnbmG4euHnkKIZoHAEE4M0gQwwHh6dGAsChCcrFixYmCJYWkQQA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/chicago-blackhawks-vs-minnesota-wild-1629480760/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "dallas-stars-vs-st-louis-blues-1629480759",
     "title": "NHL: Dallas Stars vs St. Louis Blues",
     "sport": "hockey",
@@ -3227,22 +3078,22 @@
     ]
   },
   {
-    "id": "new-orleans-pelicans-vs-oklahoma-city-thunder-1629480761",
-    "title": "NBA: New Orleans Pelicans vs Oklahoma City Thunder",
-    "sport": "basketball",
+    "id": "chicago-blackhawks-vs-minnesota-wild-1629480760",
+    "title": "NHL: Chicago Blackhawks vs Minnesota Wild",
+    "sport": "hockey",
     "kickOff": "2026-01-28T01:00:00",
     "isLive": false,
     "team1": {
-      "name": "New Orleans Pelicans",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NLwa8QHHCBuSAJteyJCIB+Qf3gD7Nghevlq7CQiwgoRCBdvwwwHh6dGAsCn6SQrRx5GCJwH5CEEA.webp"
+      "name": "Chicago Blackhawks",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NL04gIwxIwAmFkCwvAIIRJcOv7dyULsgQdjAB9pKIMFIcIBz84Xh6dGAsCpY+WMBx5GCJzqzOQA.webp"
     },
     "team2": {
-      "name": "Oklahoma City Thunder",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBMQ5xhxCT6OEIV42QLmCEQuIwCC+CXvfs4u5tYwUo6O5tgc-GF4enRgLApekkK08eRgSQFCEEA.webp"
+      "name": "Minnesota Wild",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShxC1JZxonohELXiAfZCdkABMnbmG4euHnkKIZoHAEE4M0gQwwHh6dGAsChCcrFixYmCJYWkQQA.webp"
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/charlie/new-orleans-pelicans-vs-oklahoma-city-thunder-1629480761/1",
+        "url": "https://embedsports.top/embed/charlie/chicago-blackhawks-vs-minnesota-wild-1629480760/1",
         "language": "English",
         "hd": true
       }
@@ -3271,22 +3122,22 @@
     ]
   },
   {
-    "id": "detroit-pistons-vs-denver-nuggets-1629480763",
-    "title": "NBA: Detroit Pistons vs Denver Nuggets",
+    "id": "new-orleans-pelicans-vs-oklahoma-city-thunder-1629480761",
+    "title": "NBA: New Orleans Pelicans vs Oklahoma City Thunder",
     "sport": "basketball",
-    "kickOff": "2026-01-28T02:00:00",
+    "kickOff": "2026-01-28T01:00:00",
     "isLive": false,
     "team1": {
-      "name": "Detroit Pistons",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBNWwCAxAgppkCxAReIe4kkcbIRM5vYYDmLOiPaEXjbBgXwEMMB4enRgLApWkkK08eRgSZYWEEA.webp"
+      "name": "New Orleans Pelicans",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NLwa8QHHCBuSAJteyJCIB+Qf3gD7Nghevlq7CQiwgoRCBdvwwwHh6dGAsCn6SQrRx5GCJwH5CEEA.webp"
     },
     "team2": {
-      "name": "Denver Nuggets",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SixwhszRIhidgAExCELIMxE6uLDEDZ9Ph7uT0rh4w-vbehPy2eHp0YCwK7pJCtLHkYAnA7kIQQA.webp"
+      "name": "Oklahoma City Thunder",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBMQ5xhxCT6OEIV42QLmCEQuIwCC+CXvfs4u5tYwUo6O5tgc-GF4enRgLApekkK08eRgSQFCEEA.webp"
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/charlie/detroit-pistons-vs-denver-nuggets-1629480763/1",
+        "url": "https://embedsports.top/embed/charlie/new-orleans-pelicans-vs-oklahoma-city-thunder-1629480761/1",
         "language": "English",
         "hd": true
       }
@@ -3315,6 +3166,28 @@
     ]
   },
   {
+    "id": "detroit-pistons-vs-denver-nuggets-1629480763",
+    "title": "NBA: Detroit Pistons vs Denver Nuggets",
+    "sport": "basketball",
+    "kickOff": "2026-01-28T02:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Detroit Pistons",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBNWwCAxAgppkCxAReIe4kkcbIRM5vYYDmLOiPaEXjbBgXwEMMB4enRgLApWkkK08eRgSZYWEEA.webp"
+    },
+    "team2": {
+      "name": "Denver Nuggets",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SixwhszRIhidgAExCELIMxE6uLDEDZ9Ph7uT0rh4w-vbehPy2eHp0YCwK7pJCtLHkYAnA7kIQQA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/detroit-pistons-vs-denver-nuggets-1629480763/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "austin-spurs-vs-valley-suns-1629480765",
     "title": "NBA G League: Austin Spurs vs Valley Suns",
     "sport": "basketball",
@@ -3337,28 +3210,6 @@
     ]
   },
   {
-    "id": "san-jose-sharks-vs-vancouver-canucks-1629480768",
-    "title": "NHL: San Jose Sharks vs Vancouver Canucks",
-    "sport": "hockey",
-    "kickOff": "2026-01-28T03:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "San Jose Sharks",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAAmIEMAvMOIFrxCJL9e9ce0LEd+Rs4Q2OTe5IgwwBAgdmZkkfxheHp0YCwK3pJCtAnkYMnhrOFAA.webp"
-    },
-    "team2": {
-      "name": "Vancouver Canucks",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCDMATEBGCWYVsrxwOWIZpezkX5S4hicrIJKS1uQcgQGMLrgEfnh6dGAsCtaSQrRx5GCJwNZCEEA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/san-jose-sharks-vs-vancouver-canucks-1629480768/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "washington-capitals-vs-seattle-kraken-1629480767",
     "title": "NHL: Washington Capitals vs Seattle Kraken",
     "sport": "hockey",
@@ -3375,6 +3226,28 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/washington-capitals-vs-seattle-kraken-1629480767/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "san-jose-sharks-vs-vancouver-canucks-1629480768",
+    "title": "NHL: San Jose Sharks vs Vancouver Canucks",
+    "sport": "hockey",
+    "kickOff": "2026-01-28T03:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "San Jose Sharks",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAAmIEMAvMOIFrxCJL9e9ce0LEd+Rs4Q2OTe5IgwwBAgdmZkkfxheHp0YCwK3pJCtAnkYMnhrOFAA.webp"
+    },
+    "team2": {
+      "name": "Vancouver Canucks",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCDMATEBGCWYVsrxwOWIZpezkX5S4hicrIJKS1uQcgQGMLrgEfnh6dGAsCtaSQrRx5GCJwNZCEEA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/san-jose-sharks-vs-vancouver-canucks-1629480768/1",
         "language": "English",
         "hd": true
       }
@@ -3768,7 +3641,13 @@
       "name": "AS FAR W",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NDhCEzIKyAAmOMYnogIwCCA63gdmMLssz5EL+Vj6MbhY2DNY2-D54enRgLAoukkK08eRgSa6srkA.webp"
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/arsenal-w-vs-as-far-w-1629480780/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "joventut-badalona-vs-baloncesto-malaga-1629481717",
@@ -3897,6 +3776,202 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/baxi-manresa-vs-u-bt-cluj-napoca-1629480785/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "atletico-madrid-vs-bodoglimt-1451152",
+    "title": "UEFA Champions League: Atletico Madrid vs Bodo/Glimt",
+    "sport": "football",
+    "kickOff": "2026-01-28T20:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Atletico Madrid",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLEIlwEYwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "team2": {
+      "name": "Bodo/Glimt",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQiDiEL8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "union-st-gilloise-vs-atalanta-1451158",
+    "title": "UEFA Champions League: Union St. Gilloise vs Atalanta",
+    "sport": "football",
+    "kickOff": "2026-01-28T20:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Union St. Gilloise",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIRNgMEYwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "team2": {
+      "name": "Atalanta",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQEENhT8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "club-brugge-kv-vs-marseille-1451163",
+    "title": "UEFA Champions League: Club Brugge KV vs Marseille",
+    "sport": "football",
+    "kickOff": "2026-01-28T20:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Club Brugge KV",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLEPJAp+MYHia0qYFgh1chta+TD3gKoRCA.webp"
+    },
+    "team2": {
+      "name": "Marseille",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQRvgRjA8TWlTAsEOrkNoXyYG8BVCIQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "benfica-vs-real-madrid-1451162",
+    "title": "UEFA Champions League: Benfica vs Real Madrid",
+    "sport": "football",
+    "kickOff": "2026-01-28T20:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Benfica",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHXlIIxgeJrSpgWCHVyG1L5MLeAqhEIA.webp"
+    },
+    "team2": {
+      "name": "Real Madrid",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLEBCkEYwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/benfica-vs-real-madrid-1451162/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "psv-eindhoven-vs-bayern-munchen-1451154",
+    "title": "UEFA Champions League: PSV Eindhoven vs Bayern Munchen",
+    "sport": "football",
+    "kickOff": "2026-01-28T20:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "PSV Eindhoven",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIbIX4xgeJrSpgWCHVyG1L5MLeAqhEIA.webp"
+    },
+    "team2": {
+      "name": "Bayern Munchen",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIFiEL8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/psv-eindhoven-vs-bayern-munchen-1451154/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "ajax-vs-olympiakos-piraeus-1451157",
+    "title": "UEFA Champions League: Ajax vs Olympiakos Piraeus",
+    "sport": "football",
+    "kickOff": "2026-01-28T20:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Ajax",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIbBH4xgeJrSpgWCHVyG1L5MLeAqhEIA.webp"
+    },
+    "team2": {
+      "name": "Olympiakos Piraeus",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLIyAMEYwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/ajax-vs-olympiakos-piraeus-1451157/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "eintracht-frankfurt-vs-tottenham-1451150",
+    "title": "UEFA Champions League: Eintracht Frankfurt vs Tottenham",
+    "sport": "football",
+    "kickOff": "2026-01-28T20:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Eintracht Frankfurt",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIeSBT8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "team2": {
+      "name": "Tottenham",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQEEIX4xgeJrSpgWCHVyG1L5MLeAqhEIA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/eintracht-frankfurt-vs-tottenham-1451150/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "bayer-leverkusen-vs-villarreal-1451155",
+    "title": "UEFA Champions League: Bayer Leverkusen vs Villarreal",
+    "sport": "football",
+    "kickOff": "2026-01-28T20:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Bayer Leverkusen",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIeSBD8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "team2": {
+      "name": "Villarreal",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLEIgMEYwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/bayer-leverkusen-vs-villarreal-1451155/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "borussia-dortmund-vs-inter-1451147",
+    "title": "UEFA Champions League: Borussia Dortmund vs Inter",
+    "sport": "football",
+    "kickOff": "2026-01-28T20:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Borussia Dortmund",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIeSDYEYwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "team2": {
+      "name": "Inter",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLHEf4xgeJrSpgWCHVyG1L5MLeAqhEIA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "philadelphia-flyers-vs-columbus-blue-jackets-1629480788",
+    "title": "NHL: Philadelphia Flyers vs Columbus Blue Jackets",
+    "sport": "hockey",
+    "kickOff": "2026-01-29T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Philadelphia Flyers",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShxAATELTOXLtRhCkwGIco4hWQLVz4-myFoHk9D4gwI4hIRD8znh6dGAsCo6SQrRx5GCJ4azhQA.webp"
+    },
+    "team2": {
+      "name": "Columbus Blue Jackets",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBBSYIcvRAcQAE2AQnDKyAhXg9kCxDNEgj7uZLacfqG+zh6OHhz8MMB4enRgLArOkkK0SeRgqS5CEEA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/philadelphia-flyers-vs-columbus-blue-jackets-1629480788/1",
         "language": "English",
         "hd": true
       }
@@ -4035,28 +4110,6 @@
     ]
   },
   {
-    "id": "philadelphia-flyers-vs-columbus-blue-jackets-1629480788",
-    "title": "NHL: Philadelphia Flyers vs Columbus Blue Jackets",
-    "sport": "hockey",
-    "kickOff": "2026-01-29T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Philadelphia Flyers",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShxAATELTOXLtRhCkwGIco4hWQLVz4-myFoHk9D4gwI4hIRD8znh6dGAsCo6SQrRx5GCJ4azhQA.webp"
-    },
-    "team2": {
-      "name": "Columbus Blue Jackets",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBBSYIcvRAcQAE2AQnDKyAhXg9kCxDNEgj7uZLacfqG+zh6OHhz8MMB4enRgLArOkkK0SeRgqS5CEEA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/philadelphia-flyers-vs-columbus-blue-jackets-1629480788/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "los-angeles-lakers-vs-cleveland-cavaliers-1629480787",
     "title": "NBA: Los Angeles Lakers vs Cleveland Cavaliers",
     "sport": "basketball",
@@ -4073,28 +4126,6 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/los-angeles-lakers-vs-cleveland-cavaliers-1629480787/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "chicago-bulls-vs-indiana-pacers-1629480786",
-    "title": "NBA: Chicago Bulls vs Indiana Pacers",
-    "sport": "basketball",
-    "kickOff": "2026-01-29T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Chicago Bulls",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBBSYIDiFrXGjcpIggAJmKFDEb64jP0rnBauNrw4IIQgznwEMMB4enRgLAoQgUK08eRgScCpQhBAA.webp"
-    },
-    "team2": {
-      "name": "Indiana Pacers",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NLxDlyAExDXGEYPZbnewxk+b0QhEBxD3EzL5CiL62IE6SIeb8MMB4enRgLAr2kkK08eRgSQ6sDkA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/chicago-bulls-vs-indiana-pacers-1629480786/1",
         "language": "English",
         "hd": true
       }
@@ -4123,22 +4154,22 @@
     ]
   },
   {
-    "id": "colorado-avalanche-vs-ottawa-senators-1629480798",
-    "title": "NHL: Colorado Avalanche vs Ottawa Senators",
-    "sport": "hockey",
-    "kickOff": "2026-01-29T00:30:00",
+    "id": "chicago-bulls-vs-indiana-pacers-1629480786",
+    "title": "NBA: Chicago Bulls vs Indiana Pacers",
+    "sport": "basketball",
+    "kickOff": "2026-01-29T00:00:00",
     "isLive": false,
     "team1": {
-      "name": "Colorado Avalanche",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCA4gQnEBBDlzhHGPo4QAEystrtkLRuIbNrTuiA6S5M4qwDZsBDDAeHp0YCwKEJysWPFiYMlRGRBAA.webp"
+      "name": "Chicago Bulls",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBBSYIDiFrXGjcpIggAJmKFDEb64jP0rnBauNrw4IIQgznwEMMB4enRgLAoQgUK08eRgScCpQhBAA.webp"
     },
     "team2": {
-      "name": "Ottawa Senators",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SixAQGOcyGb0QiC0IAmYxE5Av37yR3s2pENYwljAg2CARlnwEwXh6dGAsChaSQrRx5GCJwI45QA.webp"
+      "name": "Indiana Pacers",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NLxDlyAExDXGEYPZbnewxk+b0QhEBxD3EzL5CiL62IE6SIeb8MMB4enRgLAr2kkK08eRgSQ6sDkA.webp"
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/charlie/colorado-avalanche-vs-ottawa-senators-1629480798/1",
+        "url": "https://embedsports.top/embed/charlie/chicago-bulls-vs-indiana-pacers-1629480786/1",
         "language": "English",
         "hd": true
       }
@@ -4167,22 +4198,22 @@
     ]
   },
   {
-    "id": "new-york-knicks-vs-toronto-raptors-1629480802",
-    "title": "NBA: New York Knicks vs Toronto Raptors",
-    "sport": "basketball",
+    "id": "colorado-avalanche-vs-ottawa-senators-1629480798",
+    "title": "NHL: Colorado Avalanche vs Ottawa Senators",
+    "sport": "hockey",
     "kickOff": "2026-01-29T00:30:00",
     "isLive": false,
     "team1": {
-      "name": "New York Knicks",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBNgpkIRCJEEEBxD3L2R9aEsHwe85CWYILT2IH68VhZekv4W-DDAeHp0YCwKEJysWPFiYMneGRBAA.webp"
+      "name": "Colorado Avalanche",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCA4gQnEBBDlzhHGPo4QAEystrtkLRuIbNrTuiA6S5M4qwDZsBDDAeHp0YCwKEJysWPFiYMlRGRBAA.webp"
     },
     "team2": {
-      "name": "Toronto Raptors",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShBAATEOUtDyLECClnJHEIRD3sMBwzed-lq7e9jbA5v5mgvwwwHh6dGAsChD+QrRx5GCJwClCEEA.webp"
+      "name": "Ottawa Senators",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SixAQGOcyGb0QiC0IAmYxE5Av37yR3s2pENYwljAg2CARlnwEwXh6dGAsChaSQrRx5GCJwI45QA.webp"
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/charlie/new-york-knicks-vs-toronto-raptors-1629480802/1",
+        "url": "https://embedsports.top/embed/charlie/colorado-avalanche-vs-ottawa-senators-1629480798/1",
         "language": "English",
         "hd": true
       }
@@ -4233,22 +4264,22 @@
     ]
   },
   {
-    "id": "charlotte-hornets-vs-memphis-grizzlies-1629480803",
-    "title": "NBA: Charlotte Hornets vs Memphis Grizzlies",
+    "id": "new-york-knicks-vs-toronto-raptors-1629480802",
+    "title": "NBA: New York Knicks vs Toronto Raptors",
     "sport": "basketball",
-    "kickOff": "2026-01-29T01:00:00",
+    "kickOff": "2026-01-29T00:30:00",
     "isLive": false,
     "team1": {
-      "name": "Charlotte Hornets",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SixCIIYxIRA3mlyeQ62xZgCYhJEXiGxnszjYeMCBunCDeziDm-DDAeHp0YCwKDqxY8WJgycCWQhBAA.webp"
+      "name": "New York Knicks",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBNgpkIRCJEEEBxD3L2R9aEsHwe85CWYILT2IH68VhZekv4W-DDAeHp0YCwKEJysWPFiYMneGRBAA.webp"
     },
     "team2": {
-      "name": "Memphis Grizzlies",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShBDmz2eiAgMQkoQBNh5Ww+GNyHGz7dSzbiBCTjj2-DDAeHp0YCwKfkK0UeRgscC2QhBAA.webp"
+      "name": "Toronto Raptors",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShBAATEOUtDyLECClnJHEIRD3sMBwzed-lq7e9jbA5v5mgvwwwHh6dGAsChD+QrRx5GCJwClCEEA.webp"
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/charlie/charlotte-hornets-vs-memphis-grizzlies-1629480803/1",
+        "url": "https://embedsports.top/embed/charlie/new-york-knicks-vs-toronto-raptors-1629480802/1",
         "language": "English",
         "hd": true
       }
@@ -4271,6 +4302,28 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/sioux-falls-skyforce-vs-birmingham-squadron-1629480804/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "charlotte-hornets-vs-memphis-grizzlies-1629480803",
+    "title": "NBA: Charlotte Hornets vs Memphis Grizzlies",
+    "sport": "basketball",
+    "kickOff": "2026-01-29T01:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Charlotte Hornets",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SixCIIYxIRA3mlyeQ62xZgCYhJEXiGxnszjYeMCBunCDeziDm-DDAeHp0YCwKDqxY8WJgycCWQhBAA.webp"
+    },
+    "team2": {
+      "name": "Memphis Grizzlies",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShBDmz2eiAgMQkoQBNh5Ww+GNyHGz7dSzbiBCTjj2-DDAeHp0YCwKfkK0UeRgscC2QhBAA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/charlotte-hornets-vs-memphis-grizzlies-1629480803/1",
         "language": "English",
         "hd": true
       }
