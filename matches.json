@@ -235,22 +235,6 @@
     ]
   },
   {
-    "id": "milwaukee-bucks-vs-dallas-mavericks-2358016",
-    "title": "Milwaukee Bucks vs Dallas Mavericks",
-    "sport": "basketball",
-    "kickOff": "2026-01-26T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Milwaukee Bucks",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1ZhQYUXxAwQ3EABNcukCRAoQEEFp2MKTPii4by9eaMdNaYDWNEQgA.webp"
-    },
-    "team2": {
-      "name": "Dallas Mavericks",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhu1cFgQhuICLhAwQJEABMQFviBRmCFJnxRcwZeEXminTWmBdjREEA.webp"
-    },
-    "links": []
-  },
-  {
     "id": "san-antonio-spurs-vs-new-orleans-pelicans-2358015",
     "title": "San Antonio Spurs vs New Orleans Pelicans",
     "sport": "basketball",
@@ -276,6 +260,22 @@
         "hd": true
       }
     ]
+  },
+  {
+    "id": "milwaukee-bucks-vs-dallas-mavericks-2358016",
+    "title": "Milwaukee Bucks vs Dallas Mavericks",
+    "sport": "basketball",
+    "kickOff": "2026-01-26T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Milwaukee Bucks",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1ZhQYUXxAwQ3EABNcukCRAoQEEFp2MKTPii4by9eaMdNaYDWNEQgA.webp"
+    },
+    "team2": {
+      "name": "Dallas Mavericks",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhu1cFgQhuICLhAwQJEABMQFviBRmCFJnxRcwZeEXminTWmBdjREEA.webp"
+    },
+    "links": []
   },
   {
     "id": "australian-open-mens-and-womens-4th-round-melbourne-park-game-183262",
@@ -484,16 +484,6 @@
       {
         "url": "https://embedsports.top/embed/bravo/1769392800000-brooklyn-nets-vs-los-angeles-clippers/2",
         "language": "Home Feed",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/charlie/brooklyn-nets-vs-los-angeles-clippers-1629480118/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/19404/1",
-        "language": "English",
         "hd": true
       }
     ]
@@ -3252,28 +3242,6 @@
     ]
   },
   {
-    "id": "milwaukee-bucks-vs-philadelphia-76ers-1629480762",
-    "title": "NBA: Milwaukee Bucks vs Philadelphia 76ers",
-    "sport": "basketball",
-    "kickOff": "2026-01-28T01:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Milwaukee Bucks",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCA5mQEYABMGOEA4eJE2bBF5jz789YuFHPg6cIP4gNhbO-DDAeHp0YCwKVpJCtLHkYAnAVkIQQA.webp"
-    },
-    "team2": {
-      "name": "Philadelphia 76ers",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SokQATELUuWInYJfogWIQlefDLIBiA4hvEP4OIOSSjE5Obi6C-DDAeHp0YCwKdpJCtAnkYMnAdkIQQA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/milwaukee-bucks-vs-philadelphia-76ers-1629480762/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "new-orleans-pelicans-vs-oklahoma-city-thunder-1629480761",
     "title": "NBA: New Orleans Pelicans vs Oklahoma City Thunder",
     "sport": "basketball",
@@ -3290,6 +3258,28 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/new-orleans-pelicans-vs-oklahoma-city-thunder-1629480761/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "milwaukee-bucks-vs-philadelphia-76ers-1629480762",
+    "title": "NBA: Milwaukee Bucks vs Philadelphia 76ers",
+    "sport": "basketball",
+    "kickOff": "2026-01-28T01:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Milwaukee Bucks",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCA5mQEYABMGOEA4eJE2bBF5jz789YuFHPg6cIP4gNhbO-DDAeHp0YCwKVpJCtLHkYAnAVkIQQA.webp"
+    },
+    "team2": {
+      "name": "Philadelphia 76ers",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SokQATELUuWInYJfogWIQlefDLIBiA4hvEP4OIOSSjE5Obi6C-DDAeHp0YCwKdpJCtAnkYMnAdkIQQA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/milwaukee-bucks-vs-philadelphia-76ers-1629480762/1",
         "language": "English",
         "hd": true
       }
@@ -3345,28 +3335,6 @@
     ]
   },
   {
-    "id": "detroit-pistons-vs-denver-nuggets-1629480763",
-    "title": "NBA: Detroit Pistons vs Denver Nuggets",
-    "sport": "basketball",
-    "kickOff": "2026-01-28T02:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Detroit Pistons",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBNWwCAxAgppkCxAReIe4kkcbIRM5vYYDmLOiPaEXjbBgXwEMMB4enRgLApWkkK08eRgSZYWEEA.webp"
-    },
-    "team2": {
-      "name": "Denver Nuggets",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SixwhszRIhidgAExCELIMxE6uLDEDZ9Ph7uT0rh4w-vbehPy2eHp0YCwK7pJCtLHkYAnA7kIQQA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/detroit-pistons-vs-denver-nuggets-1629480763/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "austin-spurs-vs-valley-suns-1629480765",
     "title": "NBA G League: Austin Spurs vs Valley Suns",
     "sport": "basketball",
@@ -3383,6 +3351,28 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/austin-spurs-vs-valley-suns-1629480765/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "detroit-pistons-vs-denver-nuggets-1629480763",
+    "title": "NBA: Detroit Pistons vs Denver Nuggets",
+    "sport": "basketball",
+    "kickOff": "2026-01-28T02:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Detroit Pistons",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBNWwCAxAgppkCxAReIe4kkcbIRM5vYYDmLOiPaEXjbBgXwEMMB4enRgLApWkkK08eRgSZYWEEA.webp"
+    },
+    "team2": {
+      "name": "Denver Nuggets",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SixwhszRIhidgAExCELIMxE6uLDEDZ9Ph7uT0rh4w-vbehPy2eHp0YCwK7pJCtLHkYAnA7kIQQA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/detroit-pistons-vs-denver-nuggets-1629480763/1",
         "language": "English",
         "hd": true
       }
@@ -3675,28 +3665,6 @@
     ]
   },
   {
-    "id": "inter-milano-w-vs-ternana-w-1629480776",
-    "title": "Inter Milano W vs Ternana W",
-    "sport": "football",
-    "kickOff": "2026-01-28T17:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Inter Milano W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQhECxCIDBGMDxNaVMCwQ6uQ2jfJgHwFUIhA.webp"
-    },
-    "team2": {
-      "name": "Ternana W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHEInkgzKfjGB4mtKmBYIdXIbVvkwj4CqEQgA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/inter-milano-w-vs-ternana-w-1629480776/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "roma-w-vs-lazio-w-1629480777",
     "title": "AS Roma W vs Lazio W",
     "sport": "football",
@@ -3713,6 +3681,28 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/roma-w-vs-lazio-w-1629480777/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "inter-milano-w-vs-ternana-w-1629480776",
+    "title": "Inter Milano W vs Ternana W",
+    "sport": "football",
+    "kickOff": "2026-01-28T17:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Inter Milano W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQhECxCIDBGMDxNaVMCwQ6uQ2jfJgHwFUIhA.webp"
+    },
+    "team2": {
+      "name": "Ternana W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHEInkgzKfjGB4mtKmBYIdXIbVvkwj4CqEQgA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/inter-milano-w-vs-ternana-w-1629480776/1",
         "language": "English",
         "hd": true
       }
@@ -3961,6 +3951,50 @@
     ]
   },
   {
+    "id": "liverpool-vs-qarabag-1451160",
+    "title": "UEFA Champions League: Liverpool vs Qarabag",
+    "sport": "football",
+    "kickOff": "2026-01-28T20:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Liverpool",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQEHPxjA8TWlTAsEOrkNoXyYG8BVCIQA.webp"
+    },
+    "team2": {
+      "name": "Qarabag",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLIyHn8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/liverpool-vs-qarabag-1451160/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "pafos-vs-slavia-praha-1451151",
+    "title": "UEFA Champions League: Pafos vs Slavia Praha",
+    "sport": "football",
+    "kickOff": "2026-01-28T20:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Pafos",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQiCDiP8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "team2": {
+      "name": "Slavia Praha",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLEPJz8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/pafos-vs-slavia-praha-1451151/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "arsenal-vs-kairat-almaty-1451159",
     "title": "UEFA Champions League: Arsenal vs Kairat Almaty",
     "sport": "football",
@@ -4049,6 +4083,72 @@
     ]
   },
   {
+    "id": "benfica-vs-real-madrid-1451162",
+    "title": "UEFA Champions League: Benfica vs Real Madrid",
+    "sport": "football",
+    "kickOff": "2026-01-28T20:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Benfica",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHXlIIxgeJrSpgWCHVyG1L5MLeAqhEIA.webp"
+    },
+    "team2": {
+      "name": "Real Madrid",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLEBCkEYwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/benfica-vs-real-madrid-1451162/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "barcelona-vs-fc-copenhagen-1451161",
+    "title": "UEFA Champions League: Barcelona vs FC Copenhagen",
+    "sport": "football",
+    "kickOff": "2026-01-28T20:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Barcelona",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLEBxAp+MYHia0qYFgh1chta+TD3gKoRCA.webp"
+    },
+    "team2": {
+      "name": "FC Copenhagen",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQEHDn4xgeJrSpgWCHVyG1L5MLeAqhEIA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/barcelona-vs-fc-copenhagen-1451161/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "atletico-madrid-vs-bodoglimt-1451152",
+    "title": "UEFA Champions League: Atletico Madrid vs Bodo/Glimt",
+    "sport": "football",
+    "kickOff": "2026-01-28T20:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Atletico Madrid",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLEIlwEYwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "team2": {
+      "name": "Bodo/Glimt",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQiDiEL8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/atletico-madrid-vs-bodoglimt-1451152/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "borussia-dortmund-vs-inter-1451147",
     "title": "UEFA Champions League: Borussia Dortmund vs Inter",
     "sport": "football",
@@ -4062,7 +4162,13 @@
       "name": "Inter",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLHEf4xgeJrSpgWCHVyG1L5MLeAqhEIA.webp"
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/borussia-dortmund-vs-inter-1451147/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "bayer-leverkusen-vs-villarreal-1451155",
@@ -4078,7 +4184,13 @@
       "name": "Villarreal",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLEIgMEYwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/bayer-leverkusen-vs-villarreal-1451155/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "eintracht-frankfurt-vs-tottenham-1451150",
@@ -4141,28 +4253,6 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/psv-eindhoven-vs-bayern-munchen-1451154/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "benfica-vs-real-madrid-1451162",
-    "title": "UEFA Champions League: Benfica vs Real Madrid",
-    "sport": "football",
-    "kickOff": "2026-01-28T20:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Benfica",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHXlIIxgeJrSpgWCHVyG1L5MLeAqhEIA.webp"
-    },
-    "team2": {
-      "name": "Real Madrid",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLEBCkEYwPE1pUwLBDq5DaV8mDvAVQiEA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/benfica-vs-real-madrid-1451162/1",
         "language": "English",
         "hd": true
       }
@@ -4455,6 +4545,28 @@
     ]
   },
   {
+    "id": "new-york-knicks-vs-toronto-raptors-1629480802",
+    "title": "NBA: New York Knicks vs Toronto Raptors",
+    "sport": "basketball",
+    "kickOff": "2026-01-29T00:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "New York Knicks",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBNgpkIRCJEEEBxD3L2R9aEsHwe85CWYILT2IH68VhZekv4W-DDAeHp0YCwKEJysWPFiYMneGRBAA.webp"
+    },
+    "team2": {
+      "name": "Toronto Raptors",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShBAATEOUtDyLECClnJHEIRD3sMBwzed-lq7e9jbA5v5mgvwwwHh6dGAsChD+QrRx5GCJwClCEEA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/new-york-knicks-vs-toronto-raptors-1629480802/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "atlanta-hawks-vs-boston-celtics-1629480800",
     "title": "NBA: Atlanta Hawks vs Boston Celtics",
     "sport": "basketball",
@@ -4493,28 +4605,6 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/orlando-magic-vs-miami-heat-1629480801/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "new-york-knicks-vs-toronto-raptors-1629480802",
-    "title": "NBA: New York Knicks vs Toronto Raptors",
-    "sport": "basketball",
-    "kickOff": "2026-01-29T00:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "New York Knicks",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBNgpkIRCJEEEBxD3L2R9aEsHwe85CWYILT2IH68VhZekv4W-DDAeHp0YCwKEJysWPFiYMneGRBAA.webp"
-    },
-    "team2": {
-      "name": "Toronto Raptors",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShBAATEOUtDyLECClnJHEIRD3sMBwzed-lq7e9jbA5v5mgvwwwHh6dGAsChD+QrRx5GCJwClCEEA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/new-york-knicks-vs-toronto-raptors-1629480802/1",
         "language": "English",
         "hd": true
       }
@@ -4636,28 +4726,6 @@
     ]
   },
   {
-    "id": "texas-legends-vs-rip-city-remix-1629480807",
-    "title": "NBA G League: Texas Legends vs Rip City Remix",
-    "sport": "basketball",
-    "kickOff": "2026-01-29T02:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Texas Legends",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAidg5gCYhbiRLfo5bISTfIcQibE8JnOrlIsvMA2jMEwARH8kXh6dGAsCuaSQrRx5GCJlqyWQA.webp"
-    },
-    "team2": {
-      "name": "Rip City Remix",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBDAAJsAjWQkyVYt3ODEBBCEQLECqmJy9Dg+ONZi3maI7ohmEPwwwHh6dGAsCjaSQrSJ5GApoUIQQA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/charlie/texas-legends-vs-rip-city-remix-1629480807/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "golden-state-warriors-vs-utah-jazz-1629480806",
     "title": "NBA: Golden State Warriors vs Utah Jazz",
     "sport": "basketball",
@@ -4674,6 +4742,28 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/charlie/golden-state-warriors-vs-utah-jazz-1629480806/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "texas-legends-vs-rip-city-remix-1629480807",
+    "title": "NBA G League: Texas Legends vs Rip City Remix",
+    "sport": "basketball",
+    "kickOff": "2026-01-29T02:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Texas Legends",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAidg5gCYhbiRLfo5bISTfIcQibE8JnOrlIsvMA2jMEwARH8kXh6dGAsCuaSQrRx5GCJlqyWQA.webp"
+    },
+    "team2": {
+      "name": "Rip City Remix",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBDAAJsAjWQkyVYt3ODEBBCEQLECqmJy9Dg+ONZi3maI7ohmEPwwwHh6dGAsCjaSQrSJ5GApoUIQQA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/charlie/texas-legends-vs-rip-city-remix-1629480807/1",
         "language": "English",
         "hd": true
       }
@@ -4977,60 +5067,6 @@
     ]
   },
   {
-    "id": "ppv-fc-augsburg-vs-st-pauli",
-    "title": "FC Augsburg vs. St. Pauli",
-    "sport": "football",
-    "kickOff": "2026-01-31T14:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "FC Augsburg",
-      "logo": ""
-    },
-    "team2": {
-      "name": "St. Pauli",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-fc-augsburg-vs-st-pauli/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-fc-augsburg-vs-st-pauli/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-eintracht-frankfurt-vs-bayer-leverkusen",
-    "title": "Eintracht Frankfurt vs. Bayer Leverkusen",
-    "sport": "football",
-    "kickOff": "2026-01-31T14:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Eintracht Frankfurt",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Bayer Leverkusen",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-eintracht-frankfurt-vs-bayer-leverkusen/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-eintracht-frankfurt-vs-bayer-leverkusen/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-tsg-hoffenheim-vs-1-fc-union-berlin",
     "title": "TSG Hoffenheim vs. 1. FC Union Berlin",
     "sport": "football",
@@ -5052,6 +5088,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-tsg-hoffenheim-vs-1-fc-union-berlin/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-fc-augsburg-vs-st-pauli",
+    "title": "FC Augsburg vs. St. Pauli",
+    "sport": "football",
+    "kickOff": "2026-01-31T14:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "FC Augsburg",
+      "logo": ""
+    },
+    "team2": {
+      "name": "St. Pauli",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-fc-augsburg-vs-st-pauli/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-fc-augsburg-vs-st-pauli/2",
         "language": "English",
         "hd": false
       }
@@ -5112,27 +5175,54 @@
     ]
   },
   {
-    "id": "ppv-brighton-hove-albion-vs-everton",
-    "title": "Brighton & Hove Albion vs. Everton",
+    "id": "ppv-eintracht-frankfurt-vs-bayer-leverkusen",
+    "title": "Eintracht Frankfurt vs. Bayer Leverkusen",
     "sport": "football",
-    "kickOff": "2026-01-31T15:00:00",
+    "kickOff": "2026-01-31T14:30:00",
     "isLive": false,
     "team1": {
-      "name": "Brighton & Hove Albion",
+      "name": "Eintracht Frankfurt",
       "logo": ""
     },
     "team2": {
-      "name": "Everton",
+      "name": "Bayer Leverkusen",
       "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-brighton-hove-albion-vs-everton/1",
+        "url": "https://embedsports.top/embed/admin/ppv-eintracht-frankfurt-vs-bayer-leverkusen/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-brighton-hove-albion-vs-everton/2",
+        "url": "https://embedsports.top/embed/admin/ppv-eintracht-frankfurt-vs-bayer-leverkusen/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-wolverhampton-wanderers-vs-afc-bournemouth",
+    "title": "Wolverhampton Wanderers vs. AFC Bournemouth",
+    "sport": "football",
+    "kickOff": "2026-01-31T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Wolverhampton Wanderers",
+      "logo": ""
+    },
+    "team2": {
+      "name": "AFC Bournemouth",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-wolverhampton-wanderers-vs-afc-bournemouth/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-wolverhampton-wanderers-vs-afc-bournemouth/2",
         "language": "English",
         "hd": false
       }
@@ -5166,27 +5256,27 @@
     ]
   },
   {
-    "id": "ppv-wolverhampton-wanderers-vs-afc-bournemouth",
-    "title": "Wolverhampton Wanderers vs. AFC Bournemouth",
+    "id": "ppv-brighton-hove-albion-vs-everton",
+    "title": "Brighton & Hove Albion vs. Everton",
     "sport": "football",
     "kickOff": "2026-01-31T15:00:00",
     "isLive": false,
     "team1": {
-      "name": "Wolverhampton Wanderers",
+      "name": "Brighton & Hove Albion",
       "logo": ""
     },
     "team2": {
-      "name": "AFC Bournemouth",
+      "name": "Everton",
       "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-wolverhampton-wanderers-vs-afc-bournemouth/1",
+        "url": "https://embedsports.top/embed/admin/ppv-brighton-hove-albion-vs-everton/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-wolverhampton-wanderers-vs-afc-bournemouth/2",
+        "url": "https://embedsports.top/embed/admin/ppv-brighton-hove-albion-vs-everton/2",
         "language": "English",
         "hd": false
       }
@@ -5322,27 +5412,27 @@
     ]
   },
   {
-    "id": "ppv-chelsea-vs-west-ham-united",
-    "title": "Chelsea vs. West Ham United",
+    "id": "ppv-hamburg-sv-vs-bayern-munich",
+    "title": "Hamburg SV vs. Bayern Munich",
     "sport": "football",
     "kickOff": "2026-01-31T17:30:00",
     "isLive": false,
     "team1": {
-      "name": "Chelsea",
+      "name": "Hamburg SV",
       "logo": ""
     },
     "team2": {
-      "name": "West Ham United",
+      "name": "Bayern Munich",
       "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-chelsea-vs-west-ham-united/1",
+        "url": "https://embedsports.top/embed/admin/ppv-hamburg-sv-vs-bayern-munich/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-chelsea-vs-west-ham-united/2",
+        "url": "https://embedsports.top/embed/admin/ppv-hamburg-sv-vs-bayern-munich/2",
         "language": "English",
         "hd": false
       }
@@ -5376,27 +5466,27 @@
     ]
   },
   {
-    "id": "ppv-hamburg-sv-vs-bayern-munich",
-    "title": "Hamburg SV vs. Bayern Munich",
+    "id": "ppv-chelsea-vs-west-ham-united",
+    "title": "Chelsea vs. West Ham United",
     "sport": "football",
     "kickOff": "2026-01-31T17:30:00",
     "isLive": false,
     "team1": {
-      "name": "Hamburg SV",
+      "name": "Chelsea",
       "logo": ""
     },
     "team2": {
-      "name": "Bayern Munich",
+      "name": "West Ham United",
       "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-hamburg-sv-vs-bayern-munich/1",
+        "url": "https://embedsports.top/embed/admin/ppv-chelsea-vs-west-ham-united/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-hamburg-sv-vs-bayern-munich/2",
+        "url": "https://embedsports.top/embed/admin/ppv-chelsea-vs-west-ham-united/2",
         "language": "English",
         "hd": false
       }
@@ -5748,60 +5838,6 @@
     ]
   },
   {
-    "id": "ppv-nottingham-forest-vs-crystal-palace",
-    "title": "Nottingham Forest vs. Crystal Palace",
-    "sport": "football",
-    "kickOff": "2026-02-01T14:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Nottingham Forest",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Crystal Palace",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-nottingham-forest-vs-crystal-palace/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-nottingham-forest-vs-crystal-palace/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-lyon-vs-lille",
-    "title": "Lyon vs. Lille",
-    "sport": "football",
-    "kickOff": "2026-02-01T14:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Lyon",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Lille",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-lyon-vs-lille/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-lyon-vs-lille/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-aston-villa-vs-brentford",
     "title": "Aston Villa vs. Brentford",
     "sport": "football",
@@ -5856,6 +5892,33 @@
     ]
   },
   {
+    "id": "ppv-nottingham-forest-vs-crystal-palace",
+    "title": "Nottingham Forest vs. Crystal Palace",
+    "sport": "football",
+    "kickOff": "2026-02-01T14:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Nottingham Forest",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Crystal Palace",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-nottingham-forest-vs-crystal-palace/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-nottingham-forest-vs-crystal-palace/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
     "id": "ppv-como-vs-atalanta",
     "title": "Como vs. Atalanta",
     "sport": "football",
@@ -5877,6 +5940,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-como-vs-atalanta/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-lyon-vs-lille",
+    "title": "Lyon vs. Lille",
+    "sport": "football",
+    "kickOff": "2026-02-01T14:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Lyon",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Lille",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-lyon-vs-lille/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-lyon-vs-lille/2",
         "language": "English",
         "hd": false
       }
@@ -5937,27 +6027,27 @@
     ]
   },
   {
-    "id": "ppv-nice-vs-brest",
-    "title": "Nice vs. Brest",
+    "id": "ppv-toulouse-vs-aj-auxerre",
+    "title": "Toulouse vs. AJ Auxerre",
     "sport": "football",
     "kickOff": "2026-02-01T16:15:00",
     "isLive": false,
     "team1": {
-      "name": "Nice",
+      "name": "Toulouse",
       "logo": ""
     },
     "team2": {
-      "name": "Brest",
+      "name": "AJ Auxerre",
       "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-nice-vs-brest/1",
+        "url": "https://embedsports.top/embed/admin/ppv-toulouse-vs-aj-auxerre/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-nice-vs-brest/2",
+        "url": "https://embedsports.top/embed/admin/ppv-toulouse-vs-aj-auxerre/2",
         "language": "English",
         "hd": false
       }
@@ -5991,27 +6081,27 @@
     ]
   },
   {
-    "id": "ppv-toulouse-vs-aj-auxerre",
-    "title": "Toulouse vs. AJ Auxerre",
+    "id": "ppv-nice-vs-brest",
+    "title": "Nice vs. Brest",
     "sport": "football",
     "kickOff": "2026-02-01T16:15:00",
     "isLive": false,
     "team1": {
-      "name": "Toulouse",
+      "name": "Nice",
       "logo": ""
     },
     "team2": {
-      "name": "AJ Auxerre",
+      "name": "Brest",
       "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-toulouse-vs-aj-auxerre/1",
+        "url": "https://embedsports.top/embed/admin/ppv-nice-vs-brest/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-toulouse-vs-aj-auxerre/2",
+        "url": "https://embedsports.top/embed/admin/ppv-nice-vs-brest/2",
         "language": "English",
         "hd": false
       }
@@ -6126,33 +6216,6 @@
     ]
   },
   {
-    "id": "ppv-strasbourg-vs-paris-saint-germain",
-    "title": "Strasbourg vs. Paris Saint-Germain",
-    "sport": "football",
-    "kickOff": "2026-02-01T19:45:00",
-    "isLive": false,
-    "team1": {
-      "name": "Strasbourg",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Paris Saint-Germain",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-strasbourg-vs-paris-saint-germain/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-strasbourg-vs-paris-saint-germain/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-parma-vs-juventus",
     "title": "Parma vs. Juventus",
     "sport": "football",
@@ -6174,6 +6237,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-parma-vs-juventus/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-strasbourg-vs-paris-saint-germain",
+    "title": "Strasbourg vs. Paris Saint-Germain",
+    "sport": "football",
+    "kickOff": "2026-02-01T19:45:00",
+    "isLive": false,
+    "team1": {
+      "name": "Strasbourg",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Paris Saint-Germain",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-strasbourg-vs-paris-saint-germain/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-strasbourg-vs-paris-saint-germain/2",
         "language": "English",
         "hd": false
       }
