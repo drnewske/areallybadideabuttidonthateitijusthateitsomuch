@@ -16,50 +16,6 @@
     "links": []
   },
   {
-    "id": "sacramento-kings-vs-memphis-grizzlies-2358094",
-    "title": "Sacramento Kings vs Memphis Grizzlies",
-    "sport": "basketball",
-    "kickOff": "2026-02-05T03:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Sacramento Kings",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCiIIWlDhIQ3EABNdRkKpApTJvgQpMrXMGXhF5olMCa0wDsWqA.webp"
-    },
-    "team2": {
-      "name": "Memphis Grizzlies",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksJAATEFHUQ1IbiBI6DelDr4hzKAhSZ8UXMGXhF5ou01pgHY0RCA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/golf/19672/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "los-angeles-clippers-vs-cleveland-cavaliers-2358095",
-    "title": "Los Angeles Clippers vs Cleveland Cavaliers",
-    "sport": "basketball",
-    "kickOff": "2026-02-05T03:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Los Angeles Clippers",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC0+RHOETcQfEDpSqQMIzpzLCMYEz4ouYMvA2lOTWmAdjREIA.webp"
-    },
-    "team2": {
-      "name": "Cleveland Cavaliers",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLAoEIPiFEAGENxAATQyAgmNIC0ZK4CFJnxRcwZeEXmjHTWmGdjREIA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/golf/19673/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "atp-250-montpellier-tn-1",
     "title": "ATP 250 Montpellier \ud83c\udfbe",
     "sport": "other",
@@ -1456,6 +1412,33 @@
     ]
   },
   {
+    "id": "ppv-vf-l-wolfsburg-vs-borussia-dortmund",
+    "title": "VfL Wolfsburg vs. Borussia Dortmund",
+    "sport": "football",
+    "kickOff": "2026-02-07T14:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "VfL Wolfsburg",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Borussia Dortmund",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-vf-l-wolfsburg-vs-borussia-dortmund/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-vf-l-wolfsburg-vs-borussia-dortmund/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
     "id": "ppv-st-pauli-vs-vf-b-stuttgart",
     "title": "St. Pauli vs. VfB Stuttgart",
     "sport": "football",
@@ -1504,33 +1487,6 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-1-fc-heidenheim-1846-vs-hamburg-sv/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-vf-l-wolfsburg-vs-borussia-dortmund",
-    "title": "VfL Wolfsburg vs. Borussia Dortmund",
-    "sport": "football",
-    "kickOff": "2026-02-07T14:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "VfL Wolfsburg",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Borussia Dortmund",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-vf-l-wolfsburg-vs-borussia-dortmund/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-vf-l-wolfsburg-vs-borussia-dortmund/2",
         "language": "English",
         "hd": false
       }
@@ -1591,27 +1547,27 @@
     ]
   },
   {
-    "id": "ppv-burnley-vs-west-ham-united",
-    "title": "Burnley vs. West Ham United",
+    "id": "ppv-fulham-vs-everton",
+    "title": "Fulham vs. Everton",
     "sport": "football",
     "kickOff": "2026-02-07T15:00:00",
     "isLive": false,
     "team1": {
-      "name": "Burnley",
+      "name": "Fulham",
       "logo": ""
     },
     "team2": {
-      "name": "West Ham United",
+      "name": "Everton",
       "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-burnley-vs-west-ham-united/1",
+        "url": "https://embedsports.top/embed/admin/ppv-fulham-vs-everton/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-burnley-vs-west-ham-united/2",
+        "url": "https://embedsports.top/embed/admin/ppv-fulham-vs-everton/2",
         "language": "English",
         "hd": false
       }
@@ -1645,33 +1601,6 @@
     ]
   },
   {
-    "id": "ppv-fulham-vs-everton",
-    "title": "Fulham vs. Everton",
-    "sport": "football",
-    "kickOff": "2026-02-07T15:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Fulham",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Everton",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-fulham-vs-everton/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-fulham-vs-everton/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-arsenal-vs-sunderland",
     "title": "Arsenal vs. Sunderland",
     "sport": "football",
@@ -1693,6 +1622,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-arsenal-vs-sunderland/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-burnley-vs-west-ham-united",
+    "title": "Burnley vs. West Ham United",
+    "sport": "football",
+    "kickOff": "2026-02-07T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Burnley",
+      "logo": ""
+    },
+    "team2": {
+      "name": "West Ham United",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-burnley-vs-west-ham-united/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-burnley-vs-west-ham-united/2",
         "language": "English",
         "hd": false
       }
@@ -2147,33 +2103,6 @@
     ]
   },
   {
-    "id": "ppv-brighton-hove-albion-vs-crystal-palace",
-    "title": "Brighton & Hove Albion vs. Crystal Palace",
-    "sport": "football",
-    "kickOff": "2026-02-08T14:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Brighton & Hove Albion",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Crystal Palace",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-brighton-hove-albion-vs-crystal-palace/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-brighton-hove-albion-vs-crystal-palace/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-lecce-vs-udinese",
     "title": "Lecce vs. Udinese",
     "sport": "football",
@@ -2195,6 +2124,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-lecce-vs-udinese/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-brighton-hove-albion-vs-crystal-palace",
+    "title": "Brighton & Hove Albion vs. Crystal Palace",
+    "sport": "football",
+    "kickOff": "2026-02-08T14:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Brighton & Hove Albion",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Crystal Palace",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-brighton-hove-albion-vs-crystal-palace/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-brighton-hove-albion-vs-crystal-palace/2",
         "language": "English",
         "hd": false
       }
@@ -2336,33 +2292,6 @@
     ]
   },
   {
-    "id": "ppv-bayern-munich-vs-tsg-hoffenheim",
-    "title": "Bayern Munich vs. TSG Hoffenheim",
-    "sport": "football",
-    "kickOff": "2026-02-08T16:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Bayern Munich",
-      "logo": ""
-    },
-    "team2": {
-      "name": "TSG Hoffenheim",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-bayern-munich-vs-tsg-hoffenheim/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-bayern-munich-vs-tsg-hoffenheim/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-liverpool-vs-manchester-city",
     "title": "Liverpool vs. Manchester City",
     "sport": "football",
@@ -2384,6 +2313,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-liverpool-vs-manchester-city/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-bayern-munich-vs-tsg-hoffenheim",
+    "title": "Bayern Munich vs. TSG Hoffenheim",
+    "sport": "football",
+    "kickOff": "2026-02-08T16:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Bayern Munich",
+      "logo": ""
+    },
+    "team2": {
+      "name": "TSG Hoffenheim",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-bayern-munich-vs-tsg-hoffenheim/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-bayern-munich-vs-tsg-hoffenheim/2",
         "language": "English",
         "hd": false
       }
@@ -2789,33 +2745,6 @@
     "links": []
   },
   {
-    "id": "ppv-oktagon-84-czech",
-    "title": "OKTAGON 84 (Czech)",
-    "sport": "fight",
-    "kickOff": "2026-02-14T17:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-czech/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-oktagon-84-german",
     "title": "OKTAGON 84 (German)",
     "sport": "fight",
@@ -2837,6 +2766,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-german/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-oktagon-84-czech",
+    "title": "OKTAGON 84 (Czech)",
+    "sport": "fight",
+    "kickOff": "2026-02-14T17:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-czech/2",
         "language": "English",
         "hd": false
       }
@@ -2874,6 +2830,22 @@
     "title": "Efe Ajagba vs Charles Martin",
     "sport": "fight",
     "kickOff": "2026-02-14T23:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": []
+  },
+  {
+    "id": "live-event_kaito-yamasaki-vs-yuta-nakagawa-live-stream",
+    "title": "Kaito Yamasaki vs Yuta Nakagawa",
+    "sport": "fight",
+    "kickOff": "2026-02-15T06:00:00",
     "isLive": false,
     "team1": {
       "name": "Home Team",
