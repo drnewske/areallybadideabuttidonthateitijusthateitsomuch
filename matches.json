@@ -1,32 +1,5 @@
 [
   {
-    "id": "macarthur-fc-vs-perth-glory-2355362",
-    "title": "Macarthur FC vs Perth Glory",
-    "sport": "football",
-    "kickOff": "2026-02-06T08:35:00",
-    "isLive": false,
-    "team1": {
-      "name": "Macarthur FC",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAp+2EABMt-ENxAkQfVSEQQQFxIZgEKTPmrZgy8IvNFqmtMM7GiIQA.webp"
-    },
-    "team2": {
-      "name": "Perth Glory",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzMQKYAAYQZGCG4gAJiD7r95iCD0odBCkz4a2YMvCLzRGprTAuxoiCA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/echo/macarthur-vs-perth-glory-football-1469647/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/macarthur-vs-perth-glory-football-1469647/2",
-        "language": "",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "qatar-masters-dp-world-tour-atp1000",
     "title": "Qatar Masters | DP World Tour",
     "sport": "other",
@@ -3269,6 +3242,33 @@
     ]
   },
   {
+    "id": "ppv-brighton-hove-albion-vs-crystal-palace",
+    "title": "Brighton & Hove Albion vs. Crystal Palace",
+    "sport": "football",
+    "kickOff": "2026-02-08T14:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Brighton & Hove Albion",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Crystal Palace",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-brighton-hove-albion-vs-crystal-palace/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-brighton-hove-albion-vs-crystal-palace/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
     "id": "ppv-nice-vs-as-monaco",
     "title": "Nice vs. AS Monaco",
     "sport": "football",
@@ -3317,33 +3317,6 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-lecce-vs-udinese/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-brighton-hove-albion-vs-crystal-palace",
-    "title": "Brighton & Hove Albion vs. Crystal Palace",
-    "sport": "football",
-    "kickOff": "2026-02-08T14:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Brighton & Hove Albion",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Crystal Palace",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-brighton-hove-albion-vs-crystal-palace/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-brighton-hove-albion-vs-crystal-palace/2",
         "language": "English",
         "hd": false
       }
@@ -3404,33 +3377,6 @@
     ]
   },
   {
-    "id": "ppv-le-havre-ac-vs-strasbourg",
-    "title": "Le Havre AC vs. Strasbourg",
-    "sport": "football",
-    "kickOff": "2026-02-08T16:15:00",
-    "isLive": false,
-    "team1": {
-      "name": "Le Havre AC",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Strasbourg",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-le-havre-ac-vs-strasbourg/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-le-havre-ac-vs-strasbourg/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-aj-auxerre-vs-paris-fc",
     "title": "AJ Auxerre vs. Paris FC",
     "sport": "football",
@@ -3479,6 +3425,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-angers-vs-toulouse/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-le-havre-ac-vs-strasbourg",
+    "title": "Le Havre AC vs. Strasbourg",
+    "sport": "football",
+    "kickOff": "2026-02-08T16:15:00",
+    "isLive": false,
+    "team1": {
+      "name": "Le Havre AC",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Strasbourg",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-le-havre-ac-vs-strasbourg/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-le-havre-ac-vs-strasbourg/2",
         "language": "English",
         "hd": false
       }
@@ -3620,33 +3593,6 @@
     ]
   },
   {
-    "id": "ppv-juventus-vs-lazio",
-    "title": "Juventus vs. Lazio",
-    "sport": "football",
-    "kickOff": "2026-02-08T19:45:00",
-    "isLive": false,
-    "team1": {
-      "name": "Juventus",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Lazio",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-juventus-vs-lazio/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-juventus-vs-lazio/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-paris-saint-germain-vs-marseille",
     "title": "Paris Saint-Germain vs. Marseille",
     "sport": "football",
@@ -3668,6 +3614,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-paris-saint-germain-vs-marseille/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-juventus-vs-lazio",
+    "title": "Juventus vs. Lazio",
+    "sport": "football",
+    "kickOff": "2026-02-08T19:45:00",
+    "isLive": false,
+    "team1": {
+      "name": "Juventus",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Lazio",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-juventus-vs-lazio/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-juventus-vs-lazio/2",
         "language": "English",
         "hd": false
       }
