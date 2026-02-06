@@ -1,53 +1,5 @@
 [
   {
-    "id": "live-event_albert-ramirez-vs-lerrone-richards-live-stream",
-    "title": "Albert Ramirez vs Lerrone Richards",
-    "sport": "fight",
-    "kickOff": "2026-02-05T23:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
-  },
-  {
-    "id": "tna-impact-tna-1",
-    "title": "TNA: Impact \ud83d\udd25",
-    "sport": "fight",
-    "kickOff": "2026-02-06T01:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
-  },
-  {
-    "id": "millonarios-vs-deportivo-pereira-2414900",
-    "title": "Millonarios vs Deportivo Pereira",
-    "sport": "football",
-    "kickOff": "2026-02-06T01:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Millonarios",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksOYg+IWijAgQ3EABNcIFLqM4SOtQQpM+KLmDLwi80faa0wjsaIhA.webp"
-    },
-    "team2": {
-      "name": "Deportivo Pereira",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1FgwfEAO4IQ3EABNcIFLqM4SICCGWEYwJnxRcwZeEXminTWmtFS6QA.webp"
-    },
-    "links": []
-  },
-  {
     "id": "macarthur-fc-vs-perth-glory-2355362",
     "title": "Macarthur FC vs Perth Glory",
     "sport": "football",
@@ -3452,27 +3404,27 @@
     ]
   },
   {
-    "id": "ppv-aj-auxerre-vs-paris-fc",
-    "title": "AJ Auxerre vs. Paris FC",
+    "id": "ppv-angers-vs-toulouse",
+    "title": "Angers vs. Toulouse",
     "sport": "football",
     "kickOff": "2026-02-08T16:15:00",
     "isLive": false,
     "team1": {
-      "name": "AJ Auxerre",
+      "name": "Angers",
       "logo": ""
     },
     "team2": {
-      "name": "Paris FC",
+      "name": "Toulouse",
       "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-aj-auxerre-vs-paris-fc/1",
+        "url": "https://embedsports.top/embed/admin/ppv-angers-vs-toulouse/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-aj-auxerre-vs-paris-fc/2",
+        "url": "https://embedsports.top/embed/admin/ppv-angers-vs-toulouse/2",
         "language": "English",
         "hd": false
       }
@@ -3506,27 +3458,27 @@
     ]
   },
   {
-    "id": "ppv-angers-vs-toulouse",
-    "title": "Angers vs. Toulouse",
+    "id": "ppv-aj-auxerre-vs-paris-fc",
+    "title": "AJ Auxerre vs. Paris FC",
     "sport": "football",
     "kickOff": "2026-02-08T16:15:00",
     "isLive": false,
     "team1": {
-      "name": "Angers",
+      "name": "AJ Auxerre",
       "logo": ""
     },
     "team2": {
-      "name": "Toulouse",
+      "name": "Paris FC",
       "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-angers-vs-toulouse/1",
+        "url": "https://embedsports.top/embed/admin/ppv-aj-auxerre-vs-paris-fc/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-angers-vs-toulouse/2",
+        "url": "https://embedsports.top/embed/admin/ppv-aj-auxerre-vs-paris-fc/2",
         "language": "English",
         "hd": false
       }
@@ -4018,33 +3970,6 @@
     "links": []
   },
   {
-    "id": "ppv-oktagon-84-german",
-    "title": "OKTAGON 84 (German)",
-    "sport": "fight",
-    "kickOff": "2026-02-14T17:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-german/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-german/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-oktagon-84-czech",
     "title": "OKTAGON 84 (Czech)",
     "sport": "fight",
@@ -4066,6 +3991,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-czech/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-oktagon-84-german",
+    "title": "OKTAGON 84 (German)",
+    "sport": "fight",
+    "kickOff": "2026-02-14T17:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-german/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-german/2",
         "language": "English",
         "hd": false
       }
