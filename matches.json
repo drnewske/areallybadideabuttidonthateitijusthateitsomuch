@@ -37,17 +37,17 @@
     ]
   },
   {
-    "id": "live_olympic-games-women-group-b_france-japan-live-streaming-498996720",
-    "title": "France vs Japan",
-    "sport": "hockey",
-    "kickOff": "2026-02-06T10:10:00",
+    "id": "one-friday-fights-141-komawut-vs-samingdam-2428603",
+    "title": "ONE Friday Fights 141 Komawut vs Samingdam",
+    "sport": "fight",
+    "kickOff": "2026-02-06T12:30:00",
     "isLive": false,
     "team1": {
-      "name": "Home Team",
+      "name": "ONE Friday Fights 141 Komawut",
       "logo": ""
     },
     "team2": {
-      "name": "Away Team",
+      "name": "Samingdam",
       "logo": ""
     },
     "links": []
@@ -161,6 +161,22 @@
     "team2": {
       "name": "Damac",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiS5gYEFD4hE3EABMQ27SR0gYIFAZ0EKTPii5gy8IvNGOmtMM7GiIQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "aca-200-gasanov-vs-tumenov-2402098",
+    "title": "ACA 200 Gasanov vs Tumenov",
+    "sport": "fight",
+    "kickOff": "2026-02-06T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "ACA 200 Gasanov",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Tumenov",
+      "logo": ""
     },
     "links": []
   },
@@ -1081,7 +1097,13 @@
       "name": "Adrian Curiel",
       "logo": ""
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/golf/19710/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "portland-trail-blazers-vs-memphis-grizzlies-2358108",
@@ -1363,6 +1385,11 @@
         "url": "https://embedsports.top/embed/admin/ppv-manchester-united-vs-tottenham-hotspur/2",
         "language": "English",
         "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/golf/19643/1",
+        "language": "English",
+        "hd": true
       }
     ]
   },
@@ -3377,6 +3404,33 @@
     ]
   },
   {
+    "id": "ppv-aj-auxerre-vs-paris-fc",
+    "title": "AJ Auxerre vs. Paris FC",
+    "sport": "football",
+    "kickOff": "2026-02-08T16:15:00",
+    "isLive": false,
+    "team1": {
+      "name": "AJ Auxerre",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Paris FC",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-aj-auxerre-vs-paris-fc/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-aj-auxerre-vs-paris-fc/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
     "id": "ppv-le-havre-ac-vs-strasbourg",
     "title": "Le Havre AC vs. Strasbourg",
     "sport": "football",
@@ -3431,27 +3485,27 @@
     ]
   },
   {
-    "id": "ppv-aj-auxerre-vs-paris-fc",
-    "title": "AJ Auxerre vs. Paris FC",
+    "id": "ppv-bayern-munich-vs-tsg-hoffenheim",
+    "title": "Bayern Munich vs. TSG Hoffenheim",
     "sport": "football",
-    "kickOff": "2026-02-08T16:15:00",
+    "kickOff": "2026-02-08T16:30:00",
     "isLive": false,
     "team1": {
-      "name": "AJ Auxerre",
+      "name": "Bayern Munich",
       "logo": ""
     },
     "team2": {
-      "name": "Paris FC",
+      "name": "TSG Hoffenheim",
       "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-aj-auxerre-vs-paris-fc/1",
+        "url": "https://embedsports.top/embed/admin/ppv-bayern-munich-vs-tsg-hoffenheim/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-aj-auxerre-vs-paris-fc/2",
+        "url": "https://embedsports.top/embed/admin/ppv-bayern-munich-vs-tsg-hoffenheim/2",
         "language": "English",
         "hd": false
       }
@@ -3479,33 +3533,6 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-liverpool-vs-manchester-city/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-bayern-munich-vs-tsg-hoffenheim",
-    "title": "Bayern Munich vs. TSG Hoffenheim",
-    "sport": "football",
-    "kickOff": "2026-02-08T16:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Bayern Munich",
-      "logo": ""
-    },
-    "team2": {
-      "name": "TSG Hoffenheim",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-bayern-munich-vs-tsg-hoffenheim/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-bayern-munich-vs-tsg-hoffenheim/2",
         "language": "English",
         "hd": false
       }
@@ -3593,33 +3620,6 @@
     ]
   },
   {
-    "id": "ppv-juventus-vs-lazio",
-    "title": "Juventus vs. Lazio",
-    "sport": "football",
-    "kickOff": "2026-02-08T19:45:00",
-    "isLive": false,
-    "team1": {
-      "name": "Juventus",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Lazio",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-juventus-vs-lazio/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-juventus-vs-lazio/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-paris-saint-germain-vs-marseille",
     "title": "Paris Saint-Germain vs. Marseille",
     "sport": "football",
@@ -3641,6 +3641,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-paris-saint-germain-vs-marseille/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-juventus-vs-lazio",
+    "title": "Juventus vs. Lazio",
+    "sport": "football",
+    "kickOff": "2026-02-08T19:45:00",
+    "isLive": false,
+    "team1": {
+      "name": "Juventus",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Lazio",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-juventus-vs-lazio/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-juventus-vs-lazio/2",
         "language": "English",
         "hd": false
       }
