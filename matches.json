@@ -1,37 +1,5 @@
 [
   {
-    "id": "ppv-event-08-cage-fury-fc-150-ppv-08",
-    "title": "Cage Fury FC 150",
-    "sport": "other",
-    "kickOff": "2026-02-07T02:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
-  },
-  {
-    "id": "ppv-event-07-fury-fc-115-ppv-07",
-    "title": "Fury FC 115",
-    "sport": "other",
-    "kickOff": "2026-02-07T02:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
-  },
-  {
     "id": "christian-medina-vs-adrian-curiel-2425678",
     "title": "Christian Medina vs Adrian Curiel",
     "sport": "fight",
@@ -193,6 +161,33 @@
     ]
   },
   {
+    "id": "ppv-great-britain-vs-canada-md-round-robin",
+    "title": "Great Britain vs. Canada (MD Round-Robin)",
+    "sport": "olympics",
+    "kickOff": "2026-02-07T09:05:00",
+    "isLive": false,
+    "team1": {
+      "name": "Great Britain",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Canada (MD Round-Robin)",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-great-britain-vs-canada-md-round-robin/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-great-britain-vs-canada-md-round-robin/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
     "id": "ppv-switzerland-vs-sweden-md-round-robin",
     "title": "Switzerland vs. Sweden (MD Round-Robin)",
     "sport": "olympics",
@@ -257,6 +252,33 @@
     ]
   },
   {
+    "id": "ppv-women-s-freeski-slopestyle-qualifying",
+    "title": "Women's Freeski Slopestyle: Qualifying",
+    "sport": "olympics",
+    "kickOff": "2026-02-07T09:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-women-s-freeski-slopestyle-qualifying/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-women-s-freeski-slopestyle-qualifying/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
     "id": "scotland-cricket-vs-west-indies-cricket-2427480",
     "title": "Scotland Cricket vs West Indies Cricket",
     "sport": "cricket",
@@ -312,7 +334,13 @@
       "name": "Away Team",
       "logo": ""
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/delta/live_olympic-games-women-group-b_germany-japan-live-streaming-499039056/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "ppv-men-s-downhill",
@@ -663,6 +691,11 @@
         "hd": false
       },
       {
+        "url": "https://embedsports.top/embed/delta/live_premier-league_man-utd-tottenham-live-streaming-441660384/1",
+        "language": "English",
+        "hd": true
+      },
+      {
         "url": "https://embedsports.top/embed/echo/manchester-united-vs-tottenham-football-1379216/1",
         "language": "",
         "hd": true
@@ -790,6 +823,11 @@
     },
     "links": [
       {
+        "url": "https://embedsports.top/embed/delta/live_championship_derby-ipswich-live-streaming-441683280/1",
+        "language": "English",
+        "hd": true
+      },
+      {
         "url": "https://embedsports.top/embed/echo/derby-vs-ipswich-football-1386915/1",
         "language": "",
         "hd": true
@@ -841,7 +879,13 @@
       "name": "Away Team",
       "logo": ""
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/delta/live_olympic-games-women-group-b_sweden-italy-live-streaming-499153968/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "fc-andorra-vs-real-sociedad-ii-football-1396973",
@@ -912,33 +956,6 @@
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIfiCZ1yDAMbNxPeCKrcCXVmDC58FoA.webp"
     },
     "links": []
-  },
-  {
-    "id": "ppv-men-s-freeski-slopestyle-qualifying",
-    "title": "Men's Freeski Slopestyle: Qualifying",
-    "sport": "olympics",
-    "kickOff": "2026-02-07T13:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-men-s-freeski-slopestyle-qualifying/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-men-s-freeski-slopestyle-qualifying/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
   },
   {
     "id": "ppv-gold-zone-day-1",
@@ -1099,6 +1116,11 @@
         "url": "https://embedsports.top/embed/admin/ppv-rayo-vallecano-vs-real-oviedo/2",
         "language": "English",
         "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/delta/live_laliga_rayo-vallecano-real-oviedo-live-streaming-441767088/1",
+        "language": "English",
+        "hd": true
       },
       {
         "url": "https://embedsports.top/embed/echo/rayo-vallecano-vs-oviedo-football-1391044/1",
@@ -1268,27 +1290,27 @@
     ]
   },
   {
-    "id": "ppv-great-britain-vs-usa-md-round-robin",
-    "title": "Great Britain vs. USA (MD Round-Robin)",
+    "id": "ppv-south-korea-vs-czechia-md-round-robin",
+    "title": "South Korea vs. Czechia (MD Round-Robin)",
     "sport": "olympics",
     "kickOff": "2026-02-07T13:35:00",
     "isLive": false,
     "team1": {
-      "name": "Great Britain",
+      "name": "South Korea",
       "logo": ""
     },
     "team2": {
-      "name": "USA (MD Round-Robin)",
+      "name": "Czechia (MD Round-Robin)",
       "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-great-britain-vs-usa-md-round-robin/1",
+        "url": "https://embedsports.top/embed/admin/ppv-south-korea-vs-czechia-md-round-robin/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-great-britain-vs-usa-md-round-robin/2",
+        "url": "https://embedsports.top/embed/admin/ppv-south-korea-vs-czechia-md-round-robin/2",
         "language": "English",
         "hd": false
       }
@@ -1442,7 +1464,18 @@
       "name": "Away Team",
       "logo": ""
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/echo/bundesliga-saturday-multiview-game-1516161/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/bundesliga-saturday-multiview-game-1516161/2",
+        "language": "",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "ppv-pfl-road-to-dubai",
@@ -1746,6 +1779,11 @@
         "url": "https://embedsports.top/embed/admin/ppv-vf-l-wolfsburg-vs-borussia-dortmund/2",
         "language": "English",
         "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/delta/live_bundesliga_wolfsburg-dortmund-live-streaming-441665136/1",
+        "language": "English",
+        "hd": true
       }
     ]
   },
@@ -1963,6 +2001,11 @@
         "hd": false
       },
       {
+        "url": "https://embedsports.top/embed/delta/live_premier-league_bournemouth-aston-villa-live-streaming-441657792/1",
+        "language": "English",
+        "hd": true
+      },
+      {
         "url": "https://embedsports.top/embed/golf/19644/1",
         "language": "English",
         "hd": true
@@ -2027,6 +2070,11 @@
         "hd": false
       },
       {
+        "url": "https://embedsports.top/embed/delta/live_premier-league_burnley-west-ham-live-streaming-441658656/1",
+        "language": "English",
+        "hd": true
+      },
+      {
         "url": "https://embedsports.top/embed/golf/19646/1",
         "language": "English",
         "hd": true
@@ -2057,6 +2105,11 @@
         "url": "https://embedsports.top/embed/admin/ppv-arsenal-vs-sunderland/2",
         "language": "English",
         "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/delta/live_premier-league_arsenal-sunderland-live-streaming-441657360/1",
+        "language": "English",
+        "hd": true
       },
       {
         "url": "https://embedsports.top/embed/golf/19645/1",
@@ -2091,6 +2144,11 @@
         "hd": false
       },
       {
+        "url": "https://embedsports.top/embed/delta/live_premier-league_fulham-everton-live-streaming-441659088/1",
+        "language": "English",
+        "hd": true
+      },
+      {
         "url": "https://embedsports.top/embed/golf/19647/1",
         "language": "English",
         "hd": true
@@ -2121,6 +2179,11 @@
         "url": "https://embedsports.top/embed/admin/ppv-wolverhampton-wanderers-vs-chelsea/2",
         "language": "English",
         "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/delta/live_premier-league_wolves-chelsea-live-streaming-441661248/1",
+        "language": "English",
+        "hd": true
       },
       {
         "url": "https://embedsports.top/embed/golf/19648/1",
@@ -2861,6 +2924,54 @@
     "links": []
   },
   {
+    "id": "live_ncaa_mississippi-state-arkansas-live-streaming-463344624",
+    "title": "Mississippi State Bulldogs vs Arkansas Razorbacks",
+    "sport": "basketball",
+    "kickOff": "2026-02-07T16:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": []
+  },
+  {
+    "id": "live_ncaa_nc-state-virginia-tech-live-streaming-429818832",
+    "title": "North Carolina State Wolfpack vs Virginia Tech Hokies",
+    "sport": "basketball",
+    "kickOff": "2026-02-07T16:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": []
+  },
+  {
+    "id": "live_ncaa_georgetown-villanova-live-streaming-429811488",
+    "title": "Georgetown Hoyas vs Villanova Wildcats",
+    "sport": "basketball",
+    "kickOff": "2026-02-07T16:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": []
+  },
+  {
     "id": "ppv-lens-vs-stade-rennais",
     "title": "Lens vs. Stade Rennais",
     "sport": "football",
@@ -3096,6 +3207,22 @@
     ]
   },
   {
+    "id": "live_ncaa_purdue-oregon-live-streaming-463356720",
+    "title": "Purdue Boilermakers vs Oregon Ducks",
+    "sport": "basketball",
+    "kickOff": "2026-02-07T17:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": []
+  },
+  {
     "id": "sion-vs-luzern-2399244",
     "title": "Sion vs Luzern",
     "sport": "football",
@@ -3167,6 +3294,118 @@
     "team2": {
       "name": "Lugano",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzAADKFUpgAExDcQJEHr7H9hiyH0EKTPtrZgy8IvNHamtME7GiIQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "wake-forest-vs-louisville-2377336",
+    "title": "Wake Forest vs Louisville",
+    "sport": "basketball",
+    "kickOff": "2026-02-07T17:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Wake Forest",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQKMCnYh4sENxB8dIExBOHcFxhSZ8tbMGV315orU1phHY0RCA.webp"
+    },
+    "team2": {
+      "name": "Louisville",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3kQQ8CkhDbuIEtvUg+B-YmOMKTPii5gyG+vNE2mtMHbGiIQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "virginia-vs-syracuse-2377337",
+    "title": "Virginia vs Syracuse",
+    "sport": "basketball",
+    "kickOff": "2026-02-07T17:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Virginia",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCikIWihAoEIbiAAmICHtMhjFxAYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+    },
+    "team2": {
+      "name": "Syracuse",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBwUICCHDgYIbiBJaNIPnpAATXKoMEKTPii5gy8IvNGOmtMM7GiIQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "army-vs-lafayette-2377338",
+    "title": "Army vs Lafayette",
+    "sport": "basketball",
+    "kickOff": "2026-02-07T17:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Army",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAo6uHmAEQQ3ECRCGYqkyhDG98AhSZ81bMGXhF5otU1phHY0RCA.webp"
+    },
+    "team2": {
+      "name": "Lafayette",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAo62EALQhE3ECRCGYm-Sb16IBCkz5q2YMvCLzRaprTAOxoiEA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "elon-vs-drexel-2377340",
+    "title": "Elon vs Drexel",
+    "sport": "basketball",
+    "kickOff": "2026-02-07T17:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Elon",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0+IFNG6qQ2kiAPaUIfYhwxVBCkz4ouYMvCLzRdprTAOxoiEA.webp"
+    },
+    "team2": {
+      "name": "Drexel",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIoGXJCBIhuIACYgIufTpBntB+AQpM+atmDLwi80Wqa0wjsaIhA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "east-carolina-vs-temple-2377341",
+    "title": "East Carolina vs Temple",
+    "sport": "basketball",
+    "kickOff": "2026-02-07T17:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "East Carolina",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIgYXcDFwhuIVSB0g+Bw8cQATAhSZ8UXMGXhF5ou01pgHY0RCA.webp"
+    },
+    "team2": {
+      "name": "Temple",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4gAJrDDcwfHSFVqQEEIhyqYICyXUEKTPii5gy8IvNGOmtMM7GiIQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "rutgers-vs-nebraska-2377335",
+    "title": "Rutgers vs Nebraska",
+    "sport": "basketball",
+    "kickOff": "2026-02-07T17:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Rutgers",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMNxDcEnPlpAkQR1Qdwg9mmLgIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+    },
+    "team2": {
+      "name": "Nebraska",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxwATYKuwgyKEN20hDEEKoM4+ekwQpM+KLmDLwi80faa0wjsaIhA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "indiana-vs-wisconsin-2377339",
+    "title": "Indiana vs Wisconsin",
+    "sport": "basketball",
+    "kickOff": "2026-02-07T17:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Indiana",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzCDaolLBDcQJEPpi4QEEH22ntBCkz4ouYMvCLyNwJrTAOxoiEA.webp"
+    },
+    "team2": {
+      "name": "Wisconsin",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksMohREEH1whuakPoAmenEZT7NBCkz4ouYMvCLzRtprTD2x6oA.webp"
     },
     "links": []
   },
@@ -3517,31 +3756,36 @@
     ]
   },
   {
-    "id": "ppv-south-korea-vs-usa-md-round-robin",
-    "title": "South Korea vs. USA (MD Round-Robin)",
-    "sport": "olympics",
-    "kickOff": "2026-02-07T18:05:00",
+    "id": "boston-university-vs-loyola-maryland-2377347",
+    "title": "Boston University vs Loyola-Maryland",
+    "sport": "basketball",
+    "kickOff": "2026-02-07T18:00:00",
     "isLive": false,
     "team1": {
-      "name": "South Korea",
-      "logo": ""
+      "name": "Boston University",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC9uIOOFpJVIACYgIu9SEMgSu5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp"
     },
     "team2": {
-      "name": "USA (MD Round-Robin)",
-      "logo": ""
+      "name": "Loyola-Maryland",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxgABgYMQAE0ohuIEiBOI+Jo5YgGCFJnxRcwZeEXmjHTWmGdjREIA.webp"
     },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-south-korea-vs-usa-md-round-robin/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-south-korea-vs-usa-md-round-robin/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
+    "links": []
+  },
+  {
+    "id": "south-carolina-vs-missouri-2377344",
+    "title": "South Carolina vs Missouri",
+    "sport": "basketball",
+    "kickOff": "2026-02-07T18:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "South Carolina",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphikQKLiRDdtILSBAQQfXSZwATYwQpM+GtmDLwi80Rqa0wjsaIhA.webp"
+    },
+    "team2": {
+      "name": "Missouri",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIFWBTAk67SG4gSIY4hQhExnGpgEKTPlrZgy8IvNFamtMM7GiIQA.webp"
+    },
+    "links": []
   },
   {
     "id": "spezia-vs-virtus-entella-2297864",
@@ -4977,22 +5221,6 @@
     "links": []
   },
   {
-    "id": "liverpool-w-vs-aston-villa-w-football-1417283",
-    "title": "Liverpool W vs Aston Villa W",
-    "sport": "football",
-    "kickOff": "2026-02-08T12:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Liverpool W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZRBABjeuQYas4nvBFVuBLqzBhc+S0A.webp"
-    },
-    "team2": {
-      "name": "Aston Villa W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiICCCqKQKeuQYBjZuJ7wRVbgS6swYXPmtA.webp"
-    },
-    "links": []
-  },
-  {
     "id": "west-ham-w-vs-brighton-w-football-1417281",
     "title": "West Ham W vs Brighton W",
     "sport": "football",
@@ -5005,6 +5233,22 @@
     "team2": {
       "name": "Brighton W",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZdhABjeuQYas4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "liverpool-w-vs-aston-villa-w-football-1417283",
+    "title": "Liverpool W vs Aston Villa W",
+    "sport": "football",
+    "kickOff": "2026-02-08T12:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Liverpool W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZRBABjeuQYas4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "Aston Villa W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiICCCqKQKeuQYBjZuJ7wRVbgS6swYXPmtA.webp"
     },
     "links": []
   },
@@ -6393,8 +6637,8 @@
     "links": []
   },
   {
-    "id": "ppv-oktagon-84-czech",
-    "title": "OKTAGON 84 (Czech)",
+    "id": "ppv-oktagon-84-english",
+    "title": "OKTAGON 84 (English)",
     "sport": "fight",
     "kickOff": "2026-02-14T17:00:00",
     "isLive": false,
@@ -6408,12 +6652,12 @@
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1",
+        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-english/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-czech/2",
+        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-english/2",
         "language": "English",
         "hd": false
       }
@@ -6447,8 +6691,8 @@
     ]
   },
   {
-    "id": "ppv-oktagon-84-english",
-    "title": "OKTAGON 84 (English)",
+    "id": "ppv-oktagon-84-czech",
+    "title": "OKTAGON 84 (Czech)",
     "sport": "fight",
     "kickOff": "2026-02-14T17:00:00",
     "isLive": false,
@@ -6462,12 +6706,12 @@
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-english/1",
+        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-english/2",
+        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-czech/2",
         "language": "English",
         "hd": false
       }
