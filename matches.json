@@ -1,37 +1,5 @@
 [
   {
-    "id": "ppv-event-03-wxw-we-love-wrestling-ppv-03",
-    "title": "wXw We Love Wrestling \u2b50",
-    "sport": "other",
-    "kickOff": "2026-02-06T22:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
-  },
-  {
-    "id": "ppv-event-10-world-of-outlaws-sprint-cars-ppv-10",
-    "title": "World of Outlaws Sprint Cars",
-    "sport": "other",
-    "kickOff": "2026-02-06T22:10:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
-  },
-  {
     "id": "ppv-event-11-winter-freeze-screven-ppv-11",
     "title": "Winter Freeze Screven",
     "sport": "other",
@@ -91,28 +59,6 @@
     ]
   },
   {
-    "id": "live-event_friday-night-smackdown-live-stream",
-    "title": "Friday Night SmackDown",
-    "sport": "fight",
-    "kickOff": "2026-02-07T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/delta/live-event_friday-night-smackdown-live-stream/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "ppv-event-06-gcw-jcw-jersey-j-cup-ppv-06",
     "title": "GCW JCW Jersey J-Cup",
     "sport": "other",
@@ -138,6 +84,22 @@
         "hd": true
       }
     ]
+  },
+  {
+    "id": "wwe-friday-night-smackdown-wwe-009",
+    "title": "WWE: Friday Night Smackdown \ud83d\udd25",
+    "sport": "fight",
+    "kickOff": "2026-02-07T01:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": []
   },
   {
     "id": "ppv-event-08-cage-fury-fc-150-ppv-08",
@@ -200,11 +162,6 @@
         "url": "https://embedsports.top/embed/echo/ppv-event-05-medina-v-curiel-ppv-05/2",
         "language": "",
         "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/19710/1",
-        "language": "English",
-        "hd": true
       }
     ]
   },
@@ -223,16 +180,6 @@
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksJAATEFHUQ1IbiBI6DelDr4hzKAhSZ8UXMGXhF5ou01pgHY0RCA.webp"
     },
     "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-memphis-grizzlies-vs-portland-trail-blazers/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-memphis-grizzlies-vs-portland-trail-blazers/2",
-        "language": "English",
-        "hd": false
-      },
       {
         "url": "https://embedsports.top/embed/golf/19696/1",
         "language": "English",
@@ -256,31 +203,6 @@
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-la-clippers-vs-sacramento-kings/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-la-clippers-vs-sacramento-kings/2",
-        "language": "English",
-        "hd": false
-      },
-      {
-        "url": "https://embedsports.top/embed/delta/live_nba_kings-clippers-live-streaming-429582528/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/sacramento-kings-vs-los-angeles-clippers-basketball-470225/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/sacramento-kings-vs-los-angeles-clippers-basketball-470225/2",
-        "language": "",
-        "hd": true
-      },
-      {
         "url": "https://embedsports.top/embed/golf/19697/1",
         "language": "English",
         "hd": true
@@ -302,33 +224,6 @@
       "logo": ""
     },
     "links": []
-  },
-  {
-    "id": "auckland-fc-vs-sydney-fc-2355363",
-    "title": "Auckland FC vs Sydney FC",
-    "sport": "football",
-    "kickOff": "2026-02-07T04:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Auckland FC",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIRCuBhyEENxB91IGMb0GQJU4wpM+KLmDLwi80faa1toqXSA.webp"
-    },
-    "team2": {
-      "name": "Sydney FC",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjL0+YbiHBIQmkiAggAJrtMwQfAxYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/echo/auckland-vs-sydney-football-1469648/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/auckland-vs-sydney-football-1469648/2",
-        "language": "",
-        "hd": true
-      }
-    ]
   },
   {
     "id": "netherlands-cricket-vs-pakistan-cricket-2403791",
@@ -528,33 +423,6 @@
     ]
   },
   {
-    "id": "ppv-switzerland-vs-sweden-md-round-robin",
-    "title": "Switzerland vs. Sweden (MD Round-Robin)",
-    "sport": "olympics",
-    "kickOff": "2026-02-07T09:05:00",
-    "isLive": false,
-    "team1": {
-      "name": "Switzerland",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Sweden (MD Round-Robin)",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-switzerland-vs-sweden-md-round-robin/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-switzerland-vs-sweden-md-round-robin/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "qatar-masters-dp-world-tour-tgl-001",
     "title": "Qatar Masters | DP World Tour",
     "sport": "other",
@@ -588,33 +456,6 @@
         "url": "https://embedsports.top/embed/echo/qatar-masters-dp-world-tour-tgl-001/4",
         "language": "",
         "hd": true
-      }
-    ]
-  },
-  {
-    "id": "ppv-women-s-freeski-slopestyle-qualifying",
-    "title": "Women's Freeski Slopestyle: Qualifying",
-    "sport": "olympics",
-    "kickOff": "2026-02-07T09:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-women-s-freeski-slopestyle-qualifying/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-women-s-freeski-slopestyle-qualifying/2",
-        "language": "English",
-        "hd": false
       }
     ]
   },
@@ -675,33 +516,6 @@
       "logo": ""
     },
     "links": []
-  },
-  {
-    "id": "ppv-women-s-downhill-training",
-    "title": "Women's Downhill: Training",
-    "sport": "olympics",
-    "kickOff": "2026-02-07T10:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-women-s-downhill-training/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-women-s-downhill-training/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
   },
   {
     "id": "ppv-men-s-downhill",
@@ -924,6 +738,33 @@
     "links": []
   },
   {
+    "id": "ppv-women-s-singles-training",
+    "title": "Women's Singles: Training",
+    "sport": "olympics",
+    "kickOff": "2026-02-07T12:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-women-s-singles-training/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-women-s-singles-training/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
     "id": "manchester-united-vs-tottenham-hotspur-2267320",
     "title": "Manchester United vs Tottenham Hotspur",
     "sport": "football",
@@ -1068,22 +909,6 @@
     "links": []
   },
   {
-    "id": "live_olympic-games-women-group-b_sweden-italy-live-streaming-499153968",
-    "title": "Sweden vs Italy",
-    "sport": "hockey",
-    "kickOff": "2026-02-07T12:40:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
-  },
-  {
     "id": "fc-andorra-vs-real-sociedad-ii-football-1396973",
     "title": "FC Andorra vs Real Sociedad II",
     "sport": "football",
@@ -1130,6 +955,33 @@
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIfiCZ1yDAMbNxPeCKrcCXVmDC58FoA.webp"
     },
     "links": []
+  },
+  {
+    "id": "ppv-men-s-freeski-slopestyle-qualifying",
+    "title": "Men's Freeski Slopestyle: Qualifying",
+    "sport": "olympics",
+    "kickOff": "2026-02-07T13:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-men-s-freeski-slopestyle-qualifying/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-men-s-freeski-slopestyle-qualifying/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
   },
   {
     "id": "ppv-gold-zone-day-1",
@@ -1335,6 +1187,33 @@
     ]
   },
   {
+    "id": "ppv-sweden-vs-italy-md-round-robin",
+    "title": "Sweden vs. Italy (MD Round-Robin)",
+    "sport": "olympics",
+    "kickOff": "2026-02-07T13:35:00",
+    "isLive": false,
+    "team1": {
+      "name": "Sweden",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Italy (MD Round-Robin)",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-sweden-vs-italy-md-round-robin/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-sweden-vs-italy-md-round-robin/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
     "id": "ppv-great-britain-vs-usa-md-round-robin",
     "title": "Great Britain vs. USA (MD Round-Robin)",
     "sport": "olympics",
@@ -1356,6 +1235,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-great-britain-vs-usa-md-round-robin/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-south-korea-vs-czechia-md-round-robin",
+    "title": "South Korea vs. Czechia (MD Round-Robin)",
+    "sport": "olympics",
+    "kickOff": "2026-02-07T13:35:00",
+    "isLive": false,
+    "team1": {
+      "name": "South Korea",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Czechia (MD Round-Robin)",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-south-korea-vs-czechia-md-round-robin/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-south-korea-vs-czechia-md-round-robin/2",
         "language": "English",
         "hd": false
       }
@@ -3320,60 +3226,6 @@
     ]
   },
   {
-    "id": "ppv-south-korea-vs-usa-md-round-robin",
-    "title": "South Korea vs. USA (MD Round-Robin)",
-    "sport": "olympics",
-    "kickOff": "2026-02-07T18:05:00",
-    "isLive": false,
-    "team1": {
-      "name": "South Korea",
-      "logo": ""
-    },
-    "team2": {
-      "name": "USA (MD Round-Robin)",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-south-korea-vs-usa-md-round-robin/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-south-korea-vs-usa-md-round-robin/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-norway-vs-italy-md-round-robin",
-    "title": "Norway vs. Italy (MD Round-Robin)",
-    "sport": "olympics",
-    "kickOff": "2026-02-07T18:05:00",
-    "isLive": false,
-    "team1": {
-      "name": "Norway",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Italy (MD Round-Robin)",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-norway-vs-italy-md-round-robin/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-norway-vs-italy-md-round-robin/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "spezia-vs-virtus-entella-2297864",
     "title": "Spezia vs Virtus Entella",
     "sport": "football",
@@ -3388,6 +3240,33 @@
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0R8wKBiDIkQ3EABMQKEIghaQfA1cYUmfDWzBl4ReaI1NaYJ2NEQgA.webp"
     },
     "links": []
+  },
+  {
+    "id": "mens-snowboard-big-air-final-run-1-2427707",
+    "title": "Mens Snowboard Big Air Final Run 1",
+    "sport": "olympics",
+    "kickOff": "2026-02-07T18:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-men-s-snowboard-big-air-final/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-men-s-snowboard-big-air-final/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
   },
   {
     "id": "ppv-team-men-s-short",
@@ -3411,33 +3290,6 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-team-men-s-short/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "mens-snowboard-big-air-final-run-2-2427708",
-    "title": "Mens Snowboard Big Air Final Run 2",
-    "sport": "olympics",
-    "kickOff": "2026-02-07T18:53:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-men-s-snowboard-big-air-final/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-men-s-snowboard-big-air-final/2",
         "language": "English",
         "hd": false
       }
@@ -4668,6 +4520,22 @@
     "links": []
   },
   {
+    "id": "london-city-lionesses-vs-everton-w-football-1417280",
+    "title": "London City Lionesses vs Everton W",
+    "sport": "football",
+    "kickOff": "2026-02-08T12:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "London City Lionesses",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIbCAggYIfvXIMAxs3E94IqtwJdWYMLnw2gA.webp"
+    },
+    "team2": {
+      "name": "Everton W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZdhDZ65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
     "id": "arsenal-w-vs-manchester-city-w-football-1417282",
     "title": "Arsenal W vs Manchester City W",
     "sport": "football",
@@ -4712,22 +4580,6 @@
     "team2": {
       "name": "Brighton W",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZdhABjeuQYas4nvBFVuBLqzBhc+S0A.webp"
-    },
-    "links": []
-  },
-  {
-    "id": "london-city-lionesses-vs-everton-w-football-1417280",
-    "title": "London City Lionesses vs Everton W",
-    "sport": "football",
-    "kickOff": "2026-02-08T12:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "London City Lionesses",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIbCAggYIfvXIMAxs3E94IqtwJdWYMLnw2gA.webp"
-    },
-    "team2": {
-      "name": "Everton W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZdhDZ65BgGNm4nvBFVuBLqzBhc+S0A.webp"
     },
     "links": []
   },
@@ -6100,6 +5952,33 @@
     "links": []
   },
   {
+    "id": "ppv-oktagon-84-english",
+    "title": "OKTAGON 84 (English)",
+    "sport": "fight",
+    "kickOff": "2026-02-14T17:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-english/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-english/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
     "id": "ppv-oktagon-84-czech",
     "title": "OKTAGON 84 (Czech)",
     "sport": "fight",
@@ -6148,33 +6027,6 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-german/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-oktagon-84-english",
-    "title": "OKTAGON 84 (English)",
-    "sport": "fight",
-    "kickOff": "2026-02-14T17:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-english/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-english/2",
         "language": "English",
         "hd": false
       }
