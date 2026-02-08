@@ -1,53 +1,5 @@
 [
   {
-    "id": "ufc-fight-night-bautista-vs-oliveira-mma-2520",
-    "title": "Gianni Vazquez vs Javid Basharat",
-    "sport": "fight",
-    "kickOff": "2026-02-07T23:45:00",
-    "isLive": false,
-    "team1": {
-      "name": "Gianni Vazquez",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQioSHj1yDMc2Bge8KVW6iGrMDra4IQA.webp"
-    },
-    "team2": {
-      "name": "Javid Basharat",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQiFPPrkGY5sDA94Uqt1ENWYbW1wQgA.webp"
-    },
-    "links": []
-  },
-  {
-    "id": "ppv-event-03-toughman-contest-ppv-03",
-    "title": "Toughman Contest  \u2b50",
-    "sport": "other",
-    "kickOff": "2026-02-08T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
-  },
-  {
-    "id": "ppv-event-02-bkfc-knucklemania-vi-rothwell-v-arlovski-ppv-02",
-    "title": " BKFC Knucklemania VI Rothwell v Arlovski \ud83d\udd25",
-    "sport": "other",
-    "kickOff": "2026-02-08T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
-  },
-  {
     "id": "ppv-event-04-redneck-brawl-12-ppv-004",
     "title": "Redneck Brawl 12 \ud83c\udf1f",
     "sport": "other",
@@ -122,29 +74,29 @@
     ]
   },
   {
-    "id": "adelaide-united-vs-newcastle-jets-2355366",
-    "title": "Adelaide United vs Newcastle Jets",
-    "sport": "football",
-    "kickOff": "2026-02-08T06:00:00",
+    "id": "ppv-men-s-women-s-parallel-giant-slalom-qualifying",
+    "title": "Men's & Women's Parallel Giant Slalom: Qualifying",
+    "sport": "olympics",
+    "kickOff": "2026-02-08T08:00:00",
     "isLive": false,
     "team1": {
-      "name": "Adelaide United",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj6wwKMGVUATENxAQQfEIkMkDIXTFwEKTPii6by9eaMdNaYTWNEQgA.webp"
+      "name": "Home Team",
+      "logo": ""
     },
     "team2": {
-      "name": "Newcastle Jets",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCikggCbAADCBQhuIDapCIIIC3wuncBCkz4ouYMvCLzRTprTAuxoiCA.webp"
+      "name": "Away Team",
+      "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/echo/adelaide-united-vs-newcastle-jets-football-1469651/1",
-        "language": "",
+        "url": "https://embedsports.top/embed/admin/ppv-men-s-women-s-parallel-giant-slalom-qualifying/1",
+        "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/echo/adelaide-united-vs-newcastle-jets-football-1469651/2",
-        "language": "",
-        "hd": true
+        "url": "https://embedsports.top/embed/admin/ppv-men-s-women-s-parallel-giant-slalom-qualifying/2",
+        "language": "English",
+        "hd": false
       }
     ]
   },
@@ -170,6 +122,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-estonia-vs-south-korea-md-round-robin/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-norway-vs-czechia-md-round-robin",
+    "title": "Norway vs. Czechia (MD Round-Robin)",
+    "sport": "olympics",
+    "kickOff": "2026-02-08T09:05:00",
+    "isLive": false,
+    "team1": {
+      "name": "Norway",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Czechia (MD Round-Robin)",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-norway-vs-czechia-md-round-robin/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-norway-vs-czechia-md-round-robin/2",
         "language": "English",
         "hd": false
       }
@@ -342,34 +321,18 @@
     "links": []
   },
   {
-    "id": "liverpool-w-vs-aston-villa-w-football-1417283",
-    "title": "Liverpool W vs Aston Villa W",
+    "id": "london-city-lionesses-vs-everton-w-football-1417280",
+    "title": "London City Lionesses vs Everton W",
     "sport": "football",
     "kickOff": "2026-02-08T12:00:00",
     "isLive": false,
     "team1": {
-      "name": "Liverpool W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZRBABjeuQYas4nvBFVuBLqzBhc+S0A.webp"
+      "name": "London City Lionesses",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIbCAggYIfvXIMAxs3E94IqtwJdWYMLnw2gA.webp"
     },
     "team2": {
-      "name": "Aston Villa W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiICCCqKQKeuQYBjZuJ7wRVbgS6swYXPmtA.webp"
-    },
-    "links": []
-  },
-  {
-    "id": "arsenal-w-vs-manchester-city-w-football-1417282",
-    "title": "Arsenal W vs Manchester City W",
-    "sport": "football",
-    "kickOff": "2026-02-08T12:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Arsenal W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZdhAx65BgGNm4nvBFVuBLqzBhc+S0A.webp"
-    },
-    "team2": {
-      "name": "Manchester City W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZdhAR65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+      "name": "Everton W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZdhDZ65BgGNm4nvBFVuBLqzBhc+S0A.webp"
     },
     "links": []
   },
@@ -390,18 +353,34 @@
     "links": []
   },
   {
-    "id": "london-city-lionesses-vs-everton-w-football-1417280",
-    "title": "London City Lionesses vs Everton W",
+    "id": "arsenal-w-vs-manchester-city-w-football-1417282",
+    "title": "Arsenal W vs Manchester City W",
     "sport": "football",
     "kickOff": "2026-02-08T12:00:00",
     "isLive": false,
     "team1": {
-      "name": "London City Lionesses",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIbCAggYIfvXIMAxs3E94IqtwJdWYMLnw2gA.webp"
+      "name": "Arsenal W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZdhAx65BgGNm4nvBFVuBLqzBhc+S0A.webp"
     },
     "team2": {
-      "name": "Everton W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZdhDZ65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+      "name": "Manchester City W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZdhAR65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "liverpool-w-vs-aston-villa-w-football-1417283",
+    "title": "Liverpool W vs Aston Villa W",
+    "sport": "football",
+    "kickOff": "2026-02-08T12:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Liverpool W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZRBABjeuQYas4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "Aston Villa W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiICCCqKQKeuQYBjZuJ7wRVbgS6swYXPmtA.webp"
     },
     "links": []
   },
@@ -443,33 +422,6 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-figure-skating-training/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-men-s-women-s-parallel-giant-slalom-finals",
-    "title": "Men's & Women's Parallel Giant Slalom: Finals",
-    "sport": "olympics",
-    "kickOff": "2026-02-08T12:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-men-s-women-s-parallel-giant-slalom-finals/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-men-s-women-s-parallel-giant-slalom-finals/2",
         "language": "English",
         "hd": false
       }
@@ -877,33 +829,6 @@
     ]
   },
   {
-    "id": "ppv-canada-vs-sweden-md-round-robin",
-    "title": "Canada vs. Sweden (MD Round-Robin)",
-    "sport": "olympics",
-    "kickOff": "2026-02-08T13:35:00",
-    "isLive": false,
-    "team1": {
-      "name": "Canada",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Sweden (MD Round-Robin)",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-canada-vs-sweden-md-round-robin/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-canada-vs-sweden-md-round-robin/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-great-britain-vs-switzerland-md-round-robin",
     "title": "Great Britain vs. Switzerland (MD Round-Robin)",
     "sport": "olympics",
@@ -925,33 +850,6 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-great-britain-vs-switzerland-md-round-robin/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-italy-vs-czechia-md-round-robin",
-    "title": "Italy vs. Czechia (MD Round-Robin)",
-    "sport": "olympics",
-    "kickOff": "2026-02-08T13:35:00",
-    "isLive": false,
-    "team1": {
-      "name": "Italy",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Czechia (MD Round-Robin)",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-italy-vs-czechia-md-round-robin/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-italy-vs-czechia-md-round-robin/2",
         "language": "English",
         "hd": false
       }
@@ -1240,22 +1138,6 @@
         "hd": false
       }
     ]
-  },
-  {
-    "id": "live_olympic-games-women-group-b_france-sweden-live-streaming-499804560",
-    "title": "France vs Sweden",
-    "sport": "hockey",
-    "kickOff": "2026-02-08T14:40:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
   },
   {
     "id": "union-berlin-w-vs-carl-zeiss-jena-w-football-1401326",
@@ -1964,6 +1846,33 @@
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyYD5ABmBgw3ELoAmuEMeMk9RxCgIVVKLmDLwi80Xaa1toqXSA.webp"
     },
     "links": []
+  },
+  {
+    "id": "ppv-sweden-vs-usa-md-round-robin",
+    "title": "Sweden vs. USA (MD Round-Robin)",
+    "sport": "olympics",
+    "kickOff": "2026-02-08T18:05:00",
+    "isLive": false,
+    "team1": {
+      "name": "Sweden",
+      "logo": ""
+    },
+    "team2": {
+      "name": "USA (MD Round-Robin)",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-sweden-vs-usa-md-round-robin/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-sweden-vs-usa-md-round-robin/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
   },
   {
     "id": "ppv-team-event-day-3-venue-feed",
@@ -2952,33 +2861,6 @@
     "links": []
   },
   {
-    "id": "ppv-oktagon-84-english",
-    "title": "OKTAGON 84 (English)",
-    "sport": "fight",
-    "kickOff": "2026-02-14T17:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-english/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-english/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-oktagon-84-czech",
     "title": "OKTAGON 84 (Czech)",
     "sport": "fight",
@@ -3027,6 +2909,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-german/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-oktagon-84-english",
+    "title": "OKTAGON 84 (English)",
+    "sport": "fight",
+    "kickOff": "2026-02-14T17:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-english/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-english/2",
         "language": "English",
         "hd": false
       }
