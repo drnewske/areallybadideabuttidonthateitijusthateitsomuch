@@ -102,60 +102,6 @@
     ]
   },
   {
-    "id": "mens-20km-individual-2427509",
-    "title": "Mens 20km Individual",
-    "sport": "olympics",
-    "kickOff": "2026-02-10T12:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-men-s-20-km-individual/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-men-s-20-km-individual/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-women-s-team-combined-slalom",
-    "title": "Women's Team Combined: Slalom",
-    "sport": "olympics",
-    "kickOff": "2026-02-10T12:50:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-women-s-team-combined-slalom/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-women-s-team-combined-slalom/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-gold-zone-day-4",
     "title": "Gold Zone: Day 4",
     "sport": "olympics",
@@ -199,60 +145,6 @@
         "url": "https://embedsports.top/embed/echo/winter-olympics-gold-zone-day-4-game-2899333/4",
         "language": "",
         "hd": true
-      }
-    ]
-  },
-  {
-    "id": "ppv-great-britain-vs-italy-bronze-medal-final",
-    "title": "Great Britain vs. Italy (Bronze Medal Final)",
-    "sport": "olympics",
-    "kickOff": "2026-02-10T13:05:00",
-    "isLive": false,
-    "team1": {
-      "name": "Great Britain",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Italy (Bronze Medal Final)",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-great-britain-vs-italy-bronze-medal-final/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-great-britain-vs-italy-bronze-medal-final/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-women-s-moguls-qualifying-round-1",
-    "title": "Women's Moguls: Qualifying Round 1",
-    "sport": "olympics",
-    "kickOff": "2026-02-10T13:15:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-women-s-moguls-qualifying-round-1/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-women-s-moguls-qualifying-round-1/2",
-        "language": "English",
-        "hd": false
       }
     ]
   },
@@ -334,7 +226,18 @@
       "name": "Germany W",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCIgAJiADGIEPXIMVzYGB7xJVKYQasw+trghA.webp"
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/echo/italy-w-vs-germany-w-hockey-419995/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/italy-w-vs-germany-w-hockey-419995/2",
+        "language": "",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "ppv-italy-vs-germany-women-s-group-b",
@@ -358,33 +261,6 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-italy-vs-germany-women-s-group-b/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-women-s-singles-luge-run-3",
-    "title": "Women's Singles Luge: Run 3",
-    "sport": "olympics",
-    "kickOff": "2026-02-10T16:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-women-s-singles-luge-run-3/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-women-s-singles-luge-run-3/2",
         "language": "English",
         "hd": false
       }
@@ -466,6 +342,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-sweden-vs-usa-gold-medal-final/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-women-s-singles-luge-final-run",
+    "title": "Women's Singles Luge: Final Run",
+    "sport": "olympics",
+    "kickOff": "2026-02-10T17:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-women-s-singles-luge-final-run/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-women-s-singles-luge-final-run/2",
         "language": "English",
         "hd": false
       }
@@ -763,7 +666,28 @@
       "name": "USA W",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCIgAJiBQgI9cgwDGzYGB7xJVKYQasw+trghA.webp"
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/echo/canada-w-vs-usa-w-hockey-419996/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/canada-w-vs-usa-w-hockey-419996/2",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/canada-w-vs-usa-w-hockey-419996/3",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/canada-w-vs-usa-w-hockey-419996/4",
+        "language": "",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "live_olympic-games-women-group-a_finland-switzerland-live-streaming-500625792",
@@ -860,6 +784,11 @@
         "hd": true
       },
       {
+        "url": "https://embedsports.top/embed/echo/tottenham-vs-newcastle-football-1379227/3",
+        "language": "",
+        "hd": true
+      },
+      {
         "url": "https://embedsports.top/embed/golf/19713/1",
         "language": "English",
         "hd": true
@@ -902,6 +831,11 @@
         "hd": true
       },
       {
+        "url": "https://embedsports.top/embed/echo/everton-vs-bournemouth-football-1379223/3",
+        "language": "",
+        "hd": true
+      },
+      {
         "url": "https://embedsports.top/embed/golf/19712/1",
         "language": "English",
         "hd": true
@@ -940,6 +874,11 @@
       },
       {
         "url": "https://embedsports.top/embed/echo/chelsea-vs-leeds-football-1379221/2",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/chelsea-vs-leeds-football-1379221/3",
         "language": "",
         "hd": true
       },
@@ -1240,7 +1179,18 @@
       "name": "Switzerland W",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCIgAJiBQgmdcgwDGzYGB7xJVKYQasw+trghA.webp"
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/echo/finland-w-vs-switzerland-w-hockey-419997/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/finland-w-vs-switzerland-w-hockey-419997/2",
+        "language": "",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "ppv-finland-vs-switzerland-women-s-group-a",
@@ -1317,6 +1267,11 @@
       },
       {
         "url": "https://embedsports.top/embed/echo/west-ham-vs-manchester-united-football-1379228/2",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/west-ham-vs-manchester-united-football-1379228/3",
         "language": "",
         "hd": true
       },
@@ -1702,22 +1657,6 @@
     "links": []
   },
   {
-    "id": "u-bt-cluj-napoca-vs-aris-bc-2288447",
-    "title": "U-BT Cluj-Napoca vs Aris BC",
-    "sport": "basketball",
-    "kickOff": "2026-02-11T16:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "U-BT Cluj-Napoca",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQg+YbmBTAwGkNxAATEIgMQjIGPpAlcBCkz7a2YMvCLzR2prV2ipdEA.webp"
-    },
-    "team2": {
-      "name": "Aris BC",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAg4UeAlAhuIPiEQoQAExAkQRiCZMEKTPii5gym+vNGOmtMM7GiIQA.webp"
-    },
-    "links": []
-  },
-  {
     "id": "t-rk-telekom-bk-vs-niners-chemnitz-2288454",
     "title": "T\u00fcrk Telekom BK vs Niners Chemnitz",
     "sport": "basketball",
@@ -1730,6 +1669,22 @@
     "team2": {
       "name": "Niners Chemnitz",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIKPDB9qSENxBqYIFLhB9TiE8sIxgTPii5gym+vNGOmtMM7GiIQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "u-bt-cluj-napoca-vs-aris-bc-2288447",
+    "title": "U-BT Cluj-Napoca vs Aris BC",
+    "sport": "basketball",
+    "kickOff": "2026-02-11T16:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "U-BT Cluj-Napoca",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQg+YbmBTAwGkNxAATEIgMQjIGPpAlcBCkz7a2YMvCLzR2prV2ipdEA.webp"
+    },
+    "team2": {
+      "name": "Aris BC",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAg4UeAlAhuIPiEQoQAExAkQRiCZMEKTPii5gym+vNGOmtMM7GiIQA.webp"
     },
     "links": []
   },
@@ -2284,6 +2239,33 @@
     ]
   },
   {
+    "id": "ppv-tsg-hoffenheim-vs-sc-freiburg",
+    "title": "TSG Hoffenheim vs. SC Freiburg",
+    "sport": "football",
+    "kickOff": "2026-02-14T14:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "TSG Hoffenheim",
+      "logo": ""
+    },
+    "team2": {
+      "name": "SC Freiburg",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-tsg-hoffenheim-vs-sc-freiburg/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-tsg-hoffenheim-vs-sc-freiburg/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
     "id": "ppv-hamburg-sv-vs-1-fc-union-berlin",
     "title": "Hamburg SV vs. 1. FC Union Berlin",
     "sport": "football",
@@ -2332,33 +2314,6 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-bayer-leverkusen-vs-st-pauli/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-tsg-hoffenheim-vs-sc-freiburg",
-    "title": "TSG Hoffenheim vs. SC Freiburg",
-    "sport": "football",
-    "kickOff": "2026-02-14T14:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "TSG Hoffenheim",
-      "logo": ""
-    },
-    "team2": {
-      "name": "SC Freiburg",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-tsg-hoffenheim-vs-sc-freiburg/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-tsg-hoffenheim-vs-sc-freiburg/2",
         "language": "English",
         "hd": false
       }
@@ -2473,6 +2428,33 @@
     ]
   },
   {
+    "id": "ppv-oktagon-84-czech",
+    "title": "OKTAGON 84 (Czech)",
+    "sport": "fight",
+    "kickOff": "2026-02-14T17:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-czech/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
     "id": "ppv-oktagon-84-german",
     "title": "OKTAGON 84 (German)",
     "sport": "fight",
@@ -2521,33 +2503,6 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-english/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-oktagon-84-czech",
-    "title": "OKTAGON 84 (Czech)",
-    "sport": "fight",
-    "kickOff": "2026-02-14T17:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-czech/2",
         "language": "English",
         "hd": false
       }
@@ -2856,33 +2811,6 @@
     ]
   },
   {
-    "id": "ppv-cremonese-vs-genoa",
-    "title": "Cremonese vs. Genoa",
-    "sport": "football",
-    "kickOff": "2026-02-15T14:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Cremonese",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Genoa",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-cremonese-vs-genoa/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-cremonese-vs-genoa/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-parma-vs-hellas-verona",
     "title": "Parma vs. Hellas Verona",
     "sport": "football",
@@ -2931,6 +2859,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-le-havre-ac-vs-toulouse/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-cremonese-vs-genoa",
+    "title": "Cremonese vs. Genoa",
+    "sport": "football",
+    "kickOff": "2026-02-15T14:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Cremonese",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Genoa",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-cremonese-vs-genoa/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-cremonese-vs-genoa/2",
         "language": "English",
         "hd": false
       }
@@ -3126,33 +3081,6 @@
     ]
   },
   {
-    "id": "ppv-napoli-vs-as-roma",
-    "title": "Napoli vs. AS Roma",
-    "sport": "football",
-    "kickOff": "2026-02-15T19:45:00",
-    "isLive": false,
-    "team1": {
-      "name": "Napoli",
-      "logo": ""
-    },
-    "team2": {
-      "name": "AS Roma",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-napoli-vs-as-roma/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-napoli-vs-as-roma/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-lyon-vs-nice",
     "title": "Lyon vs. Nice",
     "sport": "football",
@@ -3174,6 +3102,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-lyon-vs-nice/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-napoli-vs-as-roma",
+    "title": "Napoli vs. AS Roma",
+    "sport": "football",
+    "kickOff": "2026-02-15T19:45:00",
+    "isLive": false,
+    "team1": {
+      "name": "Napoli",
+      "logo": ""
+    },
+    "team2": {
+      "name": "AS Roma",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-napoli-vs-as-roma/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-napoli-vs-as-roma/2",
         "language": "English",
         "hd": false
       }
