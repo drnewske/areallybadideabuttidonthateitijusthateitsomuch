@@ -1,21 +1,5 @@
 [
   {
-    "id": "tgl-the-bay-golf-club-v-los-angeles-golf-club-game-162626",
-    "title": "TGL: The Bay Golf Club V Los Angeles Golf Club",
-    "sport": "other",
-    "kickOff": "2026-02-10T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
-  },
-  {
     "id": "wwe-monday-night-raw-wwe-2025",
     "title": "WWE: Monday Night RAW",
     "sport": "fight",
@@ -2332,60 +2316,6 @@
     ]
   },
   {
-    "id": "ppv-tsg-hoffenheim-vs-sc-freiburg",
-    "title": "TSG Hoffenheim vs. SC Freiburg",
-    "sport": "football",
-    "kickOff": "2026-02-14T14:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "TSG Hoffenheim",
-      "logo": ""
-    },
-    "team2": {
-      "name": "SC Freiburg",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-tsg-hoffenheim-vs-sc-freiburg/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-tsg-hoffenheim-vs-sc-freiburg/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-bayer-leverkusen-vs-st-pauli",
-    "title": "Bayer Leverkusen vs. St. Pauli",
-    "sport": "football",
-    "kickOff": "2026-02-14T14:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Bayer Leverkusen",
-      "logo": ""
-    },
-    "team2": {
-      "name": "St. Pauli",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-bayer-leverkusen-vs-st-pauli/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-bayer-leverkusen-vs-st-pauli/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-werder-bremen-vs-bayern-munich",
     "title": "Werder Bremen vs. Bayern Munich",
     "sport": "football",
@@ -2407,6 +2337,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-werder-bremen-vs-bayern-munich/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-tsg-hoffenheim-vs-sc-freiburg",
+    "title": "TSG Hoffenheim vs. SC Freiburg",
+    "sport": "football",
+    "kickOff": "2026-02-14T14:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "TSG Hoffenheim",
+      "logo": ""
+    },
+    "team2": {
+      "name": "SC Freiburg",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-tsg-hoffenheim-vs-sc-freiburg/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-tsg-hoffenheim-vs-sc-freiburg/2",
         "language": "English",
         "hd": false
       }
@@ -2467,6 +2424,33 @@
     ]
   },
   {
+    "id": "ppv-bayer-leverkusen-vs-st-pauli",
+    "title": "Bayer Leverkusen vs. St. Pauli",
+    "sport": "football",
+    "kickOff": "2026-02-14T14:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Bayer Leverkusen",
+      "logo": ""
+    },
+    "team2": {
+      "name": "St. Pauli",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-bayer-leverkusen-vs-st-pauli/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-bayer-leverkusen-vs-st-pauli/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
     "id": "ppv-getafe-vs-villarreal",
     "title": "Getafe vs. Villarreal",
     "sport": "football",
@@ -2521,33 +2505,6 @@
     ]
   },
   {
-    "id": "ppv-oktagon-84-czech",
-    "title": "OKTAGON 84 (Czech)",
-    "sport": "fight",
-    "kickOff": "2026-02-14T17:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-czech/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-oktagon-84-german",
     "title": "OKTAGON 84 (German)",
     "sport": "fight",
@@ -2569,6 +2526,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-german/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-oktagon-84-czech",
+    "title": "OKTAGON 84 (Czech)",
+    "sport": "fight",
+    "kickOff": "2026-02-14T17:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-czech/2",
         "language": "English",
         "hd": false
       }
@@ -3039,33 +3023,6 @@
     ]
   },
   {
-    "id": "ppv-metz-vs-aj-auxerre",
-    "title": "Metz vs. AJ Auxerre",
-    "sport": "football",
-    "kickOff": "2026-02-15T16:15:00",
-    "isLive": false,
-    "team1": {
-      "name": "Metz",
-      "logo": ""
-    },
-    "team2": {
-      "name": "AJ Auxerre",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-metz-vs-aj-auxerre/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-metz-vs-aj-auxerre/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-lorient-vs-angers",
     "title": "Lorient vs. Angers",
     "sport": "football",
@@ -3087,6 +3044,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-lorient-vs-angers/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-metz-vs-aj-auxerre",
+    "title": "Metz vs. AJ Auxerre",
+    "sport": "football",
+    "kickOff": "2026-02-15T16:15:00",
+    "isLive": false,
+    "team1": {
+      "name": "Metz",
+      "logo": ""
+    },
+    "team2": {
+      "name": "AJ Auxerre",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-metz-vs-aj-auxerre/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-metz-vs-aj-auxerre/2",
         "language": "English",
         "hd": false
       }
@@ -3174,33 +3158,6 @@
     ]
   },
   {
-    "id": "ppv-lyon-vs-nice",
-    "title": "Lyon vs. Nice",
-    "sport": "football",
-    "kickOff": "2026-02-15T19:45:00",
-    "isLive": false,
-    "team1": {
-      "name": "Lyon",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Nice",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-lyon-vs-nice/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-lyon-vs-nice/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-napoli-vs-as-roma",
     "title": "Napoli vs. AS Roma",
     "sport": "football",
@@ -3222,6 +3179,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-napoli-vs-as-roma/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-lyon-vs-nice",
+    "title": "Lyon vs. Nice",
+    "sport": "football",
+    "kickOff": "2026-02-15T19:45:00",
+    "isLive": false,
+    "team1": {
+      "name": "Lyon",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Nice",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-lyon-vs-nice/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-lyon-vs-nice/2",
         "language": "English",
         "hd": false
       }
