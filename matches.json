@@ -50,26 +50,6 @@
         "url": "https://embedsports.top/embed/admin/ppv-gold-zone-day-4/2",
         "language": "English",
         "hd": false
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/winter-olympics-gold-zone-day-4-game-2899333/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/winter-olympics-gold-zone-day-4-game-2899333/2",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/winter-olympics-gold-zone-day-4-game-2899333/3",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/winter-olympics-gold-zone-day-4-game-2899333/4",
-        "language": "",
-        "hd": true
       }
     ]
   },
@@ -117,33 +97,6 @@
     ]
   },
   {
-    "id": "ppv-sweden-vs-usa-gold-medal-final",
-    "title": "Sweden vs. USA (Gold Medal Final)",
-    "sport": "olympics",
-    "kickOff": "2026-02-10T17:05:00",
-    "isLive": false,
-    "team1": {
-      "name": "Sweden",
-      "logo": ""
-    },
-    "team2": {
-      "name": "USA (Gold Medal Final)",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-sweden-vs-usa-gold-medal-final/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-sweden-vs-usa-gold-medal-final/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-men-s-short-venue-feed",
     "title": "Men's Short (Venue Feed)",
     "sport": "olympics",
@@ -169,38 +122,6 @@
         "hd": false
       }
     ]
-  },
-  {
-    "id": "panionios-bc-vs-besiktas-basketbol-2288451",
-    "title": "Panionios BC vs Besiktas Basketbol",
-    "sport": "basketball",
-    "kickOff": "2026-02-10T17:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Panionios BC",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRswfEBpQgSIbpp2HdiXThAgUBCkz6q1ZeEXmjVTWmDCipdIA.webp"
-    },
-    "team2": {
-      "name": "Besiktas Basketbol",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgQIGJXUhuOkABMDIPnt0oQJbfAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-    },
-    "links": []
-  },
-  {
-    "id": "slask-wroclaw-vs-cedevita-olimpija-basketball-453269",
-    "title": "Slask Wroclaw vs Cedevita Olimpija",
-    "sport": "basketball",
-    "kickOff": "2026-02-10T18:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Slask Wroclaw",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IFCCIgI9cgwDGzST3hiq3Al1ZgwufFaA.webp"
-    },
-    "team2": {
-      "name": "Cedevita Olimpija",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiFUwQMeuQYBjZpJ7wxVbgS6swYXPmtA.webp"
-    },
-    "links": []
   },
   {
     "id": "sampdoria-vs-palermo-2297873",
@@ -243,23 +164,13 @@
       "name": "Away Team",
       "logo": ""
     },
-    "links": []
-  },
-  {
-    "id": "luton-vs-plymouth-football-1518865",
-    "title": "Luton vs Plymouth",
-    "sport": "football",
-    "kickOff": "2026-02-10T19:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Luton",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRNhAp65BgGNm4nvBFVuBLqzBhc+S0A.webp"
-    },
-    "team2": {
-      "name": "Plymouth",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRNhABjeuQYas4nvBFVuBLqzBhc+S0A.webp"
-    },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/delta/live_olympic-games-women-group-a_canada-usa-live-streaming-500625360/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "virtus-entella-vs-cesena-2297880",
@@ -291,7 +202,23 @@
       "name": "Stockport County",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTNySECmAAGENxAlNICMYMgYIPmfgEKTPlrZgy8IvNFamtMM7GiIQA.webp"
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/echo/port-vale-vs-stockport-county-football-1509262/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/port-vale-vs-stockport-county-football-1509262/2",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/port-vale-vs-stockport-county-football-1509262/3",
+        "language": "",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "afc-wimbledon-vs-northampton-town-2420436",
@@ -425,7 +352,18 @@
       "name": "Ulm",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBwIIEiBTswm7iAAmIPscOmQucwQpM+2trvL15o7U1phdY0RCA.webp"
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/echo/trento-vs-ulm-basketball-453270/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/trento-vs-ulm-basketball-453270/2",
+        "language": "",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "canada-w-vs-usa-w-hockey-419996",
@@ -478,7 +416,13 @@
       "name": "Away Team",
       "logo": ""
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/delta/live_olympic-games-women-group-a_finland-switzerland-live-streaming-500625792/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "ppv-canada-vs-usa-women-s-group-a",
@@ -508,6 +452,33 @@
     ]
   },
   {
+    "id": "multiview-matchweek-26-game-187788",
+    "title": "Multiview: Matchweek 26  \ud83d\udd25 \ud83d\udd25 \ud83d\udd25",
+    "sport": "football",
+    "kickOff": "2026-02-10T19:20:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/echo/multiview-matchweek-26-game-187788/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/multiview-matchweek-26-game-187788/2",
+        "language": "",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "ppv-goal-rush",
     "title": "Goal Rush",
     "sport": "football",
@@ -531,6 +502,26 @@
         "url": "https://embedsports.top/embed/admin/ppv-goal-rush/2",
         "language": "English",
         "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/goal-rush-matchweek-26-game-1363646/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/goal-rush-matchweek-26-game-1363646/2",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/goal-rush-matchweek-26-game-1363646/3",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/goal-rush-matchweek-26-game-1363646/4",
+        "language": "",
+        "hd": true
       }
     ]
   },
@@ -596,6 +587,16 @@
         "hd": true
       },
       {
+        "url": "https://embedsports.top/embed/echo/tottenham-vs-newcastle-football-1379227/4",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/tottenham-vs-newcastle-football-1379227/5",
+        "language": "",
+        "hd": true
+      },
+      {
         "url": "https://embedsports.top/embed/golf/19713/1",
         "language": "English",
         "hd": true
@@ -644,6 +645,16 @@
       },
       {
         "url": "https://embedsports.top/embed/echo/everton-vs-bournemouth-football-1379223/3",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/everton-vs-bournemouth-football-1379223/4",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/everton-vs-bournemouth-football-1379223/5",
         "language": "",
         "hd": true
       },
@@ -700,6 +711,16 @@
         "hd": true
       },
       {
+        "url": "https://embedsports.top/embed/echo/chelsea-vs-leeds-football-1379221/4",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/chelsea-vs-leeds-football-1379221/5",
+        "language": "",
+        "hd": true
+      },
+      {
         "url": "https://embedsports.top/embed/golf/19711/1",
         "language": "English",
         "hd": true
@@ -720,7 +741,18 @@
       "name": "Peterborough United",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATELT6QQUEiG4g+a-YZMwQ58xMIxgTPii5gy8IvNGOmtMM7GiIQA.webp"
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/echo/mansfield-town-vs-peterborough-football-1387289/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/mansfield-town-vs-peterborough-football-1387289/2",
+        "language": "",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "swindon-town-vs-plymouth-argyle-2432142",
@@ -752,7 +784,18 @@
       "name": "Barnsley",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnAATMOHhgyqkNxAQDIPkcQmQIEpYIUmfFF23l680Q6a0w2saIhA.webp"
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/echo/stevenage-vs-barnsley-football-1387184/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/stevenage-vs-barnsley-football-1387184/2",
+        "language": "",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "shrewsbury-town-vs-barrow-2274372",
@@ -768,7 +811,18 @@
       "name": "Barrow",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMKPn4QJEDBDcdB3HrUg+ICCGsgCFJnxRcN5evNFOmtMBrGiIQA.webp"
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/echo/shrewsbury-vs-barrow-football-1386305/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/shrewsbury-vs-barrow-football-1386305/2",
+        "language": "",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "crawley-town-vs-cambridge-united-2274366",
@@ -784,7 +838,18 @@
       "name": "Cambridge United",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwECUxUABMQ3EHxAkQMXHpAoQEHToIUmfdWzBl4ReaPVNaYJ2NEQgA.webp"
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/echo/crawley-town-vs-cambridge-united-football-1386299/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/crawley-town-vs-cambridge-united-football-1386299/2",
+        "language": "",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "oxford-united-vs-norwich-city-2275567",
@@ -800,7 +865,28 @@
       "name": "Norwich City",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphgL58MEjYhuIACYg+IFMZAkdICPssEKTPii5gyG+vNGOmtMM7GiIQA.webp"
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/echo/oxford-united-vs-norwich-football-1386928/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/oxford-united-vs-norwich-football-1386928/2",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/oxford-united-vs-norwich-football-1386928/3",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/oxford-united-vs-norwich-football-1386928/4",
+        "language": "",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "hertha-vs-freiburg-2391871",
@@ -853,7 +939,28 @@
       "name": "Southampton",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwF8w3IhBAwQ3EABNcukCRAoQiHHxAQCFJnxRcwZeEXminTWmBdjREEA.webp"
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/echo/leicester-vs-southampton-football-1386929/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/leicester-vs-southampton-football-1386929/2",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/leicester-vs-southampton-football-1386929/3",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/leicester-vs-southampton-football-1386929/4",
+        "language": "",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "wigan-athletic-vs-reading-2274824",
@@ -869,7 +976,28 @@
       "name": "Reading",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpNjUAJtBIhuICLpAGDOnVpx8CFJua5gy8IvNEpgTWmFtjREIA.webp"
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/echo/wigan-vs-reading-football-1387293/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/wigan-vs-reading-football-1387293/2",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/wigan-vs-reading-football-1387293/3",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/wigan-vs-reading-football-1387293/4",
+        "language": "",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "napoli-vs-como-2425249",
@@ -886,6 +1014,11 @@
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxcYEJpDdI2kABNcIPiAiqQJLWYmEYwJnxRcwZeEXminTWmBdjREEA.webp"
     },
     "links": [
+      {
+        "url": "https://embedsports.top/embed/delta/live_coppa-italia_napoli-como-live-streaming-500383440/1",
+        "language": "English",
+        "hd": true
+      },
       {
         "url": "https://embedsports.top/embed/echo/napoli-vs-como-football-1514890/1",
         "language": "",
@@ -1076,6 +1209,11 @@
         "url": "https://embedsports.top/embed/admin/ppv-west-ham-united-vs-manchester-united/2",
         "language": "English",
         "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/delta/live_premier-league_west-ham-man-utd-live-streaming-441858240/1",
+        "language": "English",
+        "hd": true
       },
       {
         "url": "https://embedsports.top/embed/echo/west-ham-vs-manchester-united-football-1379228/1",
@@ -1426,6 +1564,43 @@
     "links": []
   },
   {
+    "id": "winter-olympics-gold-zone-day-4-game-2899333",
+    "title": "Winter Olympics Gold Zone - Day 4 \u2744\u26c4\ud83e\udd47",
+    "sport": "other",
+    "kickOff": "2026-02-11T13:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/echo/winter-olympics-gold-zone-day-4-game-2899333/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/winter-olympics-gold-zone-day-4-game-2899333/2",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/winter-olympics-gold-zone-day-4-game-2899333/3",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/winter-olympics-gold-zone-day-4-game-2899333/4",
+        "language": "",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "switzerland-u17-vs-netherlands-u17-2428398",
     "title": "Switzerland U17 vs Netherlands U17",
     "sport": "football",
@@ -1576,22 +1751,6 @@
     "links": []
   },
   {
-    "id": "neptunas-vs-bahcesehir-kol-basketball-453267",
-    "title": "Neptunas vs Bahcesehir Kol.",
-    "sport": "basketball",
-    "kickOff": "2026-02-11T18:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Neptunas",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IAMYgUIEnXINlzST3hiq3Al1ZgwufFaA.webp"
-    },
-    "team2": {
-      "name": "Bahcesehir Kol.",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiCogAJiAj1yDAMbNJPeGKrcCXVmDC58toA.webp"
-    },
-    "links": []
-  },
-  {
     "id": "buducnost-vs-jl-bourg-basketball-453263",
     "title": "Buducnost vs JL Bourg",
     "sport": "basketball",
@@ -1604,6 +1763,22 @@
     "team2": {
       "name": "JL Bourg",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IKiAj1yDAMbNJPeGKrcCXVmDC58FoA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "neptunas-vs-bahcesehir-kol-basketball-453267",
+    "title": "Neptunas vs Bahcesehir Kol.",
+    "sport": "basketball",
+    "kickOff": "2026-02-11T18:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Neptunas",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IAMYgUIEnXINlzST3hiq3Al1ZgwufFaA.webp"
+    },
+    "team2": {
+      "name": "Bahcesehir Kol.",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiCogAJiAj1yDAMbNJPeGKrcCXVmDC58toA.webp"
     },
     "links": []
   },
@@ -2239,22 +2414,6 @@
     "links": []
   },
   {
-    "id": "charlotte-hornets-vs-atlanta-hawks-basketball-470254",
-    "title": "Charlotte Hornets vs Atlanta Hawks",
-    "sport": "basketball",
-    "kickOff": "2026-02-12T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Charlotte Hornets",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiETZ65BgGNmknvDFVuBLqzBhc+S0A.webp"
-    },
-    "team2": {
-      "name": "Atlanta Hawks",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiERM65BgGNmknvDFVuBLqzBhc+S0A.webp"
-    },
-    "links": []
-  },
-  {
     "id": "orlando-magic-vs-milwaukee-bucks-basketball-470256",
     "title": "Orlando Magic vs Milwaukee Bucks",
     "sport": "basketball",
@@ -2267,6 +2426,22 @@
     "team2": {
       "name": "Milwaukee Bucks",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAggQ9cgwDGzST3hiq3Al1ZgwufFaA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "charlotte-hornets-vs-atlanta-hawks-basketball-470254",
+    "title": "Charlotte Hornets vs Atlanta Hawks",
+    "sport": "basketball",
+    "kickOff": "2026-02-12T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Charlotte Hornets",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiETZ65BgGNmknvDFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "Atlanta Hawks",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiERM65BgGNmknvDFVuBLqzBhc+S0A.webp"
     },
     "links": []
   },
@@ -2303,22 +2478,6 @@
     "links": []
   },
   {
-    "id": "sao-paulo-vs-gremio-football-1492137",
-    "title": "Sao Paulo vs Gremio",
-    "sport": "football",
-    "kickOff": "2026-02-12T00:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Sao Paulo",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIKiH71yDAMbNxPeCKrcCXVmDC58FoA.webp"
-    },
-    "team2": {
-      "name": "Gremio",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRDHrkGAY2bie8EVW4EurMGFz5zQA.webp"
-    },
-    "links": []
-  },
-  {
     "id": "vasco-da-gama-vs-bahia-football-1492138",
     "title": "Vasco DA Gama vs Bahia",
     "sport": "football",
@@ -2331,6 +2490,22 @@
     "team2": {
       "name": "Bahia",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikCHrkGAY2bie8EVW4EurMGFz5zQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "sao-paulo-vs-gremio-football-1492137",
+    "title": "Sao Paulo vs Gremio",
+    "sport": "football",
+    "kickOff": "2026-02-12T00:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Sao Paulo",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIKiH71yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "team2": {
+      "name": "Gremio",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRDHrkGAY2bie8EVW4EurMGFz5zQA.webp"
     },
     "links": []
   },
@@ -2351,22 +2526,6 @@
     "links": []
   },
   {
-    "id": "toronto-raptors-vs-detroit-pistons-basketball-470260",
-    "title": "Toronto Raptors vs Detroit Pistons",
-    "sport": "basketball",
-    "kickOff": "2026-02-12T00:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Toronto Raptors",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiGwgU9cgwDGzST3hiq3Al1ZgwufFaA.webp"
-    },
-    "team2": {
-      "name": "Detroit Pistons",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAggY9cgwDGzST3hiq3Al1ZgwufFaA.webp"
-    },
-    "links": []
-  },
-  {
     "id": "philadelphia-76ers-vs-new-york-knicks-basketball-470259",
     "title": "Philadelphia 76ers vs New York Knicks",
     "sport": "basketball",
@@ -2379,6 +2538,22 @@
     "team2": {
       "name": "New York Knicks",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiGzL65BgGNmknvDFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "toronto-raptors-vs-detroit-pistons-basketball-470260",
+    "title": "Toronto Raptors vs Detroit Pistons",
+    "sport": "basketball",
+    "kickOff": "2026-02-12T00:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Toronto Raptors",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiGwgU9cgwDGzST3hiq3Al1ZgwufFaA.webp"
+    },
+    "team2": {
+      "name": "Detroit Pistons",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAggY9cgwDGzST3hiq3Al1ZgwufFaA.webp"
     },
     "links": []
   },
@@ -2415,6 +2590,22 @@
     "links": []
   },
   {
+    "id": "minnesota-timberwolves-vs-portland-trail-blazers-basketball-470262",
+    "title": "Minnesota Timberwolves vs Portland Trail Blazers",
+    "sport": "basketball",
+    "kickOff": "2026-02-12T01:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Minnesota Timberwolves",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAggU9cgwDGzST3hiq3Al1ZgwufFaA.webp"
+    },
+    "team2": {
+      "name": "Portland Trail Blazers",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiGwgAJvXIMAxs0k94YqtwJdWYMLnzWgA.webp"
+    },
+    "links": []
+  },
+  {
     "id": "houston-rockets-vs-los-angeles-clippers-basketball-470263",
     "title": "Houston Rockets vs Los Angeles Clippers",
     "sport": "basketball",
@@ -2443,22 +2634,6 @@
     "team2": {
       "name": "Miami Heat",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAggAxvXINNWST3hiq3Al1ZgwufFaA.webp"
-    },
-    "links": []
-  },
-  {
-    "id": "minnesota-timberwolves-vs-portland-trail-blazers-basketball-470262",
-    "title": "Minnesota Timberwolves vs Portland Trail Blazers",
-    "sport": "basketball",
-    "kickOff": "2026-02-12T01:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Minnesota Timberwolves",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAggU9cgwDGzST3hiq3Al1ZgwufFaA.webp"
-    },
-    "team2": {
-      "name": "Portland Trail Blazers",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiGwgAJvXIMAxs0k94YqtwJdWYMLnzWgA.webp"
     },
     "links": []
   },
@@ -2522,22 +2697,6 @@
     "links": []
   },
   {
-    "id": "denver-nuggets-vs-memphis-grizzlies-basketball-470266",
-    "title": "Denver Nuggets vs Memphis Grizzlies",
-    "sport": "basketball",
-    "kickOff": "2026-02-12T02:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Denver Nuggets",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiEQp65BgGNmknvDFVuBLqzBhc+S0A.webp"
-    },
-    "team2": {
-      "name": "Memphis Grizzlies",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAggAJvXIMAxs0k94YqtwJdWYMLnzWgA.webp"
-    },
-    "links": []
-  },
-  {
     "id": "utah-jazz-vs-sacramento-kings-basketball-470265",
     "title": "Utah Jazz vs Sacramento Kings",
     "sport": "basketball",
@@ -2566,6 +2725,22 @@
     "team2": {
       "name": "Oklahoma City Thunder",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiGwgmdcgwDGzST3hiq3Al1ZgwufFaA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "denver-nuggets-vs-memphis-grizzlies-basketball-470266",
+    "title": "Denver Nuggets vs Memphis Grizzlies",
+    "sport": "basketball",
+    "kickOff": "2026-02-12T02:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Denver Nuggets",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiEQp65BgGNmknvDFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "Memphis Grizzlies",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiAggAJvXIMAxs0k94YqtwJdWYMLnzWgA.webp"
     },
     "links": []
   },
@@ -3097,33 +3272,6 @@
     ]
   },
   {
-    "id": "ppv-tsg-hoffenheim-vs-sc-freiburg",
-    "title": "TSG Hoffenheim vs. SC Freiburg",
-    "sport": "football",
-    "kickOff": "2026-02-14T14:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "TSG Hoffenheim",
-      "logo": ""
-    },
-    "team2": {
-      "name": "SC Freiburg",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-tsg-hoffenheim-vs-sc-freiburg/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-tsg-hoffenheim-vs-sc-freiburg/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-eintracht-frankfurt-vs-borussia-m-nchengladbach",
     "title": "Eintracht Frankfurt vs. Borussia M\u00f6nchengladbach",
     "sport": "football",
@@ -3199,6 +3347,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-werder-bremen-vs-bayern-munich/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-tsg-hoffenheim-vs-sc-freiburg",
+    "title": "TSG Hoffenheim vs. SC Freiburg",
+    "sport": "football",
+    "kickOff": "2026-02-14T14:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "TSG Hoffenheim",
+      "logo": ""
+    },
+    "team2": {
+      "name": "SC Freiburg",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-tsg-hoffenheim-vs-sc-freiburg/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-tsg-hoffenheim-vs-sc-freiburg/2",
         "language": "English",
         "hd": false
       }
@@ -3367,33 +3542,6 @@
     ]
   },
   {
-    "id": "ppv-vf-b-stuttgart-vs-fc-cologne",
-    "title": "VfB Stuttgart vs. FC Cologne",
-    "sport": "football",
-    "kickOff": "2026-02-14T17:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "VfB Stuttgart",
-      "logo": ""
-    },
-    "team2": {
-      "name": "FC Cologne",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-vf-b-stuttgart-vs-fc-cologne/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-vf-b-stuttgart-vs-fc-cologne/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-sevilla-vs-alav-s",
     "title": "Sevilla vs. Alav\u00e9s",
     "sport": "football",
@@ -3415,6 +3563,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-sevilla-vs-alav-s/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-vf-b-stuttgart-vs-fc-cologne",
+    "title": "VfB Stuttgart vs. FC Cologne",
+    "sport": "football",
+    "kickOff": "2026-02-14T17:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "VfB Stuttgart",
+      "logo": ""
+    },
+    "team2": {
+      "name": "FC Cologne",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-vf-b-stuttgart-vs-fc-cologne/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-vf-b-stuttgart-vs-fc-cologne/2",
         "language": "English",
         "hd": false
       }
@@ -3642,33 +3817,6 @@
     ]
   },
   {
-    "id": "ppv-cremonese-vs-genoa",
-    "title": "Cremonese vs. Genoa",
-    "sport": "football",
-    "kickOff": "2026-02-15T14:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Cremonese",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Genoa",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-cremonese-vs-genoa/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-cremonese-vs-genoa/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-le-havre-ac-vs-toulouse",
     "title": "Le Havre AC vs. Toulouse",
     "sport": "football",
@@ -3717,6 +3865,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-parma-vs-hellas-verona/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-cremonese-vs-genoa",
+    "title": "Cremonese vs. Genoa",
+    "sport": "football",
+    "kickOff": "2026-02-15T14:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Cremonese",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Genoa",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-cremonese-vs-genoa/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-cremonese-vs-genoa/2",
         "language": "English",
         "hd": false
       }
@@ -3777,33 +3952,6 @@
     ]
   },
   {
-    "id": "ppv-lorient-vs-angers",
-    "title": "Lorient vs. Angers",
-    "sport": "football",
-    "kickOff": "2026-02-15T16:15:00",
-    "isLive": false,
-    "team1": {
-      "name": "Lorient",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Angers",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-lorient-vs-angers/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-lorient-vs-angers/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-metz-vs-aj-auxerre",
     "title": "Metz vs. AJ Auxerre",
     "sport": "football",
@@ -3825,6 +3973,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-metz-vs-aj-auxerre/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-lorient-vs-angers",
+    "title": "Lorient vs. Angers",
+    "sport": "football",
+    "kickOff": "2026-02-15T16:15:00",
+    "isLive": false,
+    "team1": {
+      "name": "Lorient",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Angers",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-lorient-vs-angers/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-lorient-vs-angers/2",
         "language": "English",
         "hd": false
       }
