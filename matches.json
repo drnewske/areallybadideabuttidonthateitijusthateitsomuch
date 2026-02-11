@@ -48,22 +48,6 @@
     ]
   },
   {
-    "id": "deportivo-t-chira-vs-the-strongest-2405728",
-    "title": "Deportivo T\u00e1chira vs The Strongest",
-    "sport": "football",
-    "kickOff": "2026-02-11T00:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Deportivo T\u00e1chira",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3lQBoXiRDcQfEIgi4QhnSn24CFJnxRcwZeEXmjbTWmHtjREIA.webp"
-    },
-    "team2": {
-      "name": "The Strongest",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhgUwACbAADCC0kQ3EHxAwQiM2cQQQBlAQpM+6tmDKr680eqa0wbsVEIIA.webp"
-    },
-    "links": []
-  },
-  {
     "id": "wwe-nxt-nxt-2025",
     "title": "WWE: NXT",
     "sport": "fight",
@@ -851,33 +835,6 @@
     ]
   },
   {
-    "id": "ppv-sweden-vs-italy-m-round-robin",
-    "title": "Sweden vs. Italy (M Round-Robin)",
-    "sport": "olympics",
-    "kickOff": "2026-02-11T18:05:00",
-    "isLive": false,
-    "team1": {
-      "name": "Sweden",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Italy (M Round-Robin)",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-sweden-vs-italy-m-round-robin/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-sweden-vs-italy-m-round-robin/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-china-vs-great-britain-m-round-robin",
     "title": "China vs. Great Britain (M Round-Robin)",
     "sport": "olympics",
@@ -899,6 +856,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-china-vs-great-britain-m-round-robin/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-sweden-vs-italy-m-round-robin",
+    "title": "Sweden vs. Italy (M Round-Robin)",
+    "sport": "olympics",
+    "kickOff": "2026-02-11T18:05:00",
+    "isLive": false,
+    "team1": {
+      "name": "Sweden",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Italy (M Round-Robin)",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-sweden-vs-italy-m-round-robin/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-sweden-vs-italy-m-round-robin/2",
         "language": "English",
         "hd": false
       }
@@ -2757,60 +2741,6 @@
     ]
   },
   {
-    "id": "ppv-tsg-hoffenheim-vs-sc-freiburg",
-    "title": "TSG Hoffenheim vs. SC Freiburg",
-    "sport": "football",
-    "kickOff": "2026-02-14T14:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "TSG Hoffenheim",
-      "logo": ""
-    },
-    "team2": {
-      "name": "SC Freiburg",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-tsg-hoffenheim-vs-sc-freiburg/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-tsg-hoffenheim-vs-sc-freiburg/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-hamburg-sv-vs-1-fc-union-berlin",
-    "title": "Hamburg SV vs. 1. FC Union Berlin",
-    "sport": "football",
-    "kickOff": "2026-02-14T14:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Hamburg SV",
-      "logo": ""
-    },
-    "team2": {
-      "name": "1. FC Union Berlin",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-hamburg-sv-vs-1-fc-union-berlin/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-hamburg-sv-vs-1-fc-union-berlin/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-bayer-leverkusen-vs-st-pauli",
     "title": "Bayer Leverkusen vs. St. Pauli",
     "sport": "football",
@@ -2838,6 +2768,33 @@
     ]
   },
   {
+    "id": "ppv-tsg-hoffenheim-vs-sc-freiburg",
+    "title": "TSG Hoffenheim vs. SC Freiburg",
+    "sport": "football",
+    "kickOff": "2026-02-14T14:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "TSG Hoffenheim",
+      "logo": ""
+    },
+    "team2": {
+      "name": "SC Freiburg",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-tsg-hoffenheim-vs-sc-freiburg/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-tsg-hoffenheim-vs-sc-freiburg/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
     "id": "ppv-eintracht-frankfurt-vs-borussia-m-nchengladbach",
     "title": "Eintracht Frankfurt vs. Borussia M\u00f6nchengladbach",
     "sport": "football",
@@ -2859,6 +2816,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-eintracht-frankfurt-vs-borussia-m-nchengladbach/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-hamburg-sv-vs-1-fc-union-berlin",
+    "title": "Hamburg SV vs. 1. FC Union Berlin",
+    "sport": "football",
+    "kickOff": "2026-02-14T14:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Hamburg SV",
+      "logo": ""
+    },
+    "team2": {
+      "name": "1. FC Union Berlin",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-hamburg-sv-vs-1-fc-union-berlin/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-hamburg-sv-vs-1-fc-union-berlin/2",
         "language": "English",
         "hd": false
       }
@@ -2919,33 +2903,6 @@
     ]
   },
   {
-    "id": "ppv-oktagon-84-english",
-    "title": "OKTAGON 84 (English)",
-    "sport": "fight",
-    "kickOff": "2026-02-14T17:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-english/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-english/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-oktagon-84-czech",
     "title": "OKTAGON 84 (Czech)",
     "sport": "fight",
@@ -2967,6 +2924,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-czech/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-oktagon-84-english",
+    "title": "OKTAGON 84 (English)",
+    "sport": "fight",
+    "kickOff": "2026-02-14T17:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-english/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-english/2",
         "language": "English",
         "hd": false
       }
@@ -3027,33 +3011,6 @@
     ]
   },
   {
-    "id": "ppv-vf-b-stuttgart-vs-fc-cologne",
-    "title": "VfB Stuttgart vs. FC Cologne",
-    "sport": "football",
-    "kickOff": "2026-02-14T17:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "VfB Stuttgart",
-      "logo": ""
-    },
-    "team2": {
-      "name": "FC Cologne",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-vf-b-stuttgart-vs-fc-cologne/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-vf-b-stuttgart-vs-fc-cologne/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-sevilla-vs-alav-s",
     "title": "Sevilla vs. Alav\u00e9s",
     "sport": "football",
@@ -3075,6 +3032,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-sevilla-vs-alav-s/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-vf-b-stuttgart-vs-fc-cologne",
+    "title": "VfB Stuttgart vs. FC Cologne",
+    "sport": "football",
+    "kickOff": "2026-02-14T17:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "VfB Stuttgart",
+      "logo": ""
+    },
+    "team2": {
+      "name": "FC Cologne",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-vf-b-stuttgart-vs-fc-cologne/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-vf-b-stuttgart-vs-fc-cologne/2",
         "language": "English",
         "hd": false
       }
@@ -3302,6 +3286,33 @@
     ]
   },
   {
+    "id": "ppv-cremonese-vs-genoa",
+    "title": "Cremonese vs. Genoa",
+    "sport": "football",
+    "kickOff": "2026-02-15T14:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Cremonese",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Genoa",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-cremonese-vs-genoa/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-cremonese-vs-genoa/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
     "id": "ppv-le-havre-ac-vs-toulouse",
     "title": "Le Havre AC vs. Toulouse",
     "sport": "football",
@@ -3350,33 +3361,6 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-parma-vs-hellas-verona/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-cremonese-vs-genoa",
-    "title": "Cremonese vs. Genoa",
-    "sport": "football",
-    "kickOff": "2026-02-15T14:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Cremonese",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Genoa",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-cremonese-vs-genoa/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-cremonese-vs-genoa/2",
         "language": "English",
         "hd": false
       }
@@ -3437,33 +3421,6 @@
     ]
   },
   {
-    "id": "ppv-metz-vs-aj-auxerre",
-    "title": "Metz vs. AJ Auxerre",
-    "sport": "football",
-    "kickOff": "2026-02-15T16:15:00",
-    "isLive": false,
-    "team1": {
-      "name": "Metz",
-      "logo": ""
-    },
-    "team2": {
-      "name": "AJ Auxerre",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-metz-vs-aj-auxerre/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-metz-vs-aj-auxerre/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-lorient-vs-angers",
     "title": "Lorient vs. Angers",
     "sport": "football",
@@ -3485,6 +3442,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-lorient-vs-angers/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-metz-vs-aj-auxerre",
+    "title": "Metz vs. AJ Auxerre",
+    "sport": "football",
+    "kickOff": "2026-02-15T16:15:00",
+    "isLive": false,
+    "team1": {
+      "name": "Metz",
+      "logo": ""
+    },
+    "team2": {
+      "name": "AJ Auxerre",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-metz-vs-aj-auxerre/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-metz-vs-aj-auxerre/2",
         "language": "English",
         "hd": false
       }
