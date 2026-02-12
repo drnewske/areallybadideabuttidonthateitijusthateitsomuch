@@ -16,38 +16,6 @@
     "links": []
   },
   {
-    "id": "dolphins-vs-gold-coast-titans-game-236363",
-    "title": "Dolphins vs Gold Coast Titans",
-    "sport": "rugby",
-    "kickOff": "2026-02-12T09:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Dolphins",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuAUxAQxQKwiIAmIWwEwwhw8wa16YAnGBQMbBsrBjbBcwDu2yYWgysOwJ0eEChAs5iHDlwgIhWMALDe1dgkjcBvPfTCiqFCEA.webp"
-    },
-    "team2": {
-      "name": "Gold Coast Titans",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuAUxAQxQKwiIAmIWwEwwhw8wa16YAnGBQMbBsrBjbBcwDu2yYWgysOwJ0eEChAs5LBSAjyOhWMALDe1dgkjcBvPfTCiqFCEA.webp"
-    },
-    "links": []
-  },
-  {
-    "id": "italy-cricket-vs-nepal-cricket-2403815",
-    "title": "Italy Cricket vs Nepal Cricket",
-    "sport": "cricket",
-    "kickOff": "2026-02-12T09:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Italy Cricket",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4g+IACawQvdavUa1IGCFOHDiEAQpM+KLmDLwi80faa0wjsaIhA.webp"
-    },
-    "team2": {
-      "name": "Nepal Cricket",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3n4QZPtQAmIbiB0R9IPsfUhEiZYRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-    },
-    "links": []
-  },
-  {
     "id": "atp-500-rotterdam-atp-250-buenos-aires-tn-1",
     "title": "ATP 500 Rotterdam / ATP 250 Buenos Aires \ud83c\udfbe",
     "sport": "other",
@@ -78,22 +46,6 @@
         "hd": true
       }
     ]
-  },
-  {
-    "id": "pif-saudi-ladies-international-game-162626",
-    "title": "PIF Saudi Ladies International",
-    "sport": "other",
-    "kickOff": "2026-02-12T10:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
   },
   {
     "id": "switzerland-ice-hockey-vs-france-ice-hockey-2411698",
@@ -165,49 +117,6 @@
     ]
   },
   {
-    "id": "india-cricket-vs-namibia-cricket-2403795",
-    "title": "India Cricket vs Namibia Cricket",
-    "sport": "cricket",
-    "kickOff": "2026-02-12T13:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "India Cricket",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3qsmYEAL4huIACYgI+zSZI6QZlAQpM+KLmDLwi80faa0wjsaIhA.webp"
-    },
-    "team2": {
-      "name": "Namibia Cricket",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLAow4biHhhNmkiAOJ9BmCAgg+IGAQpM+KLmDLb680Q6a0wTsaIhA.webp"
-    },
-    "links": []
-  },
-  {
-    "id": "ppv-women-s-5000-m",
-    "title": "Women's 5000m",
-    "sport": "olympics",
-    "kickOff": "2026-02-12T15:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-women-s-5000-m/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-women-s-5000-m/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-czechia-vs-canada-men-s-group-a",
     "title": "Czechia vs. Canada (Men's Group A)",
     "sport": "olympics",
@@ -231,6 +140,11 @@
         "url": "https://embedsports.top/embed/admin/ppv-czechia-vs-canada-men-s-group-a/2",
         "language": "English",
         "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/delta/live_olympic-games-group-a_czechia-canada-live-streaming-501083712/1",
+        "language": "English",
+        "hd": true
       },
       {
         "url": "https://embedsports.top/embed/golf/19794/1",
@@ -280,22 +194,6 @@
         "hd": true
       }
     ]
-  },
-  {
-    "id": "damac-vs-al-taawon-football-1436109",
-    "title": "Damac vs Al Taawon",
-    "sport": "football",
-    "kickOff": "2026-02-12T15:45:00",
-    "isLive": false,
-    "team1": {
-      "name": "Damac",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCGwh+9cgwDGzcT3giq3Al1ZgwufFaA.webp"
-    },
-    "team2": {
-      "name": "Al Taawon",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCET965BgGNm4nvBFVuBLqzBhc+S0A.webp"
-    },
-    "links": []
   },
   {
     "id": "live-event_formula-e-2026-gp-jeddah-1-live-stream",
@@ -362,31 +260,20 @@
     "links": []
   },
   {
-    "id": "ppv-men-s-moguls-final",
-    "title": "Men's Moguls: Final",
-    "sport": "olympics",
-    "kickOff": "2026-02-12T17:00:00",
+    "id": "al-hazm-vs-al-okhdood-football-1436105",
+    "title": "Al-Hazm vs Al Okhdood",
+    "sport": "football",
+    "kickOff": "2026-02-12T17:30:00",
     "isLive": false,
     "team1": {
-      "name": "Home Team",
-      "logo": ""
+      "name": "Al-Hazm",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCAghs9cgwDGzcT3giq3Al1ZgwufFaA.webp"
     },
     "team2": {
-      "name": "Away Team",
-      "logo": ""
+      "name": "Al Okhdood",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCADGa+uQarm4nvBFVuBLqzBhc+S0A.webp"
     },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-men-s-moguls-final/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-men-s-moguls-final/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
+    "links": []
   },
   {
     "id": "al-qadisiyah-fc-vs-neom-football-1436104",
@@ -401,22 +288,6 @@
     "team2": {
       "name": "NEOM",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGCGyKQ8euQYBjZuJ7wRVbgS6swYXPmtA.webp"
-    },
-    "links": []
-  },
-  {
-    "id": "al-hazm-vs-al-okhdood-football-1436105",
-    "title": "Al-Hazm vs Al Okhdood",
-    "sport": "football",
-    "kickOff": "2026-02-12T17:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Al-Hazm",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCAghs9cgwDGzcT3giq3Al1ZgwufFaA.webp"
-    },
-    "team2": {
-      "name": "Al Okhdood",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCADGa+uQarm4nvBFVuBLqzBhc+S0A.webp"
     },
     "links": []
   },
@@ -544,6 +415,33 @@
     ]
   },
   {
+    "id": "ppv-sweden-vs-usa-w-round-robin",
+    "title": "Sweden vs. USA (W Round-Robin)",
+    "sport": "olympics",
+    "kickOff": "2026-02-12T18:05:00",
+    "isLive": false,
+    "team1": {
+      "name": "Sweden",
+      "logo": ""
+    },
+    "team2": {
+      "name": "USA (W Round-Robin)",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-sweden-vs-usa-w-round-robin/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-sweden-vs-usa-w-round-robin/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
     "id": "ppv-denmark-vs-japan-w-round-robin",
     "title": "Denmark vs. Japan (W Round-Robin)",
     "sport": "olympics",
@@ -592,33 +490,6 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-italy-vs-south-korea-w-round-robin/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-sweden-vs-usa-w-round-robin",
-    "title": "Sweden vs. USA (W Round-Robin)",
-    "sport": "olympics",
-    "kickOff": "2026-02-12T18:05:00",
-    "isLive": false,
-    "team1": {
-      "name": "Sweden",
-      "logo": ""
-    },
-    "team2": {
-      "name": "USA (W Round-Robin)",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-sweden-vs-usa-w-round-robin/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-sweden-vs-usa-w-round-robin/2",
         "language": "English",
         "hd": false
       }
@@ -942,6 +813,22 @@
     ]
   },
   {
+    "id": "atl-tico-madrid-vs-barcelona-2429503",
+    "title": "Atl\u00e9tico Madrid vs Barcelona",
+    "sport": "football",
+    "kickOff": "2026-02-12T20:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Atl\u00e9tico Madrid",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBxRYUCHhhuIXXz0gURkKYhbDywjGBM+KLmDLb680Q6a0wTsaIhA.webp"
+    },
+    "team2": {
+      "name": "Barcelona",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huIFAnbYQ6gCYhEKEBBAwQB06fgEKTPii5gy8IvNGOmtMM7GiIQA.webp"
+    },
+    "links": []
+  },
+  {
     "id": "brentford-vs-arsenal-2267324",
     "title": "Brentford vs Arsenal",
     "sport": "football",
@@ -1016,33 +903,6 @@
     ]
   },
   {
-    "id": "ppv-germany-vs-denmark-men-s-group-c",
-    "title": "Germany vs. Denmark (Men's Group C)",
-    "sport": "olympics",
-    "kickOff": "2026-02-12T20:10:00",
-    "isLive": false,
-    "team1": {
-      "name": "Germany",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Denmark (Men's Group C)",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-germany-vs-denmark-men-s-group-c/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-germany-vs-denmark-men-s-group-c/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-latvia-vs-usa-men-s-group-c",
     "title": "Latvia vs. USA (Men's Group C)",
     "sport": "olympics",
@@ -1064,6 +924,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-latvia-vs-usa-men-s-group-c/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-germany-vs-denmark-men-s-group-c",
+    "title": "Germany vs. Denmark (Men's Group C)",
+    "sport": "olympics",
+    "kickOff": "2026-02-12T20:10:00",
+    "isLive": false,
+    "team1": {
+      "name": "Germany",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Denmark (Men's Group C)",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-germany-vs-denmark-men-s-group-c/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-germany-vs-denmark-men-s-group-c/2",
         "language": "English",
         "hd": false
       }
@@ -1706,6 +1593,118 @@
     "links": []
   },
   {
+    "id": "galatasaray-vs-ey-pspor-2282969",
+    "title": "Galatasaray vs Ey\u00fcpspor",
+    "sport": "football",
+    "kickOff": "2026-02-13T17:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Galatasaray",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxSUQApMAAMuEN3UgAJgZQgIe3aZAEKTPqrZgy8IvNGqmtME7GiIQA.webp"
+    },
+    "team2": {
+      "name": "Ey\u00fcpspor",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACAJgxBxRObiDW59ICMZAlVIPTAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "antalyaspor-vs-samsunspor-2282967",
+    "title": "Antalyaspor vs Samsunspor",
+    "sport": "football",
+    "kickOff": "2026-02-13T17:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Antalyaspor",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYXlXm8wIbiBUgYu-SZQgIIRCoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+    },
+    "team2": {
+      "name": "Samsunspor",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYJCBggyKEHxDcQKvSF0RtRy1tOEYwJnxRcwZeEXminTWmBdjREEA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "radomiak-radom-vs-korona-kielce-2267887",
+    "title": "Radomiak Radom vs Korona Kielce",
+    "sport": "football",
+    "kickOff": "2026-02-13T17:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Radomiak Radom",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4UUIXlBAaQAExDrtJEMYgg+IGNoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+    },
+    "team2": {
+      "name": "Korona Kielce",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTQ4AE2jqQ3EBD0hDOXYcQwQywjGBM+KLmDLwi80faa0wjsaIhA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "bayer-leverkusen-w-vs-fc-koln-w-football-1401328",
+    "title": "Bayer Leverkusen W vs FC Koln W",
+    "sport": "football",
+    "kickOff": "2026-02-13T17:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Bayer Leverkusen W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZdhAp65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "FC Koln W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZQGNF9cgxXNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "al-ittihad-vs-al-fayha-2311881",
+    "title": "Al-Ittihad vs Al-Fayha",
+    "sport": "football",
+    "kickOff": "2026-02-13T17:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Al-Ittihad",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAhg+EN0ibgSTSD4gSR-SlwgI+kAQpM+KLmDLwi80Q6a0wTsaIhA.webp"
+    },
+    "team2": {
+      "name": "Al-Fayha",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTAwIeOTgwQ3EABMQfIyBIaQOs4eWEYwJnxRcwZTfXminTWmBdjREEA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "fortuna-d-sseldorf-vs-preu-en-m-nster-2277135",
+    "title": "Fortuna D\u00fcsseldorf vs Preu\u00dfen M\u00fcnster",
+    "sport": "football",
+    "kickOff": "2026-02-13T17:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Fortuna D\u00fcsseldorf",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizlVZPmD4huICCG2J9JPTtMwCFJnxRcwZeEXmjbTWmHtjREIA.webp"
+    },
+    "team2": {
+      "name": "Preu\u00dfen M\u00fcnster",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0IkQiEJxAhuINXxAodIGCAAm6k+oIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "fc-n-rnberg-vs-karlsruhe-2277140",
+    "title": "FC N\u00fcrnberg vs Karlsruhe",
+    "sport": "football",
+    "kickOff": "2026-02-13T17:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "FC N\u00fcrnberg",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5EkIcPIghuIACYgSIFMZAwQ28zmOEYwJnxRcwZeEXminTWmBdjREEA.webp"
+    },
+    "team2": {
+      "name": "Karlsruhe",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAg+IDfTAIQ3EABMQKAyBimTJcxAIUmfFFzBl4ReaIdNa20VLpA.webp"
+    },
+    "links": []
+  },
+  {
     "id": "ppv-stade-rennais-vs-paris-saint-germain",
     "title": "Stade Rennais vs. Paris Saint-Germain",
     "sport": "football",
@@ -1731,6 +1730,262 @@
         "hd": false
       }
     ]
+  },
+  {
+    "id": "viktoria-k-ln-vs-erzgebirge-aue-2281852",
+    "title": "Viktoria K\u00f6ln vs Erzgebirge Aue",
+    "sport": "football",
+    "kickOff": "2026-02-13T18:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Viktoria K\u00f6ln",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTAwpfsAAmsENxAkQfECj0gYILbhA2YBCkz6q2YMvCLzRqprTCuxohBAA.webp"
+    },
+    "team2": {
+      "name": "Erzgebirge Aue",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYUVAEpIIbiBUgYIYzkQGUIEroIUmfFF3Xl680Q6a0w6sRqA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "randers-fc-vs-vejle-2266291",
+    "title": "Randers FC vs Vejle",
+    "sport": "football",
+    "kickOff": "2026-02-13T18:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Randers FC",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4gYwAAxcQwfCG4gAJiBRqQEM6qsmCFJnxRcwZeEXmjHTWmGdjREIA.webp"
+    },
+    "team2": {
+      "name": "Vejle",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmxMGF5kVIbiBIhEOEPtOIIIFQQpM+KLmDLwi80faa0NoqXSA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "rennes-vs-paris-sg-2278306",
+    "title": "Rennes vs Paris SG",
+    "sport": "football",
+    "kickOff": "2026-02-13T18:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Rennes",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphSxoZLGBAhuICCD4hEJEDD3ad2ghSZ8UXMGXhF5o+01phHY0RCA.webp"
+    },
+    "team2": {
+      "name": "Paris SG",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixg+YbtVXcQOiCD4hEJEDBD6QpywQpM+KLmDLwi80Q6a0wTsaIhA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "bc--algiris-vs-hapoel-tel-aviv-bc-2345423",
+    "title": "BC \u017dalgiris vs Hapoel Tel Aviv BC",
+    "sport": "basketball",
+    "kickOff": "2026-02-13T18:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "BC \u017dalgiris",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3r4QAqmQAmIbupAwQiFCB2GSpkMsIxgTPii5gy8IvNGOmtMM7GiIQA.webp"
+    },
+    "team2": {
+      "name": "Hapoel Tel Aviv BC",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTUsCLmBDcQfEABNdIRIcOIYIZYRjAmfFJrLwi80Q6a0wYUVLpA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "santa-clara-vs-benfica-2283523",
+    "title": "Santa Clara vs Benfica",
+    "sport": "football",
+    "kickOff": "2026-02-13T18:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Santa Clara",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8QiRAO4gAJiG1qcEECb0xVIY4wpM+KLmDLwi80faa0wjsaIhA.webp"
+    },
+    "team2": {
+      "name": "Benfica",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBw4KMHzApcIbiAAmh3Yn1GjIXAQpM+KLmDLwi80faa0wjsaIhA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "as-monaco-basket-vs-baskonia-2345424",
+    "title": "AS Monaco Basket vs Baskonia",
+    "sport": "basketball",
+    "kickOff": "2026-02-13T18:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "AS Monaco Basket",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmwMLiIoQMENxAqQEENv2GQJvSGWEYwJnxRcwZeEXminTWmBdjREEA.webp"
+    },
+    "team2": {
+      "name": "Baskonia",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphggoIECxAATENxB8dBzUd2qUIGAQpM+KLmDLwi80faa0wjsaIhA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "manchester-city-w-vs-leicester-city-wfc-football-1417286",
+    "title": "Manchester City W vs Leicester City WFC",
+    "sport": "football",
+    "kickOff": "2026-02-13T19:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Manchester City W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZdhAR65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "Leicester City WFC",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIbCAggYq+uQYBjZuJ7wRVbgS6swYXPmtA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "amiens-vs-usl-dunkerque-2278016",
+    "title": "Amiens vs USL Dunkerque",
+    "sport": "football",
+    "kickOff": "2026-02-13T19:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Amiens",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0IC1giCG4gAJiBK6QmnIgMwQfAhSaWuYMvCLzRKYE1ph7Y0RCA.webp"
+    },
+    "team2": {
+      "name": "USL Dunkerque",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwEIekxIht3EHx0gYIEwZSr9uAhSZ8UXMGTX15o+01phHY0RCA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "red-star-vs-nancy-lorraine-2278013",
+    "title": "Red Star vs Nancy Lorraine",
+    "sport": "football",
+    "kickOff": "2026-02-13T19:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Red Star",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphYgoopjm4gAJiBIhDffYbW5cBCkz4ouYMvCLzRtprTD2xoiEA.webp"
+    },
+    "team2": {
+      "name": "Nancy Lorraine",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmpEIhQUkIbiBIgIIPiFMoQ5lYY0EKTPii5gy8IvNGOmtMM7GiIQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "clermont-foot-vs-rodez-af-2278018",
+    "title": "Clermont Foot vs Rodez AF",
+    "sport": "football",
+    "kickOff": "2026-02-13T19:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Clermont Foot",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7UUNSCG4gIuEABMQRvlr26UBCkz4ouYMvCLzRtprTD2xoiEA.webp"
+    },
+    "team2": {
+      "name": "Rodez AF",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhw8pMAAMPENxCq+IACZqQEMzBApzBCkz4ouYMvCLzRTprTAuxoiCA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "laval-vs-annecy-2278017",
+    "title": "Laval vs Annecy",
+    "sport": "football",
+    "kickOff": "2026-02-13T19:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Laval",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkQATfiHApNIbiBI6Yu-bhAQQqkPAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+    },
+    "team2": {
+      "name": "Annecy",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxAgAJiBSqQvDd3UgShnbhAxtq+AQpM+KLmDLwi80faa0wjsaIhA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "fc-volendam-vs-psv-eindhoven-2268353",
+    "title": "FC Volendam vs PSV Eindhoven",
+    "sport": "football",
+    "kickOff": "2026-02-13T19:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "FC Volendam",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnn0qolMxDcQAE1wgS2vSD4gUICCBgEKTPprZgy8IvI3AmtMM7GiIQA.webp"
+    },
+    "team2": {
+      "name": "PSV Eindhoven",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphDAAJuSQg17ENxB9ceoygMgIRkAQpM+KLmDLwi80faa0wjsaIhA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "pau-fc-vs-boulogne-2323667",
+    "title": "Pau FC vs Boulogne",
+    "sport": "football",
+    "kickOff": "2026-02-13T19:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Pau FC",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4husXMDAhV3EABMQJEIkQwQFxHpAEKTPii5gy8IvNGOmtMM7GiIQA.webp"
+    },
+    "team2": {
+      "name": "Boulogne",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0R9YIRCmBgQ3EHxAkQEXPpDm9MECgIUmfLWzBl4ReaK1NaYZ2NEQgA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "panathinaikos-vs-fenerbahce-basketball-454555",
+    "title": "Panathinaikos vs Fenerbahce",
+    "sport": "basketball",
+    "kickOff": "2026-02-13T19:15:00",
+    "isLive": false,
+    "team1": {
+      "name": "Panathinaikos",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IACYgiICPXIMAxs0k94YqtwJdWYMLnzWgA.webp"
+    },
+    "team2": {
+      "name": "Fenerbahce",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiCogAxiBj1yDdc0k94YqtwJdWYMLnw2gA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "almeria-vs-fc-andorra-football-1396974",
+    "title": "Almeria vs FC Andorra",
+    "sport": "football",
+    "kickOff": "2026-02-13T19:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Almeria",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCoh49cg0XNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "team2": {
+      "name": "FC Andorra",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhFRENhABjeuQYas4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "gks-katowice-vs-legia-warsaw-2267883",
+    "title": "GKS Katowice vs Legia Warsaw",
+    "sport": "football",
+    "kickOff": "2026-02-13T19:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "GKS Katowice",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTkAJjxDdYWkGtx7dMEIhIgU5ghSZ8UXMGXhF5ou01pgHY0RCA.webp"
+    },
+    "team2": {
+      "name": "Legia Warsaw",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0QoQAExApBSENw0hEOPiBMkD59QQpM+2tmDLwi80dqa0wjsaIhA.webp"
+    },
+    "links": []
   },
   {
     "id": "borussia-dortmund-vs-mainz-2276829",
@@ -1760,6 +2015,102 @@
     ]
   },
   {
+    "id": "olimpia-milano-vs-dubai-basketball-2345426",
+    "title": "Olimpia Milano vs Dubai Basketball",
+    "sport": "basketball",
+    "kickOff": "2026-02-13T19:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Olimpia Milano",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksJCIBoFJBDcQfEABNdqgyb2J9BCkz4ouYMvCLzRtprTD2xoiEA.webp"
+    },
+    "team2": {
+      "name": "Dubai Basketball",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAm-IoXooQ3EHxAkQRnLsPaVeghSZ8UXMGXhF5ou01pgHY0RCA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "kk-partizan-vs-real-madrid-baloncesto-2345427",
+    "title": "KK Partizan vs Real Madrid Baloncesto",
+    "sport": "basketball",
+    "kickOff": "2026-02-13T19:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "KK Partizan",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjKIYpENzBJNIPiAAmekIiNGShvQQpM+KLmFVF5o+01phHY0RCA.webp"
+    },
+    "team2": {
+      "name": "Real Madrid Baloncesto",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4gpYACa5mIbiBK5De1QZQgYuAhSZ8UXMGXhF5ou01pgHY0RCA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "st-patrick-s-athletic-vs-galway-united-2398579",
+    "title": "St Patrick's Athletic vs Galway United",
+    "sport": "football",
+    "kickOff": "2026-02-13T19:45:00",
+    "isLive": false,
+    "team1": {
+      "name": "St Patrick's Athletic",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnn1QfEN1yaQJEBBAATEDBMhz5lJoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+    },
+    "team2": {
+      "name": "Galway United",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyYpgYEBBAxtIbiBIgjOQwBMDIRFvgEKTPmrZgy8IvNFqmtMM7GiIQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "wrexham-vs-ipswich-town-2415187",
+    "title": "Wrexham vs Ipswich Town",
+    "sport": "football",
+    "kickOff": "2026-02-13T19:45:00",
+    "isLive": false,
+    "team1": {
+      "name": "Wrexham",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzJJYYFG0ghuIACYg+IEiBggUuY1YmEYwJn01ay8IvNGamtMGFFS6QA.webp"
+    },
+    "team2": {
+      "name": "Ipswich Town",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLFIQvMinUgAJiEQRdIPiBjGQF5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "derry-city-vs-dundalk-2398577",
+    "title": "Derry City vs Dundalk",
+    "sport": "football",
+    "kickOff": "2026-02-13T19:45:00",
+    "isLive": false,
+    "team1": {
+      "name": "Dundalk",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxQgyJEBFzAkIbiAAmIGLlMajifQYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+    },
+    "team2": {
+      "name": "Derry City",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSUxkkYFDWBg+IXiCwGQMENRApjRi-AIV8AlDzBl4RBWMf36YZ+LEQgA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "drogheda-united-vs-waterford-2398576",
+    "title": "Drogheda United vs Waterford",
+    "sport": "football",
+    "kickOff": "2026-02-13T19:45:00",
+    "isLive": false,
+    "team1": {
+      "name": "Drogheda United",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4heSNSAAmYEpr0hcIPVuMhEOGAQpM+KLrvL15o+01phdY0RCA.webp"
+    },
+    "team2": {
+      "name": "Waterford",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh24huYJLgZs1IPiAAmIEiBQgYuUyGsoCFJnxRcwZeEXminTWmBdjREEA.webp"
+    },
+    "links": []
+  },
+  {
     "id": "pisa-vs-ac-milan-2265283",
     "title": "Pisa vs AC Milan",
     "sport": "football",
@@ -1785,6 +2136,38 @@
         "hd": false
       }
     ]
+  },
+  {
+    "id": "hull-city-vs-chelsea-2415179",
+    "title": "Hull City vs Chelsea",
+    "sport": "football",
+    "kickOff": "2026-02-13T19:45:00",
+    "isLive": false,
+    "team1": {
+      "name": "Hull City",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmDMNw1juIHSpAxdIPrhD6dO+AQpM+KLmDLwi80faa0wjsaIhA.webp"
+    },
+    "team2": {
+      "name": "Chelsea",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRgAJmD7roJENxAQDIY8f2Ic+5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "shelbourne-vs-shamrock-rovers-2398578",
+    "title": "Shelbourne vs Shamrock Rovers",
+    "sport": "football",
+    "kickOff": "2026-02-13T20:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Shelbourne",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyzZQIcBBAoQ3ECRB9tuDbv0gtywjGBM+KLmDLwi80Q6a0wTsaIhA.webp"
+    },
+    "team2": {
+      "name": "Shamrock Rovers",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphIhuYJJTACkakBBAo9qmPpCIQaghSZ8UXMGXhF5o+01phHY0RCA.webp"
+    },
+    "links": []
   },
   {
     "id": "elche-vs-osasuna-2279624",
@@ -1841,6 +2224,102 @@
     ]
   },
   {
+    "id": "canada-ice-hockey-vs-switzerland-ice-hockey-2432084",
+    "title": "Canada Ice Hockey vs Switzerland Ice Hockey",
+    "sport": "hockey",
+    "kickOff": "2026-02-13T20:10:00",
+    "isLive": false,
+    "team1": {
+      "name": "Canada Ice Hockey",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDgUFEMAAmoENxB8QWgyBSrcF1RMIxgTPii5gy8IvNGOmtMM7GiIQA.webp"
+    },
+    "team2": {
+      "name": "Switzerland Ice Hockey",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQglYAWxzcQAE1wgdMPSFMkQEUwQpM+KLmDLwi80faa0wjsaIhA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "tondela-vs-alverca-2283525",
+    "title": "Tondela vs Alverca",
+    "sport": "football",
+    "kickOff": "2026-02-13T20:45:00",
+    "isLive": false,
+    "team1": {
+      "name": "Tondela",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzQgBhXgBNgmkNxC6cIYyBIGQMExMIxgTPii5gy8IvNGOmtMM7GiIQA.webp"
+    },
+    "team2": {
+      "name": "Alverca",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATYGGBJqKYKpDc1IFAeNmYICyeOEYwJn11swZeEXmjdTWmBdjREEA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "defensa-y-justicia-vs-v-lez-sarsfield-2397775",
+    "title": "Defensa y Justicia vs V\u00e9lez Sarsfield",
+    "sport": "football",
+    "kickOff": "2026-02-13T21:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Defensa y Justicia",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhR9VgBNcIbiG04DIGMZAR9IPgQpMrXMGXhF5olMCa0wDseqA.webp"
+    },
+    "team2": {
+      "name": "V\u00e9lez Sarsfield",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhySUQKECDYg+IbiBJ6dxgCbqDmnQQpM+KLmDLwi80faa0wjsaIhA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "independiente-vs-lanus-football-1491886",
+    "title": "Independiente vs Lanus",
+    "sport": "football",
+    "kickOff": "2026-02-13T23:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Independiente",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIbCHj1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "team2": {
+      "name": "Lanus",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIikP3rkGAY2bie8EVW4EurMGFz5zQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "america-de-cali-vs-santa-fe-football-1505986",
+    "title": "America de Cali vs Santa Fe",
+    "sport": "football",
+    "kickOff": "2026-02-14T01:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "America de Cali",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIhD1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "team2": {
+      "name": "Santa Fe",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikIhT1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "puebla-vs-unam-pumas-football-1492508",
+    "title": "Puebla vs U.N.A.M. - Pumas",
+    "sport": "football",
+    "kickOff": "2026-02-14T01:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Puebla",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikChAk65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "U.N.A.M. - Pumas",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikCv71yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "links": []
+  },
+  {
     "id": "ppv-wwe-friday-night-smackdown",
     "title": "WWE: Friday Night Smackdown",
     "sport": "fight",
@@ -1868,6 +2347,118 @@
     ]
   },
   {
+    "id": "union-santa-fe-vs-san-lorenzo-football-1491892",
+    "title": "Union Santa Fe vs San Lorenzo",
+    "sport": "football",
+    "kickOff": "2026-02-14T01:15:00",
+    "isLive": false,
+    "team1": {
+      "name": "Union Santa Fe",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIikCTrkGAY2bie8EVW4EurMGFz5zQA.webp"
+    },
+    "team2": {
+      "name": "San Lorenzo",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIfiBj1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "toluca-vs-club-tijuana-football-1492510",
+    "title": "Toluca vs Club Tijuana",
+    "sport": "football",
+    "kickOff": "2026-02-14T03:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Toluca",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikCpJ1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "team2": {
+      "name": "Club Tijuana",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikCpj1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "fijian-drua-vs-moana-pasifika-rugby-51786",
+    "title": "Fijian Drua vs Moana Pasifika",
+    "sport": "rugby",
+    "kickOff": "2026-02-14T03:35:00",
+    "isLive": false,
+    "team1": {
+      "name": "Fijian Drua",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IKiBD1yDAc2Bge8cVQmEGrMOra4IQA.webp"
+    },
+    "team2": {
+      "name": "Moana Pasifika",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IACYgiIEPXIMBzYGB7xxVCYQaswWtrghA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "melbourne-victory-vs-brisbane-roar-football-1469656",
+    "title": "Melbourne Victory vs Brisbane Roar",
+    "sport": "football",
+    "kickOff": "2026-02-14T06:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Melbourne Victory",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUICMvrkGAY2bie8EVW4EurMGFz5zQA.webp"
+    },
+    "team2": {
+      "name": "Brisbane Roar",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUICCADG9cg3VZxPeCKrcCXVmDC58FoA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "blues-vs-chiefs-rugby-51787",
+    "title": "Blues vs Chiefs",
+    "sport": "rugby",
+    "kickOff": "2026-02-14T06:05:00",
+    "isLive": false,
+    "team1": {
+      "name": "Blues",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0ICCAAm9cgwHNgYHvHFUJhBqzAa2uCEA.webp"
+    },
+    "team2": {
+      "name": "Chiefs",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IKiBQgAJvXIMBzYGB7xxVCYQaswWtrghA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "western-force-vs-brumbies-rugby-51788",
+    "title": "Western Force vs Brumbies",
+    "sport": "rugby",
+    "kickOff": "2026-02-14T08:35:00",
+    "isLive": false,
+    "team1": {
+      "name": "Western Force",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IRPHrkGA5sDA944qhMINWYNW1wQgA.webp"
+    },
+    "team2": {
+      "name": "Brumbies",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0ICCAEgQ9cgwHNgYHvHFUJhBqzCa2uCEA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "sydney-vs-adelaide-united-football-1469657",
+    "title": "Sydney vs Adelaide United",
+    "sport": "football",
+    "kickOff": "2026-02-14T08:35:00",
+    "isLive": false,
+    "team1": {
+      "name": "Sydney",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUICCHj1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "team2": {
+      "name": "Adelaide United",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUICCEV1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "links": []
+  },
+  {
     "id": "live-event_formula-e-2026-gp-jeddah-2-live-stream",
     "title": "Formula E 2026 - GP Jeddah 2",
     "sport": "motor-sports",
@@ -1884,6 +2475,390 @@
     "links": []
   },
   {
+    "id": "feirense-vs-chaves-football-1398160",
+    "title": "Feirense vs Chaves",
+    "sport": "football",
+    "kickOff": "2026-02-14T11:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Feirense",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIIiHj1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "team2": {
+      "name": "Chaves",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqikPHrkGAY2bie8EVW4EurMGFz5zQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "sc-freiburg-w-vs-union-berlin-w-football-1401329",
+    "title": "SC Freiburg W vs Union Berlin W",
+    "sport": "football",
+    "kickOff": "2026-02-14T11:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "SC Freiburg W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZfxABjeuQYas4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "Union Berlin W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqICCCIhE8euQYBjZuJ7wRVbgS6swYXPmtA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "netherlands-u17-vs-belgium-u17-football-1517964",
+    "title": "Netherlands U17 vs Belgium U17",
+    "sport": "football",
+    "kickOff": "2026-02-14T11:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Netherlands U17",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIKiGyKQEeuQYBjZuJ7wRVbgS6swYXPmtA.webp"
+    },
+    "team2": {
+      "name": "Belgium U17",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIAMYgUICCCZ1yDZc3E94IqtwJdWYMLnw2gA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "germany-vs-latvia-hockey-395364",
+    "title": "Germany vs Latvia",
+    "sport": "hockey",
+    "kickOff": "2026-02-14T11:10:00",
+    "isLive": false,
+    "team1": {
+      "name": "Germany",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCIhEVENnrkGAY2bAwPeJKpTCDVmF1tcEIA.webp"
+    },
+    "team2": {
+      "name": "Latvia",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCIhEVECHrkGAY2bAwPeJKpTCDVmF1tcEIA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "sweden-vs-slovakia-hockey-395360",
+    "title": "Sweden vs Slovakia",
+    "sport": "hockey",
+    "kickOff": "2026-02-14T11:10:00",
+    "isLive": false,
+    "team1": {
+      "name": "Sweden",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCIhEiJnXIMAxs2Bge8SVSmEGrMDra4IQA.webp"
+    },
+    "team2": {
+      "name": "Slovakia",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCIhEiEnXIMAxs2Bge8SVSmEGrMDra4IQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "genclerbirligi-vs-rizespor-football-1394626",
+    "title": "Genclerbirligi vs Rizespor",
+    "sport": "football",
+    "kickOff": "2026-02-14T11:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Genclerbirligi",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUikAGN65Bmqzie8EVW4EurMGFz5zQA.webp"
+    },
+    "team2": {
+      "name": "Rizespor",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGMpABjeuQYas4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "hertha-bsc-vs-hannover-96-football-1388806",
+    "title": "Hertha BSC vs Hannover 96",
+    "sport": "football",
+    "kickOff": "2026-02-14T12:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Hertha BSC",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIbCBT1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "team2": {
+      "name": "Hannover 96",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfsvrkGAY2bie8EVW4EurMGFz5zQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "eintracht-braunschweig-vs-sv-darmstadt-98-football-1388804",
+    "title": "Eintracht Braunschweig vs SV Darmstadt 98",
+    "sport": "football",
+    "kickOff": "2026-02-14T12:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Eintracht Braunschweig",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiAgr65Boubie8EVW4EurMGFz5zQA.webp"
+    },
+    "team2": {
+      "name": "SV Darmstadt 98",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZSTrkGAY2bie8EVW4EurMGFz5zQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "1-fc-kaiserslautern-vs-spvgg-greuther-furth-football-1388808",
+    "title": "1. FC Kaiserslautern vs SpVgg Greuther F\u00fcrth",
+    "sport": "football",
+    "kickOff": "2026-02-14T12:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "1. FC Kaiserslautern",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiAghs9cg0XNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "team2": {
+      "name": "SpVgg Greuther F\u00fcrth",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIAMYgQ9cg2XNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "burton-albion-vs-west-ham-football-1506255",
+    "title": "Burton Albion vs West Ham",
+    "sport": "football",
+    "kickOff": "2026-02-14T12:15:00",
+    "isLive": false,
+    "team1": {
+      "name": "Burton Albion",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiAggQ9cg0XNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "team2": {
+      "name": "West Ham",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIEPXIMAxs3E94IqtwJdWYMLnxmgA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "barnet-vs-cheltenham-football-1386368",
+    "title": "Barnet vs Cheltenham",
+    "sport": "football",
+    "kickOff": "2026-02-14T12:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Barnet",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRPxAp65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "Cheltenham",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRAGMQTOuQYrm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "reading-vs-wycombe-football-1387483",
+    "title": "Reading vs Wycombe",
+    "sport": "football",
+    "kickOff": "2026-02-14T12:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Reading",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIePXIMAxs3E94IqtwJdWYMLnxmgA.webp"
+    },
+    "team2": {
+      "name": "Wycombe",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRNhAh65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "stevenage-vs-huddersfield-football-1387484",
+    "title": "Stevenage vs Huddersfield",
+    "sport": "football",
+    "kickOff": "2026-02-14T12:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Stevenage",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRPxAh65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "Huddersfield",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEAY3rkGKrOJ7wRVbgS6swYXPlNA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "cordoba-vs-leganes-football-1392041",
+    "title": "Cordoba vs Leganes",
+    "sport": "football",
+    "kickOff": "2026-02-14T13:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Cordoba",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCIh49cg0XNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "team2": {
+      "name": "Leganes",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIRAGN65Bmqzie8EVW4EurMGFz5zQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "grenoble-vs-reims-football-1396833",
+    "title": "Grenoble vs Reims",
+    "sport": "football",
+    "kickOff": "2026-02-14T13:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Grenoble",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGIvrkGAY2bie8EVW4EurMGFz5zQA.webp"
+    },
+    "team2": {
+      "name": "Reims",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIePXIMAxs3E94IqtwJdWYMLnxmgA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "montpellier-vs-le-mans-football-1389321",
+    "title": "Montpellier vs Le Mans",
+    "sport": "football",
+    "kickOff": "2026-02-14T13:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Montpellier",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhFTOuQYBjZuJ7wRVbgS6swYXPlNA.webp"
+    },
+    "team2": {
+      "name": "Le Mans",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIKiBQhVdcgwDGzcT3giq3Al1ZgwufFaA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "rb-leipzig-w-vs-nurnberg-football-1401332",
+    "title": "RB Leipzig W vs N\u00fcrnberg",
+    "sport": "football",
+    "kickOff": "2026-02-14T13:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "RB Leipzig W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIGCGzKQJOuQYBjZuJ7wRVbgS6swYXPmtA.webp"
+    },
+    "team2": {
+      "name": "N\u00fcrnberg",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIGCAgh1AY3rkGWrOJ7wRVbgS6swYXPmtA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "hansa-rostock-vs-vfl-osnabruck-football-1394284",
+    "title": "Hansa Rostock vs VfL Osnabr\u00fcck",
+    "sport": "football",
+    "kickOff": "2026-02-14T13:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Hansa Rostock",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRFUX1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "team2": {
+      "name": "VfL Osnabr\u00fcck",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRFRAR65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "sv-wehen-vs-msv-duisburg-football-1394292",
+    "title": "SV Wehen vs MSV Duisburg",
+    "sport": "football",
+    "kickOff": "2026-02-14T13:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "SV Wehen",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIREpT1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "team2": {
+      "name": "MSV Duisburg",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZQGN65Bmqzie8EVW4EurMGFz5zQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "verl-vs-hoffenheim-ii-football-1394290",
+    "title": "Verl vs Hoffenheim II",
+    "sport": "football",
+    "kickOff": "2026-02-14T13:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Verl",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIKiH4hs9cgwDGzcT3giq3Al1ZgwufFaA.webp"
+    },
+    "team2": {
+      "name": "Hoffenheim II",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIRPxAR65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "havelse-vs-tsv-1860-munchen-football-1394288",
+    "title": "Havelse vs TSV 1860 M\u00fcnchen",
+    "sport": "football",
+    "kickOff": "2026-02-14T13:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Havelse",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIRBBBM65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "TSV 1860 M\u00fcnchen",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBX965Boubie8EVW4EurMGFz5zQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "fc-saarbrucken-vs-stuttgart-ii-football-1394286",
+    "title": "FC Saarbr\u00fccken vs Stuttgart II",
+    "sport": "football",
+    "kickOff": "2026-02-14T13:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "FC Saarbr\u00fccken",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiEQp65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "Stuttgart II",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIKiFX8QAY3rkGWrOJ7wRVbgS6swYXPmtA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "al-hilal-omdurman-vs-saint-eloi-lupopo-football-1485456",
+    "title": "Al Hilal Omdurman vs Saint Eloi Lupopo",
+    "sport": "football",
+    "kickOff": "2026-02-14T13:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Al Hilal Omdurman",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIKiEQBjeuQYas4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "Saint Eloi Lupopo",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhF2EAGNF9cgxXNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "mamelodi-sundowns-vs-mc-alger-football-1485459",
+    "title": "Mamelodi Sundowns vs MC Alger",
+    "sport": "football",
+    "kickOff": "2026-02-14T13:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Mamelodi Sundowns",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIfiBSr65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "MC Alger",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIGCH71yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "links": []
+  },
+  {
     "id": "ppv-espanyol-vs-celta-vigo",
     "title": "Espanyol vs. Celta Vigo",
     "sport": "football",
@@ -1891,11 +2866,11 @@
     "isLive": false,
     "team1": {
       "name": "Espanyol",
-      "logo": ""
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsICCBj1yDAMbNxPeCKrcCXVmDC58FoA.webp"
     },
     "team2": {
       "name": "Celta Vigo",
-      "logo": ""
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIRCHrkGAY2bie8EVW4EurMGFz5zQA.webp"
     },
     "links": [
       {
@@ -1909,6 +2884,166 @@
         "hd": false
       }
     ]
+  },
+  {
+    "id": "cracovia-krakow-vs-jagiellonia-football-1380564",
+    "title": "Cracovia Krakow vs Jagiellonia",
+    "sport": "football",
+    "kickOff": "2026-02-14T13:45:00",
+    "isLive": false,
+    "team1": {
+      "name": "Cracovia Krakow",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhE2EDHrkGAY2bie8EVW4EurMGFz5zQA.webp"
+    },
+    "team2": {
+      "name": "Jagiellonia",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEifvXIMAxs3E94IqtwJdWYMLnxmgA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "al-riyadh-vs-al-khaleej-saihat-football-1436102",
+    "title": "Al Riyadh vs Al Khaleej Saihat",
+    "sport": "football",
+    "kickOff": "2026-02-14T13:55:00",
+    "isLive": false,
+    "team1": {
+      "name": "Al Riyadh",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGCGyLF9cgwDGzcT3giq3Al1ZgwufFaA.webp"
+    },
+    "team2": {
+      "name": "Al Khaleej Saihat",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFIpDK65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "harlequins-vs-northampton-saints-rugby-51091",
+    "title": "Harlequins vs Northampton Saints",
+    "sport": "rugby",
+    "kickOff": "2026-02-14T14:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Harlequins",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IACYgmdcgwHNgYHvHFUJhBqzAa2uCEA.webp"
+    },
+    "team2": {
+      "name": "Northampton Saints",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IACYhs9cgwHNgYHvHFUJhBqzAa2uCEA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "exeter-chiefs-vs-gloucester-rugby-51090",
+    "title": "Exeter Chiefs vs Gloucester",
+    "sport": "rugby",
+    "kickOff": "2026-02-14T14:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Exeter Chiefs",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IACYgY9cgwHNgYHvHFUJhBqzAa2uCEA.webp"
+    },
+    "team2": {
+      "name": "Gloucester",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IACYgSdcgwHNgYHvHFUJhBqzAa2uCEA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "academico-viseu-vs-oliveirense-football-1398158",
+    "title": "Academico Viseu vs Oliveirense",
+    "sport": "football",
+    "kickOff": "2026-02-14T14:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Academico Viseu",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIRCHrkGAY2bie8EVW4EurMGFz5zQA.webp"
+    },
+    "team2": {
+      "name": "Oliveirense",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIRPHrkGAY2bie8EVW4EurMGFz5zQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "czech-republic-u17-vs-switzerland-u17-football-1521152",
+    "title": "Czech Republic U17 vs Switzerland U17",
+    "sport": "football",
+    "kickOff": "2026-02-14T14:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Czech Republic U17",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIAMYgUICCvrkGy5uJ7wRVbgS6swYXPmtA.webp"
+    },
+    "team2": {
+      "name": "Switzerland U17",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIAMYgUIDSTrkGy5uJ7wRVbgS6swYXPmtA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "sampdoria-vs-padova-football-1419833",
+    "title": "Sampdoria vs Padova",
+    "sport": "football",
+    "kickOff": "2026-02-14T14:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Sampdoria",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIFCGV1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "team2": {
+      "name": "Padova",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhFAYxAx65Bkubie8EVW4EurMGFz5zQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "modena-vs-carrarese-football-1419837",
+    "title": "Modena vs Carrarese",
+    "sport": "football",
+    "kickOff": "2026-02-14T14:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Modena",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhFKECnrkGAY2bie8EVW4EurMGFz5zQA.webp"
+    },
+    "team2": {
+      "name": "Carrarese",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIbCFUk65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "palermo-vs-virtus-entella-football-1419834",
+    "title": "Palermo vs Virtus Entella",
+    "sport": "football",
+    "kickOff": "2026-02-14T14:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Palermo",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIKsvrkGAY2bie8EVW4EurMGFz5zQA.webp"
+    },
+    "team2": {
+      "name": "Virtus Entella",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIKiADG9cg3VZxPeCKrcCXVmDC58FoA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "alanyaspor-vs-konyaspor-football-1394622",
+    "title": "Alanyaspor vs Konyaspor",
+    "sport": "football",
+    "kickOff": "2026-02-14T14:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Alanyaspor",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUikP3rkGAY2bie8EVW4EurMGFz5zQA.webp"
+    },
+    "team2": {
+      "name": "Konyaspor",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+IGCADG9cg3VZxPeCKrcCXVmDC58FoA.webp"
+    },
+    "links": []
   },
   {
     "id": "live-event_labinot-xhoxhaj-vs-pezhman-seifkhani-live-stream",
@@ -1934,11 +3069,11 @@
     "isLive": false,
     "team1": {
       "name": "Como",
-      "logo": ""
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhFKENnrkGAY2bie8EVW4EurMGFz5zQA.webp"
     },
     "team2": {
       "name": "Fiorentina",
-      "logo": ""
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIGCCZ1yDAMbNxPeCKrcCXVmDC58FoA.webp"
     },
     "links": [
       {
@@ -1954,18 +3089,50 @@
     ]
   },
   {
+    "id": "ireland-vs-italy-rugby-49482",
+    "title": "Ireland vs Italy",
+    "sport": "rugby",
+    "kickOff": "2026-02-14T14:10:00",
+    "isLive": false,
+    "team1": {
+      "name": "Ireland",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IRCHn1yDAc2Bge8cVQmEGrMOra4IQA.webp"
+    },
+    "team2": {
+      "name": "Italy",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IRCBCi65BgObAwPeOKoTCDVmA1tcEIA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "saracens-vs-leicester-tigers-rugby-51092",
+    "title": "Saracens vs Leicester Tigers",
+    "sport": "rugby",
+    "kickOff": "2026-02-14T14:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Saracens",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IACYgB9cg0VZgYHvHFUJhBqzAa2uCEA.webp"
+    },
+    "team2": {
+      "name": "Leicester Tigers",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IACYh49cgwHNgYHvHFUJhBqzAa2uCEA.webp"
+    },
+    "links": []
+  },
+  {
     "id": "ppv-tsg-hoffenheim-vs-sc-freiburg",
     "title": "TSG Hoffenheim vs. SC Freiburg",
     "sport": "football",
     "kickOff": "2026-02-14T14:30:00",
     "isLive": false,
     "team1": {
-      "name": "TSG Hoffenheim",
-      "logo": ""
+      "name": "1899 Hoffenheim",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiADG9cg3VZxPeCKrcCXVmDC58FoA.webp"
     },
     "team2": {
       "name": "SC Freiburg",
-      "logo": ""
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiBj1yDAMbNxPeCKrcCXVmDC58FoA.webp"
     },
     "links": [
       {
@@ -1981,45 +3148,18 @@
     ]
   },
   {
-    "id": "ppv-eintracht-frankfurt-vs-borussia-m-nchengladbach",
-    "title": "Eintracht Frankfurt vs. Borussia M\u00f6nchengladbach",
-    "sport": "football",
-    "kickOff": "2026-02-14T14:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Eintracht Frankfurt",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Borussia M\u00f6nchengladbach",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-eintracht-frankfurt-vs-borussia-m-nchengladbach/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-eintracht-frankfurt-vs-borussia-m-nchengladbach/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-hamburg-sv-vs-1-fc-union-berlin",
     "title": "Hamburg SV vs. 1. FC Union Berlin",
     "sport": "football",
     "kickOff": "2026-02-14T14:30:00",
     "isLive": false,
     "team1": {
-      "name": "Hamburg SV",
-      "logo": ""
+      "name": "Hamburger SV",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIAMYhs9cg2XNxPeCKrcCXVmDC58FoA.webp"
     },
     "team2": {
-      "name": "1. FC Union Berlin",
-      "logo": ""
+      "name": "Union Berlin",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZUzrkGAY2bie8EVW4EurMGFz5zQA.webp"
     },
     "links": [
       {
@@ -2035,33 +3175,6 @@
     ]
   },
   {
-    "id": "ppv-bayer-leverkusen-vs-st-pauli",
-    "title": "Bayer Leverkusen vs. St. Pauli",
-    "sport": "football",
-    "kickOff": "2026-02-14T14:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Bayer Leverkusen",
-      "logo": ""
-    },
-    "team2": {
-      "name": "St. Pauli",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-bayer-leverkusen-vs-st-pauli/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-bayer-leverkusen-vs-st-pauli/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-werder-bremen-vs-bayern-munich",
     "title": "Werder Bremen vs. Bayern Munich",
     "sport": "football",
@@ -2069,11 +3182,11 @@
     "isLive": false,
     "team1": {
       "name": "Werder Bremen",
-      "logo": ""
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiCZ1yDAMbNxPeCKrcCXVmDC58FoA.webp"
     },
     "team2": {
-      "name": "Bayern Munich",
-      "logo": ""
+      "name": "Bayern M\u00fcnchen",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIbCADG9cg3VZxPeCKrcCXVmDC58FoA.webp"
     },
     "links": [
       {
@@ -2089,6 +3202,572 @@
     ]
   },
   {
+    "id": "ppv-eintracht-frankfurt-vs-borussia-m-nchengladbach",
+    "title": "Eintracht Frankfurt vs. Borussia M\u00f6nchengladbach",
+    "sport": "football",
+    "kickOff": "2026-02-14T14:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Eintracht Frankfurt",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiBT1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "team2": {
+      "name": "Borussia M\u00f6nchengladbach",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiHj1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-eintracht-frankfurt-vs-borussia-m-nchengladbach/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-eintracht-frankfurt-vs-borussia-m-nchengladbach/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-bayer-leverkusen-vs-st-pauli",
+    "title": "Bayer Leverkusen vs. St. Pauli",
+    "sport": "football",
+    "kickOff": "2026-02-14T14:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Bayer Leverkusen",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiBD1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "team2": {
+      "name": "FC St. Pauli",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZf3rkGAY2bie8EVW4EurMGFz5zQA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-bayer-leverkusen-vs-st-pauli/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-bayer-leverkusen-vs-st-pauli/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "bath-vs-bristol-rugby-51093",
+    "title": "Bath vs Bristol",
+    "sport": "rugby",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Bath",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IbCBD1yDAc2Bge8cVQmEGrMOra4IQA.webp"
+    },
+    "team2": {
+      "name": "Bristol",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IbCFF1yDAc2Bge8cVQmEGrMOra4IQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "panetolikos-vs-asteras-tripolis-football-1400884",
+    "title": "Panetolikos vs Asteras Tripolis",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Panetolikos",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUICIvrkGAY2bie8EVW4EurMGFz5zQA.webp"
+    },
+    "team2": {
+      "name": "Asteras Tripolis",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIbMvrkGAY2bie8EVW4EurMGFz5zQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "hibernian-vs-st-mirren-football-1382824",
+    "title": "Hibernian vs ST Mirren",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Hibernian",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqICCBT1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "team2": {
+      "name": "ST Mirren",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIbCBJ1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "dundee-vs-livingston-football-1382822",
+    "title": "Dundee vs Livingston",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Dundee",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIbCHj1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "team2": {
+      "name": "Livingston",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIbMvrkGAY2bie8EVW4EurMGFz5zQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "falkirk-vs-dundee-utd-football-1382823",
+    "title": "Falkirk vs Dundee Utd",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Falkirk",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRCBAp65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "Dundee Utd",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRCBD965BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "barrow-vs-colchester-football-1386369",
+    "title": "Barrow vs Colchester",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Barrow",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZUpT1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "team2": {
+      "name": "Colchester",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRP0X1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "cambridge-united-vs-bristol-rovers-football-1386371",
+    "title": "Cambridge United vs Bristol Rovers",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Cambridge United",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRAGMQMeuQYrm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "Bristol Rovers",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRIgj1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "milton-keynes-dons-vs-newport-county-football-1386379",
+    "title": "Milton Keynes Dons vs Newport County",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Milton Keynes Dons",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRBBAh65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "Newport County",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRPxABjeuQYas4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "tranmere-vs-crawley-town-football-1386378",
+    "title": "Tranmere vs Crawley Town",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Tranmere",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRCEX1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "team2": {
+      "name": "Crawley Town",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRPxBM65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "shrewsbury-vs-swindon-town-football-1386377",
+    "title": "Shrewsbury vs Swindon Town",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Shrewsbury",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRNhBM65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "Swindon Town",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRNmX1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "oldham-vs-fleetwood-town-football-1386375",
+    "title": "Oldham vs Fleetwood Town",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Oldham",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRBBAp65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "Fleetwood Town",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRIn71yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "bromley-vs-notts-county-football-1386370",
+    "title": "Bromley vs Notts County",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Bromley",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZYiZ1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "team2": {
+      "name": "Notts County",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRAGMQ-euQYrm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "crewe-vs-gillingham-football-1386373",
+    "title": "Crewe vs Gillingham",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Crewe",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRP2X1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "team2": {
+      "name": "Gillingham",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRBBABjeuQYas4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "chesterfield-vs-harrogate-town-football-1386372",
+    "title": "Chesterfield vs Harrogate Town",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Chesterfield",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRBBDZ65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "Harrogate Town",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZRBBM65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "cardiff-vs-luton-football-1387486",
+    "title": "Cardiff vs Luton",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Cardiff",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIePXIMAxs3E94IqtwJdWYMLnxmgA.webp"
+    },
+    "team2": {
+      "name": "Luton",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRNhAp65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "barnsley-vs-afc-wimbledon-football-1387475",
+    "title": "Barnsley vs AFC Wimbledon",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Barnsley",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiAhL65Boubie8EVW4EurMGFz5zQA.webp"
+    },
+    "team2": {
+      "name": "AFC Wimbledon",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRCvrkGAY2bie8EVW4EurMGFz5zQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "blackpool-vs-plymouth-football-1387476",
+    "title": "Blackpool vs Plymouth",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Blackpool",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRNhD965BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "Plymouth",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRNhABjeuQYas4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "exeter-city-vs-northampton-football-1387480",
+    "title": "Exeter City vs Northampton",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Exeter City",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRPxAR65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "Northampton",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRIgDG9cg3VZxPeCKrcCXVmDC58FoA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "lincoln-vs-bolton-football-1387482",
+    "title": "Lincoln vs Bolton",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Lincoln",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRAGMQKeuQYrm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "Bolton",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+IEPXIMAxs3E94IqtwJdWYMLnxmgA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "leyton-orient-vs-mansfield-town-football-1387481",
+    "title": "Leyton Orient vs Mansfield Town",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Leyton Orient",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRAGNl9cgxXNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "team2": {
+      "name": "Mansfield Town",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRAGMQEeuQYrm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "bradford-vs-peterborough-football-1387477",
+    "title": "Bradford vs Peterborough",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Bradford",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRBGX1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "team2": {
+      "name": "Peterborough",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRNhAx65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "southampton-vs-leicester-football-1506263",
+    "title": "Southampton vs Leicester",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Southampton",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIEnXIMAxs3E94IqtwJdWYMLnxmgA.webp"
+    },
+    "team2": {
+      "name": "Leicester",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIfvXIMAxs3E94IqtwJdWYMLnxmgA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "norwich-vs-west-brom-football-1506260",
+    "title": "Norwich vs West Brom",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Norwich",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBJ1yDRc3E94IqtwJdWYMLnxmgA.webp"
+    },
+    "team2": {
+      "name": "West Brom",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+IGPXIMAxs3E94IqtwJdWYMLnxmgA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "port-vale-vs-bristol-city-football-1506262",
+    "title": "Port Vale vs Bristol City",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Port Vale",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRNkX1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "team2": {
+      "name": "Bristol City",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIfvXIMAxs3E94IqtwJdWYMLnxmgA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "burnley-vs-mansfield-town-football-1506254",
+    "title": "Burnley vs Mansfield Town",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Burnley",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIi+uQYBjZuJ7wRVbgS6swYXPlNA.webp"
+    },
+    "team2": {
+      "name": "Mansfield Town",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRAGMQEeuQYrm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "portsmouth-vs-sheffield-utd-football-1386926",
+    "title": "Portsmouth vs Sheffield Utd",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Portsmouth",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRNhDZ65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "Sheffield Utd",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+IJnXIMAxs3E94IqtwJdWYMLnxmgA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "sheffield-wednesday-vs-millwall-football-1386934",
+    "title": "Sheffield Wednesday vs Millwall",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Sheffield Wednesday",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiAj1yDRc3E94IqtwJdWYMLnxmgA.webp"
+    },
+    "team2": {
+      "name": "Millwall",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIEPXIMAxs3E94IqtwJdWYMLnxmgA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "preston-vs-watford-football-1386925",
+    "title": "Preston vs Watford",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Preston",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIFPXIMAxs3E94IqtwJdWYMLnxmgA.webp"
+    },
+    "team2": {
+      "name": "Watford",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEIeuQYBjZuJ7wRVbgS6swYXPlNA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "qpr-vs-blackburn-football-1386931",
+    "title": "QPR vs Blackburn",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "QPR",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCZ1yDRc3E94IqtwJdWYMLnxmgA.webp"
+    },
+    "team2": {
+      "name": "Blackburn",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+IAMb1yDVVnE94IqtwJdWYMLnxmgA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "derby-vs-swansea-football-1386930",
+    "title": "Derby vs Swansea",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Derby",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+IFPXIMAxs3E94IqtwJdWYMLnxmgA.webp"
+    },
+    "team2": {
+      "name": "Swansea",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiH71yDRc3E94IqtwJdWYMLnxmgA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "manchester-city-vs-salford-city-football-1510242",
+    "title": "Manchester City vs Salford City",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Manchester City",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIGPXIMAxs3E94IqtwJdWYMLnxmgA.webp"
+    },
+    "team2": {
+      "name": "Salford City",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZRBAR65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "burgos-vs-cadiz-football-1392049",
+    "title": "Burgos vs Cadiz",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:15:00",
+    "isLive": false,
+    "team1": {
+      "name": "Burgos",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIbCFUx65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "Cadiz",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCogI9cg0XNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "links": []
+  },
+  {
     "id": "ppv-getafe-vs-villarreal",
     "title": "Getafe vs. Villarreal",
     "sport": "football",
@@ -2096,11 +3775,11 @@
     "isLive": false,
     "team1": {
       "name": "Getafe",
-      "logo": ""
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsICCH71yDAMbNxPeCKrcCXVmDC58FoA.webp"
     },
     "team2": {
       "name": "Villarreal",
-      "logo": ""
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIRPHrkGAY2bie8EVW4EurMGFz5zQA.webp"
     },
     "links": [
       {
@@ -2116,6 +3795,150 @@
     ]
   },
   {
+    "id": "farense-vs-leixoes-football-1398164",
+    "title": "Farense vs Leixoes",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Farense",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIRCTrkGAY2bie8EVW4EurMGFz5zQA.webp"
+    },
+    "team2": {
+      "name": "Leixoes",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqICMvrkGAY2bie8EVW4EurMGFz5zQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "rot-weiss-essen-vs-ssv-jahn-regensburg-football-1394285",
+    "title": "Rot-Wei\u00df Essen vs SSV Jahn Regensburg",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Rot-Wei\u00df Essen",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiCqL65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "SSV Jahn Regensburg",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIAMYr65Bsubie8EVW4EurMGFz5zQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "heracles-vs-nac-breda-football-1381071",
+    "title": "Heracles vs NAC Breda",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Heracles",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIGCH71yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "team2": {
+      "name": "NAC Breda",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIGCHj1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "casa-pia-vs-arouca-football-1396427",
+    "title": "Casa Pia vs Arouca",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Casa Pia",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIAMYgiIfvXINlzcT3giq3Al1ZgwufFaA.webp"
+    },
+    "team2": {
+      "name": "Arouca",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqICCBj1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "al-najma-vs-al-kholood-football-1436103",
+    "title": "Al Najma vs Al Kholood",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:35:00",
+    "isLive": false,
+    "team1": {
+      "name": "Al Najma",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFMsX1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "team2": {
+      "name": "Al Kholood",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGCGzKQKeuQYBjZuJ7wRVbgS6swYXPmtA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "finland-vs-italy-hockey-395365",
+    "title": "Finland vs Italy",
+    "sport": "hockey",
+    "kickOff": "2026-02-14T15:40:00",
+    "isLive": false,
+    "team1": {
+      "name": "Finland",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCIhEVEBHrkGAY2bAwPeJKpTCDVmF1tcEIA.webp"
+    },
+    "team2": {
+      "name": "Italy",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCIhEVEAGN65BmqzAwPeJKpTCDVmF1tcEIA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "fc-copenhagen-vs-fc-nordsjaelland-football-1379463",
+    "title": "FC Copenhagen vs FC Nordsjaelland",
+    "sport": "football",
+    "kickOff": "2026-02-14T16:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "FC Copenhagen",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIGMvrkGAY2bie8EVW4EurMGFz5zQA.webp"
+    },
+    "team2": {
+      "name": "FC Nordsjaelland",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEKECHrkGAY2bie8EVW4EurMGFz5zQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "es-tunis-vs-petro-de-luanda-football-1485458",
+    "title": "ES Tunis vs Petro de Luanda",
+    "sport": "football",
+    "kickOff": "2026-02-14T16:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "ES Tunis",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIZTHrkGAY2bie8EVW4EurMGFz5zQA.webp"
+    },
+    "team2": {
+      "name": "Petro de Luanda",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIFCCqr65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "simba-vs-stade-malien-bamako-football-1485461",
+    "title": "Simba vs Stade Malien Bamako",
+    "sport": "football",
+    "kickOff": "2026-02-14T16:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Simba",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+ICCERM65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "Stade Malien Bamako",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+ICCEQR65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
     "id": "ppv-marseille-vs-strasbourg",
     "title": "Marseille vs. Strasbourg",
     "sport": "football",
@@ -2123,11 +3946,11 @@
     "isLive": false,
     "team1": {
       "name": "Marseille",
-      "logo": ""
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhFJOuQYBjZuJ7wRVbgS6swYXPlNA.webp"
     },
     "team2": {
       "name": "Strasbourg",
-      "logo": ""
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIbPXIMAxs3E94IqtwJdWYMLnxmgA.webp"
     },
     "links": [
       {
@@ -2137,6 +3960,81 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-marseille-vs-strasbourg/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "catanzaro-vs-mantova-football-1419832",
+    "title": "Catanzaro vs Mantova",
+    "sport": "football",
+    "kickOff": "2026-02-14T16:15:00",
+    "isLive": false,
+    "team1": {
+      "name": "Catanzaro",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiFUBjeuQYas4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "Mantova",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiBQh49cgwDGzcT3giq3Al1ZgwufFaA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "zaglebie-lubin-vs-rakow-czestochowa-football-1380572",
+    "title": "Zaglebie Lubin vs Rak\u00f3w Cz\u0119stochowa",
+    "sport": "football",
+    "kickOff": "2026-02-14T16:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Zaglebie Lubin",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEEENnrkGAY2bie8EVW4EurMGFz5zQA.webp"
+    },
+    "team2": {
+      "name": "Rak\u00f3w Cz\u0119stochowa",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEEEChAk65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "scotland-vs-england-rugby-49483",
+    "title": "Scotland vs England",
+    "sport": "rugby",
+    "kickOff": "2026-02-14T16:40:00",
+    "isLive": false,
+    "team1": {
+      "name": "Scotland",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IRChAx65BgObAwPeOKoTCDVmA1tcEIA.webp"
+    },
+    "team2": {
+      "name": "England",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IRCBAATeuQYDmwMD3jiqEwg1ZhNbXBCA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "ppv-oktagon-84-english",
+    "title": "OKTAGON 84 (English)",
+    "sport": "fight",
+    "kickOff": "2026-02-14T17:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-english/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-english/2",
         "language": "English",
         "hd": false
       }
@@ -2164,33 +4062,6 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-czech/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-oktagon-84-english",
-    "title": "OKTAGON 84 (English)",
-    "sport": "fight",
-    "kickOff": "2026-02-14T17:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-english/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-english/2",
         "language": "English",
         "hd": false
       }
@@ -2251,33 +4122,6 @@
     ]
   },
   {
-    "id": "ppv-vf-b-stuttgart-vs-fc-cologne",
-    "title": "VfB Stuttgart vs. FC Cologne",
-    "sport": "football",
-    "kickOff": "2026-02-14T17:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "VfB Stuttgart",
-      "logo": ""
-    },
-    "team2": {
-      "name": "FC Cologne",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-vf-b-stuttgart-vs-fc-cologne/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-vf-b-stuttgart-vs-fc-cologne/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-sevilla-vs-alav-s",
     "title": "Sevilla vs. Alav\u00e9s",
     "sport": "football",
@@ -2299,6 +4143,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-sevilla-vs-alav-s/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-vf-b-stuttgart-vs-fc-cologne",
+    "title": "VfB Stuttgart vs. FC Cologne",
+    "sport": "football",
+    "kickOff": "2026-02-14T17:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "VfB Stuttgart",
+      "logo": ""
+    },
+    "team2": {
+      "name": "FC Cologne",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-vf-b-stuttgart-vs-fc-cologne/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-vf-b-stuttgart-vs-fc-cologne/2",
         "language": "English",
         "hd": false
       }
@@ -2526,33 +4397,6 @@
     ]
   },
   {
-    "id": "ppv-le-havre-ac-vs-toulouse",
-    "title": "Le Havre AC vs. Toulouse",
-    "sport": "football",
-    "kickOff": "2026-02-15T14:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Le Havre AC",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Toulouse",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-le-havre-ac-vs-toulouse/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-le-havre-ac-vs-toulouse/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-cremonese-vs-genoa",
     "title": "Cremonese vs. Genoa",
     "sport": "football",
@@ -2601,6 +4445,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-parma-vs-hellas-verona/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-le-havre-ac-vs-toulouse",
+    "title": "Le Havre AC vs. Toulouse",
+    "sport": "football",
+    "kickOff": "2026-02-15T14:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Le Havre AC",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Toulouse",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-le-havre-ac-vs-toulouse/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-le-havre-ac-vs-toulouse/2",
         "language": "English",
         "hd": false
       }
