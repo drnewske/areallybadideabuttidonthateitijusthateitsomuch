@@ -1,37 +1,5 @@
 [
   {
-    "id": "ppv-event-02-world-series-of-asphalt-ppv-02",
-    "title": "World Series of Asphalt \ud83d\udd25",
-    "sport": "other",
-    "kickOff": "2026-02-12T01:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
-  },
-  {
-    "id": "aew-wednesday-night-dynamite-aew-001",
-    "title": "AEW: Wednesday Night Dynamite",
-    "sport": "fight",
-    "kickOff": "2026-02-12T01:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
-  },
-  {
     "id": "sri-lanka-cricket-vs-oman-cricket-2403804",
     "title": "Sri Lanka Cricket vs Oman Cricket",
     "sport": "cricket",
@@ -45,23 +13,7 @@
       "name": "Oman Cricket",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBkUDMEmD4QfENxAATXKpBnjOEiBSqCFJn3VswZeEXmj1TWmBdjREEA.webp"
     },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/echo/mens-t20-world-cup-sri-lanka-vs-oman-cricket-787894/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/mens-t20-world-cup-sri-lanka-vs-oman-cricket-787894/2",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/mens-t20-world-cup-sri-lanka-vs-oman-cricket-787894/3",
-        "language": "",
-        "hd": true
-      }
-    ]
+    "links": []
   },
   {
     "id": "live-event_world-rally-championship-2026-rally-sweden-live-stream",
@@ -78,38 +30,6 @@
       "logo": ""
     },
     "links": []
-  },
-  {
-    "id": "ppv-italy-vs-switzerland-w-round-robin",
-    "title": "Italy vs. Switzerland (W Round-Robin)",
-    "sport": "olympics",
-    "kickOff": "2026-02-12T08:05:00",
-    "isLive": false,
-    "team1": {
-      "name": "Italy",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Switzerland (W Round-Robin)",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-italy-vs-switzerland-w-round-robin/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-italy-vs-switzerland-w-round-robin/2",
-        "language": "English",
-        "hd": false
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/19709/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
   },
   {
     "id": "ppv-canada-vs-denmark-w-round-robin",
@@ -133,38 +53,6 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-canada-vs-denmark-w-round-robin/2",
-        "language": "English",
-        "hd": false
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/19794/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "ppv-men-s-moguls-qualifying-round-2",
-    "title": "Men's Moguls: Qualifying Round 2",
-    "sport": "olympics",
-    "kickOff": "2026-02-12T09:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-men-s-moguls-qualifying-round-2/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-men-s-moguls-qualifying-round-2/2",
         "language": "English",
         "hd": false
       }
@@ -412,10 +300,10 @@
     ]
   },
   {
-    "id": "ppv-men-s-moguls-final",
-    "title": "Men's Moguls: Final",
+    "id": "mens-moguls-final-2-2427590",
+    "title": "Mens Moguls Final 2",
     "sport": "olympics",
-    "kickOff": "2026-02-12T11:15:00",
+    "kickOff": "2026-02-12T11:55:00",
     "isLive": false,
     "team1": {
       "name": "Home Team",
@@ -746,6 +634,11 @@
         "url": "https://embedsports.top/embed/admin/ppv-czechia-vs-canada-men-s-group-a/2",
         "language": "English",
         "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/golf/19794/1",
+        "language": "English",
+        "hd": true
       }
     ]
   },
@@ -995,6 +888,33 @@
     ]
   },
   {
+    "id": "ppv-italy-vs-south-korea-w-round-robin",
+    "title": "Italy vs. South Korea (W Round-Robin)",
+    "sport": "olympics",
+    "kickOff": "2026-02-12T18:05:00",
+    "isLive": false,
+    "team1": {
+      "name": "Italy",
+      "logo": ""
+    },
+    "team2": {
+      "name": "South Korea (W Round-Robin)",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-italy-vs-south-korea-w-round-robin/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-italy-vs-south-korea-w-round-robin/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
     "id": "ppv-china-vs-great-britain-w-round-robin",
     "title": "China vs. Great Britain (W Round-Robin)",
     "sport": "olympics",
@@ -1043,6 +963,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-sweden-vs-usa-w-round-robin/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "womens-snowboard-halfpipe-final-run-1-2427741",
+    "title": "Womens Snowboard Halfpipe Final Run 1",
+    "sport": "olympics",
+    "kickOff": "2026-02-12T18:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-women-s-snowboard-halfpipe-final/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-women-s-snowboard-halfpipe-final/2",
         "language": "English",
         "hd": false
       }
@@ -1106,33 +1053,6 @@
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBl6YQUhCJuIPiAAme7YdMQQ5mAQpM+KLmDLwi80faa0wjsaIhA.webp"
     },
     "links": []
-  },
-  {
-    "id": "womens-snowboard-halfpipe-final-run-3-2427743",
-    "title": "Womens Snowboard Halfpipe Final Run 3",
-    "sport": "olympics",
-    "kickOff": "2026-02-12T19:28:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-women-s-snowboard-halfpipe-final/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-women-s-snowboard-halfpipe-final/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
   },
   {
     "id": "sion-vs-basel-2399254",
@@ -2466,33 +2386,6 @@
     ]
   },
   {
-    "id": "ppv-sevilla-vs-alav-s",
-    "title": "Sevilla vs. Alav\u00e9s",
-    "sport": "football",
-    "kickOff": "2026-02-14T17:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Sevilla",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Alav\u00e9s",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-sevilla-vs-alav-s/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-sevilla-vs-alav-s/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-vf-b-stuttgart-vs-fc-cologne",
     "title": "VfB Stuttgart vs. FC Cologne",
     "sport": "football",
@@ -2514,6 +2407,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-vf-b-stuttgart-vs-fc-cologne/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-sevilla-vs-alav-s",
+    "title": "Sevilla vs. Alav\u00e9s",
+    "sport": "football",
+    "kickOff": "2026-02-14T17:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Sevilla",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Alav\u00e9s",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-sevilla-vs-alav-s/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-sevilla-vs-alav-s/2",
         "language": "English",
         "hd": false
       }
@@ -2741,27 +2661,27 @@
     ]
   },
   {
-    "id": "ppv-parma-vs-hellas-verona",
-    "title": "Parma vs. Hellas Verona",
+    "id": "ppv-cremonese-vs-genoa",
+    "title": "Cremonese vs. Genoa",
     "sport": "football",
     "kickOff": "2026-02-15T14:00:00",
     "isLive": false,
     "team1": {
-      "name": "Parma",
+      "name": "Cremonese",
       "logo": ""
     },
     "team2": {
-      "name": "Hellas Verona",
+      "name": "Genoa",
       "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-parma-vs-hellas-verona/1",
+        "url": "https://embedsports.top/embed/admin/ppv-cremonese-vs-genoa/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-parma-vs-hellas-verona/2",
+        "url": "https://embedsports.top/embed/admin/ppv-cremonese-vs-genoa/2",
         "language": "English",
         "hd": false
       }
@@ -2795,27 +2715,27 @@
     ]
   },
   {
-    "id": "ppv-cremonese-vs-genoa",
-    "title": "Cremonese vs. Genoa",
+    "id": "ppv-parma-vs-hellas-verona",
+    "title": "Parma vs. Hellas Verona",
     "sport": "football",
     "kickOff": "2026-02-15T14:00:00",
     "isLive": false,
     "team1": {
-      "name": "Cremonese",
+      "name": "Parma",
       "logo": ""
     },
     "team2": {
-      "name": "Genoa",
+      "name": "Hellas Verona",
       "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-cremonese-vs-genoa/1",
+        "url": "https://embedsports.top/embed/admin/ppv-parma-vs-hellas-verona/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-cremonese-vs-genoa/2",
+        "url": "https://embedsports.top/embed/admin/ppv-parma-vs-hellas-verona/2",
         "language": "English",
         "hd": false
       }
@@ -3011,33 +2931,6 @@
     ]
   },
   {
-    "id": "ppv-lyon-vs-nice",
-    "title": "Lyon vs. Nice",
-    "sport": "football",
-    "kickOff": "2026-02-15T19:45:00",
-    "isLive": false,
-    "team1": {
-      "name": "Lyon",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Nice",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-lyon-vs-nice/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-lyon-vs-nice/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-napoli-vs-as-roma",
     "title": "Napoli vs. AS Roma",
     "sport": "football",
@@ -3059,6 +2952,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-napoli-vs-as-roma/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-lyon-vs-nice",
+    "title": "Lyon vs. Nice",
+    "sport": "football",
+    "kickOff": "2026-02-15T19:45:00",
+    "isLive": false,
+    "team1": {
+      "name": "Lyon",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Nice",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-lyon-vs-nice/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-lyon-vs-nice/2",
         "language": "English",
         "hd": false
       }
