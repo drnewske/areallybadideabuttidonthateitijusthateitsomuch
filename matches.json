@@ -1,37 +1,5 @@
 [
   {
-    "id": "ppv-event-03-submission-hunter-pro-101-ppv-03",
-    "title": "Submission Hunter Pro 101  \u2b50",
-    "sport": "other",
-    "kickOff": "2026-02-14T02:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
-  },
-  {
-    "id": "one-fight-night-40-buntan-vs-hemetsberger-2-2407998",
-    "title": "ONE Fight Night 40 Buntan vs Hemetsberger 2",
-    "sport": "fight",
-    "kickOff": "2026-02-14T02:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "ONE Fight Night 40 Buntan",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Hemetsberger 2",
-      "logo": ""
-    },
-    "links": []
-  },
-  {
     "id": "liv-golf-adelaide-the-grange-golf-club-australia-pga-526234",
     "title": "LIV Golf Adelaide | The Grange Golf Club, Australia",
     "sport": "other",
@@ -78,6 +46,33 @@
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBkUDMEmD4QfENxAATXKpBnjOEiBSqCFJn3VswZeEXmj1TWmBdjREEA.webp"
     },
     "links": []
+  },
+  {
+    "id": "ppv-switzerland-vs-japan-w-round-robin",
+    "title": "Switzerland vs. Japan (W Round-Robin)",
+    "sport": "olympics",
+    "kickOff": "2026-02-14T08:05:00",
+    "isLive": false,
+    "team1": {
+      "name": "Switzerland",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Japan ",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-switzerland-vs-japan-w-round-robin/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-switzerland-vs-japan-w-round-robin/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
   },
   {
     "id": "ppv-italy-vs-china-w-round-robin",
@@ -319,7 +314,18 @@
       "name": "Chaves",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxSIDSGJIQ3EABNcmjSVUg+ZkAQpM+KLmDLwi80faa0wjsaIhA.webp"
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/echo/feirense-vs-chaves-football-1398160/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/feirense-vs-chaves-football-1398160/2",
+        "language": "",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "netherlands-u17-vs-belgium-u17-2428399",
@@ -415,7 +421,18 @@
       "name": "Rizespor",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGMpABjeuQYas4nvBFVuBLqzBhc+S0A.webp"
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/echo/genclerbirligi-vs-rizespor-football-1394626/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/genclerbirligi-vs-rizespor-football-1394626/2",
+        "language": "",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "eintracht-braunschweig-vs-darmstadt-2277134",
@@ -489,6 +506,26 @@
         "url": "https://embedsports.top/embed/admin/ppv-burton-albion-vs-west-ham-united/2",
         "language": "English",
         "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/burton-albion-vs-west-ham-football-1506255/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/burton-albion-vs-west-ham-football-1506255/2",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/burton-albion-vs-west-ham-football-1506255/3",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/burton-albion-vs-west-ham-football-1506255/4",
+        "language": "",
+        "hd": true
       },
       {
         "url": "https://embedsports.top/embed/golf/19764/1",
@@ -692,7 +729,18 @@
       "name": "MC Alger",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiyxcRFAxDcQAExCJ9+iCD7bzughSZ9NbMGXhF5ozU1pgHY0RCA.webp"
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/echo/mamelodi-sundowns-vs-mc-alger-football-1485459/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/mamelodi-sundowns-vs-mc-alger-football-1485459/2",
+        "language": "",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "hansa-rostock-vs-osnabr-ck-2281846",
@@ -735,7 +783,18 @@
       "name": "Stade de Reims",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphDNqfELxzcQJEClz7DegxBAATAhSZ8UXMGXhF5ou01pgHY0RCA.webp"
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/echo/grenoble-vs-reims-football-1396833/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/grenoble-vs-reims-football-1396833/2",
+        "language": "",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "espanyol-vs-celta-vigo-2279625",
@@ -798,7 +857,18 @@
       "name": "Le Mans",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgFJQYNSjAATENxB8QMI3pAQQJEzm0EKTPii5gy8IvNGOmtMM7GiIQA.webp"
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/echo/montpellier-vs-le-mans-football-1389321/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/montpellier-vs-le-mans-football-1389321/2",
+        "language": "",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "al-hilal-omdurman-vs-saint--loi-lupopo-2378981",
@@ -814,7 +884,18 @@
       "name": "Saint-\u00c9loi Lupopo",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDcEzEABNgYSKpB9cICFpAxjBkIhAEKTPii5gy8IvNGOmtXaKl0gA.webp"
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/echo/al-hilal-omdurman-vs-saint-eloi-lupopo-football-1485456/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/al-hilal-omdurman-vs-saint-eloi-lupopo-football-1485456/2",
+        "language": "",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "fc-saarbr-cken-vs-stuttgart-ii-2281848",
@@ -1177,14 +1258,20 @@
     "kickOff": "2026-02-14T14:00:00",
     "isLive": false,
     "team1": {
-      "name": "Home Team",
+      "name": "Labinot Xhoxhaj",
       "logo": ""
     },
     "team2": {
-      "name": "Away Team",
+      "name": "Pezhman Seifkhani",
       "logo": ""
     },
-    "links": []
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/golf/19805/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "alanyaspor-vs-konyaspor-2282966",
@@ -1242,6 +1329,21 @@
         "url": "https://embedsports.top/embed/admin/ppv-como-vs-fiorentina/2",
         "language": "English",
         "hd": false
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/como-vs-fiorentina-football-1378105/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/como-vs-fiorentina-football-1378105/2",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/como-vs-fiorentina-football-1378105/3",
+        "language": "",
+        "hd": true
       }
     ]
   },
@@ -1615,6 +1717,28 @@
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRgAJmHDgs6kNxAQDIY8ZgnEZiYRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp"
     },
     "links": []
+  },
+  {
+    "id": "fap-priboj-vs-u--e-2283264",
+    "title": "FAP Priboj vs U\u0161\u0107e",
+    "sport": "football",
+    "kickOff": "2026-02-14T15:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "FAP Priboj",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3wgUYbiG5g+CLSD4gS+lPs0RcINYRjAmfFFzBl4ReaMdNaYZ2NEQgA.webp"
+    },
+    "team2": {
+      "name": "U\u0161\u0107e",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh25gAJti5rcIbiD4gSukCmMwQFoxMIxgTPii5gy8IvNGOmtMM7GiIQA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/golf/19807/1",
+        "language": "English",
+        "hd": true
+      }
+    ]
   },
   {
     "id": "southampton-vs-leicester-city-2415185",
@@ -2495,33 +2619,6 @@
     "links": []
   },
   {
-    "id": "ppv-oktagon-84-czech",
-    "title": "OKTAGON 84 (Czech)",
-    "sport": "fight",
-    "kickOff": "2026-02-14T17:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-czech/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-oktagon-84-german",
     "title": "OKTAGON 84 (German)",
     "sport": "fight",
@@ -2576,27 +2673,27 @@
     ]
   },
   {
-    "id": "ppv-tennessee-tech-golden-eagles-vs-texas-a-m-aggies",
-    "title": "Tennessee Tech Golden Eagles vs. Texas A&M Aggies",
-    "sport": "baseball",
+    "id": "ppv-oktagon-84-czech",
+    "title": "OKTAGON 84 (Czech)",
+    "sport": "fight",
     "kickOff": "2026-02-14T17:00:00",
     "isLive": false,
     "team1": {
-      "name": "Tennessee Tech Golden Eagles",
+      "name": "Home Team",
       "logo": ""
     },
     "team2": {
-      "name": "Texas A&M Aggies",
+      "name": "Away Team",
       "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-tennessee-tech-golden-eagles-vs-texas-a-m-aggies/1",
+        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-czech/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-tennessee-tech-golden-eagles-vs-texas-a-m-aggies/2",
+        "url": "https://embedsports.top/embed/admin/ppv-oktagon-84-czech/2",
         "language": "English",
         "hd": false
       }
@@ -2630,6 +2727,33 @@
     ]
   },
   {
+    "id": "ppv-tennessee-tech-golden-eagles-vs-texas-a-m-aggies",
+    "title": "Tennessee Tech Golden Eagles vs. Texas A&M Aggies",
+    "sport": "baseball",
+    "kickOff": "2026-02-14T17:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Tennessee Tech Golden Eagles",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Texas A&M Aggies",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-tennessee-tech-golden-eagles-vs-texas-a-m-aggies/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-tennessee-tech-golden-eagles-vs-texas-a-m-aggies/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
     "id": "ppv-army-black-knights-vs-clemson-tigers",
     "title": "Army Black Knights vs. Clemson Tigers",
     "sport": "baseball",
@@ -2651,33 +2775,6 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-army-black-knights-vs-clemson-tigers/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-indiana-hoosiers-vs-north-carolina-tar-heels",
-    "title": "Indiana Hoosiers vs. North Carolina Tar Heels",
-    "sport": "baseball",
-    "kickOff": "2026-02-14T17:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Indiana Hoosiers",
-      "logo": ""
-    },
-    "team2": {
-      "name": "North Carolina Tar Heels",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-indiana-hoosiers-vs-north-carolina-tar-heels/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-indiana-hoosiers-vs-north-carolina-tar-heels/2",
         "language": "English",
         "hd": false
       }
@@ -3037,33 +3134,6 @@
     ]
   },
   {
-    "id": "ppv-uc-santa-barbara-gauchos-vs-southern-miss-golden-eagles",
-    "title": "UC Santa Barbara Gauchos vs. Southern Miss Golden Eagles",
-    "sport": "baseball",
-    "kickOff": "2026-02-14T18:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "UC Santa Barbara Gauchos",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Southern Miss Golden Eagles",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-uc-santa-barbara-gauchos-vs-southern-miss-golden-eagles/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-uc-santa-barbara-gauchos-vs-southern-miss-golden-eagles/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-michigan-state-spartans-vs-louisville-cardinals",
     "title": "Michigan State Spartans vs. Louisville Cardinals",
     "sport": "baseball",
@@ -3091,114 +3161,6 @@
     ]
   },
   {
-    "id": "ppv-uc-davis-aggies-vs-texas-longhorns",
-    "title": "UC Davis Aggies vs. Texas Longhorns",
-    "sport": "baseball",
-    "kickOff": "2026-02-14T18:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "UC Davis Aggies",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Texas Longhorns",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-uc-davis-aggies-vs-texas-longhorns/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-uc-davis-aggies-vs-texas-longhorns/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-nicholls-colonels-vs-tennessee-volunteers",
-    "title": "Nicholls Colonels vs. Tennessee Volunteers",
-    "sport": "baseball",
-    "kickOff": "2026-02-14T18:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Nicholls Colonels",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Tennessee Volunteers",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-nicholls-colonels-vs-tennessee-volunteers/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-nicholls-colonels-vs-tennessee-volunteers/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-bowling-green-falcons-vs-georgia-tech-yellow-jackets",
-    "title": "Bowling Green Falcons vs. Georgia Tech Yellow Jackets",
-    "sport": "baseball",
-    "kickOff": "2026-02-14T18:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Bowling Green Falcons",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Georgia Tech Yellow Jackets",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-bowling-green-falcons-vs-georgia-tech-yellow-jackets/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-bowling-green-falcons-vs-georgia-tech-yellow-jackets/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-wright-state-raiders-vs-georgia-bulldogs",
-    "title": "Wright State Raiders vs. Georgia Bulldogs",
-    "sport": "baseball",
-    "kickOff": "2026-02-14T18:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Wright State Raiders",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Georgia Bulldogs",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-wright-state-raiders-vs-georgia-bulldogs/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-wright-state-raiders-vs-georgia-bulldogs/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-fairfield-stags-vs-coastal-carolina-chanticleers",
     "title": "Fairfield Stags vs. Coastal Carolina Chanticleers",
     "sport": "baseball",
@@ -3220,6 +3182,87 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-fairfield-stags-vs-coastal-carolina-chanticleers/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-uc-santa-barbara-gauchos-vs-southern-miss-golden-eagles",
+    "title": "UC Santa Barbara Gauchos vs. Southern Miss Golden Eagles",
+    "sport": "baseball",
+    "kickOff": "2026-02-14T18:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "UC Santa Barbara Gauchos",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Southern Miss Golden Eagles",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-uc-santa-barbara-gauchos-vs-southern-miss-golden-eagles/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-uc-santa-barbara-gauchos-vs-southern-miss-golden-eagles/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-kentucky-wildcats-vs-unc-greensboro-spartans",
+    "title": "Kentucky Wildcats vs. UNC Greensboro Spartans",
+    "sport": "baseball",
+    "kickOff": "2026-02-14T18:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Kentucky Wildcats",
+      "logo": ""
+    },
+    "team2": {
+      "name": "UNC Greensboro Spartans",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-kentucky-wildcats-vs-unc-greensboro-spartans/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-kentucky-wildcats-vs-unc-greensboro-spartans/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-uc-davis-aggies-vs-texas-longhorns",
+    "title": "UC Davis Aggies vs. Texas Longhorns",
+    "sport": "baseball",
+    "kickOff": "2026-02-14T18:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "UC Davis Aggies",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Texas Longhorns",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-uc-davis-aggies-vs-texas-longhorns/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-uc-davis-aggies-vs-texas-longhorns/2",
         "language": "English",
         "hd": false
       }
@@ -3364,33 +3407,6 @@
     ]
   },
   {
-    "id": "ppv-japan-vs-usa-w-round-robin",
-    "title": "Japan vs. USA (W Round-Robin)",
-    "sport": "olympics",
-    "kickOff": "2026-02-14T18:05:00",
-    "isLive": false,
-    "team1": {
-      "name": "Japan",
-      "logo": ""
-    },
-    "team2": {
-      "name": "USA ",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-japan-vs-usa-w-round-robin/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-japan-vs-usa-w-round-robin/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-women-s-freeski-big-air-qualifying",
     "title": "Women's Freeski Big Air: Qualifying",
     "sport": "olympics",
@@ -3461,33 +3477,6 @@
     ]
   },
   {
-    "id": "ppv-milwaukee-panthers-vs-lsu-tigers",
-    "title": "Milwaukee Panthers vs. LSU Tigers",
-    "sport": "baseball",
-    "kickOff": "2026-02-14T19:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Milwaukee Panthers",
-      "logo": ""
-    },
-    "team2": {
-      "name": "LSU Tigers",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-milwaukee-panthers-vs-lsu-tigers/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-milwaukee-panthers-vs-lsu-tigers/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-james-madison-dukes-vs-florida-state-seminoles",
     "title": "James Madison Dukes vs. Florida State Seminoles",
     "sport": "baseball",
@@ -3515,27 +3504,27 @@
     ]
   },
   {
-    "id": "ppv-hofstra-pride-vs-mississippi-state-bulldogs",
-    "title": "Hofstra Pride vs. Mississippi State Bulldogs",
+    "id": "ppv-milwaukee-panthers-vs-lsu-tigers",
+    "title": "Milwaukee Panthers vs. LSU Tigers",
     "sport": "baseball",
     "kickOff": "2026-02-14T19:00:00",
     "isLive": false,
     "team1": {
-      "name": "Hofstra Pride",
+      "name": "Milwaukee Panthers",
       "logo": ""
     },
     "team2": {
-      "name": "Mississippi State Bulldogs",
+      "name": "LSU Tigers",
       "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-hofstra-pride-vs-mississippi-state-bulldogs/1",
+        "url": "https://embedsports.top/embed/admin/ppv-milwaukee-panthers-vs-lsu-tigers/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-hofstra-pride-vs-mississippi-state-bulldogs/2",
+        "url": "https://embedsports.top/embed/admin/ppv-milwaukee-panthers-vs-lsu-tigers/2",
         "language": "English",
         "hd": false
       }
@@ -3563,6 +3552,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-uab-blazers-vs-florida-gators/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-hofstra-pride-vs-mississippi-state-bulldogs",
+    "title": "Hofstra Pride vs. Mississippi State Bulldogs",
+    "sport": "baseball",
+    "kickOff": "2026-02-14T19:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Hofstra Pride",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Mississippi State Bulldogs",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-hofstra-pride-vs-mississippi-state-bulldogs/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-hofstra-pride-vs-mississippi-state-bulldogs/2",
         "language": "English",
         "hd": false
       }
@@ -3682,6 +3698,28 @@
       {
         "url": "https://embedsports.top/embed/echo/wisla-plock-vs-widzew-lodz-football-1380571/2",
         "language": "",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "19806",
+    "title": " Marco Huck - Vaclav Pejsar",
+    "sport": "fight",
+    "kickOff": "2026-02-14T19:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Marco Huck",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Vaclav Pejsar",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/golf/19806/1",
+        "language": "English",
         "hd": true
       }
     ]
@@ -4056,6 +4094,33 @@
     ]
   },
   {
+    "id": "ppv-indiana-hoosiers-vs-north-carolina-tar-heels",
+    "title": "Indiana Hoosiers vs. North Carolina Tar Heels",
+    "sport": "baseball",
+    "kickOff": "2026-02-14T21:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Indiana Hoosiers",
+      "logo": ""
+    },
+    "team2": {
+      "name": "North Carolina Tar Heels",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-indiana-hoosiers-vs-north-carolina-tar-heels/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-indiana-hoosiers-vs-north-carolina-tar-heels/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
     "id": "millonarios-vs-llaneros-2414921",
     "title": "Millonarios vs Llaneros",
     "sport": "football",
@@ -4070,6 +4135,60 @@
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4huYPiBIgAJmzW6D2kCEQ5VKEHwIUm1rmDLwi80SmBNaYR2NEQgA.webp"
     },
     "links": []
+  },
+  {
+    "id": "ppv-nicholls-colonels-vs-tennessee-volunteers",
+    "title": "Nicholls Colonels vs. Tennessee Volunteers",
+    "sport": "baseball",
+    "kickOff": "2026-02-14T21:45:00",
+    "isLive": false,
+    "team1": {
+      "name": "Nicholls Colonels",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Tennessee Volunteers",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-nicholls-colonels-vs-tennessee-volunteers/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-nicholls-colonels-vs-tennessee-volunteers/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-wright-state-raiders-vs-georgia-bulldogs",
+    "title": "Wright State Raiders vs. Georgia Bulldogs",
+    "sport": "baseball",
+    "kickOff": "2026-02-14T21:45:00",
+    "isLive": false,
+    "team1": {
+      "name": "Wright State Raiders",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Georgia Bulldogs",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-wright-state-raiders-vs-georgia-bulldogs/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-wright-state-raiders-vs-georgia-bulldogs/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
   },
   {
     "id": "ppv-uc-san-diego-tritons-vs-ucla-bruins",
@@ -4099,27 +4218,27 @@
     ]
   },
   {
-    "id": "ppv-kentucky-wildcats-vs-unc-greensboro-spartans",
-    "title": "Kentucky Wildcats vs. UNC Greensboro Spartans",
+    "id": "ppv-bowling-green-falcons-vs-georgia-tech-yellow-jackets",
+    "title": "Bowling Green Falcons vs. Georgia Tech Yellow Jackets",
     "sport": "baseball",
     "kickOff": "2026-02-14T22:00:00",
     "isLive": false,
     "team1": {
-      "name": "Kentucky Wildcats",
+      "name": "Bowling Green Falcons",
       "logo": ""
     },
     "team2": {
-      "name": "UNC Greensboro Spartans",
+      "name": "Georgia Tech Yellow Jackets",
       "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-kentucky-wildcats-vs-unc-greensboro-spartans/1",
+        "url": "https://embedsports.top/embed/admin/ppv-bowling-green-falcons-vs-georgia-tech-yellow-jackets/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-kentucky-wildcats-vs-unc-greensboro-spartans/2",
+        "url": "https://embedsports.top/embed/admin/ppv-bowling-green-falcons-vs-georgia-tech-yellow-jackets/2",
         "language": "English",
         "hd": false
       }
@@ -4303,22 +4422,6 @@
     ]
   },
   {
-    "id": "independ-rivadavia-vs-belgrano-cordoba-football-1491887",
-    "title": "Independ. Rivadavia vs Belgrano Cordoba",
-    "sport": "football",
-    "kickOff": "2026-02-15T01:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Independ. Rivadavia",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIAMYh49cg2XNxPeCKrcCXVmDC58FoA.webp"
-    },
-    "team2": {
-      "name": "Belgrano Cordoba",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIikDHrkGAY2bie8EVW4EurMGFz5zQA.webp"
-    },
-    "links": []
-  },
-  {
     "id": "atletico-tucuman-vs-estudiantes-de-rio-cuarto-football-1491879",
     "title": "Atletico Tucuman vs Estudiantes de Rio Cuarto",
     "sport": "football",
@@ -4331,6 +4434,22 @@
     "team2": {
       "name": "Estudiantes de Rio Cuarto",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqICIuX1yDAMbNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "independ-rivadavia-vs-belgrano-cordoba-football-1491887",
+    "title": "Independ. Rivadavia vs Belgrano Cordoba",
+    "sport": "football",
+    "kickOff": "2026-02-15T01:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Independ. Rivadavia",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIAMYh49cg2XNxPeCKrcCXVmDC58FoA.webp"
+    },
+    "team2": {
+      "name": "Belgrano Cordoba",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIikDHrkGAY2bie8EVW4EurMGFz5zQA.webp"
     },
     "links": []
   },
@@ -4634,18 +4753,18 @@
     ]
   },
   {
-    "id": "chelsea-w-vs-liverpool-w-football-1417290",
-    "title": "Chelsea W vs Liverpool W",
+    "id": "everton-w-vs-west-ham-w-football-1417291",
+    "title": "Everton W vs West Ham W",
     "sport": "football",
     "kickOff": "2026-02-15T12:00:00",
     "isLive": false,
     "team1": {
-      "name": "Chelsea W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZdhDx65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+      "name": "Everton W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZdhDZ65BgGNm4nvBFVuBLqzBhc+S0A.webp"
     },
     "team2": {
-      "name": "Liverpool W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZRBABjeuQYas4nvBFVuBLqzBhc+S0A.webp"
+      "name": "West Ham W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZdhD965BgGNm4nvBFVuBLqzBhc+S0A.webp"
     },
     "links": []
   },
@@ -4682,18 +4801,18 @@
     "links": []
   },
   {
-    "id": "everton-w-vs-west-ham-w-football-1417291",
-    "title": "Everton W vs West Ham W",
+    "id": "chelsea-w-vs-liverpool-w-football-1417290",
+    "title": "Chelsea W vs Liverpool W",
     "sport": "football",
     "kickOff": "2026-02-15T12:00:00",
     "isLive": false,
     "team1": {
-      "name": "Everton W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZdhDZ65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+      "name": "Chelsea W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZdhDx65BgGNm4nvBFVuBLqzBhc+S0A.webp"
     },
     "team2": {
-      "name": "West Ham W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZdhD965BgGNm4nvBFVuBLqzBhc+S0A.webp"
+      "name": "Liverpool W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZRBABjeuQYas4nvBFVuBLqzBhc+S0A.webp"
     },
     "links": []
   },
@@ -5851,8 +5970,8 @@
     "links": []
   },
   {
-    "id": "ppv-players-championship-board-1",
-    "title": "Players Championship - Board 1",
+    "id": "ppv-players-championship-board-4",
+    "title": "Players Championship - Board 4",
     "sport": "darts",
     "kickOff": "2026-02-16T13:00:00",
     "isLive": false,
@@ -5866,12 +5985,12 @@
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-players-championship-board-1/1",
+        "url": "https://embedsports.top/embed/admin/ppv-players-championship-board-4/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-players-championship-board-1/2",
+        "url": "https://embedsports.top/embed/admin/ppv-players-championship-board-4/2",
         "language": "English",
         "hd": false
       }
