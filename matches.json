@@ -1,21 +1,5 @@
 [
   {
-    "id": "wwe-nxt-nxt-2025",
-    "title": "WWE: NXT",
-    "sport": "fight",
-    "kickOff": "2026-02-18T01:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
-  },
-  {
     "id": "south-africa-cricket-vs-uae-cricket-2403829",
     "title": "South Africa Cricket vs UAE Cricket",
     "sport": "cricket",
@@ -29,23 +13,7 @@
       "name": "UAE Cricket",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATClRQNgqkNxAkQRxIaMwjICCD4EKTG1zBl4ReaK1NaYJ2NEQgA.webp"
     },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/echo/mens-t20-world-cup-south-africa-vs-uae-cricket-787894/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/mens-t20-world-cup-south-africa-vs-uae-cricket-787894/2",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/mens-t20-world-cup-south-africa-vs-uae-cricket-787894/3",
-        "language": "",
-        "hd": true
-      }
-    ]
+    "links": []
   },
   {
     "id": "namibia-cricket-vs-pakistan-cricket-2403799",
@@ -1041,9 +1009,9 @@
     "links": []
   },
   {
-    "id": "live_nba_bulls-raptors-live-streaming-430457328",
-    "title": "Chicago Bulls vs Toronto Raptors",
-    "sport": "basketball",
+    "id": "live-event_mfl-3-live-stream",
+    "title": "MFL 3",
+    "sport": "fight",
     "kickOff": "2026-02-20T00:00:00",
     "isLive": false,
     "team1": {
@@ -1057,9 +1025,9 @@
     "links": []
   },
   {
-    "id": "live-event_mfl-3-live-stream",
-    "title": "MFL 3",
-    "sport": "fight",
+    "id": "live_nba_bulls-raptors-live-streaming-430457328",
+    "title": "Chicago Bulls vs Toronto Raptors",
+    "sport": "basketball",
     "kickOff": "2026-02-20T00:00:00",
     "isLive": false,
     "team1": {
