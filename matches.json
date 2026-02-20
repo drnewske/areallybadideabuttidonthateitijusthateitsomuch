@@ -622,22 +622,6 @@
     "links": []
   },
   {
-    "id": "al-taawon-vs-al-fayha-football-1436113",
-    "title": "Al Taawon vs Al-Fayha",
-    "sport": "football",
-    "kickOff": "2026-02-20T19:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Al Taawon",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCET965BgGNm4nvBFVuBLqzBhc+S0A.webp"
-    },
-    "team2": {
-      "name": "Al-Fayha",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCAir65BgGNm4nvBFVuBLqzBhc+S0A.webp"
-    },
-    "links": []
-  },
-  {
     "id": "al-okhdood-vs-al-qadisiyah-fc-football-1436111",
     "title": "Al Okhdood vs Al-Qadisiyah FC",
     "sport": "football",
@@ -650,6 +634,22 @@
     "team2": {
       "name": "Al-Qadisiyah FC",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCETx65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "al-taawon-vs-al-fayha-football-1436113",
+    "title": "Al Taawon vs Al-Fayha",
+    "sport": "football",
+    "kickOff": "2026-02-20T19:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Al Taawon",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCET965BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "Al-Fayha",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIFCAir65BgGNm4nvBFVuBLqzBhc+S0A.webp"
     },
     "links": []
   },
@@ -1511,8 +1511,24 @@
     "links": []
   },
   {
-    "id": "19881",
-    "title": "Alex Bray - Rodrigo Coria",
+    "id": "ppv-event-02-bison-kombat-6-ppv-02",
+    "title": "Bison Kombat 6 \ud83d\udd25",
+    "sport": "other",
+    "kickOff": "2026-02-20T22:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": []
+  },
+  {
+    "id": "ppv-event-03-bray-v-coria-ppv-03",
+    "title": "Bray v Coria  \u2b50",
     "sport": "fight",
     "kickOff": "2026-02-20T22:30:00",
     "isLive": false,
@@ -1598,6 +1614,38 @@
     "team2": {
       "name": "Independiente Medell\u00edn",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIEiBj8QtHNxBq+IYxBD79piwQpM+KLmDLwi80faa0wjsaIhA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "ppv-event-04-toughman-contest-ppv-004",
+    "title": "Toughman Contest  \ud83c\udf1f",
+    "sport": "other",
+    "kickOff": "2026-02-21T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": []
+  },
+  {
+    "id": "ppv-event-05-house-of-glory-no-turning-back-ppv-05",
+    "title": "House of Glory No Turning Back",
+    "sport": "other",
+    "kickOff": "2026-02-21T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
     },
     "links": []
   },
