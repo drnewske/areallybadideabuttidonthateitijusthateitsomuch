@@ -22,54 +22,6 @@
     ]
   },
   {
-    "id": "ppv-event-03-bray-v-coria-ppv-03",
-    "title": "Bray v Coria  \u2b50",
-    "sport": "other",
-    "kickOff": "2026-02-20T22:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
-  },
-  {
-    "id": "ppv-event-12-lucas-oil-late-models-all-tech-ppv-12",
-    "title": "Lucas Oil Late Models All Tech",
-    "sport": "other",
-    "kickOff": "2026-02-20T22:45:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
-  },
-  {
-    "id": "ppv-event-13-modified-week-ocala-ppv-13",
-    "title": "Modified Week Ocala",
-    "sport": "other",
-    "kickOff": "2026-02-20T23:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
-  },
-  {
     "id": "ppv-event-14-world-outlaws-late-models-ppv14",
     "title": "World Outlaws Late Models",
     "sport": "other",
@@ -118,8 +70,8 @@
     "links": []
   },
   {
-    "id": "ppv-event-06-combat-fc-12-ppv-06",
-    "title": "Combat FC 12",
+    "id": "ppv-event-07-jara-v-gerez-en-espanol-ppv-07",
+    "title": "Jara v Gerez (En Espanol)",
     "sport": "other",
     "kickOff": "2026-02-21T01:00:00",
     "isLive": false,
@@ -134,26 +86,20 @@
     "links": []
   },
   {
-    "id": "ppv-event-07-jara-v-gerez-en-espanol-ppv-07",
-    "title": "Jara v Gerez (En Espanol)",
-    "sport": "fight",
+    "id": "ppv-event-06-combat-fc-12-ppv-06",
+    "title": "Combat FC 12",
+    "sport": "other",
     "kickOff": "2026-02-21T01:00:00",
     "isLive": false,
     "team1": {
-      "name": "Nicolas Ezequiel Jara",
+      "name": "Home Team",
       "logo": ""
     },
     "team2": {
-      "name": "Lorenzo Gerez",
+      "name": "Away Team",
       "logo": ""
     },
-    "links": [
-      {
-        "url": "https://embedsporty.top/embed/golf/19882/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
+    "links": []
   },
   {
     "id": "wwe-friday-night-smackdown-wwe-009",
@@ -204,50 +150,6 @@
     "links": []
   },
   {
-    "id": "portland-trail-blazers-vs-denver-nuggets-2358173",
-    "title": "Portland Trail Blazers vs Denver Nuggets",
-    "sport": "basketball",
-    "kickOff": "2026-02-21T03:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Portland Trail Blazers",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDAkwAAx0Q3bDpAATECkMgIZkCWOXjBCkz4ouYMvCLzRTprTAuxoiCA.webp"
-    },
-    "team2": {
-      "name": "Denver Nuggets",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAhKq4EhCiADCG7aQEEABMQMfadwg+RghSZ8UXMGXhF5o501phXY0QggA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsporty.top/embed/golf/19841/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "los-angeles-lakers-vs-los-angeles-clippers-2358172",
-    "title": "Los Angeles Lakers vs Los Angeles Clippers",
-    "sport": "basketball",
-    "kickOff": "2026-02-21T03:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Los Angeles Lakers",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwghwoquD4huIbbtU4SIVcd0TCMYEz4ouYMvCLzRdprTAOxoiEA.webp"
-    },
-    "team2": {
-      "name": "Los Angeles Clippers",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC0+RHOETcQfEDpSqQMIzpzLCMYEz4ouYMvA2lOTWmAdjREIA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsporty.top/embed/golf/19840/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "honda-lpga-thailand-round-3-2436057",
     "title": "Honda LPGA Thailand Round 3",
     "sport": "golf",
@@ -293,28 +195,7 @@
       "name": "Canberra Raiders",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSXQgSIaU0pgAJiF4gsIPSDUgYps6ZgEK+ASh5gy8IgrGP79MM-FiIQA.webp"
     },
-    "links": [
-      {
-        "url": "https://embedsporty.top/embed/echo/cronulla-sharks-vs-canberra-raiders-game-17u3262/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsporty.top/embed/echo/cronulla-sharks-vs-canberra-raiders-game-17u3262/2",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsporty.top/embed/echo/cronulla-sharks-vs-canberra-raiders-game-17u3262/3",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsporty.top/embed/echo/cronulla-sharks-vs-canberra-raiders-game-17u3262/4",
-        "language": "",
-        "hd": true
-      }
-    ]
+    "links": []
   },
   {
     "id": "sydney-fc-vs-brisbane-roar-2355375",
@@ -2857,12 +2738,12 @@
     "kickOff": "2026-02-21T19:40:00",
     "isLive": false,
     "team1": {
-      "name": "Slovakia",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCIhEiEnXIMAxs2Bge8SVSmEGrMDra4IQA.webp"
+      "name": "Slovakia Ice Hockey",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplFNWSUmxDcQAE1zaQMPSFM4c8AhSZ8UXMGXhF5ou01pgHY0RCA.webp"
     },
     "team2": {
-      "name": "Finland",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCIhEVEBHrkGAY2bAwPeJKpTCDVmF1tcEIA.webp"
+      "name": "Finland Ice Hockey",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApghCCDj00IbiAAmuPVsMg+IEsYMEKTPmrZgy8IvNFqmtMM7GiIQA.webp"
     },
     "links": [
       {
@@ -3241,22 +3122,6 @@
     "links": []
   },
   {
-    "id": "ufc-fight-night-strickland-vs-hernandez-mma-2536",
-    "title": "Jean-Paul Lebosnoyani vs Phil Rowe",
-    "sport": "fight",
-    "kickOff": "2026-02-21T22:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Jean-Paul Lebosnoyani",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQi7CAj1yDMc2Bge8KVW6iGrMDra4IQA.webp"
-    },
-    "team2": {
-      "name": "Phil Rowe",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBCQVECHrkGY5sDA94Uqt1ENWYbW1wQgA.webp"
-    },
-    "links": []
-  },
-  {
     "id": "ufc-fight-night-strickland-vs-hernandez-mma-2535",
     "title": "Punahele Soriano vs Ramiz Brahimaj",
     "sport": "fight",
@@ -3269,6 +3134,22 @@
     "team2": {
       "name": "Ramiz Brahimaj",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhAQQ2ECnrkGY5sDA94Uqt1ENWYbW1wQgA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "ufc-fight-night-strickland-vs-hernandez-mma-2536",
+    "title": "Jean-Paul Lebosnoyani vs Phil Rowe",
+    "sport": "fight",
+    "kickOff": "2026-02-21T22:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Jean-Paul Lebosnoyani",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQi7CAj1yDMc2Bge8KVW6iGrMDra4IQA.webp"
+    },
+    "team2": {
+      "name": "Phil Rowe",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBCQVECHrkGY5sDA94Uqt1ENWYbW1wQgA.webp"
     },
     "links": []
   },
@@ -4356,22 +4237,6 @@
     "links": []
   },
   {
-    "id": "manchester-city-w-vs-sheffield-united-w-football-1514955",
-    "title": "Manchester City W vs Sheffield United W",
-    "sport": "football",
-    "kickOff": "2026-02-22T14:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Manchester City W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZdhAR65BgGNm4nvBFVuBLqzBhc+S0A.webp"
-    },
-    "team2": {
-      "name": "Sheffield United W",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIbCAggYIAMb1yDbVnE94IqtwJdWYMLnw2gA.webp"
-    },
-    "links": []
-  },
-  {
     "id": "oxford-united-w-vs-charlton-athletic-w-football-1514956",
     "title": "Oxford United W vs Charlton Athletic W",
     "sport": "football",
@@ -4384,6 +4249,22 @@
     "team2": {
       "name": "Charlton Athletic W",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIbCAggYIJnXIMAxs3E94IqtwJdWYMLnw2gA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "manchester-city-w-vs-sheffield-united-w-football-1514955",
+    "title": "Manchester City W vs Sheffield United W",
+    "sport": "football",
+    "kickOff": "2026-02-22T14:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Manchester City W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZdhAR65BgGNm4nvBFVuBLqzBhc+S0A.webp"
+    },
+    "team2": {
+      "name": "Sheffield United W",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIbCAggYIAMb1yDbVnE94IqtwJdWYMLnw2gA.webp"
     },
     "links": []
   },
@@ -4432,6 +4313,22 @@
     "team2": {
       "name": "Rennes",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphSxoZLGBAhuICCD4hEJEDD3ad2ghSZ8UXMGXhF5o+01phHY0RCA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "atalanta-vs-napoli-2265286",
+    "title": "Atalanta vs Napoli",
+    "sport": "football",
+    "kickOff": "2026-02-22T14:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Atalanta",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDUAJmBD8QfENxAkQiCCFO7EKIyBgEKTPii5gy8IvNGOmtVaKl0gA.webp"
+    },
+    "team2": {
+      "name": "Napoli",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAhw3MClVgAJiG4g+ICLhAo1pksf0EKTPii5gy8IvNGOmtMM7GiIQA.webp"
     },
     "links": []
   },
@@ -4496,22 +4393,6 @@
     "team2": {
       "name": "Fulham",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnB8wagCZgUkENxAQDIY8f36YJjQQpM+KLmDLwi80faa0wjsaIhA.webp"
-    },
-    "links": []
-  },
-  {
-    "id": "atalanta-vs-napoli-2265286",
-    "title": "Atalanta vs Napoli",
-    "sport": "football",
-    "kickOff": "2026-02-22T14:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Atalanta",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDUAJmBD8QfENxAkQiCCFO7EKIyBgEKTPii5gy8IvNGOmtVaKl0gA.webp"
-    },
-    "team2": {
-      "name": "Napoli",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAhw3MClVgAJiG4g+ICLhAo1pksf0EKTPii5gy8IvNGOmtMM7GiIQA.webp"
     },
     "links": []
   },
