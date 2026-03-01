@@ -1,48 +1,5 @@
 [
   {
-    "id": "ppv-supercross-daytona",
-    "title": "Supercross: Daytona",
-    "sport": "motor-sports",
-    "kickOff": "2026-02-28T18:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-supercross-daytona/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-supercross-daytona/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-event-06-pierce-v-parra-ppv-06",
-    "title": "Pierce v Parra",
-    "sport": "other",
-    "kickOff": "2026-02-28T22:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
-  },
-  {
     "id": "ppv-ufc-fight-night-moreno-vs-kavanagh",
     "title": "UFC Fight Night: Moreno vs. Kavanagh",
     "sport": "fight",
@@ -66,16 +23,6 @@
         "url": "https://embedsports.top/embed/admin/ppv-ufc-fight-night-moreno-vs-kavanagh/2",
         "language": "English",
         "hd": false
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/ppv-event-01-ufc-fight-night-moreno-v-kavanagh-ppv-001/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/ppv-event-01-ufc-fight-night-moreno-v-kavanagh-ppv-001/2",
-        "language": "",
-        "hd": true
       }
     ]
   },
@@ -98,6 +45,22 @@
   {
     "id": "ppv-event-08-guerra-en-ponce-ppv-08",
     "title": "Guerra en Ponce",
+    "sport": "other",
+    "kickOff": "2026-03-01T00:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": []
+  },
+  {
+    "id": "ppv-event-13-ama-supercross-championship-daytona-ppv-13",
+    "title": "AMA Supercross Championship Daytona",
     "sport": "other",
     "kickOff": "2026-03-01T00:00:00",
     "isLive": false,
@@ -226,119 +189,6 @@
         "url": "https://embedsports.top/embed/delta/live-event_elimination-chamber-live-stream/1",
         "language": "English",
         "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/20161/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "ppv-raf-06-cejudo-vs-faber",
-    "title": "RAF 06: Cejudo vs. Faber",
-    "sport": "fight",
-    "kickOff": "2026-03-01T02:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "RAF 06: Cejudo",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Faber",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-raf-06-cejudo-vs-faber/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-raf-06-cejudo-vs-faber/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "live_ncaa_st-marys-gonzaga-live-streaming-464927472",
-    "title": "St Mary's Gaels vs Gonzaga Bulldogs",
-    "sport": "basketball",
-    "kickOff": "2026-03-01T02:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/delta/live_ncaa_st-marys-gonzaga-live-streaming-464927472/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "utah-jazz-vs-new-orleans-pelicans-2358230",
-    "title": "Utah Jazz vs New Orleans Pelicans",
-    "sport": "basketball",
-    "kickOff": "2026-03-01T02:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Utah Jazz",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAowAE1XMQZGCG4g+O-YZB7EOTXwIUm1rmDLwi80SmBNaYR2NEQgA.webp"
-    },
-    "team2": {
-      "name": "New Orleans Pelicans",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1q8ADCAAmuLSG66UuiCGPac2iYRjAmfFFzBl4ReaPtNaYR2NEQgA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/golf/20088/1",
-        "language": "English",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "seattle-kraken-vs-vancouver-canucks-2347828",
-    "title": "Seattle Kraken vs Vancouver Canucks",
-    "sport": "hockey",
-    "kickOff": "2026-03-01T03:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Seattle Kraken",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTkQICCBRsQ3ECS36QfY0fWIAJgQpM+2tmDLwi80dqa0wjsaIhA.webp"
-    },
-    "team2": {
-      "name": "Vancouver Canucks",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDcw4cHD4huICLh0gj2kiFO6UBCkz4ouYMvCLzRdprTAOxoiEA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-vancouver-canucks-vs-seattle-kraken/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-vancouver-canucks-vs-seattle-kraken/2",
-        "language": "English",
-        "hd": false
-      },
-      {
-        "url": "https://embedsports.top/embed/delta/live_nhl_kraken-canucks-live-streaming-510103872/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/golf/20083/1",
-        "language": "English",
-        "hd": true
       }
     ]
   },
@@ -368,67 +218,8 @@
         "hd": false
       },
       {
-        "url": "https://embedsports.top/embed/delta/live-event_emanuel-navarrete-vs-eduardo-nunez-live-stream/1",
-        "language": "English",
-        "hd": true
-      },
-      {
         "url": "https://embedsports.top/embed/echo/ppv-event-07-navarrete-v-nunez-ppv-07/1",
         "language": "",
-        "hd": true
-      }
-    ]
-  },
-  {
-    "id": "unlv-vs-nevada-2436181",
-    "title": "UNLV vs Nevada",
-    "sport": "basketball",
-    "kickOff": "2026-03-01T03:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "UNLV",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplpMQIACaaeIbiBLqQfEIhwRNhiYRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-    },
-    "team2": {
-      "name": "Nevada",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDcQ4UQBMw3MOrWaQEXCEOJEOdTAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-    },
-    "links": []
-  },
-  {
-    "id": "la-galaxy-vs-charlotte-fc-2406732",
-    "title": "LA Galaxy vs Charlotte FC",
-    "sport": "football",
-    "kickOff": "2026-03-01T03:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "LA Galaxy",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTlVq+NhDcQEXCBj6cfbSDMgCFJnxRcwZTfXmjbTWmHtjREIA.webp"
-    },
-    "team2": {
-      "name": "Charlotte FC",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxwATWCChkkIbiBIgU+zSEQQQME3wIUm1rmDLwi80SmBNaYR2NEQgA.webp"
-    },
-    "links": []
-  },
-  {
-    "id": "uc-irvine-vs-uc-santa-barbara-2436184",
-    "title": "UC Irvine vs UC-Santa Barbara",
-    "sport": "basketball",
-    "kickOff": "2026-03-01T03:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "UC Irvine",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh14De9FJBDcQJEPr65tukABMQiUwQpM+KLmDLwi80faa0wjsaIhA.webp"
-    },
-    "team2": {
-      "name": "UC-Santa Barbara",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiQha+ECjAkQfENxA6Qu3PpAATEDE26CFJnxRdt5evNFOmtMNrGiIQA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/delta/live_ncaa_uc-irvine-uc-santa-barbara-live-streaming-430995168/1",
-        "language": "English",
         "hd": true
       }
     ]
@@ -723,22 +514,6 @@
     "links": []
   },
   {
-    "id": "eisbaren-berlin-vs-bremerhaven-hockey-409093",
-    "title": "Eisbaren Berlin vs Bremerhaven",
-    "sport": "hockey",
-    "kickOff": "2026-03-01T13:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Eisbaren Berlin",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIEPXIMAxs2Bge8SVSmEGrMDra4IQA.webp"
-    },
-    "team2": {
-      "name": "Bremerhaven",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIbPXIMAxs2Bge8SVSmEGrMDra4IQA.webp"
-    },
-    "links": []
-  },
-  {
     "id": "frankfurt-lowen-vs-grizzly-wolfsburg-hockey-409094",
     "title": "Frankfurt Lowen vs Grizzly Wolfsburg",
     "sport": "hockey",
@@ -751,6 +526,22 @@
     "team2": {
       "name": "Grizzly Wolfsburg",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIcXXIMAxs2Bge8SVSmEGrMDra4IQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "eisbaren-berlin-vs-bremerhaven-hockey-409093",
+    "title": "Eisbaren Berlin vs Bremerhaven",
+    "sport": "hockey",
+    "kickOff": "2026-03-01T13:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Eisbaren Berlin",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIEPXIMAxs2Bge8SVSmEGrMDra4IQA.webp"
+    },
+    "team2": {
+      "name": "Bremerhaven",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIbPXIMAxs2Bge8SVSmEGrMDra4IQA.webp"
     },
     "links": []
   },
@@ -1220,22 +1011,6 @@
     ]
   },
   {
-    "id": "mirandes-vs-ad-ceuta-fc-football-1392070",
-    "title": "Mirandes vs AD Ceuta FC",
-    "sport": "football",
-    "kickOff": "2026-03-01T15:15:00",
-    "isLive": false,
-    "team1": {
-      "name": "Mirandes",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBQr65Boubie8EVW4EurMGFz5zQA.webp"
-    },
-    "team2": {
-      "name": "AD Ceuta FC",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGIpCIU9cgwDGzcT3giq3Al1ZgwufFaA.webp"
-    },
-    "links": []
-  },
-  {
     "id": "sporting-gijon-vs-leganes-football-1392065",
     "title": "Sporting Gijon vs Leganes",
     "sport": "football",
@@ -1248,6 +1023,22 @@
     "team2": {
       "name": "Leganes",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIRAGN65Bmqzie8EVW4EurMGFz5zQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "mirandes-vs-ad-ceuta-fc-football-1392070",
+    "title": "Mirandes vs AD Ceuta FC",
+    "sport": "football",
+    "kickOff": "2026-03-01T15:15:00",
+    "isLive": false,
+    "team1": {
+      "name": "Mirandes",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBQr65Boubie8EVW4EurMGFz5zQA.webp"
+    },
+    "team2": {
+      "name": "AD Ceuta FC",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIGIpCIU9cgwDGzcT3giq3Al1ZgwufFaA.webp"
     },
     "links": []
   },
@@ -3746,10 +3537,10 @@
     "links": []
   },
   {
-    "id": "ppv-australian-grand-prix-practice-1",
-    "title": "Australian Grand Prix - Practice 1",
+    "id": "ppv-australian-grand-prix-practice-2",
+    "title": "Australian Grand Prix - Practice 2",
     "sport": "motor-sports",
-    "kickOff": "2026-03-06T01:30:00",
+    "kickOff": "2026-03-06T05:00:00",
     "isLive": false,
     "team1": {
       "name": "Home Team",
@@ -3761,12 +3552,12 @@
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-australian-grand-prix-practice-1/1",
+        "url": "https://embedsports.top/embed/admin/ppv-australian-grand-prix-practice-2/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-australian-grand-prix-practice-1/2",
+        "url": "https://embedsports.top/embed/admin/ppv-australian-grand-prix-practice-2/2",
         "language": "English",
         "hd": false
       }
@@ -3789,10 +3580,10 @@
     "links": []
   },
   {
-    "id": "ppv-australian-grand-prix-practice-3",
-    "title": "Australian Grand Prix - Practice 3",
+    "id": "ppv-australian-grand-prix-qualifying",
+    "title": "Australian Grand Prix - Qualifying",
     "sport": "motor-sports",
-    "kickOff": "2026-03-07T01:30:00",
+    "kickOff": "2026-03-07T05:00:00",
     "isLive": false,
     "team1": {
       "name": "Home Team",
@@ -3804,12 +3595,12 @@
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-australian-grand-prix-practice-3/1",
+        "url": "https://embedsports.top/embed/admin/ppv-australian-grand-prix-qualifying/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-australian-grand-prix-practice-3/2",
+        "url": "https://embedsports.top/embed/admin/ppv-australian-grand-prix-qualifying/2",
         "language": "English",
         "hd": false
       }
