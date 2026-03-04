@@ -13,23 +13,7 @@
       "name": "South Africa Cricket",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDB8ICCCUgSIbiAAmGw1tO79IHQQpM+KLmDLwi80faa0wjsaIhA.webp"
     },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/echo/t20-world-cup-semi-final-south-africa-vs-new-zealand-cricket-1/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/t20-world-cup-semi-final-south-africa-vs-new-zealand-cricket-1/2",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/t20-world-cup-semi-final-south-africa-vs-new-zealand-cricket-1/3",
-        "language": "",
-        "hd": true
-      }
-    ]
+    "links": []
   },
   {
     "id": "live_coppa-italia_como-inter-live-streaming-503783712",
@@ -544,28 +528,6 @@
     ]
   },
   {
-    "id": "bremerhaven-vs-straubing-tigers-hockey-409100",
-    "title": "Bremerhaven vs Straubing Tigers",
-    "sport": "hockey",
-    "kickOff": "2026-03-04T18:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Bremerhaven",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIbPXIMAxs2Bge8SVSmEGrMDra4IQA.webp"
-    },
-    "team2": {
-      "name": "Straubing Tigers",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsIACb1yDAMbNgYHvElUphBqzC62uCEA.webp"
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/echo/bremerhaven-vs-straubing-tigers-hockey-409100/1",
-        "language": "",
-        "hd": true
-      }
-    ]
-  },
-  {
     "id": "nurnberg-ice-tigers-vs-schwenninger-hockey-409105",
     "title": "Nurnberg Ice Tigers vs Schwenninger",
     "sport": "hockey",
@@ -582,6 +544,28 @@
     "links": [
       {
         "url": "https://embedsports.top/embed/echo/nurnberg-ice-tigers-vs-schwenninger-hockey-409105/1",
+        "language": "",
+        "hd": true
+      }
+    ]
+  },
+  {
+    "id": "bremerhaven-vs-straubing-tigers-hockey-409100",
+    "title": "Bremerhaven vs Straubing Tigers",
+    "sport": "hockey",
+    "kickOff": "2026-03-04T18:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Bremerhaven",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIbPXIMAxs2Bge8SVSmEGrMDra4IQA.webp"
+    },
+    "team2": {
+      "name": "Straubing Tigers",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsIACb1yDAMbNgYHvElUphBqzC62uCEA.webp"
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/echo/bremerhaven-vs-straubing-tigers-hockey-409100/1",
         "language": "",
         "hd": true
       }
@@ -2483,33 +2467,6 @@
     ]
   },
   {
-    "id": "ppv-paris-saint-germain-vs-as-monaco",
-    "title": "Paris Saint-Germain vs. AS Monaco",
-    "sport": "football",
-    "kickOff": "2026-03-06T19:45:00",
-    "isLive": false,
-    "team1": {
-      "name": "Paris Saint-Germain",
-      "logo": ""
-    },
-    "team2": {
-      "name": "AS Monaco",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-paris-saint-germain-vs-as-monaco/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-paris-saint-germain-vs-as-monaco/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-napoli-vs-torino",
     "title": "Napoli vs. Torino",
     "sport": "football",
@@ -2531,6 +2488,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-napoli-vs-torino/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-paris-saint-germain-vs-as-monaco",
+    "title": "Paris Saint-Germain vs. AS Monaco",
+    "sport": "football",
+    "kickOff": "2026-03-06T19:45:00",
+    "isLive": false,
+    "team1": {
+      "name": "Paris Saint-Germain",
+      "logo": ""
+    },
+    "team2": {
+      "name": "AS Monaco",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-paris-saint-germain-vs-as-monaco/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-paris-saint-germain-vs-as-monaco/2",
         "language": "English",
         "hd": false
       }
@@ -2618,10 +2602,10 @@
     ]
   },
   {
-    "id": "ppv-australian-grand-prix-qualifying",
-    "title": "Australian Grand Prix - Qualifying",
+    "id": "ppv-australian-grand-prix-practice-3",
+    "title": "Australian Grand Prix - Practice 3",
     "sport": "motor-sports",
-    "kickOff": "2026-03-07T05:00:00",
+    "kickOff": "2026-03-07T01:30:00",
     "isLive": false,
     "team1": {
       "name": "Home Team",
@@ -2633,12 +2617,12 @@
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-australian-grand-prix-qualifying/1",
+        "url": "https://embedsports.top/embed/admin/ppv-australian-grand-prix-practice-3/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-australian-grand-prix-qualifying/2",
+        "url": "https://embedsports.top/embed/admin/ppv-australian-grand-prix-practice-3/2",
         "language": "English",
         "hd": false
       }
@@ -2742,6 +2726,33 @@
     ]
   },
   {
+    "id": "ppv-rb-leipzig-vs-fc-augsburg",
+    "title": "RB Leipzig vs. FC Augsburg",
+    "sport": "football",
+    "kickOff": "2026-03-07T14:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "RB Leipzig",
+      "logo": ""
+    },
+    "team2": {
+      "name": "FC Augsburg",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-rb-leipzig-vs-fc-augsburg/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-rb-leipzig-vs-fc-augsburg/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
     "id": "ppv-sc-freiburg-vs-bayer-leverkusen",
     "title": "SC Freiburg vs. Bayer Leverkusen",
     "sport": "football",
@@ -2769,27 +2780,27 @@
     ]
   },
   {
-    "id": "ppv-mainz-vs-vf-b-stuttgart",
-    "title": "Mainz vs. VfB Stuttgart",
+    "id": "ppv-1-fc-heidenheim-1846-vs-tsg-hoffenheim",
+    "title": "1. FC Heidenheim 1846 vs. TSG Hoffenheim",
     "sport": "football",
     "kickOff": "2026-03-07T14:30:00",
     "isLive": false,
     "team1": {
-      "name": "Mainz",
+      "name": "1. FC Heidenheim 1846",
       "logo": ""
     },
     "team2": {
-      "name": "VfB Stuttgart",
+      "name": "TSG Hoffenheim",
       "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-mainz-vs-vf-b-stuttgart/1",
+        "url": "https://embedsports.top/embed/admin/ppv-1-fc-heidenheim-1846-vs-tsg-hoffenheim/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-mainz-vs-vf-b-stuttgart/2",
+        "url": "https://embedsports.top/embed/admin/ppv-1-fc-heidenheim-1846-vs-tsg-hoffenheim/2",
         "language": "English",
         "hd": false
       }
@@ -2823,54 +2834,27 @@
     ]
   },
   {
-    "id": "ppv-rb-leipzig-vs-fc-augsburg",
-    "title": "RB Leipzig vs. FC Augsburg",
+    "id": "ppv-mainz-vs-vf-b-stuttgart",
+    "title": "Mainz vs. VfB Stuttgart",
     "sport": "football",
     "kickOff": "2026-03-07T14:30:00",
     "isLive": false,
     "team1": {
-      "name": "RB Leipzig",
+      "name": "Mainz",
       "logo": ""
     },
     "team2": {
-      "name": "FC Augsburg",
+      "name": "VfB Stuttgart",
       "logo": ""
     },
     "links": [
       {
-        "url": "https://embedsports.top/embed/admin/ppv-rb-leipzig-vs-fc-augsburg/1",
+        "url": "https://embedsports.top/embed/admin/ppv-mainz-vs-vf-b-stuttgart/1",
         "language": "English",
         "hd": true
       },
       {
-        "url": "https://embedsports.top/embed/admin/ppv-rb-leipzig-vs-fc-augsburg/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
-    "id": "ppv-1-fc-heidenheim-1846-vs-tsg-hoffenheim",
-    "title": "1. FC Heidenheim 1846 vs. TSG Hoffenheim",
-    "sport": "football",
-    "kickOff": "2026-03-07T14:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "1. FC Heidenheim 1846",
-      "logo": ""
-    },
-    "team2": {
-      "name": "TSG Hoffenheim",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-1-fc-heidenheim-1846-vs-tsg-hoffenheim/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-1-fc-heidenheim-1846-vs-tsg-hoffenheim/2",
+        "url": "https://embedsports.top/embed/admin/ppv-mainz-vs-vf-b-stuttgart/2",
         "language": "English",
         "hd": false
       }
@@ -3357,33 +3341,6 @@
     ]
   },
   {
-    "id": "ppv-lens-vs-metz",
-    "title": "Lens vs. Metz",
-    "sport": "football",
-    "kickOff": "2026-03-08T14:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Lens",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Metz",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-lens-vs-metz/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-lens-vs-metz/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-fiorentina-vs-parma",
     "title": "Fiorentina vs. Parma",
     "sport": "football",
@@ -3405,6 +3362,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-fiorentina-vs-parma/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-lens-vs-metz",
+    "title": "Lens vs. Metz",
+    "sport": "football",
+    "kickOff": "2026-03-08T14:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Lens",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Metz",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-lens-vs-metz/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-lens-vs-metz/2",
         "language": "English",
         "hd": false
       }
@@ -3492,33 +3476,6 @@
     ]
   },
   {
-    "id": "ppv-brest-vs-le-havre-ac",
-    "title": "Brest vs. Le Havre AC",
-    "sport": "football",
-    "kickOff": "2026-03-08T16:15:00",
-    "isLive": false,
-    "team1": {
-      "name": "Brest",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Le Havre AC",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-brest-vs-le-havre-ac/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-brest-vs-le-havre-ac/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-nice-vs-stade-rennais",
     "title": "Nice vs. Stade Rennais",
     "sport": "football",
@@ -3540,6 +3497,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-nice-vs-stade-rennais/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-brest-vs-le-havre-ac",
+    "title": "Brest vs. Le Havre AC",
+    "sport": "football",
+    "kickOff": "2026-03-08T16:15:00",
+    "isLive": false,
+    "team1": {
+      "name": "Brest",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Le Havre AC",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-brest-vs-le-havre-ac/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-brest-vs-le-havre-ac/2",
         "language": "English",
         "hd": false
       }
@@ -3573,33 +3557,6 @@
     ]
   },
   {
-    "id": "ppv-leeds-united-vs-norwich-city",
-    "title": "Leeds United vs. Norwich City",
-    "sport": "football",
-    "kickOff": "2026-03-08T16:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Leeds United",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Norwich City",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-leeds-united-vs-norwich-city/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-leeds-united-vs-norwich-city/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "ppv-1-fc-union-berlin-vs-werder-bremen",
     "title": "1. FC Union Berlin vs. Werder Bremen",
     "sport": "football",
@@ -3621,6 +3578,33 @@
       },
       {
         "url": "https://embedsports.top/embed/admin/ppv-1-fc-union-berlin-vs-werder-bremen/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
+  },
+  {
+    "id": "ppv-leeds-united-vs-norwich-city",
+    "title": "Leeds United vs. Norwich City",
+    "sport": "football",
+    "kickOff": "2026-03-08T16:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Leeds United",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Norwich City",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-leeds-united-vs-norwich-city/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-leeds-united-vs-norwich-city/2",
         "language": "English",
         "hd": false
       }
