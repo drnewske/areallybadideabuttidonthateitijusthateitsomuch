@@ -32,22 +32,6 @@
     "links": []
   },
   {
-    "id": "atpwta-second-round-1629486286",
-    "title": "BNP Paribas Open: ATP/WTA Second Round",
-    "sport": "tennis",
-    "kickOff": "2026-03-08T03:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
-  },
-  {
     "id": "tigres-vs-monterrey-2396200",
     "title": "Tigres vs Monterrey",
     "sport": "football",
@@ -100,22 +84,6 @@
     "title": "Lara v Rosas",
     "sport": "other",
     "kickOff": "2026-03-08T04:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
-  },
-  {
-    "id": "hong-kong-final-round-2445151",
-    "title": "Hong Kong Final Round",
-    "sport": "golf",
-    "kickOff": "2026-03-08T04:05:00",
     "isLive": false,
     "team1": {
       "name": "Home Team",
@@ -204,22 +172,6 @@
     "team2": {
       "name": "Jeju SK",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDAm3EAN4kQGviEQATXCBibdB3QQpM+KLmDLwi80faa0wjsaIhA.webp"
-    },
-    "links": []
-  },
-  {
-    "id": "wonju-db-promy-vs-daegu-kogas-pegasus-2368960",
-    "title": "Wonju DB Promy vs Daegu KOGAS Pegasus",
-    "sport": "basketball",
-    "kickOff": "2026-03-08T07:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Wonju DB Promy",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAADGDIATNiD4huekBFwgzJk1pCJ4BCkz6q2m8vXmjVTWmE1jREIA.webp"
-    },
-    "team2": {
-      "name": "Daegu KOGAS Pegasus",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjK142diBghuIPiAi4Qxw6b16CFJnxRcwqovNG2mtMPbGiIQA.webp"
     },
     "links": []
   },
@@ -649,22 +601,6 @@
         "hd": true
       }
     ]
-  },
-  {
-    "id": "hockey-punks-vilnius-vs-hs-riga-2340586",
-    "title": "Hockey Punks Vilnius vs HS Riga",
-    "sport": "hockey",
-    "kickOff": "2026-03-08T10:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Hockey Punks Vilnius",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzQgQlENxB9cmkABMDumCBIhEKc5oIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-    },
-    "team2": {
-      "name": "HS Riga",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIg1UEGIAMIbiAAmuEIgjGQMXUf0EKTPii5gy8IvNEOmtME7GiIQA.webp"
-    },
-    "links": []
   },
   {
     "id": "dobrudzha-dobrich-vs-beroe-2328430",
@@ -1125,6 +1061,43 @@
     "links": []
   },
   {
+    "id": "uk-open-darts-day-3-aft-session",
+    "title": "UK Open Darts: Day 3 Aft Session",
+    "sport": "darts",
+    "kickOff": "2026-03-08T12:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/echo/uk-open-darts-session-1-2-darts-1/1",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/uk-open-darts-session-1-2-darts-1/2",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/uk-open-darts-session-1-2-darts-1/3",
+        "language": "",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/echo/uk-open-darts-session-1-2-darts-1/4",
+        "language": "",
+        "hd": true
+      }
+    ]
+  },
+  {
     "id": "munchen-vs-frankfurt-lowen",
     "title": "Munchen vs Frankfurt Lowen",
     "sport": "hockey",
@@ -1189,6 +1162,22 @@
         "hd": true
       }
     ]
+  },
+  {
+    "id": "ts-galaxy-vs-jacksa-spears",
+    "title": "TS Galaxy vs Jacksa Spears",
+    "sport": "football",
+    "kickOff": "2026-03-08T12:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": []
   },
   {
     "id": "konyaspor-vs-kasimpasa",
@@ -1665,6 +1654,22 @@
     "links": []
   },
   {
+    "id": "boluspor-vs-i-d-r-2285422",
+    "title": "Boluspor vs I\u011fd\u0131r",
+    "sport": "football",
+    "kickOff": "2026-03-08T13:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Boluspor",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBkyAExD0mKENxCaSIPnpC6jm3YwpM+KLmDLwi80faa0wjsaIhA.webp"
+    },
+    "team2": {
+      "name": "I\u011fd\u0131r",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1pIQKMEmgQQ3EABN1IGCBIgdevSl0EKTPii5gy8IvNGOmtMM7GiIQA.webp"
+    },
+    "links": []
+  },
+  {
     "id": "st--gallen-vs-basel-2399283",
     "title": "St. Gallen vs Basel",
     "sport": "football",
@@ -1840,41 +1845,20 @@
     "links": []
   },
   {
-    "id": "uk-open-darts-session-1-2-darts-1",
-    "title": "UK Open Darts - Session 1 & 2  \ud83c\udfaf",
-    "sport": "other",
-    "kickOff": "2026-03-08T13:10:00",
+    "id": "bears-academy-vs-bk-amager-2433821",
+    "title": "Bears Academy vs BK Amager",
+    "sport": "basketball",
+    "kickOff": "2026-03-08T13:00:00",
     "isLive": false,
     "team1": {
-      "name": "Home Team",
-      "logo": ""
+      "name": "Bears Academy",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCj4YFGCRhuICCF0ATEIj4hzu-TBAobBCkz4ouYMuvrzRzprTCuxohBAA.webp"
     },
     "team2": {
-      "name": "Away Team",
-      "logo": ""
+      "name": "BK Amager",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTEcAxCBDcQAExCI+W7SAggYIFAYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
     },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/echo/uk-open-darts-session-1-2-darts-1/1",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/uk-open-darts-session-1-2-darts-1/2",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/uk-open-darts-session-1-2-darts-1/3",
-        "language": "",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/echo/uk-open-darts-session-1-2-darts-1/4",
-        "language": "",
-        "hd": true
-      }
-    ]
+    "links": []
   },
   {
     "id": "port-vale-vs-sunderland-2443377",
@@ -2956,6 +2940,22 @@
     ]
   },
   {
+    "id": "rakow-czestochowa-vs-pogon-szczecin-1380597",
+    "title": "Ekstraklasa: Rakow Czestochowa vs Pogon Szczecin",
+    "sport": "football",
+    "kickOff": "2026-03-08T16:30:00",
+    "isLive": false,
+    "team1": {
+      "name": "Rakow Czestochowa",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdCEQQQ2PgRjA8TWjpYJFXLbQvkwYLRFbAIQA.webp"
+    },
+    "team2": {
+      "name": "Pogon Szczecin",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdCEQQQIfLGB4mtHSwSKuW2ufJgwWiK2AQgA.webp"
+    },
+    "links": []
+  },
+  {
     "id": "qpr-vs-middlesbrough-1386978",
     "title": "Championship: QPR vs Middlesbrough",
     "sport": "football",
@@ -2981,22 +2981,6 @@
         "hd": true
       }
     ]
-  },
-  {
-    "id": "rakow-czestochowa-vs-pogon-szczecin-1380597",
-    "title": "Ekstraklasa: Rakow Czestochowa vs Pogon Szczecin",
-    "sport": "football",
-    "kickOff": "2026-03-08T16:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Rakow Czestochowa",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdCEQQQ2PgRjA8TWjpYJFXLbQvkwYLRFbAIQA.webp"
-    },
-    "team2": {
-      "name": "Pogon Szczecin",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke0+sOHLk0nVr1IiqmACYUKkYF0ZhgYdIpYMqCdCEQQQIfLGB4mtHSwSKuW2ufJgwWiK2AQgA.webp"
-    },
-    "links": []
   },
   {
     "id": "rak-w-cz-stochowa-vs-pogo--szczecin-2267915",
@@ -5254,33 +5238,6 @@
     "links": []
   },
   {
-    "id": "ppv-big-12-men-s-conference-tournament",
-    "title": "BIG 12 Men's Conference Tournament",
-    "sport": "basketball",
-    "kickOff": "2026-03-10T16:30:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": [
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-big-12-men-s-conference-tournament/1",
-        "language": "English",
-        "hd": true
-      },
-      {
-        "url": "https://embedsports.top/embed/admin/ppv-big-12-men-s-conference-tournament/2",
-        "language": "English",
-        "hd": false
-      }
-    ]
-  },
-  {
     "id": "atpwta-round-of-16-1629486445",
     "title": "BNP Paribas Open: ATP/WTA Round of 16",
     "sport": "tennis",
@@ -5295,6 +5252,33 @@
       "logo": ""
     },
     "links": []
+  },
+  {
+    "id": "ppv-acc-men-s-conference-tournament",
+    "title": "ACC Men's Conference Tournament",
+    "sport": "basketball",
+    "kickOff": "2026-03-10T18:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Home Team",
+      "logo": ""
+    },
+    "team2": {
+      "name": "Away Team",
+      "logo": ""
+    },
+    "links": [
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-acc-men-s-conference-tournament/1",
+        "language": "English",
+        "hd": true
+      },
+      {
+        "url": "https://embedsports.top/embed/admin/ppv-acc-men-s-conference-tournament/2",
+        "language": "English",
+        "hd": false
+      }
+    ]
   },
   {
     "id": "paris-basketball-vs-olympiacos-piraeus-basketball-1629486446",
