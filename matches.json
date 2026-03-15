@@ -1,21 +1,5 @@
 [
   {
-    "id": "ppv-event-15-snocross-national-world-derby-pppv15",
-    "title": "Snocross National World Derby",
-    "sport": "other",
-    "kickOff": "2026-03-15T00:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
-  },
-  {
     "id": "ashes-to-ashes-2447009",
     "title": "Ashes To Ashes",
     "sport": "fight",
@@ -57,38 +41,6 @@
         "hd": false
       }
     ]
-  },
-  {
-    "id": "ppv-event-18-world-of-outlaws-late-models-volunteer-ppv-18",
-    "title": "World of Outlaws Late Models Volunteer",
-    "sport": "other",
-    "kickOff": "2026-03-15T00:15:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
-  },
-  {
-    "id": "ppv-event-17-world-of-outlaws-sprint-cars-kennedale-game-19964",
-    "title": "World of Outlaws Sprint Cars Kennedale",
-    "sport": "other",
-    "kickOff": "2026-03-15T00:15:00",
-    "isLive": false,
-    "team1": {
-      "name": "Home Team",
-      "logo": ""
-    },
-    "team2": {
-      "name": "Away Team",
-      "logo": ""
-    },
-    "links": []
   },
   {
     "id": "los-angeles-lakers-vs-denver-nuggets-2358337",
@@ -641,22 +593,6 @@
     "links": []
   },
   {
-    "id": "eisbaren-berlin-vs-munchen-hockey-409131",
-    "title": "Eisbaren Berlin vs Munchen",
-    "sport": "hockey",
-    "kickOff": "2026-03-15T13:00:00",
-    "isLive": false,
-    "team1": {
-      "name": "Eisbaren Berlin",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIEPXIMAxs2Bge8SVSmEGrMDra4IQA.webp"
-    },
-    "team2": {
-      "name": "Munchen",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsIePXIMAxs2Bge8SVSmEGrMDra4IQA.webp"
-    },
-    "links": []
-  },
-  {
     "id": "frankfurt-lowen-vs-nurnberg-ice-tigers-hockey-409132",
     "title": "Frankfurt Lowen vs Nurnberg Ice Tigers",
     "sport": "hockey",
@@ -669,6 +605,22 @@
     "team2": {
       "name": "Nurnberg Ice Tigers",
       "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsICPXIMAxs2Bge8SVSmEGrMDra4IQA.webp"
+    },
+    "links": []
+  },
+  {
+    "id": "straubing-tigers-vs-kolner-hockey-409134",
+    "title": "Straubing Tigers vs Kolner",
+    "sport": "hockey",
+    "kickOff": "2026-03-15T13:00:00",
+    "isLive": false,
+    "team1": {
+      "name": "Straubing Tigers",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsIACb1yDAMbNgYHvElUphBqzC62uCEA.webp"
+    },
+    "team2": {
+      "name": "Kolner",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsIEnXIMAxs2Bge8SVSmEGrMDra4IQA.webp"
     },
     "links": []
   },
@@ -689,18 +641,18 @@
     "links": []
   },
   {
-    "id": "straubing-tigers-vs-kolner-hockey-409134",
-    "title": "Straubing Tigers vs Kolner",
+    "id": "eisbaren-berlin-vs-munchen-hockey-409131",
+    "title": "Eisbaren Berlin vs Munchen",
     "sport": "hockey",
     "kickOff": "2026-03-15T13:00:00",
     "isLive": false,
     "team1": {
-      "name": "Straubing Tigers",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsIACb1yDAMbNgYHvElUphBqzC62uCEA.webp"
+      "name": "Eisbaren Berlin",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIEPXIMAxs2Bge8SVSmEGrMDra4IQA.webp"
     },
     "team2": {
-      "name": "Kolner",
-      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsIEnXIMAxs2Bge8SVSmEGrMDra4IQA.webp"
+      "name": "Munchen",
+      "logo": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsIePXIMAxs2Bge8SVSmEGrMDra4IQA.webp"
     },
     "links": []
   },
